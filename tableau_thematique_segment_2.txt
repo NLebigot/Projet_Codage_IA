@@ -1,0 +1,33 @@
+Voici les codes et les verbatims associés :
+
+1. **Doute sur la cible** : "je n'étais pas très sûr que le mec était armé, je n'étais pas sûr que le mec soit un soldat."
+2. **Dilemme éthique** : "j'avais le choix entre tirer ou ne pas tirer"
+3. **Conscience de la situation** : "je me suis posé la question, qu’est-ce que ça aurait été si à la place du pilote, il y avait eu une IA"
+4. **Limites de l'IA** : "est-ce qu’elle aurait eu la conscience de se dire « cette personne c’est potentiellement pas un taliban mais juste un paysan qui fait sa vie »"
+5. **Conscience de la distinction entre civil et militaire** : "ce que mec là c’est un ennemi donc je largue ma bombe et je fais des dommages collatéraux"
+6. **Responsabilité de la décision** : "j'avais le choix entre, est-ce que je largue ma bombe, est-ce que je tire sous prétexte de choses que je pense savoir"
+7. **Incertitude sur les conséquences** : "est-ce que je ne laisse passer rien"
+8. **Questionnement sur l'éthique de la guerre** : "qu’est-ce que ça aurait été si à la place du pilote, il y avait eu une IA"
+9. **Comparaison entre l'homme et l'IA** : "est-ce qu’elle aurait eu la conscience de se dire « cette personne c’est potentiellement pas un taliban mais juste un paysan qui fait sa vie »"
+10. **Conséquences des actions** : "je fais des dommages collatéraux"
+
+Ces codes et verbatims peuvent être regroupés dans les thèmes suivants :
+
+**Thème 1 : Dilemme éthique et responsabilité**
+
+* 2. **Dilemme éthique** : "j'avais le choix entre tirer ou ne pas tirer"
+* 6. **Responsabilité de la décision** : "j'avais le choix entre, est-ce que je largue ma bombe, est-ce que je tire sous prétexte de choses que je pense savoir"
+* 10. **Conséquences des actions** : "je fais des dommages collatéraux"
+
+**Thème 2 : Conscience et doute**
+
+* 1. **Doute sur la cible** : "je n'étais pas très sûr que le mec était armé, je n'étais pas sûr que le mec soit un soldat"
+* 3. **Conscience de la situation** : "je me suis posé la question, qu’est-ce que ça aurait été si à la place du pilote, il y avait eu une IA"
+* 5. **Conscience de la distinction entre civil et militaire** : "ce que mec là c’est un ennemi donc je largue ma bombe et je fais des dommages collatéraux"
+
+**Thème 3 : Limites de l'IA et questionnement sur l'éthique de la guerre**
+
+* 4. **Limites de l'IA** : "est-ce qu’elle aurait eu la conscience de se dire « cette personne c’est potentiellement pas un taliban mais juste un paysan qui fait sa vie »"
+* 7. **Incertitude sur les conséquences** : "est-ce que je ne laisse passer rien"
+* 8. **Questionnement sur l'éthique de la guerre** : "qu’est-ce que ça aurait été si à la place du pilote, il y avait eu une IA"
+* 9. **Comparaison entre l'homme et l'IA** : "est-ce qu’elle aurait eu la conscience de se dire « cette personne c’est potentiellement pas un taliban mais juste un paysan qui fait sa vie »"

@@ -1,0 +1,22 @@
+Voici les codes et les verbatim associés, rangés dans des thèmes plus globaux :
+
+**Thème 1 : Présentation et contexte**
+
+* Code 1 : Présentation personnelle (Enquêté : "Bah écoute, je m'appelle Evan, je suis en première année à SciencePo...")
+* Code 2 : Contexte universitaire (Enquêté : "J'ai intégré l'université après le bac, l'an dernier, après avoir passé le concours commun...")
+* Code 3 : Origine sociale (Enquêté : "Mes parents, ma mère est directrice d'école maternelle, mon père je n’en parlerai pas...")
+
+**Thème 2 : Intelligence artificielle et ChatGPT**
+
+* Code 4 : Définition de l'IA (Enquêté : "Je décrivais l'IA de manière générale comme... Après, ça dépend aussi de ce qu'on entend par 'IA'")
+* Code 5 : Perception de ChatGPT (Enquêté : "Pour moi, la chose est venue à une façon assez étrangère, on va dire...")
+* Code 6 : Utilisation de ChatGPT (Enquêté : "J'avais commencé à m'en servir entre guillemets pour la blague...")
+* Code 7 : Évolution de l'IA (Enquêté : "Les IAs génératives à mon sens ont pris une place qui est assez conséquente...")
+
+**Thème 3 : Enjeux et applications de l'IA**
+
+* Code 8 : Enjeux pour les gouvernements (Enquêté : "C'est devenu entre autres un enjeu, et ça pour le coup ça m’étonne, des enjeux assez conséquents pour les gouvernements...")
+* Code 9 : Applications dans la défense (Enquêté : "Et dans la mesure où les drones font passer font petit à petit leur place, je pense à mon avis que l'IA dans le domaine de la défense des armées...")
+* Code 10 : Éthique et risques (Enquêté : "Oui éthiquement, par le éthique, j’y pensais tout à l’heure vis -à-vis de l’interview que dans un futur plus proche...")
+
+Ces thèmes regroupent des codes et des verbatim qui sont cohérents et utiles pour comprendre les réponses de l'enquêté. Les thèmes sont distincts et ne se chevauchent pas, ce qui permet de mieux comprendre les idées et les opinions de l'enquêté.

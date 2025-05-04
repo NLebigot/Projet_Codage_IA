@@ -2,8 +2,9 @@ import os
 import glob
 import pandas as pd
 
-def charger_et_parser_fichiers(prefix="tableau_thematique_segment_", extension=".txt"):
-    fichiers = sorted(glob.glob(f"{prefix}*{extension}"))
+def charger_et_parser_fichiers(entretien, dossier="resultats"):
+    pattern = os.path.join(dossier, f"{entretien}_segment_*.txt")
+    fichiers = sorted(glob.glob(pattern))
     data = []
 
     for fichier in fichiers:
@@ -17,23 +18,16 @@ def charger_et_parser_fichiers(prefix="tableau_thematique_segment_", extension="
                     code = ligne.split(":", 1)[1].strip()
                 elif ligne.startswith("+ Verbatim"):
                     verbatim = ligne.split(":", 1)[1].strip()
-                    data.append((theme, code, verbatim, fichier))
-    return pd.DataFrame(data, columns=["Thème", "Code", "Verbatim", "Fichier"])
+                    data.append((entretien, theme, code, verbatim, fichier))
+    return pd.DataFrame(data, columns=["Entretien", "Thème", "Code", "Verbatim", "Fichier"])
 
-def nettoyer_doublons(df):
-    # Supprimer les doublons sur Code + Verbatim (on conserve le 1er thème rencontré)
-    df_clean = df.drop_duplicates(subset=["Code", "Verbatim"])
-    return df_clean.reset_index(drop=True)
-
-def trier_par_theme_et_segment(df):
-    return df.sort_values(by=["Thème", "Fichier"]).reset_index(drop=True)
-
-def sauvegarder_csv(df, nom_fichier="grille_thematique_fusionnee.csv"):
-    df.to_csv(nom_fichier, index=False, encoding="utf-8")
-    print(f"✅ CSV sauvegardé : {nom_fichier}")
+def nettoyer_et_exporter(df, entretien):
+    df_clean = df.drop_duplicates(subset=["Code", "Verbatim"]).sort_values(by=["Thème", "Fichier"])
+    nom_csv = f"{entretien}_grille_thematique.csv"
+    df_clean.to_csv(nom_csv, index=False, encoding="utf-8")
+    print(f"✅ CSV généré : {nom_csv}")
 
 if __name__ == "__main__":
-    df = charger_et_parser_fichiers()
-    df_clean = nettoyer_doublons(df)
-    df_trie = trier_par_theme_et_segment(df_clean)
-    sauvegarder_csv(df_trie)
+    nom_entretien = input("Nom de l'entretien (ex: entretien_4) : ").strip()
+    df = charger_et_parser_fichiers(nom_entretien, "resultats")
+    nettoyer_et_exporter(df, nom_entretien)

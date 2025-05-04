@@ -1,0 +1,116 @@
+Voici les thèmes et codes issus de l'analyse de l'entretien :
+
+**Thème 1 : Perception de l'utilisation de Chat GPT**
+
+* Code 1 : Gain de temps
+ + Verbatim : "c'est comme j'ai dit, c'est un gain de temps"
+* Code 2 : Réduction du stress
+ + Verbatim : "je pense que ça soulage plutôt les le stress lié aux échéances académiques"
+* Code 3 : Dépendance
+ + Verbatim : "je dépends beaucoup de chat GPT"
+* Code 4 : Avantage par rapport aux autres étudiants
+ + Verbatim : "je pense que ça donne un avantage sur les autres étudiants"
+* Code 5 : Utilisation responsable
+ + Verbatim : "faut faire attention à cela, mais je pense pas que en tout cas pour ma part ça ne ça ne rajoute pas de stress supplémentaire"
+* Code 6 : Impact sur l'organisation
+ + Verbatim : "je suis quelqu'un d'assez organisé dans le sens où euh voilà je fais les choses en avance"
+* Code 7 : Utilisation pour les recherches poussées
+ + Verbatim : "pour des recherches qui sont poussées aussi bah on voit bah CH GPT a sorti sa dernière euh sa dernière fonctionnalité de deep search"
+* Code 8 : Qualité des réponses
+ + Verbatim : "je fais des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 9 : Nécessité de formation
+ + Verbatim : "faudra vraiment que tout euh toutes les personnes, tous les étudiants, tous les professionnels euh se forment à l'utilisation de chat GPT"
+* Code 10 : Évolution des pratiques d'apprentissage
+ + Verbatim : "je pense que dans les prochaines années euh les pratiques d'apprentissage sont beaucoup plus orientés vers ces technologies là"
+
+**Thème 2 : Évaluation de la qualité et de la fiabilité des réponses**
+
+* Code 1 : Vérification des réponses
+ + Verbatim : "je fais des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 2 : Utilisation de plusieurs IA
+ + Verbatim : "quand je demande, quand je pose une question, quand je travaille avec CHGPT, je fais en sorte aussi de travailler avec les autres les autres IA"
+* Code 3 : Critère de sélection
+ + Verbatim : "je fai des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 4 : Confiance dans les réponses
+ + Verbatim : "je pense que c'est vraiment un art en fait que certains profs n'ont pas naturellement"
+* Code 5 : Limites des réponses
+ + Verbatim : "je dépends beaucoup de chat GPT, mais je sais que je dois faire attention à ne pas dépendre trop"
+* Code 6 : Nécessité de critique
+ + Verbatim : "je fai des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 7 : Importance de la contextualisation
+ + Verbatim : "j'essaie vraiment de donner un maximum de contexte pour permettre à chat GPT de répondre de manière efficace à à mes promptes"
+* Code 8 : Risque de biais
+ + Verbatim : "je fais des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 9 : Nécessité de validation
+ + Verbatim : "je fais des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 10 : Amélioration continue
+ + Verbatim : "je pense que c'est vraiment un art en fait que certains profs n'ont pas naturellement"
+
+**Thème 3 : Interaction avec Chat GPT**
+
+* Code 1 : Formulation des questions
+ + Verbatim : "j'essaie vraiment de donner un maximum de contexte pour permettre à chat GPT de répondre de manière efficace à à mes promptes"
+* Code 2 : Compréhension des réponses
+ + Verbatim : "je pense que c'est vraiment un art en fait que certains profs n'ont pas naturellement"
+* Code 3 : Utilisation de la fonctionnalité de deep search
+ + Verbatim : "pour des recherches qui sont poussées aussi bah on voit bah CH GPT a sorti sa dernière euh sa dernière fonctionnalité de deep search"
+* Code 4 : Nécessité de clarification
+ + Verbatim : "je fai des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 5 : Importance de la patience
+ + Verbatim : "je dépends beaucoup de chat GPT, mais je sais que je dois faire attention à ne pas dépendre trop"
+* Code 6 : Utilisation pour les explications
+ + Verbatim : "c'est comme si on avait un prof particulier qu'on a à la maison, du robot par qu'on a à la maison"
+* Code 7 : Nécessité de répétition
+ + Verbatim : "je fai des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 8 : Utilisation pour les recherches
+ + Verbatim : "pour des recherches qui sont poussées aussi bah on voit bah CH GPT a sorti sa dernière euh sa dernière fonctionnalité de deep search"
+* Code 9 : Importance de la contextualisation
+ + Verbatim : "j'essaie vraiment de donner un maximum de contexte pour permettre à chat GPT de répondre de manière efficace à à mes promptes"
+* Code 10 : Amélioration continue
+ + Verbatim : "je pense que c'est vraiment un art en fait que certains profs n'ont pas naturellement"
+
+**Thème 4 : Impact sur les pratiques d'apprentissage**
+
+* Code 1 : Évolution des pratiques d'apprentissage
+ + Verbatim : "je pense que dans les prochaines années euh les pratiques d'apprentissage sont beaucoup plus orientés vers ces technologies là"
+* Code 2 : Nécessité de formation
+ + Verbatim : "faudra vraiment que tout euh toutes les personnes, tous les étudiants, tous les professionnels euh se forment à l'utilisation de chat GPT"
+* Code 3 : Utilisation pour les recherches poussées
+ + Verbatim : "pour des recherches qui sont poussées aussi bah on voit bah CH GPT a sorti sa dernière euh sa dernière fonctionnalité de deep search"
+* Code 4 : Importance de la contextualisation
+ + Verbatim : "j'essaie vraiment de donner un maximum de contexte pour permettre à chat GPT de répondre de manière efficace à à mes promptes"
+* Code 5 : Utilisation pour les explications
+ + Verbatim : "c'est comme si on avait un prof particulier qu'on a à la maison, du robot par qu'on a à la maison"
+* Code 6 : Nécessité de clarification
+ + Verbatim : "je fai des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 7 : Utilisation pour les recherches
+ + Verbatim : "pour des recherches qui sont poussées aussi bah on voit bah CH GPT a sorti sa dernière euh sa dernière fonctionnalité de deep search"
+* Code 8 : Importance de la patience
+ + Verbatim : "je dépends beaucoup de chat GPT, mais je sais que je dois faire attention à ne pas dépendre trop"
+* Code 9 : Amélioration continue
+ + Verbatim : "je pense que c'est vraiment un art en fait que certains profs n'ont pas naturellement"
+* Code 10 : Nécessité de validation
+ + Verbatim : "je fais des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+
+**Thème 5 : Aspects éthiques et responsables**
+
+* Code 1 : Dilemme moral
+ + Verbatim : "un dilemme moral ? Euh non, pas spécialement"
+* Code 2 : Utilisation responsable
+ + Verbatim : "faut faire attention à cela, mais je pense pas que en tout cas pour ma part ça ne ça ne rajoute pas de stress supplémentaire"
+* Code 3 : Nécessité de formation
+ + Verbatim : "faudra vraiment que tout euh toutes les personnes, tous les étudiants, tous les professionnels euh se forment à l'utilisation de chat GPT"
+* Code 4 : Importance de la transparence
+ + Verbatim : "je fais des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 5 : Utilisation pour les recherches poussées
+ + Verbatim : "pour des recherches qui sont poussées aussi bah on voit bah CH GPT a sorti sa dernière euh sa dernière fonctionnalité de deep search"
+* Code 6 : Nécessité de clarification
+ + Verbatim : "je fai des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"
+* Code 7 : Utilisation pour les explications
+ + Verbatim : "c'est comme si on avait un prof particulier qu'on a à la maison, du robot par qu'on a à la maison"
+* Code 8 : Importance de la patience
+ + Verbatim : "je dépends beaucoup de chat GPT, mais je sais que je dois faire attention à ne pas dépendre trop"
+* Code 9 : Amélioration continue
+ + Verbatim : "je pense que c'est vraiment un art en fait que certains profs n'ont pas naturellement"
+* Code 10 : Nécessité de validation
+ + Verbatim : "je fais des recherches sur internet pour les réponses ou les résultats qui me semblent un peu orientés ou un peu biaisés"

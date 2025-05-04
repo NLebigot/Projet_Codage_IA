@@ -3,18 +3,15 @@ from dotenv import load_dotenv
 from groq import Groq
 import PyPDF2
 
-# Charger les variables d'environnement depuis le fichier .env
+# Charger la clé API
 load_dotenv()
-
-# Obtenir la clé API depuis le fichier .env
 api_key = os.getenv("GROQ_API_KEY")
 if not api_key:
-    raise ValueError("Clé API non trouvée dans .env. Assurez-vous que GROQ_API_KEY est configurée.")
+    raise ValueError("Clé API GROQ non trouvée dans .env")
 
-# Initialiser le client Groq
 client = Groq(api_key=api_key)
 
-# Fonction pour lire un fichier PDF et extraire son contenu
+# Fonctions
 def lire_pdf(chemin_pdf):
     contenu = ""
     try:
@@ -25,32 +22,34 @@ def lire_pdf(chemin_pdf):
                 if texte:
                     contenu += texte
     except Exception as e:
-        print("Erreur lors de la lecture du PDF:", str(e))
+        print(f"Erreur lecture PDF ({chemin_pdf}) :", str(e))
     return contenu
 
-# Fonction pour segmenter le texte en morceaux de taille spécifiée
 def segmenter_texte(texte, taille_segment=10000):
-    segments = []
-    for i in range(0, len(texte), taille_segment):
-        segments.append(texte[i:i + taille_segment])
-    return segments
+    return [texte[i:i + taille_segment] for i in range(0, len(texte), taille_segment)]
 
-# Spécifiez le chemin vers votre fichier PDF ici
-chemin_pdf = "Loris Rousseau - Retranscription.pdf"
-texte_pdf = lire_pdf(chemin_pdf)
+# Paramètres
+dossier_pdf = "entretiens"
+dossier_sortie = "resultats"
+os.makedirs(dossier_sortie, exist_ok=True)
 
-if not texte_pdf:
-    raise ValueError("Le fichier PDF est vide ou n'a pas pu être lu.")
+# --------- Traitement d’un seul fichier ---------
+nom_fichier_pdf = input("Nom du fichier PDF à traiter (ex: entretien_4.pdf) : ").strip()
+chemin_pdf = os.path.join(dossier_pdf, nom_fichier_pdf)
+nom_entretien = os.path.splitext(nom_fichier_pdf)[0]
 
-# Segmenter le texte en morceaux de 10 000 caractères
-segments = segmenter_texte(texte_pdf, taille_segment=10000)
+texte = lire_pdf(chemin_pdf)
+if not texte:
+    print("⚠ Fichier vide ou illisible.")
+    exit()
 
-# Traiter chaque segment individuellement
+segments = segmenter_texte(texte)
+
 for idx, segment in enumerate(segments):
     prompt = (
         "Tu es un sociologue. Ton objectif est d'analyser l'entretien suivant en respectant une méthode rigoureuse de codage qualitatif.\n\n"
-        "1. Tu dois produire **au moins 4 à 5 thèmes distincts** par segment.\n"
-        "2. Chaque thème doit contenir environ **10 codes** avec leur verbatim associé.\n"
+        "1. Tu dois produire au moins 4 à 5 thèmes distincts par segment.\n"
+        "2. Chaque thème doit contenir environ 10 codes avec leur verbatim associé.\n"
         "3. Chaque code doit être accompagné d’un verbatim clair et représentatif, issu uniquement des réponses de l’enquêté.\n"
         "4. Regroupe les codes dans un thème unique et cohérent. Ne crée pas de codes orphelins.\n"
         "5. Évite de reproduire les mêmes structures thématiques ou formulations que dans d'autres segments. Varie les angles d'analyse sociologique.\n"
@@ -64,21 +63,17 @@ for idx, segment in enumerate(segments):
         "- Thème 2 : ... (même format)\n\n"
         f"Voici le texte :\n\n{segment}"
     )
+
     try:
         chat_completion = client.chat.completions.create(
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt,
-                }
-            ],
+            messages=[{"role": "user", "content": prompt}],
             model="llama-3.3-70b-versatile",
         )
         reponse = chat_completion.choices[0].message.content
-        # Enregistrer la réponse dans un fichier texte
-        nom_fichier = f"tableau_thematique_segment_{idx + 1}.txt"
-        with open(nom_fichier, "w", encoding="utf-8") as f:
+        nom_fichier = f"{nom_entretien}_segment_{idx + 1}.txt"
+        chemin_sortie = os.path.join(dossier_sortie, nom_fichier)
+        with open(chemin_sortie, "w", encoding="utf-8") as f:
             f.write(reponse)
-        print(f"Segment {idx + 1} traité et enregistré dans {nom_fichier}")
+        print(f"✅ Segment {idx + 1} enregistré : {nom_fichier}")
     except Exception as e:
-        print(f"Une erreur s'est produite lors du traitement du segment {idx + 1} :", str(e))
+        print(f"[Erreur] Segment {idx + 1} :", str(e))

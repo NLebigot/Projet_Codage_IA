@@ -36,7 +36,7 @@ def segmenter_texte(texte, taille_segment=10000):
     return segments
 
 # Spécifiez le chemin vers votre fichier PDF ici
-chemin_pdf = "1_loris.pdf"  # Nouveau nom de fichier PDF
+chemin_pdf = "Loris Rousseau - Retranscription.pdf"
 texte_pdf = lire_pdf(chemin_pdf)
 
 if not texte_pdf:
@@ -48,13 +48,20 @@ segments = segmenter_texte(texte_pdf, taille_segment=10000)
 # Traiter chaque segment individuellement
 for idx, segment in enumerate(segments):
     prompt = (
-        "Ton but est de me créer un tableau thématique. En prenant un point de vue sociologique. "
-        "Ce tableau sera celui d'un entretien sociologique, tu devras coder l'entretien avec les réponses. "
-        "De l'enquêté uniquement. Tu devras après le code mettre le verbatim qui lui est associé. "
-        "Une fois que tu as trouvé tous les codes associés aux réponses, tu devras ranger ces codes et verbatim dans un thème plus global si cela te semble cohérent et utile. "
-        "Fais attention à ce que ce soit bien cohérent entre les codes que tu trouveras et de bien les ranger ensemble dans un thème qui leur va bien à tous. "
-        "Nous allons dire qu'environ 10 codes pour un thème, mais ce n'est pas figé, si plus ou moins te semble essentiel vas-y. "
-        "Attribue chaque code et verbatim à un seul thème. \n\n"
+        "Tu es un sociologue. Ton objectif est d'analyser l'entretien suivant en respectant une méthode rigoureuse de codage qualitatif.\n\n"
+        "1. Tu dois produire **au moins 4 à 5 thèmes distincts** par segment.\n"
+        "2. Chaque thème doit contenir environ **10 codes** avec leur verbatim associé.\n"
+        "3. Chaque code doit être accompagné d’un verbatim clair et représentatif, issu uniquement des réponses de l’enquêté.\n"
+        "4. Regroupe les codes dans un thème unique et cohérent. Ne crée pas de codes orphelins.\n"
+        "5. Évite de reproduire les mêmes structures thématiques ou formulations que dans d'autres segments. Varie les angles d'analyse sociologique.\n"
+        "6. N'écris pas un total de 10 codes à répartir sur plusieurs thèmes. Chaque thème doit être riche et structurant.\n\n"
+        "Structure de sortie attendue :\n"
+        "- Thème 1 : Titre du thème\n"
+        "  - Code 1 : [intitulé du code]\n"
+        "    - Verbatim : \"[citation textuelle de l'enquêté]\"\n"
+        "  - ...\n"
+        "  - Code 10 : ...\n"
+        "- Thème 2 : ... (même format)\n\n"
         f"Voici le texte :\n\n{segment}"
     )
     try:

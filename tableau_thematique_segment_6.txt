@@ -1,0 +1,114 @@
+### Thème 1 : Perceptions de l'utilisation de ChatGPT par les enseignants et les étudiants
+
+- Code 1 : Conscience des enseignants sur l'utilisation de ChatGPT
+  - Verbatim : "Tous les profs s'accordent à dire que c'est un outil qui est arrivé de façon fulgurante, et qui est arrivé de façon extrêmement récente."
+- Code 2 : Réactions des enseignants face à l'utilisation de ChatGPT
+  - Verbatim : "Un prof de... comment pourrais-je appeler la matière en gros c'est une option sur qui porte sur le rapport qu'ont les anglais avec les défenses avec l'armée... a dit qu'il avait eu des cas de plagiat ou de l'utilisation de l'IA."
+- Code 3 : Utilisation de logiciels pour détecter le plagiat et l'IA
+  - Verbatim : "Lui étant en mode 'écoutez, sachez que j'utilise un logiciel pour détecter le plagiat et l'IA, et que si vous le utilisez, je vous tuerai'... non, vous serez fonctionné."
+- Code 4 : Importance du travail personnel des étudiants
+  - Verbatim : "Le travail que tu as à rendre c'est le tien et pas celui d'une IA."
+- Code 5 : Limites de l'utilisation de ChatGPT en classe
+  - Verbatim : "Pourquoi se faire chier à faire cours à des IA pour le coup qui a des élèves."
+- Code 6 : Manque de cas avérés de plagiat avec ChatGPT
+  - Verbatim : "Il n'y a pas encore eu de cas avérés de plagiat dans les exams pure."
+- Code 7 : Perception de l'IA comme outil d'aide
+  - Verbatim : "L'IA est vouée à être uniquement une aide."
+- Code 8 : Nécessité de comprendre les limites de l'IA
+  - Verbatim : "Vis-à-vis de la chose, il n'y a pas encore eu de cas avérés de plagiat dans les exams pure non mais en revanche..."
+- Code 9 : Utilisation de ChatGPT pour comprendre des concepts
+  - Verbatim : "Honnêtement non, je me limite à l'explication de concept ou de terme que je dirais de problème de logique..."
+- Code 10 : Importance de la pensée personnelle
+  - Verbatim : "Les élites de demain seront les élites qui pensent par eux-même et pas les élites qui seront assistées ou qui ne devront leur ascension que parce que un programme leur a dit quoi faire."
+
+### Thème 2 : Enjeux éthiques liés à l'utilisation de ChatGPT
+
+- Code 1 : Questionnement sur l'utilisation éthique de ChatGPT
+  - Verbatim : "Est-ce que tu as déjà eu des profs qui vous ont fait une sorte de... Euh... Comment est-ce que je pourrais appeler ça ? ou de mise en garde ouais quelque chose dans le genre par rapport à ChatGPT ou non ?"
+- Code 2 : Réflexion sur les valeurs personnelles
+  - Verbatim : "Moi je sais que l'IA mon sens est conçu... mais à mon sens pour moi il y a certes être voué à entrer dans nos vies, à être un compagnon ou une aide, mais l'idée qu'elle soit premier dans notre vie c'est pas quelque chose que je pourrais accepter."
+- Code 3 : Importance de l'imperfection humaine
+  - Verbatim : "Selon comment on me le présente mais ce qui fait le charme de l'être humain c'est qu'il est imparfait."
+- Code 4 : Rejet de la supériorité de l'IA
+  - Verbatim : "L'humain n'a pas vocation et n'a jamais vocation à être parfait, à fournir, à être le meilleur au monde, etc."
+- Code 5 : Crainte d'un monde dominé par l'IA
+  - Verbatim : "Vivre dans un monde où l'IA serait proéminente, où nous inspirerait nos idées, pour moi, pour moi ça reviendrai à remettre en question la nature même de l'homme."
+- Code 6 : Nécessité de conserver l'esprit humain
+  - Verbatim : "Ce qui fait le charme de l'être humain, c'est que l'humain a des idées, qu'elles soient bonnes ou mauvaises, et qu'ensuite, ces idées, par la force de son travail, arrivent à être matérialisées."
+- Code 7 : Unicité de l'esprit humain
+  - Verbatim : "Quand même même on peut potentiellement reproduire les connexions des neurones ou nos autres, à mon sens non…"
+- Code 8 : Limites de la reproduction de l'intelligence humaine
+  - Verbatim : "Pour reproduire un cerveau humain via… J'ai oublié les trucs.. A mon sens non…"
+- Code 9 : Risque de perte d'autonomie
+  - Verbatim : "Je refuserais de vivre dans un monde où tout ce qui a été conçu, tout ce qui a été construit, tout ce qui est dit est le résultat de singularité ou de gens, enfin d'un programme qui me dit 'Bah alors c'est en fait celui, par rapport à ce que tu veux faire, ça serait bien ou autre.'"
+- Code 10 : Préservation de la créativité humaine
+  - Verbatim : "L'esprit humain, à mon sens, est unique."
+
+### Thème 3 : Tensions et dilemmes liés à l'utilisation de ChatGPT
+
+- Code 1 : Conflit entre gain de temps et apprentissage personnel
+  - Verbatim : "Quand j’utilise l’IA j’ai le choix entre avoir une réponse qui sera claire, qui sera concise, mais pas forcément si détaillée que je ne l'aurais souhaité."
+- Code 2 : Hésitation à utiliser ChatGPT pour des devoirs
+  - Verbatim : "Une fois où j’ai hésité à l’utiliser c'est que j'avais, je crois, un devoir à rendre, genre une question problématisée, en cours me semble-t-il."
+- Code 3 : Importance de la réflexion personnelle
+  - Verbatim : "Les questions des réflexions elles sont adressées à toi, à toi étudiant, parce que les profs vont regarder c'est la façon dont toi tu l'abordes..."
+- Code 4 : Risque de tricher avec ChatGPT
+  - Verbatim : "J'avais le choix entre faire le devoir normalement, c'était certes triché mais j'avais le choix entre utilisé ChatGPT avec une question problématisée en lui donnant ce que j’ai à faire ou alors le faire de façon légitime."
+- Code 5 : Dilemme moral face à l'utilisation de ChatGPT
+  - Verbatim : "Je me suis posé la question parce que le devoir était dur et encore une fois je m’étais dit 'Certes, si je le fais qu’est ce que ça m’apportera ?'"
+- Code 6 : Nécessité de trouver un équilibre
+  - Verbatim : "Bah, pas grand-chose au final. Et encore une fois, la première ce n’est pas SciencePo, mais voilà, ça aurait été me déshonorer et m’abaisser à des valeurs qui moi me conviennent pas."
+- Code 7 : Utilisation de ChatGPT pour des tâches spécifiques
+  - Verbatim : "J'avais au début de l'année des notes de synthèse. Je t’avouerai que j'avais pas forcément la motivation de me farcir 5 pages à lire et à résumé."
+- Code 8 : Limites de l'utilisation de ChatGPT pour la compréhension
+  - Verbatim : "Donc là oui, pour le coup, j'en demandé à Gemini. Explique-moi ça, c'est trop long et moi, je ne comprenais pas l'intérêt de me faire lire des pages et des pages pour juste me faire lire des pages et des pages."
+- Code 9 : Importance de l'interaction humaine
+  - Verbatim : "Les élites de demain seront les élites qui pensent par eux-même et pas les élites qui seront assistées ou qui ne devront leur ascension que parce que un programme leur a dit quoi faire."
+- Code 10 : Nécessité de mettre en place des règles éthiques
+  - Verbatim : "Est-ce que tu penses que l’utilisation de ChatGPT soit légitime pour certains travaux académiques mais non pour d’autre et pourquoi ?"
+
+### Thème 4 : Acceptabilité de l'utilisation de ChatGPT dans différents contextes
+
+- Code 1 : Contexte académique et professionnalisation
+  - Verbatim : "Les écoles de commerce, HEC etc les financiers dans la mesure justement enfin je pense que je serais un petit peu moins enclin à ce que l'IA soit utilisé là dans le sens où les élites de demain seront les élites qui pensent par eux-même..."
+- Code 2 : Utilisation de ChatGPT pour la recherche
+  - Verbatim : "Je me limite à l'explication de concept ou de terme que je dirais de problème de logique…"
+- Code 3 : Risque de dépendance à l'IA
+  - Verbatim : "L'humain a des idées, qu'elles soient bonnes ou mauvaises, et qu'ensuite, ces idées, par la force de son travail, arrivent à être matérialisées."
+- Code 4 : Nécessité de développer des compétences personnalisées
+  - Verbatim : "Quand même même on peut potentiellement reproduire les connexions des neurones ou nos autres, à mon sens non…"
+- Code 5 : Impact de l'IA sur la créativité humaine
+  - Verbatim : "Ce qui fait le charme de l'être humain c'est que l'humain a des idées..."
+- Code 6 : Défis liés à la régulation de l'IA dans l'éducation
+  - Verbatim : "Est-ce que tu penses que l’utilisation de ChatGPT soit légitime pour certains travaux académiques mais non pour d’autre et pourquoi ?"
+- Code 7 : Importance de la formation aux compétences éthiques
+  - Verbatim : "Les questions des réflexions elles sont adressées à toi, à toi étudiant, parce que les profs vont regarder c'est la façon dont toi tu l'abordes..."
+- Code 8 : Risque de nivellement des compétences
+  - Verbatim : "Les élites de demain seront les élites qui pensent par eux-même et pas les élites qui seront assistées ou qui ne devront leur ascension que parce que un programme leur a dit quoi faire."
+- Code 9 : Nécessité d'une approche nuancée de l'utilisation de l'IA
+  - Verbatim : "Une fois où j’ai hésité à l’utiliser c'est que j'avais, je crois, un devoir à rendre, genre une question problématisée, en cours me semble-t-il."
+- Code 10 : Enjeux de la responsabilité personnelle face à l'IA
+  - Verbatim : "Je me suis posé la question parce que le devoir était dur et encore une fois je m’étais dit 'Certes, si je le fais qu’est ce que ça m’apportera ?'"
+
+### Thème 5 : Perspectives sur l'avenir de l'utilisation de ChatGPT
+
+- Code 1 : Potentiel de l'IA pour améliorer l'apprentissage
+  - Verbatim : "Moi je sais que l'IA mon sens est conçu... mais à mon sens pour moi il y a certes être voué à entrer dans nos vies, à être un compagnon ou une aide..."
+- Code 2 : Risque d'une dépendance croissante à l'IA
+  - Verbatim : "L'idée qu'elle soit premier dans notre vie c'est pas quelque chose que je pourrais accepter."
+- Code 3 : Nécessité de contrôler la qualité de l'information
+  - Verbatim : "Selon comment on me le présente mais ce qui fait le charme de l'être humain c'est qu'il est imparfait."
+- Code 4 : Importance de la diversité des sources d'information
+  - Verbatim : "L'humain n'a pas vocation et n'a jamais vocation à être parfait, à fournir, à être le meilleur au monde, etc."
+- Code 5 : Enjeux de la régulation de l'IA pour préserver l'humanité
+  - Verbatim : "Vivre dans un monde où l'IA serait proéminente, où nous inspirerait nos idées, pour moi, pour moi ça reviendrai à remettre en question la nature même de l'homme."
+- Code 6 : Nécessité d'une éducation adaptée à l'ère de l'IA
+  - Verbatim : "Ce qui fait le charme de l'être humain, c'est que l'humain a des idées, qu'elles soient bonnes ou mauvaises..."
+- Code 7 : Potentiel de nouveaux métiers liés à l'IA
+  - Verbatim : "Quand même même on peut potentiellement reproduire les connexions des neurones ou nos autres, à mon sens non…"
+- Code 8 : Nécessité d'une recherche approfondie sur l'IA
+  - Verbatim : "Pour reproduire un cerveau humain via… J'ai oublié les trucs.. A mon sens non…"
+- Code 9 : Enjeux de la coopération humaine pour contrôler l'IA
+  - Verbatim : "Je refuserais de vivre dans un monde où tout ce qui a été conçu, tout ce qui a été construit, tout ce qui est dit est le résultat de singularité ou de gens, enfin d'un programme qui me dit 'Bah alors c'est en fait celui, par rapport à ce que tu veux faire, ça serait bien ou autre.'"
+- Code 10 : Avenir incertain et complexe de l'humanité avec l'IA
+  - Verbatim : "Est-ce que tu penses que l’utilisation de ChatGPT soit légitime pour certains travaux académiques mais non pour d’autre et pourquoi ?"

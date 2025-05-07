@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from groq import Groq
 import PyPDF2
 
-# Charger la clé API
+# Charger la clé API depuis le .env
 load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
 if not api_key:
@@ -12,7 +12,7 @@ if not api_key:
 
 client = Groq(api_key=api_key)
 
-# 1. Fonction pour lire un PDF
+# Lire un PDF et extraire le texte
 def lire_pdf(chemin_pdf):
     contenu = ""
     try:
@@ -26,66 +26,71 @@ def lire_pdf(chemin_pdf):
         print(f"Erreur lecture PDF ({chemin_pdf}) :", str(e))
     return contenu
 
-# 2. Fonction de segmentation douce (par phrases, limite max)
-def segmenter_par_phrase(texte, taille_max=10000):
-    phrases = re.split(r'(?<=[.!?])\s+', texte)
+# Segmenter le texte à chaque prise de parole (après un ":")
+def segmenter_par_parole(texte, taille_max=10000):
+    blocs = re.split(r'(?<=:)', texte)  # garde le ":"
     segments = []
     segment = ""
 
-    for phrase in phrases:
-        if len(segment) + len(phrase) + 1 <= taille_max:
-            segment += phrase + " "
+    for bloc in blocs:
+        if len(segment) + len(bloc) <= taille_max:
+            segment += bloc
         else:
             segments.append(segment.strip())
-            segment = phrase + " "
+            segment = bloc
     if segment:
         segments.append(segment.strip())
+
     return segments
 
-# 3. Dossiers
-dossier_pdf = "entretiens"
-dossier_sortie = "syntheses"
+# Dossiers
+dossier_pdf = os.path.join("entretiens", "corpus entier")
+dossier_sortie = "resultats"
 os.makedirs(dossier_sortie, exist_ok=True)
 
-# 4. Traitement d’un seul fichier à la fois
-nom_pdf = input("Nom du fichier PDF (dans 'entretiens/') à traiter : ").strip()
-chemin_pdf = os.path.join(dossier_pdf, nom_pdf)
-nom_base = os.path.splitext(nom_pdf)[0]
+# Parcourir tous les fichiers PDF
+fichiers_pdf = [f for f in os.listdir(dossier_pdf) if f.endswith(".pdf")]
 
-texte = lire_pdf(chemin_pdf)
-segments = segmenter_par_phrase(texte, taille_max=10000)
+for fichier_pdf in fichiers_pdf:
+    nom_entretien = os.path.splitext(fichier_pdf)[0]
+    chemin_pdf = os.path.join(dossier_pdf, fichier_pdf)
 
-synthese_entretien = ""
+    texte = lire_pdf(chemin_pdf)
+    if not texte:
+        print(f"⚠ Fichier vide ou illisible : {fichier_pdf}")
+        continue
 
-for idx, segment in enumerate(segments):
-    prompt = f"""Tu es un sociologue. Ta mission est de produire une synthèse rédigée à partir du segment d’entretien ci-dessous.
+    segments = segmenter_par_parole(texte)
 
-Ta synthèse doit être :
-- rédigée sous forme de texte fluide (pas de puces, pas de titres)
-- fidèle au point de vue de l’enquêté : fais ressortir ses opinions, ressentis, formulations
-- concise mais sociologiquement pertinente
-- sans répéter la consigne ni réécrire ce prompt
-- sans reformuler les idées anecdotiques ou trop répétées
-
-Voici le segment à analyser :
-
-{segment}
-"""
-
-    try:
-        chat_completion = client.chat.completions.create(
-            messages=[{"role": "user", "content": prompt}],
-            model="llama-3.3-70b-versatile",
+    for idx, segment in enumerate(segments):
+        prompt = (
+            "Tu es un sociologue. Ton objectif est d'analyser l'entretien suivant en respectant une méthode rigoureuse de codage qualitatif.\n\n"
+            "1. Tu dois produire au moins 4 à 5 thèmes distincts par segment.\n"
+            "2. Chaque thème doit contenir environ 10 codes avec leur verbatim associé.\n"
+            "3. Chaque code doit être accompagné d’un verbatim clair et représentatif, issu uniquement des réponses de l’enquêté.\n"
+            "4. Regroupe les codes dans un thème unique et cohérent. Ne crée pas de codes orphelins.\n"
+            "5. Évite de reproduire les mêmes structures thématiques ou formulations que dans d'autres segments. Varie les angles d'analyse sociologique.\n"
+            "6. N'écris pas un total de 10 codes à répartir sur plusieurs thèmes. Chaque thème doit être riche et structurant.\n\n"
+            "Structure de sortie attendue :\n"
+            "- Thème 1 : Titre du thème\n"
+            "  - Code 1 : [intitulé du code]\n"
+            "    - Verbatim : \"[citation textuelle de l'enquêté]\"\n"
+            "  - ...\n"
+            "  - Code 10 : ...\n"
+            "- Thème 2 : ... (même format)\n\n"
+            f"Voici le texte :\n\n{segment}"
         )
-        reponse = chat_completion.choices[0].message.content
-        synthese_entretien += f"[Segment {idx + 1}]\n{reponse.strip()}\n\n"
-        print(f"✅ Segment {idx + 1} traité")
-    except Exception as e:
-        print(f"⚠️ Erreur segment {idx + 1} :", str(e))
 
-# 5. Sauvegarde de la synthèse complète
-chemin_sortie = os.path.join(dossier_sortie, f"{nom_base}_synthese.txt")
-with open(chemin_sortie, "w", encoding="utf-8") as f:
-    f.write(synthese_entretien)
-
-print(f"\n📄 Synthèse enregistrée dans : {chemin_sortie}")
+        try:
+            chat_completion = client.chat.completions.create(
+                messages=[{"role": "user", "content": prompt}],
+                model="meta-llama/llama-4-maverick-17b-128e-instruct",
+            )
+            reponse = chat_completion.choices[0].message.content
+            nom_fichier = f"{nom_entretien}_segment_{idx + 1}.txt"
+            chemin_sortie = os.path.join(dossier_sortie, nom_fichier)
+            with open(chemin_sortie, "w", encoding="utf-8") as f:
+                f.write(reponse)
+            print(f"✅ {nom_fichier} enregistré")
+        except Exception as e:
+            print(f"[Erreur] {nom_entretien} segment {idx + 1} :", str(e))

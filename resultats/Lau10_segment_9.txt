@@ -1,0 +1,118 @@
+Voici l'analyse qualitative de l'entretien avec 5 thèmes distincts, chacun contenant environ 10 codes avec leurs verbatims associés :
+
+### Thème 1 : Perception de l'Intelligence Artificielle (IA)
+
+- Code 1 : Perception positive de l'IA
+  - Verbatim : "Non, mais en même temps c'est quand même vachement utile."
+- Code 2 : Utilité de l'IA dans les tâches académiques
+  - Verbatim : "C'est vraiment, c'est un plus quoi. Moi je le vois vraiment comme un outil pratique."
+- Code 3 : Facilité apportée par l'IA
+  - Verbatim : "Je pense qu'il y a aussi une facilité d'utiliser chat-GPT."
+- Code 4 : Dépendance potentielle à l'IA
+  - Verbatim : "Peut-être en vrai, je suis peut-être un peu dépendante, oui, puisque c'est plus facile de demander à Chat-GPT que d'écrire un mail ou d'aller voir des profs."
+- Code 5 : Perception de l'IA comme un outil
+  - Verbatim : "Moi je le vois vraiment comme un outil pratique."
+- Code 6 : Gain de temps grâce à l'IA
+  - Verbatim : "C'est un gain de temps monstrueux"
+- Code 7 : Utilisation de l'IA pour la retranscription
+  - Verbatim : "j'ai quand même commencé de plus en plus à l'utiliser pour la retranscription de sujets."
+- Code 8 : Utilisation variée de l'IA
+  - Verbatim : "Que ce soit dans l'usage privé, académique ou professionnel."
+- Code 9 : Utilité dans différents contextes
+  - Verbatim : "Oui, mais aussi pour le professionnel, parce que là, par exemple, quand je dois faire un sujet de mémoire"
+- Code 10 : Acceptation de l'IA dans le travail
+  - Verbatim : "Je pense que ça va pas être plus difficile. Enfin, ça peut être plus difficile, mais du coup, dans d'autres tâches"
+
+### Thème 2 : Impact de l'IA sur les pratiques académiques et professionnelles
+
+- Code 1 : Utilisation de l'IA pour le travail académique
+  - Verbatim : "Quand je dois faire un sujet de mémoire, je regarde ce qui a déjà été fait dans les podcasts et les éléments comme ça"
+- Code 2 : Aide à la recherche
+  - Verbatim : "Au lieu de devoir écouter 100 heures de podcast, je les mets dans le Notebook LM et je peux juste retirer les trois citations importantes"
+- Code 3 : Gain de productivité
+  - Verbatim : "C'est un gain de temps monstrueux et que je me rends compte que je lis plus rapidement que ce que j'écoute."
+- Code 4 : Utilisation de l'IA pour la formulation de problématiques
+  - Verbatim : "J'ai noté que j'avais utilisé l'IA pour m'aider pour formuler une première problématique pour mon mémoire."
+- Code 5 : Transparence sur l'utilisation de l'IA
+  - Verbatim : "Je me suis dit, pour plus de transparence, parce que je pense qu'il y a aussi... même si on l'utilise pas forcément pour des faits"
+- Code 6 : Perception de l'IA comme une aide
+  - Verbatim : "Donc vraiment outil d'aide."
+- Code 7 : Réticence face à la dépendance
+  - Verbatim : "Peut-être que je suis dépendante de cette facilité entre guillemets."
+- Code 8 : Utilisation de l'IA dans le cadre professionnel
+  - Verbatim : "La RTS a créé un logiciel qui utilise ChatGPT, ils ont des promptes pour les titres et les articles et un truc de retranscription"
+- Code 9 : Gain de temps
+  - Verbatim : "C'est un gain de temps."
+- Code 10 : Continuité entre usage personnel et professionnel
+  - Verbatim : "Que ce soit dans l'usage privé, académique ou professionnel."
+
+### Thème 3 : Questions éthiques autour de l'utilisation de l'IA
+
+- Code 1 : Transparence sur l'utilisation de l'IA
+  - Verbatim : "Je pense qu'il faut être transparent."
+- Code 2 : Problématique du plagiat
+  - Verbatim : "Ça soulève la question du plagiat."
+- Code 3 : Limites de la transparence
+  - Verbatim : "Est-ce que c'est important de le noter ?"
+- Code 4 : Continuum entre aide et plagiat
+  - Verbatim : "Il y a un sort de continuum entre justement dire que j'ai utilisé un synonyme... ou j'ai complètement reformulé tout ce texte avec l'IA"
+- Code 5 : Biais des IA
+  - Verbatim : "Toutes les intelligences artificielles sont basées sur un modèle humain qui comporte des biais"
+- Code 6 : Perception de neutralité de l'IA
+  - Verbatim : "On peut se dire ah oui mais c'est une machine du coup c'est forcément plus neutre et en fait pas tant."
+- Code 7 : Conséquences de la transparence
+  - Verbatim : "Ça peut continuer de renforcer cette méfiance du public ou des personnes qui lisent."
+- Code 8 : Importance de la transparence pour la crédibilité
+  - Verbatim : "Je pense qu'il faut... Ça soulève un autre point"
+- Code 9 : Pratiques professionnelles et transparence
+  - Verbatim : "Autant pour la personne qui lit que pour les gens, parce qu'en fait, les gens vont se baser potentiellement sur ce travail."
+- Code 10 : Evolution des pratiques
+  - Verbatim : "Non, mais je pense que de plus en plus, ça va être demandé aux élèves de noter ça."
+
+### Thème 4 : Perception de la créativité et de l'aide apportée par l'IA
+
+- Code 1 : Aide à la créativité
+  - Verbatim : "L'utilisation de chat GPT peut me dire ok en fait mais si j'avais pas ça j'aurais pas eu l'idée"
+- Code 2 : Perception de l'IA comme un "super pouvoir"
+  - Verbatim : "C'est un super pouvoir quoi voilà j'ai un talent caché"
+- Code 3 : Utilisation pour des idées
+  - Verbatim : "Pour formuler une problématique ou n'importe"
+- Code 4 : Utilité pour aborder un sujet de manière originale
+  - Verbatim : "C'est des fois un peu difficile d'avoir d'autres idées de sujets, ou d'autres angles"
+- Code 5 : Perception positive de l'aide apportée
+  - Verbatim : "Donc vraiment outil d'aide."
+- Code 6 : Complémentarité avec les capacités humaines
+  - Verbatim : "Je me dis assez rapidement que il y a un truc qui existe, autant l'utiliser."
+- Code 7 : Gain en originalité
+  - Verbatim : "Comment aborder le sujet de manière un peu originale"
+- Code 8 : Sentiment d'imposture
+  - Verbatim : "Est-ce que des fois tu as un sentiment d'imposture avec des gros guillemets ?"
+- Code 9 : Acceptation de l'aide
+  - Verbatim : "Oui, je pense en lien aussi avec ce qu'on disait avec la créativité"
+- Code 10 : Utilisation comme un outil d'assistance
+  - Verbatim : "C'est un outil d'aide."
+
+### Thème 5 : Evolution et normalisation de l'utilisation de l'IA
+
+- Code 1 : Evolution vers une utilisation plus transparente
+  - Verbatim : "De plus en plus, ça va être demandé aux élèves de noter ça."
+- Code 2 : Normalisation dans les pratiques académiques
+  - Verbatim : "Justement dans la charte de l'Uni de Neuchâtel, ils nous expliquent pourquoi c'est important aussi d'être transparent."
+- Code 3 : Changement dans les mentalités
+  - Verbatim : "Je pense qu'il y a aussi... même si on l'utilise pas forcément pour des faits"
+- Code 4 : Adoption dans le milieu universitaire
+  - Verbatim : "Là, par exemple, j'ai vu qu'à la fin des textes il y avait des mentions l'IA a été utilisé pour pour résumer ou pour la partie n'importe quoi."
+- Code 5 : Discussions autour de l'utilisation de l'IA
+  - Verbatim : "Et en même temps, c'est contradictoire ce que je vais dire, mais en même temps si on écrit un texte sur Google Docs ou sur Word, et qu'on le fait corriger grammaticalement."
+- Code 6 : Intégration progressive
+  - Verbatim : "Il y a un sort de continuum entre justement dire que j'ai utilisé un synonyme... ou j'ai complètement reformulé tout ce texte avec l'IA"
+- Code 7 : Débat sur la définition de l'utilisation de l'IA
+  - Verbatim : "Quand est-ce qu'on dit qu'on a utilisé l'IA ou pas ?"
+- Code 8 : Evolution des pratiques journalistiques
+  - Verbatim : "Au niveau des médias et au niveau des produits et des contenus journalistiques que je peux produire dans le cadre de mon master"
+- Code 9 : Conscience des implications
+  - Verbatim : "Toutes les intelligences artificielles sont basées sur un modèle humain qui comporte des biais"
+- Code 10 : Réflexion sur les limites
+  - Verbatim : "Est-ce que c'est... Pour trouver des synonymes, est-ce que c'est important de le noter ?"
+
+Chaque thème regroupe des codes qui reflètent différentes dimensions de l'utilisation de l'IA, de sa perception, de son impact, des questions éthiques qu'elle soulève, ainsi que de son intégration progressive dans divers domaines. Les verbatims associés illustrent la richesse des discussions autour de l'IA et mettent en lumière les réflexions et les questionnements des usagers.

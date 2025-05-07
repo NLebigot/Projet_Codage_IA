@@ -1,0 +1,111 @@
+**Analyse de l'entretien : 5 thèmes distincts avec leurs codes et verbatim associés**
+
+### Thème 1 : Perception et utilisation de ChatGPT
+- Code 1 : Acceptation des définitions fournies par ChatGPT
+  - Verbatim : "Je l'accepte, en général, et je m'en satisfais."
+- Code 2 : Besoin de comprendre les raisons derrière une définition
+  - Verbatim : "Moi j'ai besoin de comprendre pourquoi est-ce qu'une définition de palier à quelque chose..."
+- Code 3 : Utilisation de ChatGPT pour des tâches spécifiques
+  - Verbatim : "C'est des trucs très précis. Donc s'il me donne pas la bonne réponse, c'est pas trop grave."
+- Code 4 : Satisfaction de l'utilisation de ChatGPT
+  - Verbatim : "Je suis OK avec le fait d'avoir une phrase, une question très large. Et donc une réponse très large."
+- Code 5 : Élargissement de la vision du sujet grâce à ChatGPT
+  - Verbatim : "Des fois, oui, puisque si tu demandes justement de trouver des idées, peut-être pas modifiées, mais en tout cas élargi ma vision du sujet ou sous quel angle je peux l'aborder."
+- Code 6 : Utilisation de ChatGPT comme aide et non comme une source autoritaire
+  - Verbatim : "C'est vraiment une aide et j'ai l'impression, je vais pas parler au nom des autres gens de ma classe, mais j'ai quand même l'impression qu'on l'utilise plus ou moins tous et toutes."
+- Code 7 : Manque d'effort dans la formulation des questions à ChatGPT
+  - Verbatim : "Je crois que j'ai pas envie de faire l'effort de faire des grandes questions."
+- Code 8 : Utilisation par flemme
+  - Verbatim : "Je pense plutôt par flemme."
+- Code 9 : Impact sur la réflexion personnelle
+  - Verbatim : "Ça me permet de me dire, ah oui, en fait... il y a des formulations de phrases qui sont trop longues que je fais ou il y a franchement des titres c'est vraiment pas terrible quoi."
+- Code 10 : Prise de conscience des limites de ChatGPT
+  - Verbatim : "Mais en même temps c'est ce que je lui demande de faire donc ça me paraît ok."
+
+### Thème 2 : Interaction avec ChatGPT et formulation des demandes
+- Code 1 : Satisfaction de l'interaction avec ChatGPT
+  - Verbatim : "Je suis OK avec le fait d'avoir une phrase, une question très large. Et donc une réponse très large."
+- Code 2 : Formulation des questions
+  - Verbatim : "Je crois que j'ai pas envie de faire l'effort de faire des grandes questions."
+- Code 3 : Raisons derrière la formulation des questions
+  - Verbatim : "Je pense plutôt par flemme."
+- Code 4 : Type de questions posées à ChatGPT
+  - Verbatim : "C'est des trucs très précis."
+- Code 5 : Impact de la réponse de ChatGPT sur la réflexion
+  - Verbatim : "Des fois, oui, puisque si tu demandes justement de trouver des idées, peut-être pas modifiées, mais en tout cas élargi ma vision du sujet ou sous quel angle je peux l'aborder."
+- Code 6 : Fiabilité des réponses de ChatGPT
+  - Verbatim : "Donc s'il me donne pas la bonne réponse, c'est pas trop grave."
+- Code 7 : Évaluation de l'interaction avec ChatGPT
+  - Verbatim : "Voilà, c'est ce qu'on a dit, c'est une cata. Mais je le sais, en fait, je ne suis pas très satisfaite, mais je sais pourquoi je ne suis pas satisfaite."
+- Code 8 : Effet sur la pensée critique
+  - Verbatim : "Mais il y a quand même... En fait, lui, il m'a pas fait des critiques, mais le fait qu'il me propose cinq éléments, je me dis, ah oui, en fait..."
+- Code 9 : Perception de l'utilité de ChatGPT
+  - Verbatim : "C'est vraiment une aide."
+- Code 10 : Conscience de la superficialité de l'interaction
+  - Verbatim : "Oui, c'est assez en surface."
+
+### Thème 3 : Impact de ChatGPT sur la réussite académique et les compétences personnelles
+- Code 1 : Perception de l'avantage procuré par ChatGPT par rapport aux autres étudiants
+  - Verbatim : "Non, parce que je pense que tout le monde utilise ChatGPT."
+- Code 2 : Transparence des professeurs concernant l'utilisation de ChatGPT
+  - Verbatim : "Les deux profs de cette année mais aussi de l'année dernière, ils sont eux-mêmes et elles-mêmes transparents, sur leur utilisation."
+- Code 3 : Normalisation de l'utilisation de ChatGPT
+  - Verbatim : "Bah ça nous permet de se dire en fait tout le monde l'utilise, c'est pas trop grave."
+- Code 4 : Perception de ChatGPT comme un outil et non une source de pouvoir
+  - Verbatim : "C'est vraiment une aide."
+- Code 5 : Discussion autour de ChatGPT entre les étudiants
+  - Verbatim : "On parle pas de notre rapport, mais on dit par exemple « Ah oui, moi aussi je galère à trouver un titre, viens on demande à ChatGPT »."
+- Code 6 : Acceptation générale de ChatGPT
+  - Verbatim : "J'ai pas l'impression qu'aujourd'hui, il y a des gens qui n'utilisent pas."
+- Code 7 : Curiosité envers la technologie
+  - Verbatim : "On est aussi un peu tous curieux de comprendre."
+- Code 8 : Perception de l'utilité de ChatGPT dans le domaine du journalisme
+  - Verbatim : "Ça peut être vachement utile pour le journalisme et même pour d'autres types de métiers."
+- Code 9 : Attitude face à la technologie
+  - Verbatim : "On a un peu aussi été un peu baigné dans tout ça quoi."
+- Code 10 : Génération et technologie
+  - Verbatim : "Ouais, on a grandi avec la technologie."
+
+### Thème 4 : Attitudes des professeurs et de l'institution envers ChatGPT
+- Code 1 : Utilisation de ChatGPT par les professeurs
+  - Verbatim : "J'ai une prof à oui, à fond, et qui nous dit franchement faites pareil."
+- Code 2 : Crainte de la part des professeurs concernant le remplacement par les machines
+  - Verbatim : "Il y a aussi des profs qui au final sont des journalistes et donc peut-être qu'il y a toujours cette... un peu peur de... que la machine remplace l'homme."
+- Code 3 : Différences générationnelles dans l'acceptation de la technologie
+  - Verbatim : "Il y a aussi quand même les profs un peu plus vieux qui sont peut-être pas habitués."
+- Code 4 : Encadrement de l'utilisation de ChatGPT par les institutions
+  - Verbatim : "Je trouve ça bien qu'il y ait quand même un cadre qui soit donné si tout d'un coup on a envie, voire besoin d'utiliser l'IA."
+- Code 5 : Liberté laissée aux étudiants d'utiliser ou non ChatGPT
+  - Verbatim : "En fait chacun est libre de faire comme il veut."
+- Code 6 : Intégration de l'IA dans les études de journalisme
+  - Verbatim : "Il y a quand même un lien très fort entre mes études et les médias, donc forcément qu'on étudie aussi comment est-ce que l'IA est utilisé dans les médias."
+- Code 7 : Positionnement des universités sur l'utilisation de l'IA
+  - Verbatim : "Je pense que c'est aussi grâce au fait que les unis se positionnent par rapport à l'IA."
+- Code 8 : Utilisation explicite de l'IA dans les travaux demandés
+  - Verbatim : "Cette année, oui, avec le prof pour Excel."
+- Code 9 : Perception de l'utilité de l'encadrement institutionnel
+  - Verbatim : "Je trouve ça bien qu'il y ait quand même un cadre qui soit donné."
+- Code 10 : Influence de l'institution sur l'utilisation de ChatGPT
+  - Verbatim : "Les unis et les médias aussi, parce qu'il y a quand même un lien très fort entre mes études et les médias."
+
+### Thème 5 : Dépendance à ChatGPT et perception de son impact
+- Code 1 : Perception de la dépendance à ChatGPT
+  - Verbatim : "Non, je pense que tout le monde utilise ChatGPT et comme les deux profs de cette année mais aussi de l'année dernière, ils sont eux-mêmes et elles-mêmes transparents, sur leur utilisation."
+- Code 2 : Raisons de ne pas ressentir de dépendance
+  - Verbatim : "C'est vraiment une aide et j'ai l'impression, je vais pas parler au nom des autres gens de ma classe, mais j'ai quand même l'impression qu'on l'utilise plus ou moins tous et toutes."
+- Code 3 : Conscience de l'existence d'autres moyens
+  - Verbatim : "On a un peu aussi été un peu baigné dans tout ça quoi. Ouais, on a grandi avec la technologie."
+- Code 4 : Perception de la technologie comme un outil
+  - Verbatim : "C'est vraiment une aide."
+- Code 5 : Évaluation de l'impact de ChatGPT sur les compétences
+  - Verbatim : "Ça peut être vachement utile pour le journalisme et même pour d'autres types de métiers."
+- Code 6 : Comparaison avec d'autres outils
+  - Verbatim : "On est aussi un peu tous curieux de comprendre. Et donc quand on comprend, on voit assez rapidement que ça va pas nous remplacer."
+- Code 7 : Acceptation de la limite de ChatGPT
+  - Verbatim : "Mais en même temps c'est ce que je lui demande de faire donc ça me paraît ok."
+- Code 8 : Utilisation en connaissance de cause
+  - Verbatim : "On sait que c'est pas terrible au niveau de la vérité, au niveau de la véracité."
+- Code 9 : Pas de sentiment de honte à utiliser ChatGPT
+  - Verbatim : "Bah ça nous permet de se dire en fait tout le monde l'utilise, c'est pas trop grave."
+- Code 10 : Prise de conscience de la superficialité de certaines interactions
+  - Verbatim : "Oui, c'est assez en surface."

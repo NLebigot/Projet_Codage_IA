@@ -1,0 +1,111 @@
+Analysons l'entretien avec Jessica en suivant une méthode rigoureuse de codage qualitatif. Nous allons identifier les thèmes et les codes associés aux verbatim de Jessica.
+
+### Thème 1 : Perception et compréhension de l'IA et de ChatGPT
+- Code 1 : Définition de l'IA
+  - Verbatim : "L'intelligence artificielle englobe bien plus que ChatGPT. Elle peut être utilisée dans des domaines comme les robots ou les voitures autonomes."
+- Code 2 : Rôle de ChatGPT dans l'IA
+  - Verbatim : "ChatGPT est juste une petite partie de l'IA."
+- Code 3 : Préoccupation sur la collecte de données
+  - Verbatim : "Certains critiquent l’IA, disant qu’elle collecte trop de données et que cela pose des problèmes d’anonymat."
+- Code 4 : Compréhension des algorithmes
+  - Verbatim : "Je connais les algorithmes sur les réseaux sociaux, mais pour l’IA, je ne sais pas."
+- Code 5 : Définition d'un algorithme
+  - Verbatim : "Un algorithme, c’est une série de calculs qui aboutissent à un résultat."
+- Code 6 : Caractéristique de ChatGPT
+  - Verbatim : "ChatGPT, c’est qu’il s’agit d’une IA générative, capable de s’auto-alimenter et de se construire une base de données pour générer du contenu de manière autonome."
+- Code 7 : Perception de l'utilité de ChatGPT
+  - Verbatim : "Je l’utilise pour résumer des textes ou m’expliquer certains passages."
+- Code 8 : Limite de ChatGPT
+  - Verbatim : "ChatGPT ne peut pas encore lire ces documents [PDF]."
+- Code 9 : Confiance dans ChatGPT
+  - Verbatim : "On nous a tellement répété qu’il fallait faire attention aux sources de ChatGPT que je n’osais pas lui demander de trouver des informations par lui-même."
+- Code 10 : Évolution de l'utilisation de ChatGPT
+  - Verbatim : "Je pense que je pourrais envisager de l’utiliser plus souvent pour ce genre de tâche."
+
+### Thème 2 : Utilisation de ChatGPT dans le contexte universitaire
+- Code 1 : Utilisation pour la correction en français
+  - Verbatim : "Principalement pour la correction en français : grammaire, orthographe, syntaxe."
+- Code 2 : Amélioration de formulations
+  - Verbatim : "Je lui demande souvent d’améliorer des formulations."
+- Code 3 : Résumé de textes
+  - Verbatim : "Je l’utilise aussi pour résumer des textes."
+- Code 4 : Explication de concepts
+  - Verbatim : "J’ai demandé à ChatGPT de m’expliquer 'l’invention de l’homosexualité' selon l’auteur."
+- Code 5 : Aide à la structuration de présentation orale
+  - Verbatim : "Je pense que cette fois, j’utiliserai ChatGPT pour m’aider à structurer la présentation."
+- Code 6 : Limite dans l'utilisation pour la révision
+  - Verbatim : "Non, parce que ça fait longtemps que je n’ai plus eu d’examen sur table."
+- Code 7 : Utilisation potentielle pour les examens oraux
+  - Verbatim : "Mais je pense que c’est parce que notre écrit n’était pas totalement terminé. Si on avait eu un texte finalisé, j’aurais probablement pu lui envoyer pour structurer les points importants à présenter."
+- Code 8 : Collaboration avec ChatGPT pour la recherche
+  - Verbatim : "Je co-construisais cette question avec ChatGPT, en ajustant au fur et à mesure."
+- Code 9 : Utilisation pour clarifier les idées
+  - Verbatim : "Parfois, quand je sens que ma propre pensée est confuse, je préfère recommencer pour clarifier mes idées."
+- Code 10 : Rôle de l'humain dans l'utilisation de ChatGPT
+  - Verbatim : "L’humain reste responsable de la machine et du savoir qu’elle produit ?"
+
+### Thème 3 : Interaction avec ChatGPT et formulation des requêtes
+- Code 1 : Importance de la formulation des requêtes
+  - Verbatim : "Si tu n’as pas la réponse que tu veux, c’est que tu as mal formulé ta question."
+- Code 2 : Utilisation de ChatGPT pour obtenir des informations précises
+  - Verbatim : "J’avais besoin d’une réponse plus détaillée et précise pour expliquer dans mon rapport pourquoi il est préférable de faire autrement."
+- Code 3 : Demande d'explication sur des concepts spécifiques
+  - Verbatim : "J’ai demandé à ChatGPT de m’expliquer 'l’invention de l’homosexualité' selon l’auteur."
+- Code 4 : Utilisation des listes à puces pour structurer le discours
+  - Verbatim : "Les listes à puces m’aident à structurer mon discours."
+- Code 5 : Demande de développement sur des points spécifiques
+  - Verbatim : "Parfois, ses réponses sont trop courtes. J’avais besoin qu’il m’apporte plus de détails."
+- Code 6 : Satisfaction des réponses fournies par ChatGPT
+  - Verbatim : "Oui, elles étaient efficaces. J’ai obtenu les informations dont j’avais besoin."
+- Code 7 : Fermeture du chat après obtention des résultats
+  - Verbatim : "Quand j’obtiens une réponse satisfaisante, je termine le chat immédiatement."
+- Code 8 : Réouverture d'un nouveau chat pour clarifier les idées
+  - Verbatim : "C’est arrivé récemment quand je travaillais sur une question de recherche."
+- Code 9 : Collaboration avec ChatGPT pour ajuster les questions
+  - Verbatim : "Je co-construisais cette question avec ChatGPT, en ajustant au fur et à mesure."
+- Code 10 : Limite dans la conservation des informations par ChatGPT
+  - Verbatim : "Je ne vois pas ChatGPT comme un outil qui pourrait garder en mémoire ce que tu lui demandes pour une utilisation future."
+
+### Thème 4 : Avantages et limites de ChatGPT dans les études
+- Code 1 : Utilité pour la structuration des présentations orales
+  - Verbatim : "Je pense que cette fois, j’utiliserai ChatGPT pour m’aider à structurer la présentation."
+- Code 2 : Aide à la compréhension de concepts
+  - Verbatim : "J’ai demandé à ChatGPT de m’expliquer 'l’invention de l’homosexualité' selon l’auteur."
+- Code 3 : Limite dans la lecture de documents PDF
+  - Verbatim : "ChatGPT ne peut pas encore lire ces documents [PDF]."
+- Code 4 : Utilisation comme un moteur de recherche puissant
+  - Verbatim : "Pour moi, ChatGPT est un moteur de recherche hyper puissant."
+- Code 5 : Rapidité d'obtention des informations
+  - Verbatim : "C’était plus rapide de demander à ChatGPT."
+- Code 6 : Alternative à la recherche dans les notes de cours
+  - Verbatim : "Ça prendrait beaucoup de temps de retrouver dans quel module ce cours se trouvait, et en quelle année."
+- Code 7 : Efficience dans l'obtention d'informations
+  - Verbatim : "Oui, elles étaient efficaces. J’ai obtenu les informations dont j’avais besoin."
+- Code 8 : Utilisation pour éviter de réciter un texte mot pour mot
+  - Verbatim : "Je ne voulais pas qu’il me donne un texte à réciter mot pour mot."
+- Code 9 : Aide à la formulation de questions de recherche
+  - Verbatim : "Je co-construisais cette question avec ChatGPT, en ajustant au fur et à mesure."
+- Code 10 : Potentiel pour une utilisation future dans différents contextes
+  - Verbatim : "Je pense que je pourrais envisager de l’utiliser plus souvent pour ce genre de tâche."
+
+### Thème 5 : Perception de ChatGPT comme outil d'apprentissage
+- Code 1 : Perception de ChatGPT comme un outil d'aide
+  - Verbatim : "Pour moi, ChatGPT est un moteur de recherche hyper puissant."
+- Code 2 : Utilisation pour clarifier les idées
+  - Verbatim : "Parfois, quand je sens que ma propre pensée est confuse, je préfère recommencer pour clarifier mes idées."
+- Code 3 : Rôle de l'humain dans l'utilisation de ChatGPT
+  - Verbatim : "L’humain reste responsable de la machine et du savoir qu’elle produit ?"
+- Code 4 : Collaboration avec ChatGPT pour la formulation de questions
+  - Verbatim : "Je co-construisais cette question avec ChatGPT, en ajustant au fur et à mesure."
+- Code 5 : Utilisation pour obtenir des informations précises
+  - Verbatim : "J’avais besoin d’une réponse plus détaillée et précise."
+- Code 6 : Satisfaction des réponses obtenues
+  - Verbatim : "Oui, elles étaient efficaces."
+- Code 7 : Préférence pour l'utilisation de ChatGPT par rapport aux notes de cours
+  - Verbatim : "C’était plus rapide de demander à ChatGPT."
+- Code 8 : Utilisation de ChatGPT pour structurer les présentations
+  - Verbatim : "Les listes à puces m’aident à structurer mon discours."
+- Code 9 : Limite dans la mémorisation des informations par ChatGPT
+  - Verbatim : "Je ne vois pas ChatGPT comme un outil qui pourrait garder en mémoire ce que tu lui demandes pour une utilisation future."
+- Code 10 : Potentiel d'utilisation future
+  - Verbatim : "Je pense que je pourrais envisager de l’utiliser plus souvent pour ce genre de tâche."

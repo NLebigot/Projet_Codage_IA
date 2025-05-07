@@ -1,0 +1,116 @@
+Après une analyse minutieuse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes et verbatim associés. Voici les résultats :
+
+**Thème 1 : Perception de Chat-GPT**
+
+* Code 1 : Perception de Chat-GPT comme une machine
+ * Verbatim : "Pour moi c'est pas... Mais c'est bizarre, enfin je saurais pas expliquer pourquoi là j'ai dit merci."
+* Code 2 : Utilisation de Chat-GPT comme un outil
+ * Verbatim : "C'est un outil en plus."
+* Code 3 : Absence de relation humaine avec Chat-GPT
+ * Verbatim : "Je ne vois pas du tout ça comme une relation humaine."
+* Code 4 : Utilisation occasionnelle de la politesse avec Chat-GPT
+ * Verbatim : "Mais dirais que c'est plutôt occasionnel l'utilisation de la politesse."
+* Code 5 : Dépendance au contexte pour le vouvoiement ou le tutoiement
+ * Verbatim : "Ça dépend des chats, des discussions."
+* Code 6 : Non prise en compte de la personnalité de Chat-GPT
+ * Verbatim : "Je suis même pas sûre de... Enfin...Je sais pas si je le vouvoie ou le tutoie, moi."
+* Code 7 : Utilisation de Chat-GPT pour des tâches spécifiques
+ * Verbatim : "Je l'utilise comme correcteur presque."
+* Code 8 : Perception de Chat-GPT comme un support
+ * Verbatim : "C'est un support, donc ça m'a impactée dans mon travail."
+* Code 9 : Gain de temps grâce à Chat-GPT
+ * Verbatim : "Ça me fait gagner du temps."
+* Code 10 : Utilisation de Chat-GPT en deuxième recours
+ * Verbatim : "Oui voilà, je l'utilise tout le temps en deuxième recours après avoir réfléchi."
+
+**Thème 2 : Impact de Chat-GPT sur le travail universitaire**
+
+* Code 1 : Gain de temps grâce à Chat-GPT
+ * Verbatim : "Ça me fait gagner du temps."
+* Code 2 : Utilisation de Chat-GPT pour structurer une analyse journalistique
+ * Verbatim : "C'est plus pratique de demander à Chat-GPT comment structurer une analyse journalistique."
+* Code 3 : Impact positif sur le travail universitaire
+ * Verbatim : "Ça m'a impactée dans mon travail, je suis pas sûre que ça m'a vraiment impactée."
+* Code 4 : Utilisation de Chat-GPT pour générer des idées
+ * Verbatim : "Ça me donne d'autres idées."
+* Code 5 : Difficulté à évaluer la qualité du travail avec Chat-GPT
+ * Verbatim : "C'est difficile à dire parce qu'en vrai je ne sais pas trop quelle est la qualité de mon travail."
+* Code 6 : Amélioration possible de la qualité du travail
+ * Verbatim : "Ouais, mais est-ce que d'avoir plus d'idées, mais des moins bonnes... Enfin, tu vois, je sais pas."
+* Code 7 : Changement dans l'organisation du travail
+ * Verbatim : "Est-ce que tu t'organises différemment maintenant que tu as chat GPT ?"
+* Code 8 : Réduction du stress grâce à Chat-GPT
+ * Verbatim : "Tu stresses moins ?"
+* Code 9 : Utilisation de Chat-GPT pour des tâches de rédaction
+ * Verbatim : "Je l'utilise comme correcteur presque."
+* Code 10 : Impact sur la créativité
+ * Verbatim : "Ça peut me faire aller plus vite, ça peut me donner plus d'idées..."
+
+**Thème 3 : Utilisation de Chat-GPT**
+
+* Code 1 : Utilisation de Chat-GPT en deuxième recours
+ * Verbatim : "Oui voilà, je l'utilise tout le temps en deuxième recours après avoir réfléchi."
+* Code 2 : Utilisation de Chat-GPT pour des tâches spécifiques
+ * Verbatim : "Je l'utilise comme correcteur presque."
+* Code 3 : Utilisation de Chat-GPT pour générer des idées
+ * Verbatim : "Ça me donne d'autres idées."
+* Code 4 : Utilisation de Chat-GPT pour structurer une analyse journalistique
+ * Verbatim : "C'est plus pratique de demander à Chat-GPT comment structurer une analyse journalistique."
+* Code 5 : Absence de développement de prompts complexes
+ * Verbatim : "Non, je ne développe pas trop mes prompts."
+* Code 6 : Utilisation de Chat-GPT pour des tâches de fact-checking
+ * Verbatim : "Enquête et fact-checking, ça c'est toujours en lien avec... Je sais pas si tu te rappelles."
+* Code 7 : Utilisation de Chat-GPT pour des tâches de rédaction
+ * Verbatim : "Je l'utilise comme correcteur presque."
+* Code 8 : Changement dans l'utilisation de Chat-GPT en fonction du contexte
+ * Verbatim : "Ça dépend des chats, des discussions."
+* Code 9 : Utilisation de Chat-GPT pour des tâches de recherche
+ * Verbatim : "Je pense que oui. Oui oui dans le cadre de mes études, oui c'était... Oui, c'était ça."
+* Code 10 : Évaluation de la qualité des réponses de Chat-GPT
+ * Verbatim : "Oui, voilà. Et puis après, j'ai demandé la prise de contact."
+
+**Thème 4 : Limites et difficultés avec Chat-GPT**
+
+* Code 1 : Difficulté à évaluer la qualité du travail avec Chat-GPT
+ * Verbatim : "C'est difficile à dire parce qu'en vrai je ne sais pas trop quelle est la qualité de mon travail."
+* Code 2 : Difficulté à déterminer l'impact de Chat-GPT sur la qualité du travail
+ * Verbatim : "Ouais, mais est-ce que d'avoir plus d'idées, mais des moins bonnes... Enfin, tu vois, je sais pas."
+* Code 3 : Limite dans la capacité de Chat-GPT à fournir des réponses précises
+ * Verbatim : "Oui, et puis là, on voit que les réponses sont quand même assez générales, quoi."
+* Code 4 : Nécessité de réfléchir avant d'utiliser Chat-GPT
+ * Verbatim : "Oui voilà, je l'utilise tout le temps en deuxième recours après avoir réfléchi."
+* Code 5 : Difficulté à utiliser Chat-GPT pour des tâches complexes
+ * Verbatim : "Je crois que ça m'arrive jamais, en plus."
+* Code 6 : Limite dans la capacité de Chat-GPT à comprendre le contexte
+ * Verbatim : "C'est difficile de revenir sur une situation comme ça, mais voilà."
+* Code 7 : Difficulté à déterminer la fiabilité de Chat-GPT
+ * Verbatim : "Je suis même pas sûre de... Enfin...Je sais pas si je le vouvoie ou le tutoie, moi."
+* Code 8 : Limite dans la capacité de Chat-GPT à fournir des réponses personnalisées
+ * Verbatim : "Oui, et puis là, on voit que les réponses sont quand même assez générales, quoi."
+* Code 9 : Nécessité de vérifier les réponses de Chat-GPT
+ * Verbatim : "Enquête et fact-checking, ça c'est toujours en lien avec... Je sais pas si tu te rappelles."
+* Code 10 : Difficulté à utiliser Chat-GPT de manière efficace
+ * Verbatim : "C'est difficile à dire parce qu'en vrai je ne sais pas trop quelle est la qualité de mon travail."
+
+**Thème 5 : Évolution de l'utilisation de Chat-GPT**
+
+* Code 1 : Évolution de l'utilisation de Chat-GPT en fonction du contexte
+ * Verbatim : "Ça dépend des chats, des discussions."
+* Code 2 : Augmentation de l'utilisation de Chat-GPT
+ * Verbatim : "Je commence à utiliser Chat-GPT de plus en plus."
+* Code 3 : Changement dans la manière d'utiliser Chat-GPT
+ * Verbatim : "Je l'utilise comme correcteur presque."
+* Code 4 : Utilisation de Chat-GPT pour des tâches de plus en plus complexes
+ * Verbatim : "Oui, voilà. Et puis après, j'ai demandé la prise de contact."
+* Code 5 : Évaluation de l'efficacité de Chat-GPT
+ * Verbatim : "C'est difficile à dire parce qu'en vrai je ne sais pas trop quelle est la qualité de mon travail."
+* Code 6 : Réflexion sur l'utilisation de Chat-GPT
+ * Verbatim : "Je pense que oui. Oui oui dans le cadre de mes études, oui c'était... Oui, c'était ça."
+* Code 7 : Évolution de la perception de Chat-GPT
+ * Verbatim : "C'est un outil en plus."
+* Code 8 : Changement dans l'organisation du travail en fonction de Chat-GPT
+ * Verbatim : "Est-ce que tu t'organises différemment maintenant que tu as chat GPT ?"
+* Code 9 : Utilisation de Chat-GPT pour des tâches de rédaction
+ * Verbatim : "Je l'utilise comme correcteur presque."
+* Code 10 : Évaluation de l'impact de Chat-GPT sur le travail universitaire
+ * Verbatim : "Ça m'a impactée dans mon travail, je suis pas sûre que ça m'a vraiment impactée."

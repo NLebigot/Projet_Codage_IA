@@ -1,0 +1,116 @@
+Après analyse de l'entretien, j'ai identifié 5 thèmes distincts avec leurs codes associés.
+
+**Thème 1 : Perception de l'utilisation de l'IA dans les études**
+
+* Code 1 : Inquiétude quant à l'utilisation de l'IA dans l'art
+ Verbatim : "Je trouve que dans l'art, ça ne devrait pas être là, peut-être."
+* Code 2 : Acceptation de l'IA dans l'ingénierie
+ Verbatim : "Pour ce qui est de l'ingénierie, j'ai un peu moins de peine."
+* Code 3 : Préoccupation quant à la finalité des études
+ Verbatim : "Je trouve le but des études est un peu... mal atteint."
+* Code 4 : Différence entre génération de texte et réflexion personnelle
+ Verbatim : "Le but c'est quand même que t'aies eu ta réflexion, que tu crées ton texte et tout ça"
+* Code 5 : Utilisation de l'IA pour résumer la pensée d'un philosophe
+ Verbatim : "Si chatGPT peut mieux résumer la pensée d'un philosophe que Wikipédia ou une autre source, ce que j'ai de la peine un peu à croire, pour ça, ça peut m'aller."
+* Code 6 : Importance de la réflexion personnelle dans les études
+ Verbatim : "Le but c'est quand même que t'aies eu ta réflexion, que tu crées ton texte et tout ça"
+* Code 7 : Utilisation de l'IA comme outil de support
+ Verbatim : "Demander un résumé d'un texte, demander des idées... ouais, ça je pense que c'est OK."
+* Code 8 : Limite de l'utilisation de l'IA dans les études
+ Verbatim : "Du moment que l'IA devient pas ton Ghostwriter... Ça irait, quoi, fin... "
+* Code 9 : Risque de décrédibilisation des études
+ Verbatim : "Ça décrédibilise un peu les étude, je trouve."
+* Code 10 : Évolution de la perception de l'IA dans les études
+ Verbatim : "Imaginons dans 10 ans, 20 ans... "
+
+**Thème 2 : Contextes d'utilisation acceptable de l'IA**
+
+* Code 1 : Utilisation de l'IA dans la vie personnelle
+ Verbatim : "Pour tout ce qui est vie perso ou je sais pas quoi, je vois pas pourquoi on devrait être empêché de l'utiliser."
+* Code 2 : Utilisation de l'IA pour des tâches non critiques
+ Verbatim : "Faire à manger ou des questions sur les chiens, je sais pas quoi."
+* Code 3 : Utilisation de l'IA pour des tâches de traduction
+ Verbatim : "Pour la traduction, il y a à l’UNIL et... Euh... En vrai, il est fort chatGPT pour la traduction"
+* Code 4 : Acceptation de l'IA dans certains contextes professionnels
+ Verbatim : "Pour alléger le travail de quelqu'un dont c'est déjà le métier, ça pourrait être utile."
+* Code 5 : Précaution quant à l'utilisation de l'IA dans des contextes critiques
+ Verbatim : "Moi j'aurais trop peur de... De... C'est traduit, le texte est utilisé comme ça et genre..."
+* Code 6 : Évaluation de la qualité des traductions automatiques
+ Verbatim : "Digitec est pas foutu d'avoir des bonnes traductions, donc... "
+* Code 7 : Utilisation de l'IA pour des tâches administratives
+ Verbatim : "Demander un résumé d'un texte, demander des idées..."
+* Code 8 : Limite de l'utilisation de l'IA dans des contextes sensibles
+ Verbatim : "Pas « mon chien est en train de cracher du sang, que dois-je faire ?» (rires)"
+* Code 9 : Perception de l'IA comme un outil neutre
+ Verbatim : "C'est juste un robot, quoi à la place (rires)"
+* Code 10 : Réflexion sur les implications éthiques de l'utilisation de l'IA
+ Verbatim : "Il y a des gens qui font ça? (rires)"
+
+**Thème 3 : Évaluation de la capacité de l'IA à juger**
+
+* Code 1 : Scepticisme quant à la capacité de l'IA à juger
+ Verbatim : "Autant tu poses la question à Chad GPT, autant est-ce qu'il va pas juste te biaiser et te dire « ouais c'est super !» Peu importe ce que tu lui donnes"
+* Code 2 : Importance de la formation de l'IA pour juger
+ Verbatim : "Ce serait intéressant de voir si le modèle est entraîné à correctement juger des trucs comme ça quoi."
+* Code 3 : Exemple d'utilisation de l'IA pour évaluer une synthèse
+ Verbatim : "Un élève qui écrit, du coup, une synthèse, et qu'il la soumet à chatGPT en lui disant que c'est une synthèse de tel livre, de tel auteur, et qui lui demande d'évaluer... "
+* Code 4 : Comparaison avec un professeur ou un pair
+ Verbatim : "Ça pourrait être un prof ou un... un élève, enfin un élève... un autre élève ou un truc du genre."
+* Code 5 : Perception de l'IA comme un outil de feedback
+ Verbatim : "Là, c'est juste un robot, quoi à la place (rires)"
+* Code 6 : Limite de l'utilisation de l'IA pour juger
+ Verbatim : "Si100 élèves font un truc par rapport à un philosophe et que chatGPT dit tout le temps c'est ok, peu importe le truc."
+* Code 7 : Réflexion sur la capacité de l'IA à prendre position
+ Verbatim : "La manière de présenter telle ou telle position est implicitement une prise de position du statu quo ou pas."
+* Code 8 : Évaluation de la capacité de l'IA à synthétiser des positions
+ Verbatim : "Il te fournira une réponse dans laquelle il essaie de mobiliser les deux camps ou un ensemble de positions."
+* Code 9 : Perception de l'IA comme un outil neutre
+ Verbatim : "Il se prononcera peut-être pas mais il te donnera une synthèse de position sur un objet donné."
+* Code 10 : Réflexion sur les implications de l'utilisation de l'IA pour juger
+ Verbatim : "Ouais, oui… Je voulais juste revenir, il y a d'autres... "
+
+**Thème 4 : Perception de l'IA dans différentes disciplines**
+
+* Code 1 : Perception de l'IA dans l'art
+ Verbatim : "Je trouve que dans l'art, ça ne devrait pas être là, peut-être."
+* Code 2 : Acceptation de l'IA dans l'ingénierie
+ Verbatim : "Pour ce qui est de l'ingénierie, j'ai un peu moins de peine."
+* Code 3 : Perception de l'IA dans les lettres
+ Verbatim : "En lettres… Alors j'ai quand même l'impression que le... "
+* Code 4 : Exemple d'utilisation de l'IA dans le droit
+ Verbatim : "À la limite, je vois un chatbot, ou un truc du genre, en mode... À qui tu demandes « est-ce que dans le code pénal, il y a tel ou tel cas » ?"
+* Code 5 : Perception de l'IA dans la traduction
+ Verbatim : "Pour la traduction, il y a à l’UNIL et... Euh... En vrai, il est fort chatGPT pour la traduction"
+* Code 6 : Réflexion sur l'utilisation de l'IA dans différentes disciplines
+ Verbatim : "Mais du coup, est-ce qu'il y a forcément autre chose que j'oublie ?"
+* Code 7 : Exemple d'utilisation de l'IA dans d'autres domaines
+ Verbatim : "Le droit ! Non, le droit, ils apprennent les textes par cœur et c'est fini."
+* Code 8 : Perception de l'IA comme un outil polyvalent
+ Verbatim : "Pour tout ce qui est vie perso ou je sais pas quoi, je vois pas pourquoi on devrait être empêché de l'utiliser."
+* Code 9 : Limite de l'utilisation de l'IA dans certaines disciplines
+ Verbatim : "Je trouve le but des études est un peu... mal atteint."
+* Code 10 : Réflexion sur les implications de l'utilisation de l'IA dans différentes disciplines
+ Verbatim : "Imaginons dans 10 ans, 20 ans... "
+
+**Thème 5 : Réflexion sur les implications de l'utilisation de l'IA**
+
+* Code 1 : Risque de décrédibilisation des études
+ Verbatim : "Ça décrédibilise un peu les étude, je trouve."
+* Code 2 : Perception de l'IA comme un outil qui change la donne
+ Verbatim : "Imaginons dans 10 ans, 20 ans... "
+* Code 3 : Réflexion sur les implications éthiques de l'utilisation de l'IA
+ Verbatim : "Il y a des gens qui font ça? (rires)"
+* Code 4 : Limite de l'utilisation de l'IA dans des contextes sensibles
+ Verbatim : "Pas « mon chien est en train de cracher du sang, que dois-je faire ?» (rires)"
+* Code 5 : Perception de l'IA comme un outil neutre
+ Verbatim : "C'est juste un robot, quoi à la place (rires)"
+* Code 6 : Réflexion sur la capacité de l'IA à prendre position
+ Verbatim : "La manière de présenter telle ou telle position est implicitement une prise de position du statu quo ou pas."
+* Code 7 : Évaluation de la capacité de l'IA à synthétiser des positions
+ Verbatim : "Il te fournira une réponse dans laquelle il essaie de mobiliser les deux camps ou un ensemble de positions."
+* Code 8 : Perception de l'IA comme un outil qui facilite la vie
+ Verbatim : "Pour tout ce qui est vie perso ou je sais pas quoi, je vois pas pourquoi on devrait être empêché de l'utiliser."
+* Code 9 : Limite de l'utilisation de l'IA dans certaines situations
+ Verbatim : "Moi j'aurais trop peur de... De... C'est traduit, le texte est utilisé comme ça et genre..."
+* Code 10 : Réflexion sur les implications de l'utilisation de l'IA à long terme
+ Verbatim : "Imaginons dans 10 ans, 20 ans... "

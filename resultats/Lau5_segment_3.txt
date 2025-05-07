@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en 5 thèmes distincts, chacun contenant environ 10 codes avec leur verbatim associé.
+
+**Thème 1 : Perception et utilisation de ChatGPT**
+- Code 1 : Perception de ChatGPT comme un outil
+  - Verbatim : "ChatGPT est un outil, et c’est à nous de l’utiliser correctement."
+- Code 2 : Dépendance aux formulations des questions
+  - Verbatim : "Si nos questions sont mal formulées ou confuses, il ne peut pas répondre correctement."
+- Code 3 : Utilisation pour gagner du temps
+  - Verbatim : "ChatGPT m’aide à me lancer. Rien que ça, c’est un gain de temps énorme."
+- Code 4 : Amélioration de la clarté des idées
+  - Verbatim : "Ça m’oblige aussi à être plus claire avec moi-même, à mieux cerner ma pensée"
+- Code 5 : Structuration des idées
+  - Verbatim : "Ça me force à être plus au clair sur ce que je veux dire."
+- Code 6 : Utilisation pour la rédaction
+  - Verbatim : "Je rédige moi-même mes idées principales, puis lui demander de travailler à partir de ce point."
+- Code 7 : Impact sur la productivité
+  - Verbatim : "Je pense que je suis plus efficace."
+- Code 8 : Utilisation pour clarifier les attentes
+  - Verbatim : "Ça m’aide à clarifier les attentes et à organiser mon travail plus rapidement."
+- Code 9 : Changement dans les habitudes de travail
+  - Verbatim : "Ça a clairement modifié ma façon de travailler."
+- Code 10 : Gain de temps et d'énergie
+  - Verbatim : "Ça me fait gagner du temps, mais aussi de l’énergie."
+
+**Thème 2 : Impact sur le travail universitaire et l'apprentissage**
+- Code 1 : Modification de la manière de travailler
+  - Verbatim : "Ça a clairement modifié ma façon de travailler."
+- Code 2 : Aide à la structuration des idées
+  - Verbatim : "Ça me force à être plus au clair sur ce que je veux dire."
+- Code 3 : Utilisation pour les travaux universitaires
+  - Verbatim : "J’ai utilisé ChatGPT pendant un moment libre en classe."
+- Code 4 : Gain de temps pour d'autres activités
+  - Verbatim : "Ça m’a permis de libérer du temps pour mon week-end."
+- Code 5 : Amélioration de la compréhension des consignes
+  - Verbatim : "Ça me permet de mieux comprendre les consignes"
+- Code 6 : Utilisation pour la reformulation de textes
+  - Verbatim : "On demandait à ChatGPT de reformuler ou de nous donner d’autres idées."
+- Code 7 : Impact sur la gestion du temps personnel
+  - Verbatim : "Je préfère finir certaines tâches en avance pour avoir l’esprit tranquille"
+- Code 8 : Proactivité dans les travaux impliquants
+  - Verbatim : "Pour des travaux plus impliquants, je suis plus proactive."
+- Code 9 : Diminution du stress lié aux échéances
+  - Verbatim : "C’est un énorme coup de pouce. Je sais que cet outil est là pour m’aider"
+- Code 10 : Efficacité dans le travail
+  - Verbatim : "Au lieu de passer cinq heures sur un travail, je peux n’y passer que trois heures."
+
+**Thème 3 : Limites et défis rencontrés avec ChatGPT**
+- Code 1 : Difficultés de formulation des demandes
+  - Verbatim : "J’avais mal formulé ma demande."
+- Code 2 : Limites technologiques de ChatGPT
+  - Verbatim : "ChatGPT ne peut pas les lire [les photocopies de livres], et ça peut être agaçant."
+- Code 3 : Frustrations liées à l'utilisation
+  - Verbatim : "Il y a eu des moments où je n’arrivais pas à faire comprendre à ChatGPT ce que je voulais."
+- Code 4 : Nécessité de vérifier les informations
+  - Verbatim : "Je me méfie un peu de ses capacités à inventer ou à fournir des sources"
+- Code 5 : Utilisation prudente de ChatGPT
+  - Verbatim : "Je ne lui demande jamais de m’inventer des choses."
+- Code 6 : Limite dans les tâches complexes
+  - Verbatim : "Je ne lui demande rien de trop complexe."
+- Code 7 : Utilisation pour des tâches spécifiques
+  - Verbatim : "C’était surtout pour corriger ou améliorer ce qu’on avait déjà écrit."
+- Code 8 : Pas de défi majeur dans l'utilisation
+  - Verbatim : "Pas vraiment, ça va."
+- Code 9 : Nécessité de formuler clairement les demandes
+  - Verbatim : "Je prends le temps d’expliquer clairement mes attentes"
+- Code 10 : Conscience des limites de ChatGPT
+  - Verbatim : "Je sais que ChatGPT peut m’aider rapidement, mais parfois je fais quand même les choses moi-même."
+
+**Thème 4 : Évaluation de la qualité et de la fiabilité de ChatGPT**
+- Code 1 : Fiabilité des réponses de ChatGPT
+  - Verbatim : "Je dirais qu’elles sont fiables"
+- Code 2 : Condition de fiabilité
+  - Verbatim : "Uniquement parce que je ne lui demande jamais de m’inventer des choses."
+- Code 3 : Utilisation complémentaire
+  - Verbatim : "Je m’appuie toujours sur ce que je maîtrise déjà et j’utilise ChatGPT comme un complément."
+- Code 4 : Stratégie de vérification
+  - Verbatim : "Pas vraiment, parce que je ne lui demande rien de trop complexe."
+- Code 5 : Contexte d'utilisation non académique
+  - Verbatim : "Ce n’était pas un travail académique à rendre"
+- Code 6 : Utilisation pour des idées et non pour des faits
+  - Verbatim : "ChatGPT nous servait surtout pour améliorer la formulation et, parfois, pour nous donner des idées"
+- Code 7 : Conscience des capacités de ChatGPT
+  - Verbatim : "Je me méfie un peu de ses capacités à inventer ou à fournir des sources"
+- Code 8 : Évaluation positive de l'interaction avec ChatGPT
+  - Verbatim : "Je pense que je suis assez bonne [pour formuler mes questions]"
+- Code 9 : Utilisation du vocal pour les cours
+  - Verbatim : "Pour l’instant, je n’utilise pas le vocal pour mes cours"
+- Code 10 : Potentiel du vocal pour les examens
+  - Verbatim : "Je pense que ça pourrait m’être utile pour les examens ou les rendus à venir"
+
+**Thème 5 : Changements dans les habitudes et les perceptions**
+- Code 1 : Changement dans la manière de travailler
+  - Verbatim : "Ça a clairement modifié ma façon de travailler."
+- Code 2 : Diminution de la procrastination
+  - Verbatim : "Avant, j’avais tendance à repousser les échéances"
+- Code 3 : Gain de confiance
+  - Verbatim : "Maintenant, je commence mes travaux beaucoup plus tôt"
+- Code 4 : Perception de ChatGPT comme un outil précieux
+  - Verbatim : "C’est vraiment une aide précieuse."
+- Code 5 : Changement dans la gestion du temps
+  - Verbatim : "Ça m’aide à mieux gérer mon temps personnel également."
+- Code 6 : Proactivité accrue
+  - Verbatim : "Pour des travaux plus impliquants, je suis plus proactive."
+- Code 7 : Meilleure organisation
+  - Verbatim : "Ça me permet de mieux comprendre les consignes et de me donner des idées"
+- Code 8 : Utilisation de ChatGPT pour les tâches simples
+  - Verbatim : "Pour des travaux où je dois juste écrire ou expliquer une scène, je peux m’y mettre tout de suite"
+- Code 9 : Procrastination pour les tâches complexes
+  - Verbatim : "Pour des tâches comme lire ou résumer un texte, je peux attendre le dernier moment"
+- Code 10 : Perception positive de l'impact de ChatGPT
+  - Verbatim : "C’est un énorme coup de pouce."

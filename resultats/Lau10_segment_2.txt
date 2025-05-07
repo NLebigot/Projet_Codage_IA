@@ -1,0 +1,93 @@
+Je vais analyser l'entretien en respectant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Perception de l'impact de la technologie sur la vie quotidienne**
+
+- Thème : Omniprésence de la technologie
+ - Code 1 : Dépendance au téléphone
+ - Verbatim : "j'arrive pas à reprendre un réveil basique, c'est pour diminuer l'utilisation du téléphone."
+ - Code 2 : Intérêt pour la technologie
+ - Verbatim : "j'ai quand même une certaine curiosité par rapport à la technologie."
+ - Code 3 : Fascination pour la technologie
+ - Verbatim : "je trouve ça assez fascinant."
+ - Code 4 : Crainte face à la technologie
+ - Verbatim : "des fois ça peut faire un peu peur parce que ça nous dépasse."
+ - Code 5 : Manque de compréhension
+ - Verbatim : "j'avoue que je comprends pas trop."
+ - Code 6 : Impact sur la vie quotidienne
+ - Verbatim : "je pense que c'est quand même une grande partie de ma vie."
+ - Code 7 : Difficulté à se défaire de la technologie
+ - Verbatim : "j'ai essayé de reprendre un réveil basique, mais j'arrive pas."
+ - Code 8 : Curiosité face aux potentialités
+ - Verbatim : "il y a quand même une curiosité par rapport à la technologie."
+ - Code 9 : Équilibre entre fascination et crainte
+ - Verbatim : "c'est fascinant, mais ça peut faire un peu peur."
+ - Code 10 : Reconnaissance de l'importance
+ - Verbatim : "ça fait partie de ma vie."
+
+- Thème : Origine de la curiosité pour la technologie
+ - Code 1 : Influence des études
+ - Verbatim : "je me rappelle de cours en bachelor qu'on a eus et qui m'ont intéressée."
+ - Code 2 : Influence personnelle
+ - Verbatim : "je dirais que ça vient de moi, je pense."
+ - Code 3 : Impact des cours sur l'intérêt
+ - Verbatim : "ça m'a intéressée."
+ - Code 4 : Contexte professionnel
+ - Verbatim : "dans le journalisme, c'est des questions au niveau des pratiques journalistiques qu'on se pose."
+ - Code 5 : Éthique et technologie
+ - Verbatim : "au niveau de l'éthique, donc forcément que je dois faire plus attention."
+ - Code 6 : Curiosité accrue par les études
+ - Verbatim : "ça rajoute de la curiosité, je sais pas si ça peut se dire comme ça."
+ - Code 7 : Formation continue
+ - Verbatim : "ils ont créé un nouveau cours sur l'utilisation de l'intelligence artificielle."
+ - Code 8 : Évolution technologique
+ - Verbatim : "c'est difficile de faire cours quand c'est... en tout cas de Chat-GPT, c'est quand même assez récent."
+ - Code 9 : Nécessité d'un certain recul
+ - Verbatim : "il y a besoin d'avoir un certain recul au niveau des profs."
+ - Code 10 : Adaptation à l'évolution technologique
+ - Verbatim : "pour nous expliquer qu'est-ce qui est bien ou moins bien."
+
+**Segment 2 : Usage de Chat-GPT dans le contexte universitaire**
+
+- Thème : Utilisation de Chat-GPT pour les titres d'articles
+ - Code 1 : Utilisation pour la reformulation
+ - Verbatim : "je l'utilise pas mal quand je dois trouver des titres d'articles."
+ - Code 2 : Limitations de Chat-GPT
+ - Verbatim : "en général, c'est pas terrible, les réponses."
+ - Code 3 : Diversification des réponses avec d'autres IA
+ - Verbatim : "j'utilise plutôt d'autres IA comme Claude, où j'ai l'impression que les réponses sont plus diversifiées."
+ - Code 4 : Utilisation pour générer des idées
+ - Verbatim : "c'est une sorte de reformulation, mais voilà."
+ - Code 5 : Insatisfaction face aux réponses
+ - Verbatim : "c'était souvent 2-3 mots-clés, 2 points et la suite de la phrase."
+ - Code 6 : Adaptation des réponses
+ - Verbatim : "je fais du mix."
+ - Code 7 : Utilisation pour les angles d'articles
+ - Verbatim : "je l'utilise aussi pour avoir des idées d'angles."
+ - Code 8 : Satisfaction variable
+ - Verbatim : "des fois, il y a des bons angles, des fois, il y a des choses que j'ai pas pensées."
+ - Code 9 : Comparaison avec d'autres outils
+ - Verbatim : "j'ai l'impression que les réponses sont plus diversifiées avec Claude."
+ - Code 10 : Utilisation nuancée
+ - Verbatim : "ça dépend des cas."
+
+- Thème : Perception de l'encadrement universitaire sur l'utilisation de l'IA
+ - Code 1 : Connaissance de la charte de l'université
+ - Verbatim : "le recteur a fait une charte de l'utilisation de l'intelligence artificielle."
+ - Code 2 : Importance de l'encadrement
+ - Verbatim : "c'est utile, justement, pour comment est-ce qu'on cite si on a utilisé l'IA ou Chat-GPT dans nos travaux."
+ - Code 3 : Actualité de la question
+ - Verbatim : "c'est assez nouveau, entre guillemets, pour les universités."
+ - Code 4 : Médiatisation de la charte
+ - Verbatim : "j'en ai entendu parler à l'RTS."
+ - Code 5 : Impact sur la perception de l'importance de l'IA
+ - Verbatim : "c'est que c'est quand même assez important et assez puissant."
+ - Code 6 : Utilité pour les étudiants
+ - Verbatim : "il y a plein de documentations sur le site de l'Uni aussi pour si on n'est pas habitué à utiliser l'IA."
+ - Code 7 : Contexte universitaire
+ - Verbatim : "dans le cadre des études universitaires."
+ - Code 8 : Positionnement de l'université
+ - Verbatim : "la population ou le monde académique attendait des universités de se positionner."
+ - Code 9 : Réglementation
+ - Verbatim : "c'est un peu de la réglementation des usages."
+ - Code 10 : Sensibilisation
+ - Verbatim : "ça m'intéresse parce que si on a... enfin... ouais, si l'université même prend des mesures pour encadrer."

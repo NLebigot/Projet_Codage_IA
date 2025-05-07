@@ -1,0 +1,116 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes associés. Voici les résultats :
+
+**Thème 1 : Perception de l'IA générative et de ses limites**
+
+- Code 1 : Incertitude quant à la régulation de l'IA générative
+- Verbatim : "Je ne sais toujours pas ce que c'est mon avis là-dessus."
+- Code 2 : Nécessité de débats sur la régulation
+- Verbatim : "Il devrait y avoir des débats ou des discussions là-dessus."
+- Code 3 : Limites de l'utilisation de l'IA
+- Verbatim : "Tout ce qui est de l'ordre de l'IA générative devrait être limité ou être contrôlé ?"
+- Code 4 : Manque de clarté sur la position éthique
+- Verbatim : "Moi je pense que c'est statu quo et... Je sais pas si j'utilise le mot correctement."
+- Code 5 : Difficulté à prendre position
+- Verbatim : "J'ai de la peine à dire qu'il faut interdire ou qu'il faut autoriser sans limite."
+- Code 6 : Évolution technologique et nécessité d'adaptation
+- Verbatim : "Il faudrait voir où la technologie évolue…"
+- Code 7 : Préoccupation écologique
+- Verbatim : "Je sais que la crypto c'est un désastre écologique"
+- Code 8 : Comparaison avec la crypto-monnaie
+- Verbatim : "Comparé à la crypto par exemple, enfin je sais pas si on... T'as de l'écologie dans le sujet de l’entretien ou pas ?"
+- Code 9 : Consommation de données
+- Verbatim : "Forcément que ça consomme des données et tout ça"
+- Code 10 : Impact environnemental
+- Verbatim : "GPT c'est aussi un désastre écologique."
+
+**Thème 2 : Acteurs légitimes pour la discussion sur l'IA**
+
+- Code 1 : Rôle de la politique
+- Verbatim : "La politique !"
+- Code 2 : Légitimité du parti pirate
+- Verbatim : "Je croirais plus le parti pirate que le PS pour des trucs d'informatique ou d'IA"
+- Code 3 : Prise de position du parti pirate
+- Verbatim : "C'est eux qui veulent lancer... Enfin, qui en parlent, qui pourraient lancer le débat"
+- Code 4 : Unicité du parti pirate sur le sujet
+- Verbatim : "J'ai l'impression que c'est les seuls qui parlent de ça aussi."
+- Code 5 : Question de la légitimité par la nouveauté
+- Verbatim : "Est-ce que le fait d'être les seuls à parler de ça veut nécessairement dire qu'ils ont..."
+- Code 6 : Non-correspondance entre unicité et légitimité
+- Verbatim : "Non, non, non."
+- Code 7 : Rôle dans l'initiation du débat
+- Verbatim : "C'est eux qui veulent lancer... Enfin, qui en parlent, qui pourraient lancer le débat"
+- Code 8 : Désintérêt de la politique suisse
+- Verbatim : "Je crois que la politique suisse n'est pas très intéressée par ce genre de débat"
+- Code 9 : Nécessité d'un débat
+- Verbatim : "Il y a du travail à faire là-bas, quoi."
+- Code 10 : Absence de leadership sur le sujet
+- Verbatim : "La politique suisse n'est pas très intéressée par ce genre de débat"
+
+**Thème 3 : Utilisation de chatGPT dans un contexte académique**
+
+- Code 1 : Utilité de chatGPT
+- Verbatim : "C'est pas mal mais ça suffit pas"
+- Code 2 : Imprévisibilité des résultats
+- Verbatim : "C'est plus un coup de poker qu'autre chose."
+- Code 3 : Manque de fiabilité
+- Verbatim : "La plupart du temps, oui [ça n'est pas fiable]."
+- Code 4 : Variations dans la qualité des réponses
+- Verbatim : "Des fois jackpot et puis ça marche bien quoi."
+- Code 5 : Question sur la légitimité de l'utilisation
+- Verbatim : "Est-ce que tu penses justement que l'utilisation de chatGPT est légitime pour certains travaux académiques et pas pour d’autres ?"
+- Code 6 : Contexte d'utilisation acceptable
+- Verbatim : "Un mec qui serait en école d'art... à moins que c'est le but du travail"
+- Code 7 : Incertitude sur les guidelines institutionnelles
+- Verbatim : "Je sais pas ce que c'est le statut des écoles d'art, par exemple, sur chatGPT."
+- Code 8 : Manque de clarté institutionnelle
+- Verbatim : "Même l’UNIL par exemple n’affirme pas très clairement sa position."
+- Code 9 : Exemples de clarification institutionnelle
+- Verbatim : "On est tombé dans nos recherches sur un gymnase qui avait fourni des guidelines assez précises"
+- Code 10 : Nécessité de clarification
+- Verbatim : "Mais ça reste encore à déterminer dans pas mal d'institutions."
+
+**Thème 4 : Éthique et régulation de l'IA**
+
+- Code 1 : Position nuancée sur la régulation
+- Verbatim : "J'ai de la peine à dire qu'il faut interdire ou qu'il faut autoriser sans limite."
+- Code 2 : Évolution technologique
+- Verbatim : "Il faudrait voir où la technologie évolue…"
+- Code 3 : Préoccupation éthique
+- Verbatim : "Moi je pense que c'est statu quo et... Je sais pas si j'utilise le mot correctement."
+- Code 4 : Comparaison avec d'autres technologies disruptives
+- Verbatim : "On met une technologie sur le marché, des voitures qui se conduisent toutes seules sans que ce soit réglementé."
+- Code 5 : Réglementation a posteriori
+- Verbatim : "Il y a une réglementation qui vient se greffer après par la force."
+- Code 6 : Question de l'équilibre
+- Verbatim : "Pas mettre un ban strict et genre on arrête l'IA tout de suite, mais pas non plus laisser le truc dégénérer"
+- Code 7 : Incertitude sur les conséquences
+- Verbatim : "Je sais pas à quel point... Enfin, forcément que ça consomme des données et tout ça"
+- Code 8 : Considération écologique
+- Verbatim : "GPT c'est aussi un désastre écologique."
+- Code 9 : Différence avec la crypto-monnaie
+- Verbatim : "Comparé à la crypto par exemple... tu mines, tu mines, tu mines et tu t'arrêtes jamais"
+- Code 10 : Complexité du problème
+- Verbatim : "Ça dépend de l'angle de l'analyse qu'on prend."
+
+**Thème 5 : Perception de la technologie et de son impact**
+
+- Code 1 : Perception mitigée de chatGPT
+- Verbatim : "C'est pas mal mais ça suffit pas"
+- Code 2 : Imprévisibilité
+- Verbatim : "C'est plus un coup de poker qu'autre chose."
+- Code 3 : Impact environnemental
+- Verbatim : "GPT c'est aussi un désastre écologique."
+- Code 4 : Consommation de données
+- Verbatim : "Forcément que ça consomme des données et tout ça"
+- Code 5 : Évolution technologique
+- Verbatim : "Il faudrait voir où la technologie évolue…"
+- Code 6 : Comparaison avec d'autres technologies
+- Verbatim : "Comparé à la crypto par exemple..."
+- Code 7 : Différences dans les modèles de fonctionnement
+- Verbatim : "Une fois qu'il est entraîné... tu l'utilises juste..."
+- Code 8 : Continuité de l'entraînement
+- Verbatim : "ChatGPT est tout le temps en train d'être entraîné"
+- Code 9 : Production continue de contenu
+- Verbatim : "On produit, on produit, on produit des écritures et qu'on va jamais arrêter de nourrir le modèle"
+- Code 10 : Complexité de l'impact
+- Verbatim : "Ça dépend de l'angle de l'analyse qu'on prend."

@@ -1,0 +1,116 @@
+Voici les résultats de l'analyse qualitative de l'entretien avec Sylvestre :
+
+**Thème 1 : Perception de ChatGPT**
+
+* Code 1 : Définition de ChatGPT
+ * Verbatim : "Pour moi, le chat GPT, c'est euh un outil qui peut remplacer un moteur de recherche."
+* Code 2 : Utilisation de ChatGPT
+ * Verbatim : "Moi j'utilise... je pense actuellement maintenant ce que j'en fais, c'est ça dans la question ?"
+* Code 3 : Avantages de ChatGPT
+ * Verbatim : "Tu perds moins de temps que d’aller les chercher sur Internet."
+* Code 4 : Limitations de ChatGPT
+ * Verbatim : "J'ai de la peine à voir chatGPT comme un truc fini."
+* Code 5 : Exemples d'utilisation
+ * Verbatim : "Si tu lui demandes du code que ça marche directement et ben tu le mets dans ton code et c'est cool"
+* Code 6 : Intégration dans les études
+ * Verbatim : "Ça redéfinit la manière dont les étudiants travaillent."
+* Code 7 : Comparaison avec d'autres outils
+ * Verbatim : "J'ai d'autres outils que chatGPT."
+* Code 8 : Critiques de ChatGPT
+ * Verbatim : "Chat GPT est raciste."
+* Code 9 : Perception de la qualité
+ * Verbatim : "Le code que chatGPT génère est pas… fit pas avec ce que toi tu avais dans ton code"
+* Code 10 : Frustrations avec ChatGPT
+ * Verbatim : "Il faut reprendre chaque GPT plusieurs fois pour qu'il corrige le code."
+
+**Thème 2 : Études et compétences**
+
+* Code 1 : Filière d'études
+ * Verbatim : "Je fais un bachelor de génie électrique, spécialisation électronique embarquée et mécatronique."
+* Code 2 : Description des études
+ * Verbatim : "Je fais des natel, parce que voilà quoi, c'est les natels mais on a euh enfin tout ce qu'il y a dedans"
+* Code 3 : Compétences mathématiques
+ * Verbatim : "Il y a plein de maths et de de trucs... de trucs je pense compliqués pour la... mathématiquement pour le... la personne moyenne"
+* Code 4 : Perception de ses compétences
+ * Verbatim : "Pour ce qui est LLM, Machine Learning, tout ça, je me mettrais quand même plus bas que les gens qui ont fait des études en informatique."
+* Code 5 : Comparaison avec d'autres étudiants
+ * Verbatim : "Il y a des informaticiens, moi je ne le suis pas."
+* Code 6 : Sentiment d'infériorité
+ * Verbatim : "Je me mettrais quand même... Alors, par rapport à la population, oui. rapport aux gens, à mes pairs, il y a des informaticiens, moi je ne le suis pas."
+* Code 7 : Expérience avec la programmation
+ * Verbatim : "J'ai fait un cours spécifique, un cours à choix qui s'appelait Machine Learning."
+* Code 8 : Perception de la complexité
+ * Verbatim : "Des maths compliquées, des circuits imprimés, donc des cartes électroniques, et faire tourner les moteurs."
+* Code 9 : Sentiment de spécialisation
+ * Verbatim : "On se spécialise tous des espèces dans des sphères différentes"
+* Code 10 : Humilité
+ * Verbatim : "Sans méchanceté, mais..."
+
+**Thème 3 : Intelligence artificielle**
+
+* Code 1 : Définition de l'intelligence artificielle
+ * Verbatim : "Pour moi, « intelligence artificielle » ça ne veut rien dire."
+* Code 2 : Premières expériences avec l'IA
+ * Verbatim : "Ma première rencontre avec une intelligence artificielle je pense qu'elle vient des jeux vidéo"
+* Code 3 : Perception de l'IA dans les jeux vidéo
+ * Verbatim : "C'est juste comment réagit un ennemi ou un adversaire ou je sais pas quoi dans un jeu vidéo et du coup ça n'a rien d'intelligent"
+* Code 4 : Évolution de la perception de l'IA
+ * Verbatim : "Et genre là maintenant par contre pour moi, l'IA dont tu parles c'est l'IA dont tous les... à chaque fois celle qu'on entend à la télé ou à la radio ou machin"
+* Code 5 : Exemples d'applications de l'IA
+ * Verbatim : "Ça englobe pour moi la génération de textes, d'images, ça peut être des chatbots sur internet"
+* Code 6 : Perception de la complexité de l'IA
+ * Verbatim : "Rien de ça là-dedans. C'est juste le joueur fait ça, la machine répond à ça, etc."
+* Code 7 : Scepticisme envers l'IA
+ * Verbatim : "Je suis d'accord avec mon prof à me croire parce que « intelligence artificielle » pour moi ça ne veut rien dire."
+* Code 8 : Perception de la médiatisation de l'IA
+ * Verbatim : "L'IA dont tous les... à chaque fois celle qu'on entend à la télé ou à la radio ou machin"
+* Code 9 : Réflexion sur le terme "intelligence artificielle"
+ * Verbatim : "Bon du coup tu vas rigoler (rires). Bon du coup, moi ma première rencontre avec une intelligence artificielle"
+* Code 10 : Humour et malaise
+ * Verbatim : "(rires) Pour le moment, on rentre dans un problème"
+
+**Thème 4 : Impact de ChatGPT sur les études**
+
+* Code 1 : Changement dans les habitudes d'étude
+ * Verbatim : "Ça redéfinit la manière dont les étudiants travaillent."
+* Code 2 : Utilisation de ChatGPT pour les tâches académiques
+ * Verbatim : "Soit rechercher de l'information, soit créer du... pas du contenu, mais genre des... créer des... ce qu'il doit faire en cours."
+* Code 3 : Avantages de ChatGPT pour les étudiants
+ * Verbatim : "Tu perds moins de temps que d’aller les chercher sur Internet."
+* Code 4 : Limitations de ChatGPT pour les étudiants
+ * Verbatim : "J'ai de la peine à voir chatGPT comme un truc fini."
+* Code 5 : Exemples d'utilisation de ChatGPT pour les études
+ * Verbatim : "Si tu lui demandes du code que ça marche directement et ben tu le mets dans ton code et c'est cool"
+* Code 6 : Intégration de ChatGPT dans les études
+ * Verbatim : "Avant on n'avait pas le choix, soit on avait internet et on se débrouillait, maintenant on a GPT qui peut prémâcher le travail."
+* Code 7 : Perception de la qualité du travail produit avec ChatGPT
+ * Verbatim : "Le code que chatGPT génère est pas… fit pas avec ce que toi tu avais dans ton code"
+* Code 8 : Frustrations avec ChatGPT dans les études
+ * Verbatim : "Il faut reprendre chaque GPT plusieurs fois pour qu'il corrige le code."
+* Code 9 : Réflexion sur l'avenir de l'utilisation de ChatGPT dans les études
+ * Verbatim : "On va sûrement en parler parce que ça doit être sûrement dans les trucs mais"
+* Code 10 : Perception de l'impact de ChatGPT sur la qualité de l'apprentissage
+ * Verbatim : "Enfin, ça.. Avant on n'avait pas le choix, soit on avait internet et on se débrouillait, maintenant on a GPT qui peut prémâcher le travail."
+
+**Thème 5 : Relation entre l'étudiant et la technologie**
+
+* Code 1 : Familiarité avec la technologie
+ * Verbatim : "Je fais des natel, parce que voilà quoi, c'est les natels mais on a euh enfin tout ce qu'il y a dedans"
+* Code 2 : Perception de sa propre compétence technologique
+ * Verbatim : "Pour ce qui est LLM, Machine Learning, tout ça, je me mettrais quand même plus bas que les gens qui ont fait des études en informatique."
+* Code 3 : Expérience avec la programmation
+ * Verbatim : "J'ai fait un cours spécifique, un cours à choix qui s'appelait Machine Learning."
+* Code 4 : Perception de la complexité de la technologie
+ * Verbatim : "Des maths compliquées, des circuits imprimés, donc des cartes électroniques, et faire tourner les moteurs."
+* Code 5 : Sentiment d'appartenance à une communauté technologique
+ * Verbatim : "On se spécialise tous des espèces dans des sphères différentes"
+* Code 6 : Perception de l'évolution de la technologie
+ * Verbatim : "L'IA dont tous les... à chaque fois celle qu'on entend à la télé ou à la radio ou machin"
+* Code 7 : Réflexion sur l'impact de la technologie sur la société
+ * Verbatim : "Ça redéfinit la manière dont les étudiants travaillent."
+* Code 8 : Perception de la responsabilité de l'étudiant face à la technologie
+ * Verbatim : "Il faut reprendre chaque GPT plusieurs fois pour qu'il corrige le code."
+* Code 9 : Sentiment de confiance envers la technologie
+ * Verbatim : "Si tu lui demandes du code que ça marche directement et ben tu le mets dans ton code et c'est cool"
+* Code 10 : Perception de la limite entre l'humain et la machine
+ * Verbatim : "C'est juste le joueur fait ça, la machine répond à ça, etc."

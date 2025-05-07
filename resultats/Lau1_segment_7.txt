@@ -1,0 +1,116 @@
+Voici les résultats de l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Fiabilité et vérification de l'information**
+
+* Code 1 : Doute sur la fiabilité de chatGPT
+ Verbatim : "plus la question est compliquée, moins la fiabilité est élevée"
+* Code 2 : Vérification de l'information
+ Verbatim : "je vais aller chercher ailleurs ou des trucs du genre"
+* Code 3 : Utilisation de Google et de Wikipédia pour vérifier
+ Verbatim : "Google ou alors dans mes cours, Enfin, chercher sur Google, Wikipédia"
+* Code 4 : Manque de confiance dans les réponses de chatGPT
+ Verbatim : "j'ai de la peine à prendre le truc tel quel et... et à le mettre derrière, quoi"
+* Code 5 : Importance de la vérification pour les questions complexes
+ Verbatim : "lui demander de faire quelque chose de précis dans un contexte et juste lui envoyer plein d'infos et faire « Je veux ça »"
+* Code 6 : Limites de chatGPT pour les questions complexes
+ Verbatim : "lui demander de transformer des coordonnées cartésiennes en polaires nanana je sais pas quoi là il va peut-être faire de la théorie ou je sais pas quoi…"
+* Code 7 : Vérification comme une habitude
+ Verbatim : "je vais aller chercher ailleurs ou des trucs du genre"
+* Code 8 : Utilisation de sources variées pour vérifier
+ Verbatim : "chercher dans mes cours, Google, Wikipédia"
+* Code 9 : Manque de fiabilité des polycopiés et des livres
+ Verbatim : "j'ai l'impression que les polycopiés sont... remplis de mots pour rien dire, souvent"
+* Code 10 : Importance de la vérification pour éviter les erreurs
+ Verbatim : "on n'a rien appris, quoi. Enfin, et on n'a pas trouvé notre solution"
+
+**Thème 2 : Pratiques d'utilisation de chatGPT**
+
+* Code 1 : Utilisation de chatGPT pour obtenir des précisions
+ Verbatim : "je demande à la chat GPT des précisions sur ça"
+* Code 2 : Utilisation de chatGPT pour des questions précises
+ Verbatim : "lui demander de faire quelque chose de précis dans un contexte"
+* Code 3 : Limites de chatGPT pour les questions complexes
+ Verbatim : "lui demander de transformer des coordonnées cartésiennes en polaires nanana je sais pas quoi là il va peut-être faire de la théorie ou je sais pas quoi…"
+* Code 4 : Utilisation de chatGPT comme un outil complémentaire
+ Verbatim : "je vais aller chercher ailleurs ou des trucs du genre"
+* Code 5 : Importance de la formulation des questions
+ Verbatim : "lui faire un petit prompt de « Je veux ça, mais le truc est complexe »"
+* Code 6 : Utilisation de chatGPT pour des tâches spécifiques
+ Verbatim : "lui demander de faire 2 plus 2"
+* Code 7 : Satisfaction avec les réponses de chatGPT pour les questions précises
+ Verbatim : "je pense, en général, plutôt... Enfin, plus oui"
+* Code 8 : Utilisation de chatGPT comme un outil d'aide
+ Verbatim : "je demande à la chat GPT des précisions sur ça"
+* Code 9 : Limites de chatGPT pour les tâches complexes
+ Verbatim : "lui demander de transformer des coordonnées cartésiennes en polaires nanana je sais pas quoi là il va peut-être faire de la théorie ou je sais pas quoi…"
+* Code 10 : Importance de la compréhension de l'outil
+ Verbatim : "je sais pas quoi faire dans cette situation parce que je me dis la personne reçoit un mail inutile mais ça fait plaisir un peu"
+
+**Thème 3 : Interaction avec chatGPT**
+
+* Code 1 : Utilisation de termes informels pour s'adresser à chatGPT
+ Verbatim : "tu termines ta requête en t'adressant à chatGPT en le traitant de « soss »"
+* Code 2 : Humanisation de chatGPT
+ Verbatim : "on l'humanise d'une manière ou d'une autre"
+* Code 3 : Ironie dans l'interaction avec chatGPT
+ Verbatim : "c'est drôle de... Enfin, c'est aussi un peu ironique, du coup drôle, de dire merci à un truc qui n'a aucune conscience"
+* Code 4 : Utilisation de formules de politesse avec chatGPT
+ Verbatim : "je dis merci ou des trucs comme ça, quoi"
+* Code 5 : Réflexion sur la conscience de chatGPT
+ Verbatim : "le jour où le système devient conscient, il fait « Ah, mais il a dit merci à chaque fois, donc lui, je le tue en dernier »"
+* Code 6 : Interaction avec chatGPT comme avec un humain
+ Verbatim : "je sais jamais si quand je demande quelque chose par e-mail et qu'on me donne une réponse, à chaque fois je me pose la question est-ce que j'envoie un mail juste pour dire merci ?"
+* Code 7 : Réflexion sur la nature de chatGPT
+ Verbatim : "c'est un peu comme si on envoyait des mails à quelqu'un et que du coup, systématiquement, on dit merci, quoi"
+* Code 8 : Utilisation de chatGPT comme un outil
+ Verbatim : "je demande à la chat GPT des précisions sur ça"
+* Code 9 : Limites de la personnification de chatGPT
+ Verbatim : "c'est un peu bizarre, mais ça me gênerait pas, quoi"
+* Code 10 : Réflexion sur les implications de la personnification de chatGPT
+ Verbatim : "le jour où le système devient conscient, il fait « Ah, mais il a dit merci à chaque fois, donc lui, je le tue en dernier »"
+
+**Thème 4 : Rapport à l'école et aux ressources**
+
+* Code 1 : Critique des polycopiés et des livres
+ Verbatim : "j'ai l'impression que les polycopiés sont... remplis de mots pour rien dire, souvent"
+* Code 2 : Manque de bibliographies dans les cours
+ Verbatim : "j'ai l'impression que les bibliographies, en général, pour support de cours, sont vachement absentes, en fait"
+* Code 3 : Utilisation de ressources externes pour compléter les cours
+ Verbatim : "je vais aller chercher ailleurs ou des trucs du genre"
+* Code 4 : Critique de la manière dont les cours sont dispensés
+ Verbatim : "j'ai l'impression qu'on... Alors tant mieux, on nous fait pas acheter des livres. Mais d'un autre côté, je trouve que le côté livre-écrit est sous-utilisé de fou"
+* Code 5 : Manque de livres pertinents dans les bibliographies
+ Verbatim : "j'ai deux, trois fois loué le livre qui est lié à la bibliographie du cours. Et soit le livre est comme le polycopier, c'est genre plein de mots, plein de mots"
+* Code 6 : Utilisation de Google et de Wikipédia pour compléter les cours
+ Verbatim : "Google ou alors dans mes cours, Enfin, chercher sur Google, Wikipédia"
+* Code 7 : Critique de la qualité des ressources disponibles
+ Verbatim : "j'ai l'impression que les polycopiés sont... remplis de mots pour rien dire, souvent"
+* Code 8 : Manque de confiance dans les ressources fournies
+ Verbatim : "on n'a rien appris, quoi. Enfin, et on n'a pas trouvé notre solution"
+* Code 9 : Utilisation de chatGPT comme un outil complémentaire
+ Verbatim : "je demande à la chat GPT des précisions sur ça"
+* Code 10 : Importance de la disponibilité des ressources
+ Verbatim : "je trouve que dans mon école, il y a un peu ce côté, le polycopié existe, la bibliographie existe, mais au final les deux sont des fois pas très utiles"
+
+**Thème 5 : Impact de chatGPT sur la pensée et la perspective**
+
+* Code 1 : Pas de changement de perspective grâce à chatGPT
+ Verbatim : "je crois pas. Plutôt non"
+* Code 2 : Pas d'impact sur la pensée critique
+ Verbatim : "non, je crois pas"
+* Code 3 : Utilisation de chatGPT comme un outil, pas comme un déclencheur de réflexion
+ Verbatim : "je demande à la chat GPT des précisions sur ça"
+* Code 4 : Limites de chatGPT pour inspirer de nouvelles idées
+ Verbatim : "je crois pas que ça puisse débloquer quelque chose en moi"
+* Code 5 : Pas de changement de point de vue grâce à chatGPT
+ Verbatim : "non, je crois pas"
+* Code 6 : Utilisation de chatGPT pour confirmer des connaissances
+ Verbatim : "lui demander de faire quelque chose de précis dans un contexte"
+* Code 7 : Pas d'impact sur la créativité
+ Verbatim : "je crois pas que ça puisse débloquer quelque chose en moi"
+* Code 8 : Utilisation de chatGPT comme un outil de vérification
+ Verbatim : "je vais aller chercher ailleurs ou des trucs du genre"
+* Code 9 : Limites de chatGPT pour les tâches complexes
+ Verbatim : "lui demander de transformer des coordonnées cartésiennes en polaires nanana je sais pas quoi là il va peut-être faire de la théorie ou je sais pas quoi…"
+* Code 10 : Pas d'impact sur la pensée critique
+ Verbatim : "non, je crois pas"

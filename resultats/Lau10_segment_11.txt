@@ -1,0 +1,113 @@
+Pour l'analyse de l'entretien, je vais identifier et coder les thèmes pertinents en suivant la méthode qualitative. Je vais structurer mes résultats avec au moins 4 à 5 thèmes distincts, chacun avec environ 10 codes et leurs verbatim associés.
+
+### Thème 1 : Perception et Utilisation de l'IA
+- Code 1 : Perception positive de l'IA dans la formulation des mails
+  - Verbatim : "il le formule tellement mieux que moi"
+- Code 2 : Perception négative due à un manque d'humanité
+  - Verbatim : "un manque d'humanité"
+- Code 3 : Adaptation possible du langage et du style d'écriture
+  - Verbatim : "je pourrais adapter le langage, le style d'écriture"
+- Code 4 : Perception de l'IA comme une révolution
+  - Verbatim : "c'est une révolution, que ça change des pratiques, mais au même titre qu'Internet"
+- Code 5 : Incertitude sur l'évolution future de l'IA
+  - Verbatim : "je n'en sais rien"
+- Code 6 : Importance de la transparence dans l'utilisation de l'IA
+  - Verbatim : "j'aimerais qu'il y ait beaucoup plus de transparence"
+- Code 7 : Conscience des limites de l'IA
+  - Verbatim : "être conscient des limites"
+- Code 8 : Utilisation future de l'IA par les élèves
+  - Verbatim : "je pense que ça va continuer d'évoluer, ça va se démocratiser"
+- Code 9 : Nécessité d'une utilisation consciente de l'IA
+  - Verbatim : "utiliser presque consciemment l'IA"
+- Code 10 : Évolution inévitable de l'IA
+  - Verbatim : "c'est presque inévitable que ça révolutionne... nos pratiques de manière générale"
+
+### Thème 2 : Impact de l'IA sur l'Apprentissage
+- Code 1 : Potentiel de l'IA à révolutionner les techniques d'apprentissage
+  - Verbatim : "ça peut révolutionner les techniques d'apprentissage"
+- Code 2 : Utilisation de l'IA comme un outil
+  - Verbatim : "c'est un outil"
+- Code 3 : Nécessité de comprendre les limites de l'IA dans l'apprentissage
+  - Verbatim : "il faut juste savoir quelles sont les limites"
+- Code 4 : Thématisation de l'utilisation de l'IA
+  - Verbatim : "thématiser, ça peut peut-être même inciter à utiliser l'IA"
+- Code 5 : Encadrement des générations futures
+  - Verbatim : "encadrer les générations... et des générations futures aussi"
+- Code 6 : Utilisation de l'IA pour écrire une dissertation
+  - Verbatim : "tous les jeunes vont l'utiliser pour au moins une fois écrire une dissertation"
+- Code 7 : Discussion autour de l'utilisation de l'IA
+  - Verbatim : "on se met autour de la table, on discute"
+- Code 8 : Conscience des incohérences dans les réponses de l'IA
+  - Verbatim : "est-ce que vous vous êtes rendu compte qu'il y avait des incohérences ?"
+- Code 9 : Éducation sur l'utilisation et les enjeux de l'IA
+  - Verbatim : "rendre un cours obligatoire sur l'utilisation, sur les enjeux, les biais"
+- Code 10 : Apprentissage sur la construction de l'IA
+  - Verbatim : "j'ai beaucoup plus appris sur la manière dont c'est construit"
+
+### Thème 3 : Réglementation et Responsabilité
+- Code 1 : Nécessité d'une réglementation
+  - Verbatim : "c'est presque un devoir au niveau des chercheurs, des profs, de réglementer"
+- Code 2 : Responsabilité individuelle et collective
+  - Verbatim : "la sorte de responsabilité individuelle et collective qu'on a quand on utilise Chat-GPT"
+- Code 3 : Impact environnemental de l'IA
+  - Verbatim : "ça consomme énormément d'eau pour refroidir les machines et les serveurs"
+- Code 4 : Prise de conscience de l'impact environnemental
+  - Verbatim : "si on se rend compte que c'est très demandeur et polluant"
+- Code 5 : Réglementation future possible
+  - Verbatim : "ça sera peut-être plus réglementé"
+- Code 6 : Difficulté à anticiper les futures réglementations
+  - Verbatim : "difficile à savoir"
+- Code 7 : Équilibre entre réglementation et utilisation
+  - Verbatim : "faire les deux en même temps"
+- Code 8 : Conscience de l'impact de l'IA
+  - Verbatim : "être ok avec le fait d'être dépassé"
+- Code 9 : Discussion sur la responsabilité
+  - Verbatim : "on pourra de nouveau en discuter pendant un moment"
+- Code 10 : Prise en compte de l'aspect écologique
+  - Verbatim : "ça n'a pas vraiment à voir, mais peut-être que ça peut aussi changer les pratiques"
+
+### Thème 4 : Évolution et Futur de l'IA
+- Code 1 : Incertitude sur l'évolution de l'IA
+  - Verbatim : "je n'en sais rien"
+- Code 2 : Comparaison avec l'avènement d'Internet
+  - Verbatim : "c'est une révolution, que ça change des pratiques, mais au même titre qu'Internet"
+- Code 3 : Perception de l'ampleur de l'IA
+  - Verbatim : "c'est presque autant grand qu'internet"
+- Code 4 : Futur de l'utilisation de l'IA
+  - Verbatim : "je pense que ça va continuer, ça ne va pas s'arrêter"
+- Code 5 : Évolution continue de l'IA
+  - Verbatim : "ça évolue vite"
+- Code 6 : Importance de la recherche sur l'IA
+  - Verbatim : "c'est presque un devoir au niveau des chercheurs"
+- Code 7 : Impact sur les pratiques futures
+  - Verbatim : "ça va révolutionner nos pratiques de manière générale"
+- Code 8 : Incertitude sur la manière dont l'IA va s'organiser
+  - Verbatim : "je ne sais pas comment ça peut s'organiser"
+- Code 9 : Continuité de l'utilisation de l'IA
+  - Verbatim : "les gens vont continuer à l'utiliser"
+- Code 10 : Nécessité d'une adaptation continue
+  - Verbatim : "ça va continuer d'évoluer, il faut être prêt"
+
+### Thème 5 : Formation et Prise de Conscience
+- Code 1 : Importance d'un cours sur l'utilisation de l'IA
+  - Verbatim : "rendre un cours obligatoire sur l'utilisation, sur les enjeux, les biais"
+- Code 2 : Utilité d'un cours facultatif sur l'IA
+  - Verbatim : "le cours que j'ai eu, c'était un cours facultatif"
+- Code 3 : Apprentissage sur la construction de l'IA
+  - Verbatim : "j'ai beaucoup plus appris sur la manière dont c'est construit"
+- Code 4 : Prise de conscience des limites et des biais
+  - Verbatim : "être conscient des limites et des biais"
+- Code 5 : Nécessité d'une formation sur l'IA
+  - Verbatim : "c'est quelque chose qui peut vraiment aider les pratiques"
+- Code 6 : Curiosité pour l'apprentissage de l'IA
+  - Verbatim : "par curiosité, je dirais"
+- Code 7 : Importance de la transparence dans la formation
+  - Verbatim : "expliquer comment est-ce que ces IA sont créées"
+- Code 8 : Prise de conscience de l'impact de l'IA
+  - Verbatim : "être conscient de ce qu'il y a derrière"
+- Code 9 : Éducation sur les enjeux de l'IA
+  - Verbatim : "rendre un cours obligatoire sur les enjeux"
+- Code 10 : Utilisation consciente de l'IA après formation
+  - Verbatim : "utiliser presque consciemment l'IA"
+
+Chaque thème regroupe des codes qui sont étayés par des verbatim issus de l'entretien, illustrant ainsi les perceptions, les utilisations, les impacts, et les considérations futures relatives à l'IA. Ces thèmes et codes offrent une analyse qualitative riche et structurée de l'entretien.

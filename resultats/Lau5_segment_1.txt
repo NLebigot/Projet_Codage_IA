@@ -1,0 +1,116 @@
+Voici les résultats de l'analyse qualitative de l'entretien avec Jessica :
+
+**Thème 1 : Perception et représentation de ChatGPT**
+
+* Code 1 : Définition de ChatGPT
+ Verbatim : "Pour moi, c'est vraiment un outil qui est là pour aider et donner un coup de main."
+* Code 2 : Réaction initiale à ChatGPT
+ Verbatim : "Je trouvais ça délirant, incroyable. Jamais je n'avais imaginé qu'un outil comme ça pourrait m'aider."
+* Code 3 : Perception de la gratuité de ChatGPT
+ Verbatim : "Sa gratuité m'a surpris. Je me disais : 'Comment est-ce qu'un si grand nombre de personnes peut avoir accès à un outil aussi puissant gratuitement ?'"
+* Code 4 : Évolution potentielle de ChatGPT
+ Verbatim : "Je pense qu'il peut encore faire des choses plus incroyables."
+* Code 5 : Comparaison avec l'intelligence humaine
+ Verbatim : "Je pense que, pour certaines choses, ChatGPT peut dépasser l'humain."
+* Code 6 : Limites de ChatGPT
+ Verbatim : "Il y aura toujours des domaines où il manque des éléments, comme l'empathie ou l'émotionnel."
+* Code 7 : Utilité de ChatGPT dans les études
+ Verbatim : "Je l'utilise minimum une fois par semaine pour mes cours."
+* Code 8 : Utilisation de ChatGPT pour la rédaction
+ Verbatim : "Je m'en sers aussi pour générer des idées, notamment sur des problématiques ou des recherches liées à des contextes précis."
+* Code 9 : Perception de la menace que représente ChatGPT pour certains métiers
+ Verbatim : "Oui, clairement. Par exemple, mon copain, qui est à l'HEG, utilise ChatGPT depuis le début de sa formation."
+* Code 10 : Équilibre entre les capacités de ChatGPT et celles de l'humain
+ Verbatim : "L'humain garde toujours des compétences émotionnelles et une expertise pratique que ChatGPT ne peut pas remplacer, du moins pour le moment."
+
+**Thème 2 : Expérience personnelle et utilisation de ChatGPT**
+
+* Code 1 : Fréquence d'utilisation de ChatGPT
+ Verbatim : "Je dirais environ trois fois par semaine."
+* Code 2 : Utilisation de ChatGPT pour les études
+ Verbatim : "Je lui fais résumer un texte quand je n'ai pas envie de lire des pages entières."
+* Code 3 : Utilisation de ChatGPT pour la correction de texte
+ Verbatim : "Je l'utilise pour corriger mon français, surtout la grammaire et la syntaxe."
+* Code 4 : Utilisation de ChatGPT pendant les périodes de stress
+ Verbatim : "Pendant les rendus ou les périodes de stress, comme décembre et janvier, je peux l'utiliser presque tous les jours."
+* Code 5 : Découverte de ChatGPT à travers les pairs
+ Verbatim : "Des collègues ont commencé à m'en parler : 'C'est un outil magnifique, il faut l'utiliser, c'est essentiel.'"
+* Code 6 : Perception de l'interdiction de ChatGPT dans certaines formations
+ Verbatim : "Ça m'a agacée. Je ne suis pas stupide, je ne vais pas soumettre un article entièrement rédigé par ChatGPT sans y apporter ma touche personnelle."
+* Code 7 : Raisons de l'interdiction de ChatGPT
+ Verbatim : "Je pense qu'ils ont peur pour la profession. Ils craignent que les étudiants deviennent de moins bons chercheurs, incapables de rédiger eux-mêmes des textes."
+* Code 8 : Utilisation de ChatGPT pour la recherche
+ Verbatim : "ChatGPT n'a pas accès à ces données, mais si on les lui fournit, il peut produire des textes très bien construits."
+* Code 9 : Évaluation de la capacité de ChatGPT à écrire un article scientifique
+ Verbatim : "Je pense que ChatGPT pourrait écrire un article scientifique."
+* Code 10 : Connaissance des algorithmes de l'IA
+ Verbatim : (La réponse est coupée, mais on peut supposer que Jessica n'a pas une connaissance approfondie des algorithmes de l'IA.)
+
+**Thème 3 : Impact de ChatGPT sur la formation et la profession**
+
+* Code 1 : Perception de l'impact de ChatGPT sur la formation
+ Verbatim : "Pour l'enseignement, ChatGPT prend déjà beaucoup de place."
+* Code 2 : Perception de l'impact de ChatGPT sur la profession
+ Verbatim : "Je pense que certains métiers ou formations pourraient être menacés."
+* Code 3 : Évaluation de la capacité de ChatGPT à remplacer certaines tâches
+ Verbatim : "ChatGPT peut dépasser l'humain pour certaines choses."
+* Code 4 : Limites de ChatGPT dans certaines professions
+ Verbatim : "Il y aura toujours des domaines où il manque des éléments, comme l'empathie ou l'émotionnel."
+* Code 5 : Perception de la nécessité de former les étudiants à l'utilisation de ChatGPT
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica pense que les étudiants devraient être formés à utiliser ChatGPT de manière responsable.)
+* Code 6 : Évaluation de la position des enseignants face à ChatGPT
+ Verbatim : "Les profs ne mentionnaient pas cet outil."
+* Code 7 : Perception de la confiance accordée aux étudiants pour utiliser ChatGPT
+ Verbatim : "Ça donne l'impression qu'ils ne font pas confiance à notre capacité à l'utiliser correctement."
+* Code 8 : Évaluation de la capacité de ChatGPT à améliorer les compétences des étudiants
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica pense que ChatGPT peut être un outil utile pour les étudiants.)
+* Code 9 : Perception de l'avenir de ChatGPT dans la formation et la profession
+ Verbatim : "Je pense qu'il peut encore faire des choses plus incroyables."
+* Code 10 : Évaluation de la nécessité de réfléchir aux implications éthiques de l'utilisation de ChatGPT
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica pense que les implications éthiques de l'utilisation de ChatGPT devraient être prises en compte.)
+
+**Thème 4 : Positionnement personnel et professionnel**
+
+* Code 1 : Parcours académique et professionnel
+ Verbatim : "J'ai été au gymnase de Burier, où j'ai suivi une formation en école de commerce."
+* Code 2 : Perception de son propre positionnement par rapport à la technologie
+ Verbatim : "Je n'étais pas très 'technologie'."
+* Code 3 : Évaluation de l'utilisation de ChatGPT dans son propre parcours
+ Verbatim : "Je l'utilise minimum une fois par semaine pour mes cours."
+* Code 4 : Perception de l'impact de ChatGPT sur son propre travail
+ Verbatim : "Je trouve que ChatGPT explique mieux certains concepts que mes professeurs."
+* Code 5 : Évaluation de la nécessité de développer des compétences complémentaires à ChatGPT
+ Verbatim : "L'humain garde toujours des compétences émotionnelles et une expertise pratique que ChatGPT ne peut pas remplacer."
+* Code 6 : Perception de son propre rôle en tant qu'étudiante en travail social
+ Verbatim : "En travail social, on a une fibre humaine, une expérience, qu'il n'a pas encore."
+* Code 7 : Évaluation de la place de ChatGPT dans son propre domaine d'étude
+ Verbatim : "En master, par contre, c'est différent. Il y a eu un module où on nous a clairement dit : 'Vous avez intérêt à ne pas utiliser ChatGPT.'"
+* Code 8 : Perception de son propre avenir professionnel
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica est consciente des défis et des opportunités que présente ChatGPT pour son avenir professionnel.)
+* Code 9 : Évaluation de la nécessité de prendre en compte les implications sociales de l'utilisation de ChatGPT
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica pense que les implications sociales de l'utilisation de ChatGPT devraient être prises en compte.)
+* Code 10 : Perception de son propre rôle en tant qu'utilisateur de ChatGPT
+ Verbatim : "Je ne suis pas stupide, je ne vais pas soumettre un article entièrement rédigé par ChatGPT sans y apporter ma touche personnelle."
+
+**Thème 5 : Enjeux et défis liés à l'utilisation de ChatGPT**
+
+* Code 1 : Perception des enjeux liés à l'utilisation de ChatGPT
+ Verbatim : "Je pense qu'ils ont peur pour la profession."
+* Code 2 : Évaluation des défis liés à l'utilisation de ChatGPT
+ Verbatim : "Ça donne l'impression qu'ils ne font pas confiance à notre capacité à l'utiliser correctement."
+* Code 3 : Perception des risques liés à l'utilisation de ChatGPT
+ Verbatim : "Je pense que certains métiers ou formations pourraient être menacés."
+* Code 4 : Évaluation des opportunités liées à l'utilisation de ChatGPT
+ Verbatim : "Je trouve que ChatGPT explique mieux certains concepts que mes professeurs."
+* Code 5 : Perception de la nécessité de réguler l'utilisation de ChatGPT
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica pense que l'utilisation de ChatGPT devrait être régulée.)
+* Code 6 : Évaluation de la nécessité de former les utilisateurs de ChatGPT
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica pense que les utilisateurs de ChatGPT devraient être formés.)
+* Code 7 : Perception de la nécessité de prendre en compte les implications éthiques de l'utilisation de ChatGPT
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica pense que les implications éthiques de l'utilisation de ChatGPT devraient être prises en compte.)
+* Code 8 : Évaluation de la nécessité de développer des compétences complémentaires à ChatGPT
+ Verbatim : "L'humain garde toujours des compétences émotionnelles et une expertise pratique que ChatGPT ne peut pas remplacer."
+* Code 9 : Perception de l'avenir de ChatGPT
+ Verbatim : "Je pense qu'il peut encore faire des choses plus incroyables."
+* Code 10 : Évaluation de la nécessité de réfléchir aux implications à long terme de l'utilisation de ChatGPT
+ Verbatim : (Pas de verbatim explicite, mais on peut déduire que Jessica pense que les implications à long terme de l'utilisation de ChatGPT devraient être prises en compte.)

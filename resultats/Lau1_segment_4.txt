@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+### Thème 1 : Perception de l'outil chatGPT
+- Code 1 : Utilité pour éviter la page blanche
+  - Verbatim : "Je crois qu'il y a aussi un truc de chatGPT, c'est éviter la page blanche."
+- Code 2 : Génération de contenu initial
+  - Verbatim : "Tu génères un truc, t'as un peu une phrase, et du coup tu peux recopier ça, écrire, commencer à écrire ta conclusion, et là ça aide."
+- Code 3 : Limite de la reformulation
+  - Verbatim : "Je pense tu perds trop de temps à le faire reformuler parfaitement comme tu voudrais au lieu de juste l'écrire comme tu voudrais en fait."
+- Code 4 : Utilisation pour les tâches de rédaction
+  - Verbatim : "C'est un peu... Je ne sais pas, j'ai l'impression que c'est plus... Tu vas prendre ton squelette et essayer de saupoudrer des trucs dessus, quoi."
+- Code 5 : Satisfaction variable
+  - Verbatim : "Juste si génère mon truc et que ça me satisfait, ça me va."
+- Code 6 : Dépendance à l'outil
+  - Verbatim : "J'ai l'impression que sur chatGPT, on a une meilleure tente de juste... Prendre l'original et nous rajouter des parts dessus."
+- Code 7 : Utilisation non systématique de la version payante
+  - Verbatim : "Je trouve ça... Pas intéressant. Je sais pas s'il y a un truc étudiants pauvres du coup je paye pas d'abonnement"
+- Code 8 : Intérêt pour les fonctionnalités avancées
+  - Verbatim : "Mais là par contre ils ont cette feature, je sais pas si elle existe vraiment ou ils l'ont tease, mais là ils ont l'air d'avoir les voix qui répondent assez vite et avec des intonations et des trucs comme ça."
+- Code 9 : Utilisation occasionnelle
+  - Verbatim : "Je pense que j'utilise trop rarement, peu souvent plutôt, chatGPT pour vraiment m'intéresser sur ce que c'est la différence, etc."
+- Code 10 : Manque de connaissance sur les avantages de la version payante
+  - Verbatim : "Si il y en a, je ne les connais pas."
+
+### Thème 2 : Expérience avec la programmation et les outils numériques
+- Code 1 : Difficultés avec Python
+  - Verbatim : "C'est une langue... Donc ce cours, je le répète en plus (rires). Et du coup, l'année passée, j'étais un peu trop fier."
+- Code 2 : Comparaison avec MATLAB
+  - Verbatim : "Team MATLAB, c'est... Tu m’interromps si, si c'est pas important. Team MATLAB, en gros, c'est payer cher pour avoir un logiciel qui est tout intégré, fonctionne bien"
+- Code 3 : Problèmes de documentation
+  - Verbatim : "Le problème c'est que la doc est sur internet et du coup c'est une aventure à chaque fois pour comprendre ce que c'est ce X dans l'appel de fonction."
+- Code 4 : Utilité de chatGPT pour la programmation
+  - Verbatim : "Et chatGPT, ça devient... Enfin, chatGPT ou l'ami GitHub copilote, qui du coup... Enfin bref, c'est à peu près la même chose, on va dire."
+- Code 5 : Évolution de l'enseignement de la programmation
+  - Verbatim : "Big Up à mon école, parce qu'en fait, ils sont en train de retourner la tendance."
+- Code 6 : Changement dans les compétences requises
+  - Verbatim : "Il semblerait que la tendance elle va être inversée parce qu'il reste plus qu'un cours qui a besoin de MATLAB"
+- Code 7 : Sentiment d'être dépassé
+  - Verbatim : "Je comprends le but de ces labos sur papier en théorie mais en fait les fonctions elles ont déjà été optimisées par un informaticien fou"
+- Code 8 : Frustration face aux tâches de programmation
+  - Verbatim : "On réécrit ses fonctions mais c'est pas très utile j'ai l'impression"
+- Code 9 : Appréciation de la documentation MATLAB
+  - Verbatim : "C'est pas forcément plus simple, mais... Et surtout, j'ai l'impression que les cours de Python en général, les profs nous orientent vers les fonctions à utiliser."
+- Code 10 : Perception de la complexité
+  - Verbatim : "Mélanger ce truc des transformateurs fouriers, des machins et des trucs à Python, que moi en tout cas en première année j'avais jamais touché à Python de ma vie, du coup c'est un gros problème."
+
+### Thème 3 : Stratégies d'apprentissage et utilisation des ressources
+- Code 1 : Utilisation de chatGPT comme aide
+  - Verbatim : "J'ai l'impression que sur chatGPT, on a une meilleure tente de juste... Prendre l'original et nous rajouter des parts dessus."
+- Code 2 : Dépendance aux ressources externes
+  - Verbatim : "Et du coup, en fonction du traitement de signal, donc il y a des filtres, il y a des... Tout ce qui est de la corrélation"
+- Code 3 : Recherche d'aide
+  - Verbatim : "Un ami à moi qui lui a fini son bachelor a fini ce cours sans chatGPT. Mais on parle quand même d'une charge de travail de7 à8 heures par semaine"
+- Code 4 : Changement de stratégie
+  - Verbatim : "J'étais là, non, je veux pas utiliser ChatGPT, gna gna gna, c'est bon. Je vais juste travailler, ça va marcher. Ça à pas marché"
+- Code 5 : Évaluation des outils
+  - Verbatim : "Copilote, c'est mieux. Dans ce cas-là. C'est quand même salvateur pour ça."
+- Code 6 : Adaptation aux nouvelles technologies
+  - Verbatim : "Mais là par contre ils ont cette feature, je sais pas si elle existe vraiment ou ils l'ont tease, mais là ils ont l'air d'avoir les voix qui répondent assez vite et avec des intonations"
+- Code 7 : Perception de la charge de travail
+  - Verbatim : "7 à8 heures sont... surdosé. C'est beaucoup trop pour ce que le cours devrait être."
+- Code 8 : Comparaison entre différentes approches
+  - Verbatim : "Il y a Team MATLAB et Team Python."
+- Code 9 : Influence de l'environnement d'apprentissage
+  - Verbatim : "Je pense que c'est plus simple de chercher de la doc MATLAB que de la doc Python."
+- Code 10 : Réflexion sur les méthodes d'enseignement
+  - Verbatim : "Je comprends tout à fait cette pensée quand on fait des maths sans calculatrice, mais Dans le principe du cours, j'ai un peu de la peine."
+
+### Thème 4 : Attitudes envers la technologie et l'innovation
+- Code 1 : Ouverture aux nouvelles fonctionnalités
+  - Verbatim : "Et ça, je crois que j'ai envie d'essayer, mais juste pour le fun et pas pour du travail."
+- Code 2 : Perception de l'évolution technologique
+  - Verbatim : "Ce que j'essaye de dire c'est qu'il avait la payante mais de l'ancienne version et là maintenant ça s'est amélioré, ça s'améliore toujours plus."
+- Code 3 : Réticence à payer pour des services
+  - Verbatim : "Je sais pas s'il y a un truc étudiants pauvres du coup je paye pas d'abonnement"
+- Code 4 : Intérêt pour les innovations
+  - Verbatim : "Ils ont l'air d'avoir les voix qui répondent assez vite et avec des intonations et des trucs comme ça."
+- Code 5 : Évaluation de la valeur ajoutée
+  - Verbatim : "Je trouve ça... Pas intéressant."
+- Code 6 : Considération de la gratuité pour les étudiants
+  - Verbatim : "Si OpenAI c'est un truc genre gratuit pour les étudiants. Un truc du genre. Ce serait pas impossible que j'essaye."
+- Code 7 : Réflexion sur l'adoption des technologies
+  - Verbatim : "Early Adopter qui, je suppose, c'est lui qui m'a fait découvrir chatGPT."
+- Code 8 : Perception des avantages et des limites
+  - Verbatim : "Je ne les connais pas."
+- Code 9 : Comparaison entre les versions
+  - Verbatim : "C'était chat GPT3 encore, et là on doit être à4, un truc du genre."
+- Code 10 : Impact sur les habitudes de travail
+  - Verbatim : "Tu génères un truc, t'as un peu une phrase, et du coup tu peux recopier ça, écrire, commencer à écrire ta conclusion"
+
+### Thème 5 : Défis et limites rencontrés
+- Code 1 : Limites de chatGPT
+  - Verbatim : "Je pense tu perds trop de temps à le faire reformuler parfaitement comme tu voudrais au lieu de juste l'écrire comme tu voudrais en fait."
+- Code 2 : Difficultés avec les tâches complexes
+  - Verbatim : "Mélanger ce truc des transformateurs fouriers, des machins et des trucs à Python, que moi en tout cas en première année j'avais jamais touché à Python de ma vie"
+- Code 3 : Problèmes de compréhension
+  - Verbatim : "C'est une aventure à chaque fois pour comprendre ce que c'est ce X dans l'appel de fonction."
+- Code 4 : Frustration face aux échecs
+  - Verbatim : "J'étais là, non, je veux pas utiliser ChatGPT, gna gna gna, c'est bon. Je vais juste travailler, ça va marcher. Ça à pas marché"
+- Code 5 : Sentiment d'insatisfaction
+  - Verbatim : "7 à8 heures sont... surdosé. C'est beaucoup trop pour ce que le cours devrait être."
+- Code 6 : Difficultés à suivre les cours
+  - Verbatim : "Je comprends le but de ces labos sur papier en théorie mais en fait les fonctions elles ont déjà été optimisées par un informaticien fou"
+- Code 7 : Manque de soutien
+  - Verbatim : "Je suis pas très fort à ce cours et j'ai pas beaucoup d'aide, d'amour pour ce cours on va dire."
+- Code 8 : Perception de la difficulté
+  - Verbatim : "C'est un gros problème."
+- Code 9 : Limites de la documentation
+  - Verbatim : "La doc est sur internet et du coup c'est une aventure à chaque fois pour comprendre"
+- Code 10 : Évaluation de l'efficacité
+  - Verbatim : "C'est pas très utile j'ai l'impression et le temps de réécrire la fonction aussi on comprend plus ce qu'on doit faire de base j'ai l'impression"

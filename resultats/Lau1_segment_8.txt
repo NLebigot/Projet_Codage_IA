@@ -1,0 +1,116 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Intégration de chatGPT dans les pratiques d'apprentissage**
+
+* Code 1 : Utilisation de chatGPT comme complément aux autres sources d'information
+ Verbatim : "Je pense qu'il n'a rien remplacé, il s'est juste fait une nouvelle place, en vrai."
+* Code 2 : Remplacement partiel de Google dans les recherches
+ Verbatim : "Bah, en tout cas, comme j'ai dit un peu, je fais pas tant que ça de recherche physique, papier, enfin, que ce soit des e-books, mais j'entends bibliothèque, bibliographie."
+* Code 3 : Utilisation de chatGPT pour des tâches spécifiques
+ Verbatim : "Il y a un autre outil pour faire du code, et je pense que sans ça… Il y a vraiment… Enfin, je finirais le cours avec des lacunes et des trucs comme ça."
+* Code 4 : chatGPT comme outil d'aide à l'apprentissage
+ Verbatim : "Je pense qu'il y a quand même un avantage à l'utiliser. Si… enfin, comparé à quelqu'un qui ne l'utilise pas, il doit y avoir des avantages."
+* Code 5 : Intégration de chatGPT dans une économie d'échange
+ Verbatim : "Ça s'est inséré dans une économie d'échange très précise."
+* Code 6 : Utilisation de chatGPT en fonction des besoins spécifiques
+ Verbatim : "Je n'ai pas l'impression d'être dépendant en général de chat GPT, mais il y a certains cours où vraiment c'est pas nécessaire mais c'est très utile."
+* Code 7 : Utilisation de chatGPT pour des tâches académiques
+ Verbatim : "Je l'utilise pour... minimiser le stress potentiel que tu vas ressentir face à un rendu."
+* Code 8 : Perception de l'utilité de chatGPT par rapport aux autres étudiants
+ Verbatim : "J'ai l'impression qu'on était... Non, qu'il y a et qu’il y avait une minorité à ne pas utiliser chatGPT."
+* Code 9 : Utilisation de chatGPT pour éviter le travail acharné
+ Verbatim : "Bah… J'ai pas envie de mettre le travail, et du coup, chatGPT a la réponse, donc tu utilises chatGPT."
+* Code 10 : Perception de la dépendance à chatGPT
+ Verbatim : "Pas de chat GPT, mais oui de l'IA, entre guillemets, je pense."
+
+**Thème 2 : Perception de l'avantage compétitif procuré par chatGPT**
+
+* Code 1 : Perception de l'avantage compétitif
+ Verbatim : "Je pense qu'il y a quand même un avantage à l'utiliser."
+* Code 2 : Utilisation généralisée de chatGPT parmi les étudiants
+ Verbatim : "J'ai l'impression qu'on était... Non, qu'il y a et qu’il y avait une minorité à ne pas utiliser chatGPT."
+* Code 3 : Difficulté à identifier l'avantage compétitif
+ Verbatim : "J'arrive pas à... Enfin... Ah, comment on dit ? «When everybody is super, nobody is»…"
+* Code 4 : Perception de l'avantage en fonction de la situation individuelle
+ Verbatim : "Moi, j'ai l'impression qu'on est... Alors, je vais pas prendre cette année parce que j'ai un peu changé mes camarades de classe et tout ça, donc je saurais pas donner une vision claire"
+* Code 5 : Hypothèse sur l'avantage compétitif
+ Verbatim : "Si… enfin, comparé à quelqu'un qui ne l'utilise pas, il doit y avoir des avantages."
+* Code 6 : Utilisation de chatGPT comme facteur de gain de temps
+ Verbatim : "Je l'utilise pour... minimiser le stress potentiel que tu vas ressentir face à un rendu."
+* Code 7 : Utilisation de chatGPT pour pallier un manque de travail
+ Verbatim : "Bah… J'ai pas envie de mettre le travail, et du coup, chatGPT a la réponse, donc tu utilises chatGPT."
+* Code 8 : Perception de la valeur ajoutée de chatGPT
+ Verbatim : "Il y a un autre outil pour faire du code, et je pense que sans ça… Il y a vraiment… Enfin, je finirais le cours avec des lacunes et des trucs comme ça."
+* Code 9 : Difficulté à évaluer l'impact de chatGPT sur les résultats académiques
+ Verbatim : "Je ne sais pas si ça donne vraiment un avantage vu que moi je n'ai pas fini mon (rire) mon bachelor."
+* Code 10 : Perception de l'utilité de chatGPT dans certaines situations
+ Verbatim : "Je n'ai pas l'impression d'être dépendant en général de chat GPT, mais il y a certains cours où vraiment c'est pas nécessaire mais c'est très utile."
+
+**Thème 3 : Dépendance à chatGPT et impact sur les pratiques**
+
+* Code 1 : Perception de la dépendance à chatGPT
+ Verbatim : "Pas de chat GPT, mais oui de l'IA, entre guillemets, je pense."
+* Code 2 : Utilisation de chatGPT pour des tâches spécifiques
+ Verbatim : "Il y a un autre outil pour faire du code, et je pense que sans ça… Il y a vraiment… Enfin, je finirais le cours avec des lacunes et des trucs comme ça."
+* Code 3 : Perception de la nécessité de chatGPT dans certaines situations
+ Verbatim : "Je n'ai pas l'impression d'être dépendant en général de chat GPT, mais il y a certains cours où vraiment c'est pas nécessaire mais c'est très utile."
+* Code 4 : Utilisation de chatGPT pour éviter le stress
+ Verbatim : "Je l'utilise pour... minimiser le stress potentiel que tu vas ressentir face à un rendu."
+* Code 5 : Perception de la dépendance à l'IA en général
+ Verbatim : "Pas de chat GPT, mais oui de l'IA, entre guillemets, je pense."
+* Code 6 : Utilisation de chatGPT pour pallier un manque de travail
+ Verbatim : "Bah… J'ai pas envie de mettre le travail, et du coup, chatGPT a la réponse, donc tu utilises chatGPT."
+* Code 7 : Difficulté à distinguer entre dépendance et utilité
+ Verbatim : "Non, j'ai dit très utile. J'ai dit quand que j’étais dépendant?"
+* Code 8 : Perception de l'impact de chatGPT sur les pratiques d'apprentissage
+ Verbatim : "Ça s'est inséré dans une économie d'échange très précise."
+* Code 9 : Utilisation de chatGPT en fonction des besoins spécifiques
+ Verbatim : "Je n'ai pas l'impression d'être dépendant en général de chat GPT, mais il y a certains cours où vraiment c'est pas nécessaire mais c'est très utile."
+* Code 10 : Perception de la valeur ajoutée de chatGPT dans certaines situations
+ Verbatim : "Il y a un autre outil pour faire du code, et je pense que sans ça… Il y a vraiment… Enfin, je finirais le cours avec des lacunes et des trucs comme ça."
+
+**Thème 4 : Contextualisation de l'utilisation de chatGPT**
+
+* Code 1 : Contexte d'utilisation de chatGPT
+ Verbatim : "Je l'utilise pour... minimiser le stress potentiel que tu vas ressentir face à un rendu."
+* Code 2 : Type de tâches pour lesquelles chatGPT est utilisé
+ Verbatim : "Il y a un autre outil pour faire du code, et je pense que sans ça… Il y a vraiment… Enfin, je finirais le cours avec des lacunes et des trucs comme ça."
+* Code 3 : Perception de l'utilité de chatGPT dans différents contextes
+ Verbatim : "Je n'ai pas l'impression d'être dépendant en général de chat GPT, mais il y a certains cours où vraiment c'est pas nécessaire mais c'est très utile."
+* Code 4 : Comparaison avec d'autres outils et méthodes
+ Verbatim : "Bah, en tout cas, comme j'ai dit un peu, je fais pas tant que ça de recherche physique, papier, enfin, que ce soit des e-books, mais j'entends bibliothèque, bibliographie."
+* Code 5 : Évaluation de l'impact de chatGPT sur les résultats académiques
+ Verbatim : "Je ne sais pas si ça donne vraiment un avantage vu que moi je n'ai pas fini mon (rire) mon bachelor."
+* Code 6 : Perception de la valeur ajoutée de chatGPT dans certaines situations
+ Verbatim : "Il y a un autre outil pour faire du code, et je pense que sans ça… Il y a vraiment… Enfin, je finirais le cours avec des lacunes et des trucs comme ça."
+* Code 7 : Utilisation de chatGPT en fonction des besoins spécifiques
+ Verbatim : "Je n'ai pas l'impression d'être dépendant en général de chat GPT, mais il y a certains cours où vraiment c'est pas nécessaire mais c'est très utile."
+* Code 8 : Contexte d'apprentissage et utilisation de chatGPT
+ Verbatim : "Ça s'est inséré dans une économie d'échange très précise."
+* Code 9 : Type de tâches pour lesquelles chatGPT n'est pas utilisé
+ Verbatim : "Si je devais refaire les maths maintenant, je n'utiliserais pas de chat GPT."
+* Code 10 : Perception de l'utilité de chatGPT par rapport aux autres étudiants
+ Verbatim : "J'ai l'impression qu'on était... Non, qu'il y a et qu’il y avait une minorité à ne pas utiliser chatGPT."
+
+**Thème 5 : Analyse réflexive sur l'utilisation de chatGPT**
+
+* Code 1 : Réflexion sur l'utilisation de chatGPT
+ Verbatim : "Je pense qu'il n'a rien remplacé, il s'est juste fait une nouvelle place, en vrai."
+* Code 2 : Évaluation de l'impact de chatGPT sur les pratiques d'apprentissage
+ Verbatim : "Ça s'est inséré dans une économie d'échange très précise."
+* Code 3 : Perception de la valeur ajoutée de chatGPT
+ Verbatim : "Il y a un autre outil pour faire du code, et je pense que sans ça… Il y a vraiment… Enfin, je finirais le cours avec des lacunes et des trucs comme ça."
+* Code 4 : Analyse de la dépendance à chatGPT
+ Verbatim : "Pas de chat GPT, mais oui de l'IA, entre guillemets, je pense."
+* Code 5 : Réflexion sur les avantages et les inconvénients de chatGPT
+ Verbatim : "Je ne sais pas si ça donne vraiment un avantage vu que moi je n'ai pas fini mon (rire) mon bachelor."
+* Code 6 : Évaluation de l'utilité de chatGPT dans différentes situations
+ Verbatim : "Je n'ai pas l'impression d'être dépendant en général de chat GPT, mais il y a certains cours où vraiment c'est pas nécessaire mais c'est très utile."
+* Code 7 : Perception de l'impact de chatGPT sur les résultats académiques
+ Verbatim : "Je l'utilise pour... minimiser le stress potentiel que tu vas ressentir face à un rendu."
+* Code 8 : Analyse de la relation entre chatGPT et les autres outils et méthodes
+ Verbatim : "Bah, en tout cas, comme j'ai dit un peu, je fais pas tant que ça de recherche physique, papier, enfin, que ce soit des e-books, mais j'entends bibliothèque, bibliographie."
+* Code 9 : Réflexion sur les limites de chatGPT
+ Verbatim : "Si je devais refaire les maths maintenant, je n'utiliserais pas de chat GPT."
+* Code 10 : Évaluation de l'utilité de chatGPT par rapport aux autres étudiants
+ Verbatim : "J'ai l'impression qu'on était... Non, qu'il y a et qu’il y avait une minorité à ne pas utiliser chatGPT."

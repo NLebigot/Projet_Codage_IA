@@ -1,0 +1,95 @@
+Pour analyser l'entretien donné, je vais d'abord le diviser en segments pertinents, puis identifier les thèmes et les codes associés à chaque thème.
+
+### Segment 1 : Utilisation de ChatGPT pour clarifier des concepts
+- Thème : Perception de l'utilité de ChatGPT
+ - Code1 : Utilisation pour clarifier
+ - Verbatim : "Pas pour clarifier mais peut-être si je rentre d'une interview et que j'ai l'impression qu'il y a plusieurs thèmes qui se dégagent pour structurer."
+ - Code2 : Structuration de la pensée
+ - Verbatim : "J'ai plus l'impression que je peux l'utiliser potentiellement pour structurer."
+ - Code3 : Subjectivité de l'usage
+ - Verbatim : "Après, je sais que c'est hyper subjectif"
+ - Code4 : Comparaison avec une conversation
+ - Verbatim : "Comme si je parlais à quelqu'un, quoi."
+ - Code5 : Fréquence d'utilisation pour clarifier
+ - Verbatim : "J'ai pas l'impression que j'utilise assez souvent pour clarifier des choses des profs."
+ - Code6 : Préférence pour une autre méthode
+ - Verbatim : "En général, si je comprends pas, je demande au prof."
+ - Code7 : Raisons de la non-utilisation
+ - Verbatim : "J'étais pas très attentive. Ou alors je pensais que c'était clair jusqu'à ce que je me pose devant ma feuille."
+ - Code8 : Utilisation contextuelle
+ - Verbatim : "C'est surtout qu'en général, si je comprends pas, je demande au prof."
+ - Code9 : Révision de la demande
+ - Verbatim : "À la fin je précise ma demande à chaque fois."
+ - Code10 : Évaluation de la réponse
+ - Verbatim : "Il me met des emojis et ça me... Je suis pas sûre que ça me convainc"
+
+### Segment 2 : Utilisation de ChatGPT pour la créativité et la recherche d'idées
+- Thème : Impact de ChatGPT sur la créativité
+ - Code1 : Utilisation pour des idées
+ - Verbatim : "J'ai un sujet, donc c'est les sujets qui sont en général imposés."
+ - Code2 : Processus de réflexion
+ - Verbatim : "Je dois faire un reportage. Où est-ce que je commence ? Sûrement, je ne me rappelle plus exactement, mais j'ai sûrement déjà pris des notes, déjà réfléchi"
+ - Code3 : Rôle de ChatGPT dans la créativité
+ - Verbatim : "Je pense que c'est pour ça que je n'ai pas un très très grand usage de ChatGPT, parce que je préfère avoir une idée d'abord moi."
+ - Code4 : Préservation de la créativité personnelle
+ - Verbatim : "Je trouve que c'est assez... C'est assez difficile de se dire que peut-être que je ne suis pas créative et que Chat-GPT est plus fort que moi."
+ - Code5 : Utilisation comme outil complémentaire
+ - Verbatim : "J'aime d'abord me dire que je peux avoir une bonne idée, je vais voir si Chat-GPT en a une autre"
+ - Code6 : Évaluation de l'efficacité
+ - Verbatim : "J'étais pas très inspirée par ce thème des influenceurs."
+ - Code7 : Impact sur la créativité
+ - Verbatim : "Je pense que ça pourrait potentiellement m'ouvrir des nouvelles pistes et du coup stimuler ma curiosité et ma créativité."
+ - Code8 : Perception de la créativité de ChatGPT
+ - Verbatim : "Je trouve qu'il est pas vraiment très créatif."
+ - Code9 : Raisons de la non-créativité de ChatGPT
+ - Verbatim : "C'est juste des probabilités, donc ça me rassure encore sur le fait qu'effectivement, c'est juste des choses qui ont déjà été faites"
+ - Code10 : Utilisation pour renforcer la créativité
+ - Verbatim : "Ça peut renforcer ma créativité, dans le sens où bah voilà je suis coincée dans une idée de sujet"
+
+### Segment 3 : Perception de ChatGPT comme outil
+- Thème : Perception de ChatGPT
+ - Code1 : Perception comme outil
+ - Verbatim : "Je le prends un peu plus comme ça. Donc en général, c'est soit quand j'ai vraiment aucune idée"
+ - Code2 : Utilisation pour discuter
+ - Verbatim : "C'est comme si je discutais avec quelqu'un."
+ - Code3 : Comparaison avec une conversation humaine
+ - Verbatim : "Si je suis à un café et que je discute avec une amie ou j'en parle à ma famille, ça m'ouvre des nouvelles idées."
+ - Code4 : Utilisation en cas d'impasse
+ - Verbatim : "Je me dis ok je vais aller voir ce que ChatGPT pourrait me proposer."
+ - Code5 : Perception de la créativité par ChatGPT
+ - Verbatim : "J'avoue que c'est assez… C'est une bonne question."
+ - Code6 : Évaluation de la capacité créative
+ - Verbatim : "Je trouve qu'il est pas vraiment très créatif."
+ - Code7 : Impact sur la créativité personnelle
+ - Verbatim : "Ça pourrait potentiellement m'ouvrir des nouvelles pistes"
+ - Code8 : Perception de la menace
+ - Verbatim : "J'ai pas peur qu'il me remplace."
+ - Code9 : Raisons de la non-menace
+ - Verbatim : "C'est juste des choses qui ont déjà été faites, presque."
+ - Code10 : Utilisation comme stimulus
+ - Verbatim : "Ça peut renforcer ma créativité"
+
+### Segment 4 : Évaluation des idées par ChatGPT
+- Thème : Utilisation de ChatGPT pour l'évaluation des idées
+ - Code1 : Soumission d'idées à ChatGPT
+ - Verbatim : "ChatGPT, je ne suis pas sûre, mais Claude, oui."
+ - Code2 : Réponses de ChatGPT
+ - Verbatim : "Ils sont toujours très sympas. En disant, oui, oui, je trouve ça super."
+ - Code3 : Limites de l'évaluation par ChatGPT
+ - Verbatim : "J'ai quand même l'impression qu'il faut assez batailler pour dire non, non, mais fais-moi cinq critiques."
+ - Code4 : Préférence pour une évaluation humaine
+ - Verbatim : "Je préfère que ce soit un humain qui me fasse un retour."
+ - Code5 : Utilisation pour des textes écrits
+ - Verbatim : "Ça m'arrive, mais c'est plus sur des choses que j'ai déjà écrites, un paragraphe."
+ - Code6 : Raisons de la préférence pour l'évaluation humaine
+ - Verbatim : "Je trouve qu'il y a un élément aussi assez difficile, mais ça c'est presque personnel, d'écrire en mettant le plus de contexte possible."
+ - Code7 : Limites de ChatGPT pour comprendre le contexte
+ - Verbatim : "Mes questions, il n'y a pas énormément de contexte. C'est souvent quelques phrases"
+ - Code8 : Difficulté avec les prompts
+ - Verbatim : "Je ne suis pas hyper forte en prompt."
+ - Code9 : Impact de la qualité du prompt
+ - Verbatim : "Je sais aussi que les réponses vont être très vagues."
+ - Code10 : Condition d'une évaluation efficace
+ - Verbatim : "Si j'ai un paragraphe ou si j'ai un article, ce sera plus facile."
+
+Ces thèmes et codes illustrent la complexité de la perception et de l'utilisation de ChatGPT par l'interviewé, notamment en ce qui concerne la créativité, l'utilité, et les limites de cet outil dans son processus de travail.

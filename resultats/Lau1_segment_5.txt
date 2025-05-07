@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif. J'ai identifié 5 thèmes distincts avec au moins 10 codes chacun.
+
+**Thème 1 : Perception de l'utilité de chatGPT**
+
+* Code 1 : Utilité pour résoudre des problèmes techniques
+ Verbatim : "je vais juste aller chercher les librairies qui fonctionnent, adapter la librairie à ce que... À comment mon programme se comporte, et ce sera fini, quoi."
+* Code 2 : Utilité pour comprendre des concepts complexes
+ Verbatim : "j'ai utilisé chatGPT et Wikipédia pour essayer de comprendre tout ça."
+* Code 3 : Utilité pour les devoirs et les exercices
+ Verbatim : "je lui demande la solution de l'exercice."
+* Code 4 : Utilité pour la recherche d'informations
+ Verbatim : "je vais chercher sur chatGPT au lieu de Google ou autre chose…"
+* Code 5 : Limites de l'utilité de chatGPT
+ Verbatim : "j'ai l'impression qu'il a tout le temps tort."
+* Code 6 : Utilité pour les présentations
+ Verbatim : "je vais l'aider, je vais lui demander de m'aider à mettre en place un squelette de présentation ou tout ça."
+* Code 7 : Utilité pour la résolution de problèmes
+ Verbatim : "je lui demande de me sortir des trucs, il sort une réponse qui en soi toute seule est fausse, mais me fait comprendre comment ça marche"
+* Code 8 : Utilité pour la vérification des réponses
+ Verbatim : "je sais pas si j'ai la... Discipline d'aller vérifier et sur chatGPT et sur Internet."
+* Code 9 : Utilité pour la compréhension de concepts récents
+ Verbatim : "pour un sujet genre récent, avec des guillemets comme la physique quantique, c'est un peu... Il y a peut-être un peu de la peine"
+* Code 10 : Utilité pour l'apprentissage
+ Verbatim : "je trouve que le truc... Enfin, si possible, le réponse numérique et tout ça, je trouve que c'est le mieux pour... l'apprentissage"
+
+**Thème 2 : Stratégies d'utilisation de chatGPT**
+
+* Code 1 : Utilisation pour résoudre des problèmes techniques
+ Verbatim : "je vais juste aller chercher les librairies qui fonctionnent"
+* Code 2 : Utilisation pour comprendre des concepts complexes
+ Verbatim : "j'ai utilisé chatGPT et Wikipédia pour essayer de comprendre tout ça."
+* Code 3 : Utilisation pour les devoirs et les exercices
+ Verbatim : "je lui demande la solution de l'exercice."
+* Code 4 : Utilisation pour la recherche d'informations
+ Verbatim : "je vais chercher sur chatGPT au lieu de Google ou autre chose…"
+* Code 5 : Utilisation pour les présentations
+ Verbatim : "je vais l'aider, je vais lui demander de m'aider à mettre en place un squelette de présentation ou tout ça."
+* Code 6 : Utilisation pour la résolution de problèmes
+ Verbatim : "je lui demande de me sortir des trucs, il sort une réponse qui en soi toute seule est fausse, mais me fait comprendre comment ça marche"
+* Code 7 : Utilisation pour la vérification des réponses
+ Verbatim : "je sais pas si j'ai la... Discipline d'aller vérifier et sur chatGPT et sur Internet."
+* Code 8 : Utilisation pour la compréhension de concepts récents
+ Verbatim : "pour un sujet genre récent, avec des guillemets comme la physique quantique, c'est un peu... Il y a peut-être un peu de la peine"
+* Code 9 : Utilisation en complément d'autres ressources
+ Verbatim : "je crois qu'on était plus sur du Wikipédia et des sources internet, plus que... plus que chatGPT."
+* Code 10 : Utilisation pour l'apprentissage
+ Verbatim : "je trouve que le truc... Enfin, si possible, le réponse numérique et tout ça, je trouve que c'est le mieux pour... l'apprentissage"
+
+**Thème 3 : Confiance dans chatGPT**
+
+* Code 1 : Confiance limitée
+ Verbatim : "j'ai l'impression qu'il a tout le temps tort."
+* Code 2 : Confiance conditionnelle
+ Verbatim : "je sais pas si j'ai la... Discipline d'aller vérifier et sur chatGPT et sur Internet."
+* Code 3 : Utilisation de chatGPT comme un outil de vérification
+ Verbatim : "je lui demande de me sortir des trucs, il sort une réponse qui en soi toute seule est fausse, mais me fait comprendre comment ça marche"
+* Code 4 : Confiance dans les réponses numériques
+ Verbatim : "je trouve que le truc... Enfin, si possible, le réponse numérique et tout ça, je trouve que c'est le mieux pour... l'apprentissage"
+* Code 5 : Confiance dans la capacité de chatGPT à fournir des réponses utiles
+ Verbatim : "je pense que ça doit être arrivé, peut-être."
+* Code 6 : Confiance dans la capacité de chatGPT à aider à comprendre des concepts complexes
+ Verbatim : "j'ai utilisé chatGPT et Wikipédia pour essayer de comprendre tout ça."
+* Code 7 : Limites de la confiance dans chatGPT
+ Verbatim : "pour un sujet genre récent, avec des guillemets comme la physique quantique, c'est un peu... Il y a peut-être un peu de la peine"
+* Code 8 : Confiance dans la capacité de chatGPT à fournir des réponses correctes
+ Verbatim : "je lui demande la solution de l'exercice."
+* Code 9 : Confiance dans la capacité de chatGPT à aider à résoudre des problèmes
+ Verbatim : "je lui demande de me sortir des trucs, il sort une réponse qui en soi toute seule est fausse, mais me fait comprendre comment ça marche"
+* Code 10 : Confiance dans la capacité de chatGPT à aider à l'apprentissage
+ Verbatim : "je trouve que le truc... Enfin, si possible, le réponse numérique et tout ça, je trouve que c'est le mieux pour... l'apprentissage"
+
+**Thème 4 : Impact de chatGPT sur les habitudes de travail**
+
+* Code 1 : Impact sur la manière de travailler
+ Verbatim : "je pense que si j'utilisais plus l'outil, je dirais oui."
+* Code 2 : Impact sur la recherche d'informations
+ Verbatim : "je vais chercher sur chatGPT au lieu de Google ou autre chose…"
+* Code 3 : Impact sur la résolution de problèmes
+ Verbatim : "je lui demande de me sortir des trucs, il sort une réponse qui en soi toute seule est fausse, mais me fait comprendre comment ça marche"
+* Code 4 : Impact sur la compréhension de concepts complexes
+ Verbatim : "j'ai utilisé chatGPT et Wikipédia pour essayer de comprendre tout ça."
+* Code 5 : Impact sur les devoirs et les exercices
+ Verbatim : "je lui demande la solution de l'exercice."
+* Code 6 : Impact sur la vérification des réponses
+ Verbatim : "je sais pas si j'ai la... Discipline d'aller vérifier et sur chatGPT et sur Internet."
+* Code 7 : Impact sur l'apprentissage
+ Verbatim : "je trouve que le truc... Enfin, si possible, le réponse numérique et tout ça, je trouve que c'est le mieux pour... l'apprentissage"
+* Code 8 : Impact sur la manière de suivre les cours
+ Verbatim : "j'ai l'impression de suivre les cours, comment on suivait les cours avant de chatGPT."
+* Code 9 : Impact sur la manière de faire les devoirs
+ Verbatim : "j'ai l'impression de faire mes devoirs comme on faisait les devoirs avant de chatGPT."
+* Code 10 : Impact sur la productivité
+ Verbatim : "je pense que ça doit être arrivé, peut-être."
+
+**Thème 5 : Limites et défis de l'utilisation de chatGPT**
+
+* Code 1 : Limites de la compréhension de chatGPT
+ Verbatim : "pour un sujet genre récent, avec des guillemets comme la physique quantique, c'est un peu... Il y a peut-être un peu de la peine"
+* Code 2 : Limites de la confiance dans chatGPT
+ Verbatim : "j'ai l'impression qu'il a tout le temps tort."
+* Code 3 : Défis de la vérification des réponses
+ Verbatim : "je sais pas si j'ai la... Discipline d'aller vérifier et sur chatGPT et sur Internet."
+* Code 4 : Défis de l'utilisation de chatGPT pour les concepts complexes
+ Verbatim : "j'ai utilisé chatGPT et Wikipédia pour essayer de comprendre tout ça."
+* Code 5 : Défis de l'utilisation de chatGPT pour les devoirs et les exercices
+ Verbatim : "je lui demande la solution de l'exercice."
+* Code 6 : Limites de la capacité de chatGPT à fournir des réponses correctes
+ Verbatim : "je lui demande de me sortir des trucs, il sort une réponse qui en soi toute seule est fausse, mais me fait comprendre comment ça marche"
+* Code 7 : Défis de l'utilisation de chatGPT pour l'apprentissage
+ Verbatim : "je trouve que le truc... Enfin, si possible, le réponse numérique et tout ça, je trouve que c'est le mieux pour... l'apprentissage"
+* Code 8 : Limites de la capacité de chatGPT à aider à comprendre des concepts récents
+ Verbatim : "pour un sujet genre récent, avec des guillemets comme la physique quantique, c'est un peu... Il y a peut-être un peu de la peine"
+* Code 9 : Défis de l'utilisation de chatGPT en complément d'autres ressources
+ Verbatim : "je crois qu'on était plus sur du Wikipédia et des sources internet, plus que... plus que chatGPT."
+* Code 10 : Limites de la capacité de chatGPT à aider à résoudre des problèmes
+ Verbatim : "je lui demande de me sortir des trucs, il sort une réponse qui en soi toute seule est fausse, mais me fait comprendre comment ça marche"

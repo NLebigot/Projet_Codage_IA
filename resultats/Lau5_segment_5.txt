@@ -1,0 +1,93 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif que vous avez spécifiée.
+
+**Segment 1 : Utilisation de ChatGPT dans les travaux académiques**
+
+- Thème : Perception de l'utilité de ChatGPT
+ - Code1 : Utilité pour générer des idées
+ - Verbatim : "Il propose plusieurs solutions et pistes que je n’aurais peut-être même pas envisagées seule."
+ - Code2 : Légitimité dans les travaux académiques
+ - Verbatim : "Si son utilisation reste dans le cadre de l’aide rédactionnelle ou pour générer des idées, c’est totalement légitime."
+ - Code3 : Limites de l'utilisation
+ - Verbatim : "Mais dans un cadre d’assistance et d’appui, c’est légitime dans tous les contextes."
+ - Code4 : Condition d'utilisation éthique
+ - Verbatim : "Tant que ça aide à structurer ou améliorer un travail."
+ - Code5 : Aide à la rédaction
+ - Verbatim : "Je l’utilise pour formuler les questions."
+ - Code6 : Fidélité aux réponses
+ - Verbatim : "Je pense qu’il faut rester le plus fidèle possible à ce qui a été dit."
+ - Code7 : Utilisation pour reformuler
+ - Verbatim : "Je peux demander à ChatGPT de reformuler correctement."
+ - Code8 : Précaution dans l'utilisation
+ - Verbatim : "En lui précisant de ne pas trop changer mes mots d’origine."
+ - Code9 : Génération d'idées
+ - Verbatim : "C’est cet aspect qui est particulièrement intéressant."
+ - Code10 : Assistance dans le travail
+ - Verbatim : "C’est un outil génial, et je suis complètement à l’aise avec ça aujourd’hui."
+
+- Thème : Contexte d'utilisation de ChatGPT
+ - Code1 : Travail de bachelor
+ - Verbatim : "Notamment en lien avec ton travail de bachelor."
+ - Code2 : Travail de master
+ - Verbatim : "Que ce soit pour un bachelor ou un master, ça reste légitime."
+ - Code3 : Assistance sociale
+ - Verbatim : "En tant qu’assistante sociale, je l’utilise pour formuler les questions."
+ - Code4 : Entretiens
+ - Verbatim : "Aux personnes que je rencontre en entretien."
+ - Code5 : Réponses fidèles
+ - Verbatim : "Rester le plus fidèle possible à ce qui a été dit."
+ - Code6 : Reformulation
+ - Verbatim : "Demander à ChatGPT de reformuler correctement."
+ - Code7 : Adaptation à l'outil
+ - Verbatim : "Il faut un certain temps d’adaptation."
+ - Code8 : Dépendance à l'outil
+ - Verbatim : "Je ne savais pas vraiment comment utiliser cet outil ni à quel point je pouvais en dépendre."
+ - Code9 : Évolution de la perception
+ - Verbatim : "Maintenant, je suis beaucoup plus à l’aise avec cet usage."
+ - Code10 : Confiance dans l'utilisation
+ - Verbatim : "Je l’utilise en toute confiance, et ce n’est plus un problème pour moi."
+
+**Segment 2 : Impact de ChatGPT sur les pratiques d'apprentissage**
+
+- Thème : Changements dans les pratiques d'apprentissage
+ - Code1 : Remise en question de l'apprentissage par cœur
+ - Verbatim : "Je pense que l’apprentissage par cœur va être remis en question."
+ - Code2 : Évolution des méthodes d'apprentissage
+ - Verbatim : "À l’époque de nos grands-parents, ils devaient mémoriser des définitions faute de dictionnaires."
+ - Code3 : Accès à l'information
+ - Verbatim : "Nous avons eu Internet, et maintenant ChatGPT."
+ - Code4 : Changement dans les modalités d'évaluation
+ - Verbatim : "On nous demande moins de définitions et de par cœur, mais davantage de réflexion."
+ - Code5 : Complexité croissante des questions
+ - Verbatim : "Les questions posées vont devenir de plus en plus complexes, nécessitant davantage de réflexion critique."
+ - Code6 : Développement de la pensée critique
+ - Verbatim : "On va moins nous demander de mémoriser des choses et plus de faire des recherches approfondies."
+ - Code7 : Équilibre de la charge de travail
+ - Verbatim : "La charge de travail pourrait s’équilibrer différemment."
+ - Code8 : Nouvelles formes d'évaluation
+ - Verbatim : "Les évaluations orales prendront davantage de place."
+ - Code9 : Meilleure évaluation de la réflexion
+ - Verbatim : "Elles permettent de mieux évaluer la réflexion et la pensée critique des étudiants."
+ - Code10 : Défis pour les nouvelles méthodes
+ - Verbatim : "Il pourrait y avoir une perte de confiance envers les étudiants."
+
+- Thème : Défis et adaptations nécessaires
+ - Code1 : Organisation et coût
+ - Verbatim : "Enseigner avec ces nouvelles formules pourrait aussi poser des défis, notamment en termes de coût et d’organisation."
+ - Code2 : Intégration de ChatGPT dans l'académie
+ - Verbatim : "L'académie doit faire face à la réalité."
+ - Code3 : Politique d'intégration
+ - Verbatim : "Il ne faut pas ignorer l'existence de cet outil ni penser qu'il doit être banni."
+ - Code4 : Comparaison avec d'autres formations
+ - Verbatim : "Examiner comment cet outil est intégré dans d’autres formations et même dans d’autres pays."
+ - Code5 : Adaptation nécessaire
+ - Verbatim : "Essayer de s’adapter ici à la HES."
+ - Code6 : Menace de sanction
+ - Verbatim : "Ce qui me dérange, c'est qu'on me menace si je l'utilise, au risque d'avoir une mauvaise note ou que mon travail ne soit pas validé."
+ - Code7 : Nécessité d'une politique claire
+ - Verbatim : "J'ai l'impression que c'est un peu la politique de l'autruche."
+ - Code8 : Importance de la confiance
+ - Verbatim : "Merci également pour ta confiance, car tu m'as donné accès à tes sessions."
+ - Code9 : Impact sur l'évaluation
+ - Verbatim : "Cela ne me dérange pas que l'on fasse comme s'il n'existait pas."
+ - Code10 : Suggestions pour l'intégration
+ - Verbatim : "L'académie doit faire face à la réalité."

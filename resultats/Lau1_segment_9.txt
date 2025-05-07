@@ -1,0 +1,95 @@
+Analysons l'entretien en respectant une méthode rigoureuse de codage qualitatif. Nous allons identifier 4 à 5 thèmes distincts par segment, avec environ 10 codes par thème, accompagnés de verbatims clairs et représentatifs.
+
+**Thème 1 : Perception de l'utilisation de ChatGPT**
+
+- Code 1 : Perception positive
+ - Verbatim : "Je crois qu'on est plutôt, de manière générale, si le spectre il est de « il faut pas du tout l'utiliser jamais etc » à « oui utilise le c'est super » on est plutôt dans la partie « c'est super » du spectre."
+- Code 2 : Utilisation pour l'apprentissage
+ - Verbatim : "Moi j'ai l'impression que c'est un outil d'aide à l'apprentissage."
+- Code 3 : Tolérance de l'institution
+ - Verbatim : "Mon école est assez tolérante sur ces outils. Elle demande juste… Enfin « juste » à ce que, je crois que s'il y a une utilisation de chatGPT et de ses équivalents, il y ait une mention de l'utilisation."
+- Code 4 : Prévention et fact-checking
+ - Verbatim : "C'est important de faire de la prévention et de... L'homme il a créé le feu, il a appris à s'en servir et pareil avec chatGPT."
+- Code 5 : Responsabilité
+ - Verbatim : "Maintenant, ils ont rajouté une petite ligne en bas du prompt de « Faites attention à ce que vous lisez sur chatGPT »."
+- Code 6 : Acceptation par les enseignants
+ - Verbatim : "Je crois qu'on a même des enthousiastes."
+- Code 7 : Utilisation dans le contexte universitaire
+ - Verbatim : "Pour moi, c'est un outil d'aide à l'apprentissage."
+- Code 8 : Mention de l'utilisation
+ - Verbatim : "Il y a une mention de l'utilisation."
+- Code 9 : Perception de la légitimité
+ - Verbatim : "Oui. Je crois que de manière générale, mon école est assez tolérante sur ces outils."
+- Code 10 : Ouverture à l'outil
+ - Verbatim : "Je trouve qu'en école d'ingénieur, c'est plutôt accueillant de manière générale."
+
+**Thème 2 : Enjeux éthiques liés à l'utilisation de ChatGPT**
+
+- Code 1 : Génération d'images et droit des artistes
+ - Verbatim : "Voler le travail des artistes pour en générer de l'art, je trouve pas… Je trouve que c'est la profession, j'ai l'impression tout le temps, j'ose dire, dans la merde."
+- Code 2 : Différence entre code et art
+ - Verbatim : "Pour le code, c'est un truc qui historiquement et de toute façon… Euh, avant chatGPT… Sans ce que je vais expliquer maintenant, il n'y aurait jamais eu chatGPT."
+- Code 3 : Utilisation pour des tâches créatives
+ - Verbatim : "Générer des images, moi, c'est un truc que je trouve... Franchement, s'il y avait une loi pour bannir ça, je ne serais pas contre."
+- Code 4 : Problèmes liés aux données d'entraînement
+ - Verbatim : "Il y a des gens qui ont réussi à forcer Chad GPT à sortir... son dataset de training."
+- Code 5 : Risques de fuite d'informations sensibles
+ - Verbatim : "Imaginons que tu mets des trucs top secret militaire de l'armée américaine dedans."
+- Code 6 : Comparaison entre travail humain et IA
+ - Verbatim : "Je trouve qu'on génère mieux sa vision avec un autre humain en fait."
+- Code 7 : Question de la propriété intellectuelle
+ - Verbatim : "Le fait qu'il y ait des gens célèbres ou riches qui utilisent des générations d'images pour… Enfin… Non, qu'ils l'utilisent tout court, je trouve ça un peu dégueulasse."
+- Code 8 : Utilisation de l'IA pour des tâches spécifiques
+ - Verbatim : "Pour le code, c'est plutôt OK et cool de faire ça."
+- Code 9 : Limites de l'IA
+ - Verbatim : "L'IA va juste imiter un truc qui existe déjà et je trouve ça pas intéressant."
+- Code 10 : Nécessité de régulation
+ - Verbatim : "S'il y avait une loi pour bannir ça, je ne serais pas contre."
+
+**Thème 3 : Contextualisation de l'utilisation de ChatGPT**
+
+- Code 1 : Contexte universitaire
+ - Verbatim : "Dans le contexte universitaire, soit dans le contexte des HES par exemple."
+- Code 2 : Différences entre domaines d'application
+ - Verbatim : "Pour l'ingénierie code, c'est plutôt OK."
+- Code 3 : Perception de la tolérance institutionnelle
+ - Verbatim : "Mon école est assez tolérante sur ces outils."
+- Code 4 : Recommandations de l'institution
+ - Verbatim : "Il y a une mention de l'utilisation de chatGPT et de ses équivalents."
+- Code 5 : Attitude des enseignants
+ - Verbatim : "Il y a des enthousiastes."
+- Code 6 : Exemple d'utilisation légitime
+ - Verbatim : "Un prof qui était là non non mais faites moi une conclusion avec chat gpt mentionnez le."
+- Code 7 : Contexte de travail
+ - Verbatim : "Pour mon travail et tout ça, je trouve ça ok d'utiliser chatGPT."
+- Code 8 : Évolution de l'utilisation
+ - Verbatim : "Maintenant, c'est peut-être de la paresse."
+- Code 9 : Référence à l'histoire de l'outil
+ - Verbatim : "Le code, c'est de base un truc qui se discute sur Internet, qui est collaboratif."
+- Code 10 : Comparaison avec d'autres outils
+ - Verbatim : "L'homme il a créé le feu, il a appris à s'en servir."
+
+**Thème 4 : Évolution et questionnements autour de ChatGPT**
+
+- Code 1 : Évolution de la perception
+ - Verbatim : "Maintenant, c'est peut-être de la paresse."
+- Code 2 : Question sur la légitimité
+ - Verbatim : "Est-ce que tu penses que c'est légitime de l'utiliser ?"
+- Code 3 : Changement de contexte d'utilisation
+ - Verbatim : "L'année passée, ça aurait été de la nécessité, et là maintenant c'est peut-être de la paresse."
+- Code 4 : Réflexion sur l'avenir
+ - Verbatim : "Il y a des gens qui ont réussi à forcer Chad GPT à sortir... son dataset de training."
+- Code 5 : Impact sur les pratiques
+ - Verbatim : "On a coupé ce truc de discussion entre deux personnes, et maintenant on parle avec chatGPT."
+- Code 6 : Nouveaux enjeux
+ - Verbatim : "Il y a des problématiques etc. mais la problématique elle vient de... avec quoi le modèle a été entraîné."
+- Code 7 : Interaction avec l'IA
+ - Verbatim : "Maintenant, on parle avec chatGPT."
+- Code 8 : Futur de l'IA
+ - Verbatim : "Qu'il y ait de la prévention, qu'il y a du fact-checking à faire."
+- Code 9 : Adaptation nécessaire
+ - Verbatim : "C'est important de faire de la prévention."
+- Code 10 : Considération éthique
+ - Verbatim : "Je trouve qu'il y a plus à discuter là-dedans que pour l'IA."
+
+Chaque thème regroupe des codes qui explorent différentes facettes de la discussion autour de ChatGPT, allant de la perception et de l'utilisation de l'outil, aux enjeux éthiques et à la contextualisation de son usage. Les verbatims choisis illustrent la richesse des propos de l'enquêté et offrent une base solide pour l'analyse sociologique.

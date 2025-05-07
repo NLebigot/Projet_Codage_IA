@@ -1,0 +1,61 @@
+Après une analyse minutieuse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes associés et verbatims. Voici les résultats :
+
+**Thème 1 : Perception de l'intelligence artificielle et de ses limites**
+ - Code 1 : Incertitude sur l'impact de l'IA
+ - Verbatim : "Est-ce qu'il y a une conscientisation dans ce secteur de l'intelligence artificielle particulièrement de l'impact et du coup le fait qu'on va devoir l'arrêter ?"
+ - Code 2 : Limite dans le développement de l'IA
+ - Verbatim : "C'est parce qu'il y a ces contraintes que l'IA va... Enfin, tous les projets d'évolution et de mise en place d'IA plus importantes vont être toned down, vus à la baisse, ou limités"
+ - Code 3 : Régulation de l'IA
+ - Verbatim : "Est-ce que la société va préemptivement dire « on ne va pas développer ce secteur » mais par manque de ressources ?"
+ - Code 4 : Manque de clarté sur l'avenir de l'IA
+ - Verbatim : "Je sais pas... Les deux m'ont l'air juste, je crois…"
+ - Code 5 : Arrêt potentiel de l'IA
+ - Verbatim : "Ou est-ce qu'on va rencontrer un mur à un moment donné qui va faire que c'est quelque chose qu'on va devoir arrêter"
+
+**Thème 2 : Utilisation de l'IA dans le cadre académique**
+ - Code 1 : Intégration de chatGPT dans les études
+ - Verbatim : "Est-ce qu'il y a des points par rapport à chatGPT et ta manière d'étudier que tu as envie d'aborder un peu spontanément ou sur lesquels tu as envie de revenir ?"
+ - Code 2 : Suggestions pour améliorer l'intégration
+ - Verbatim : "Poser des règles claires sur qu'est-ce qu'on peut faire, qu'est-ce qu'on peut pas faire..."
+ - Code 3 : Sensibilisation à l'IA
+ - Verbatim : "Un cours de chat GPT, j'en sais rien. Sensibilisation... Enfin, sensibilisation, qu'est-ce qu'un modèle"
+ - Code 4 : Utilisation abusive du terme IA
+ - Verbatim : "Arrêter de dire IA n'importe comment"
+ - Code 5 : Précision terminologique
+ - Verbatim : "Avoir ça, genre c'est... Commencer un peu à « dire les termes »"
+
+**Thème 3 : Problématiques liées à la terminologie de l'IA**
+ - Code 1 : Usage abusif du terme IA
+ - Verbatim : "J'ai l'impression qu'on est… les marqueteux… Pardon les personnes qui font du marketing ou je sais pas quoi, ou au journal, j'ai l'impression que ça prend la facilité super rapide de... on met de l'IA dans un truc"
+ - Code 2 : Manque de précision
+ - Verbatim : "Je trouve que le terme est trop général"
+ - Code 3 : Re-branding de technologies existantes
+ - Verbatim : "C'est comme, genre là, le nouveau Samsung, c'est genre... Non, c'est Galaxy AI, d'accord, donc c'est un peu différent"
+ - Code 4 : Comparaison avec d'autres technologies
+ - Verbatim : "C'est comme dire que n'importe quelle voiture, il y a un moteur à combustion. Et du coup, bah... Non, voilà, pardon"
+ - Code 5 : Nécessité de clarification
+ - Verbatim : "Ce serait bien de mettre les termes corrects aux bons endroits"
+
+**Thème 4 : Impact de l'IA sur les pratiques et les perceptions**
+ - Code 1 : Influence de l'IA sur la manière d'étudier
+ - Verbatim : "Est-ce qu'il y a des points par rapport à chatGPT et ta manière d'étudier que tu as envie d'aborder un peu spontanément"
+ - Code 2 : Perception de l'IA comme une mode
+ - Verbatim : "C'est genre la mode du moment, et ça peut être un produit qui était il y a dix ans, qui fait du machine learning ou je sais pas quoi"
+ - Code 3 : Effet de l'IA sur la terminologie
+ - Verbatim : "On est vraiment dans n'importe quoi peut être de l'IA, et ça, c'est un peu..."
+ - Code 4 : Impact sur les outils académiques
+ - Verbatim : "Merci Github Copilot mon amour (rires) de me sauver la vie"
+ - Code 5 : Réflexion sur l'entretien
+ - Verbatim : "Bah j'ai toujours de la peine dans les interviews et tout ça"
+
+**Thème 5 : Réflexion et meta-réflexion sur l'entretien**
+ - Code 1 : Difficulté à exprimer une opinion
+ - Verbatim : "Non, je sais pas... Je sais pas ce qu'elle... Les deux m'ont l'air juste, je crois…"
+ - Code 2 : Humour et légèreté
+ - Verbatim : "Merci Github Copilot mon amour (rires) de me sauver la vie"
+ - Code 3 : Meta-commentaire sur l'entretien
+ - Verbatim : "Bah j'ai toujours de la peine dans les interviews et tout ça, mais on l'a dit hors dictaphone, mais bon maintenant c'est bon, c'est enregistré"
+ - Code 4 : Accord sur la nécessité de clarification terminologique
+ - Verbatim : "Ouais, je suis politiquement d'accord"
+ - Code 5 : Interaction avec l'enquêteur
+ - Verbatim : "Pourquoi plus que politiquement ?"

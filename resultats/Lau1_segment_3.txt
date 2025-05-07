@@ -1,0 +1,116 @@
+Après une analyse rigoureuse de l'entretien, j'ai identifié 5 thèmes distincts avec environ 10 codes chacun. Voici les résultats :
+
+**Thème 1 : Perception des nouvelles technologies**
+
+* Code 1 : Adoption des nouvelles technologies
+ Verbatim : "J'ai beaucoup plus d'aisance à passer à des nouvelles technologies."
+* Code 2 : Réticence au progrès
+ Verbatim : "Je n'ai pas l'impression d'avoir la réticence du progrès."
+* Code 3 : Préoccupations liées à l'IA
+ Verbatim : "Sauf dans le cas de l'IA qui dégénère."
+* Code 4 : Lois d'Asimov
+ Verbatim : "J'aimerais juste que les gens mettent les lois d'Azimov, quoi."
+* Code 5 : Conscience des machines
+ Verbatim : "Le moment où un ordi, un robot, un n'importe quoi... a une conscience comme un humain..."
+* Code 6 : Terminator
+ Verbatim : "Terminator c'est genre bravo on l'a créé et maintenant c'est de notre faute"
+* Code 7 : Progrès technologique
+ Verbatim : "T'es pour le progrès, t'es pour la technologie."
+* Code 8 : Réglementation
+ Verbatim : "Il y ait une mise en place quand même consciencieuse et... auto-régulée"
+* Code 9 : Dérèglement climatique
+ Verbatim : "Le dérèglement climatique, on sait qu'il est là depuis des années"
+* Code 10 : Comparaison entre progrès technologique et dérèglement climatique
+ Verbatim : "Entre parenthèses, et le, dérèglement climatique, ce serait cool."
+
+**Thème 2 : Utilisation des outils numériques**
+
+* Code 1 : Logiciels utilisés
+ Verbatim : "Solidworks, Code Composer Studio, Codesys, MATLAB, Python, GitHub"
+* Code 2 : Utilisation de Virtual Machine
+ Verbatim : "On a touché à des VM, donc Virtual Machine, faire des OS."
+* Code 3 : Programmation de FPGA
+ Verbatim : "On faisait des FPGA. Donc, Field Programmable Gate Array"
+* Code 4 : Utilisation de Linux
+ Verbatim : "On avait besoin de Linux pour faire ça, donc sur notre Windows, on a fait un petit Linux"
+* Code 5 : Utilisation de MATLAB
+ Verbatim : "MATLAB, bah oui."
+* Code 6 : Utilisation de Python
+ Verbatim : "Plein de trucs en Python"
+* Code 7 : Utilisation de GitHub
+ Verbatim : "GitHub, tout ça."
+* Code 8 : Apprentissage de Python
+ Verbatim : "Je n'avais jamais fait de Python de ma vie, et on me demandait de faire des trucs assez compliqués."
+* Code 9 : Utilisation de ChatGPT pour la programmation
+ Verbatim : "Surtout le code en Python. Et MATLAB, le problème, c'est que... Enfin, il y a plein de docs, c'est super."
+* Code 10 : Aide à la programmation
+ Verbatim : "C'est plus rapide de demander à chatGPT."
+
+**Thème 3 : Utilisation de ChatGPT**
+
+* Code 1 : Utilisation de ChatGPT pour la programmation
+ Verbatim : "Surtout le code en Python."
+* Code 2 : Utilisation de ChatGPT pour la rédaction
+ Verbatim : "Je lui ai demandé de corriger des trucs ?"
+* Code 3 : Utilisation de ChatGPT pour les soft skills
+ Verbatim : "Dans des cours qui étaient soft skills, multidisciplinarité."
+* Code 4 : Utilisation de ChatGPT pour la rédaction de PowerPoints
+ Verbatim : "Pour m'aider à rédiger des PowerPoints ou des trucs comme ça"
+* Code 5 : Utilisation de ChatGPT pour la conclusion
+ Verbatim : "Les conclusions quand même, parce que vraiment c'est un truc, les conclusions dans le technique c'est genre..."
+* Code 6 : Limites de ChatGPT
+ Verbatim : "Les conclusions qu'on a faites avec chatGPT, mes collègues et moi, elles sont un peu bateaux."
+* Code 7 : Utilisation de ChatGPT pour la reformulation
+ Verbatim : "S'il y a du rephrasage ou... c'est pas français."
+* Code 8 : Utilisation de ChatGPT pour les tâches non techniques
+ Verbatim : "C'est pas dans le noyau dur de l'ingénieur, on va dire."
+* Code 9 : Utilisation de ChatGPT pour la génération de contenu
+ Verbatim : "Générer des..."
+* Code 10 : Appréciation de ChatGPT
+ Verbatim : "C'est un peu plus simple."
+
+**Thème 4 : Perception de l'intelligence artificielle**
+
+* Code 1 : Crainte de l'IA
+ Verbatim : "Sauf dans le cas de l'IA qui dégénère."
+* Code 2 : Lois d'Asimov
+ Verbatim : "J'aimerais juste que les gens mettent les lois d'Azimov, quoi."
+* Code 3 : Conscience des machines
+ Verbatim : "Le moment où un ordi, un robot, un n'importe quoi... a une conscience comme un humain..."
+* Code 4 : Terminator
+ Verbatim : "Terminator c'est genre bravo on l'a créé et maintenant c'est de notre faute"
+* Code 5 : Impact de l'IA sur la société
+ Verbatim : "Qu'est-ce qu'ils ont comme droits, qu'est-ce que cette machine ou truc aurait comme droits"
+* Code 6 : Réglementation de l'IA
+ Verbatim : "Il y ait une mise en place quand même consciencieuse et... auto-régulée"
+* Code 7 : Progrès technologique et IA
+ Verbatim : "T'es pour le progrès, t'es pour la technologie."
+* Code 8 : Comparaison entre IA et dérèglement climatique
+ Verbatim : "Entre parenthèses, et le, dérèglement climatique, ce serait cool."
+* Code 9 : Perception de l'IA comme une menace
+ Verbatim : "Terminator c'est genre bravo on l'a créé et maintenant c'est de notre faute"
+* Code 10 : Nécessité de réfléchir aux implications de l'IA
+ Verbatim : "Qu'est-ce qu'ils ont comme droits, qu'est-ce que cette machine ou truc aurait comme droits"
+
+**Thème 5 : Formation et utilisation des outils numériques**
+
+* Code 1 : Formation en ingénierie
+ Verbatim : "Dans le cadre d'étudiant lequel tu es de manière générale"
+* Code 2 : Utilisation de logiciels spécifiques
+ Verbatim : "Solidworks, Code Composer Studio, Codesys, MATLAB, Python, GitHub"
+* Code 3 : Apprentissage de la programmation
+ Verbatim : "Je n'avais jamais fait de Python de ma vie, et on me demandait de faire des trucs assez compliqués."
+* Code 4 : Utilisation de Virtual Machine
+ Verbatim : "On a touché à des VM, donc Virtual Machine, faire des OS."
+* Code 5 : Programmation de FPGA
+ Verbatim : "On faisait des FPGA. Donc, Field Programmable Gate Array"
+* Code 6 : Utilisation de Linux
+ Verbatim : "On avait besoin de Linux pour faire ça, donc sur notre Windows, on a fait un petit Linux"
+* Code 7 : Utilisation de MATLAB
+ Verbatim : "MATLAB, bah oui."
+* Code 8 : Utilisation de Python
+ Verbatim : "Plein de trucs en Python"
+* Code 9 : Utilisation de GitHub
+ Verbatim : "GitHub, tout ça."
+* Code 10 : Intégration des outils numériques dans la formation
+ Verbatim : "On en a fait un petit peu, mais c'est pas ma spécialisation, donc j'ai vraiment fait que des bases."

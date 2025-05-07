@@ -1,0 +1,61 @@
+Après une analyse minutieuse de l'entretien, j'ai identifié plusieurs thèmes et codes pertinents. Voici les résultats :
+
+**Thème 1 : Perception de la créativité de Chat-GPT**
+
+* Code 1 : "Je n'ai pas l'impression qu'ils sont plus ou moins créatifs"
+ Verbatim : "Non, je dirais que non. Je n'ai pas l'impression qu'ils sont plus ou moins créatifs."
+* Code 2 : "Chacun est différent"
+ Verbatim : "J'ai l'impression que chacun est différent."
+* Code 3 : "Réponses similaires"
+ Verbatim : "J'ai l'impression que les réponses de Chat-GPT sont un peu toujours les mêmes, que ce soit dans la structure ou dans les idées."
+* Code 4 : "Limitations de Chat-GPT"
+ Verbatim : "C'est peut-être aussi pour ça que je me suis tournée vers plutôt Claude."
+* Code 5 : "Différences entre Chat-GPT et Claude"
+ Verbatim : (non explicitement mentionné, mais sous-entendu)
+
+**Thème 2 : Utilisation de Chat-GPT pour la reformulation et la génération d'idées**
+
+* Code 1 : "Reformuler des phrases"
+ Verbatim : "Et sinon j'utilise aussi pour reformuler... Ouais, soit reformuler des phrases, que ce soit des titres, mais aussi juste des paragraphes ou des synonymes, des phrases, mais aussi des mots ou des synonymes."
+* Code 2 : "Génération d'idées"
+ Verbatim : "Je sais plus si je l'ai mis ici, mais d'avoir des... de formuler peut-être des idées nouvelles"
+* Code 3 : "Élargir le champ d'idées"
+ Verbatim : "Et ça me permet de trouver d'autres idées ou d'élargir mon champ d'idées quoi."
+* Code 4 : "Satisfaction des propositions"
+ Verbatim : "C'est difficile à dire comme ça. Je pense que oui. Honnêtement, comme ça, je dirais oui."
+* Code 5 : "Adaptation des réponses"
+ Verbatim : "Mais peut-être que je ne vais pas prendre exactement le mot qu'il m'a donné, mais ça va me donner... S’il me donne un verbe, je vais peut-être penser à l'adjectif."
+
+**Thème 3 : Utilisation de Chat-GPT dans le cadre de tâches journalistiques**
+
+* Code 1 : "Utilisation dans le cours d'IA"
+ Verbatim : "Justement dans le cours d'IA que j'ai, enfin oui, de comment est-ce qu'on utilise l'IA pour créer du contenu et des contenus journalistiques."
+* Code 2 : "Demander des formules à Chat-GPT"
+ Verbatim : "On nous a appris à demander à Chat-GPT ou à Claude des formules."
+* Code 3 : "Utilisation pour des tâches techniques"
+ Verbatim : "C'est plus pour combler des lacunes techniques que je pourrais avoir."
+* Code 4 : "Différence entre utilisation passée et actuelle"
+ Verbatim : "En fait, je ne savais pas qu'on pouvait faire ça. Je m’en doutais, mais je n'ai jamais utilisé pour faire ça."
+* Code 5 : "Évolution de l'utilisation"
+
+**Thème 4 : Fiabilité et vérification des informations**
+
+* Code 1 : "Méfiance envers la véracité des informations"
+ Verbatim : "Je me suis quand même toujours méfiée sur la véracité de ce qu'il raconte."
+* Code 2 : "Vérification des informations"
+ Verbatim : "Le truc c'est que j'ai pas non plus des compétences, enfin on a tous des compétences, que ce soit historique ou pas, je ne suis pas non plus experte."
+* Code 3 : "Limitations de la vérification"
+ Verbatim : "Pour moi, c'est plus difficile de faire confiance à Chat-GPT ou à Claude, à n'importe quelle intelligence artificielle, quand il faut se baser sur les réponses où je ne peux pas les vérifier."
+* Code 4 : "Objectif de la tâche"
+ Verbatim : "Et j'ai l'impression que pour un titre, on s'en fiche si c'est vérifiable ou pas, le but c'est de cliquer et d’attirer le lecteur."
+
+**Thème 5 : Contexte d'utilisation de Chat-GPT**
+
+* Code 1 : "Trouver un titre pour un article"
+ Verbatim : "Trouve un titre pour un article journalistique sur une exposition immersive Tintin, l'aventure immersive."
+* Code 2 : "Besoin d'aide pour une tâche spécifique"
+ Verbatim : "J'ai fait un reportage l'année dernière sur l'exposition immersive à Beaulieu, à Lausanne, et je voulais trouver un titre."
+* Code 3 : "Utilisation pour clarifier des consignes"
+ Verbatim : "Un commentaire analytique, c'est parce que j'avais eu un cours sur ça et j'étais pas sûre de la structure que je devais avoir dans…"
+* Code 4 : "Raisons de l'utilisation de Chat-GPT"
+ Verbatim : "Au lieu d'envoyer un mail au prof, je teste voir si Chat-GPT pourrait me donner une réponse."

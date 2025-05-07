@@ -1,0 +1,101 @@
+Analyse de l'entretien :
+
+**Thème 1 : Représentation de l'intelligence artificielle et de Chat-GPT**
+
+- Code 1 : Définition de l'intelligence artificielle
+  - Verbatim : "C'est une machine avec un algorithme qui, du coup, emmagasine plein d'informations et plein de... d'informations d'internet et qui est nourrie par des humains"
+- Code 2 : Perception de Chat-GPT
+  - Verbatim : "C'est la production de texte... La puissance, quand même, des réponses et de la production."
+- Code 3 : Compréhension de l'algorithme
+  - Verbatim : "C'est basé sur les probabilités. Il analyse toutes les données qu'il reçoit et il te sort les réponses sur la probabilité."
+- Code 4 : Comparaison entre différentes IA
+  - Verbatim : "J'utilise Claude, Gemini, Perplexity... Chacune a ses spécificités, comme Perplexity qui donne des sources."
+- Code 5 : Évolution de la perception
+  - Verbatim : "Maintenant, ce n'est pas croissant, voire plutôt décroissant [dans mon utilisation]."
+- Code 6 : Utilité de l'IA
+  - Verbatim : "Ça peut être utile... Pour des recettes de cuisine ou des... voilà."
+- Code 7 : Découverte de Chat-GPT
+  - Verbatim : "J'ai découvert ça parce que j'ai commencé à regarder la RTS, à voir que ça prenait beaucoup d'ampleur."
+- Code 8 : Premières impressions
+  - Verbatim : "C'était juste pour tester, un peu comme Siri, en fait."
+- Code 9 : Changement dans les habitudes
+  - Verbatim : "J'ai commencé à diversifier mes pratiques à partir de cette année, donc 2024."
+- Code 10 : Préférence pour certaines IA
+  - Verbatim : "J'ai plus l'impression que Claude fait moins d'erreurs que Chat-GPT."
+
+**Thème 2 : Utilisation de Chat-GPT et autres IA dans les études**
+
+- Code 1 : Fréquence d'utilisation
+  - Verbatim : "Au moins 3-4 fois par semaine."
+- Code 2 : Type d'utilisation
+  - Verbatim : "C'est plus de la reformulation de titres, des synonymes."
+- Code 3 : Variation de l'utilisation
+  - Verbatim : "Ça dépend un peu des tâches que j'ai à faire."
+- Code 4 : Évolution de l'utilisation
+  - Verbatim : "Je dirais pas tous les jours, mais des fois, ça m'arrive de l'utiliser plus régulièrement."
+- Code 5 : Raison de l'utilisation
+  - Verbatim : "Parce que je me rendais compte que ça pouvait être utile."
+- Code 6 : Diversification des outils
+  - Verbatim : "J'utilise Claude, Gemini, Perplexity... selon les besoins."
+- Code 7 : Choix de l'outil
+  - Verbatim : "C'est au cas par cas."
+- Code 8 : Changement de préférence
+  - Verbatim : "Je dirais plutôt Claude, maintenant."
+- Code 9 : Justification du choix
+  - Verbatim : "J'ai l'impression que Claude fait moins d'erreurs que Chat-GPT."
+- Code 10 : Utilisation contextuelle
+  - Verbatim : "Quand Chat-GPT et Claude ne marchent pas, j’essaie avec les autres."
+
+**Thème 3 : Rapport à la technologie**
+
+- Code 1 : Fréquence d'utilisation de la technologie
+  - Verbatim : (à compléter car la réponse de SPEAKER_02 est coupée)
+- Code 2 à Code 10 : (à compléter en fonction de la suite de la réponse)
+
+**Thème 4 : Découverte et évolution de l'utilisation des IA**
+
+- Code 1 : Moment de la découverte
+  - Verbatim : "Il me semble que ça a commencé en 2022, en décembre."
+- Code 2 : Moyen de découverte
+  - Verbatim : "J'ai vu la RTS, des sujets RTS sur Instagram qui parlaient de ça."
+- Code 3 : Contexte universitaire
+  - Verbatim : "J'étais encore en bachelor à Lausanne."
+- Code 4 : Première utilisation
+  - Verbatim : "C'était juste pour tester, un peu comme Siri, en fait."
+- Code 5 : Évolution de l'utilisation
+  - Verbatim : "Maintenant, ce n'est pas croissant, voire plutôt décroissant."
+- Code 6 : Diversification
+  - Verbatim : "J'ai commencé à diversifier mes pratiques à partir de cette année, donc 2024."
+- Code 7 : Influence des médias et du contexte universitaire
+  - Verbatim : "Les profs, en tout cas pour l'université de Neuchâtel, ils sont assez au courant de tout ça."
+- Code 8 : Rôle des professeurs
+  - Verbatim : "On nous conseille des fois d'utiliser certaines..."
+- Code 9 : Exploration de différentes IA
+  - Verbatim : "J'utilise Claude, Gemini, Perplexity..."
+- Code 10 : Adaptation aux tâches
+  - Verbatim : "C'est au cas par cas."
+
+**Thème 5 : Contextualisation de l'utilisation des IA**
+
+- Code 1 : Influence du contexte académique
+  - Verbatim : "Les profs nous conseillent d'utiliser certaines IA."
+- Code 2 : Type de tâches académiques
+  - Verbatim : "C'est plus de la reformulation de titres, des synonymes."
+- Code 3 : Impact sur le travail académique
+  - Verbatim : "Ça peut être utile."
+- Code 4 : Perception de l'utilité
+  - Verbatim : "Je me rendais compte que ça pouvait être utile."
+- Code 5 : Exploration d'autres outils
+  - Verbatim : "J'utilise aussi NotebookLM."
+- Code 6 : Compréhension des limites
+  - Verbatim : "Je ne sais pas si c'est vrai, mais j'ai l'impression que Claude fait moins d'erreurs."
+- Code 7 : Facteurs influençant le choix d'un outil
+  - Verbatim : "C'est vraiment une préférence de Claude, notamment pour les réponses."
+- Code 8 : Changement dans les pratiques
+  - Verbatim : "J'ai commencé à diversifier mes pratiques."
+- Code 9 : Rôle de l'expérience
+  - Verbatim : "J'ai testé, mais je ne l'ai pas utilisée pour les cours au début."
+- Code 10 : Évolution future
+  - Verbatim : (à compléter en fonction de la suite de l'entretien ou de la réponse de SPEAKER_02)
+
+Ces thèmes offrent une analyse sociologique des perceptions et des utilisations des IA par les étudiants, notamment Lucie Ostorero, dans leur parcours académique. Ils couvrent la représentation des IA, leur utilisation dans les études, le rapport à la technologie, la découverte et l'évolution de l'utilisation des IA, ainsi que la contextualisation de ces pratiques.

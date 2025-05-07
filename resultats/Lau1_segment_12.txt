@@ -1,0 +1,116 @@
+Voici une analyse de l'entretien en 5 thèmes distincts avec environ 10 codes chacun, accompagnés de leur verbatim associé.
+
+**Thème 1 : Contrôle humain et limites de l'IA**
+
+* Code 1 : Nécessité d'un contrôle humain
+ Verbatim : "Je pense qu'il faudra toujours un contrôle humain quelque part dans la chaîne quoi."
+* Code 2 : Limites de l'IA dans les tâches complexes
+ Verbatim : "Je sais pas à quel point dans l'administration il y a des trucs pas important, ou si vraiment à chaque fois c'est tout le temps importants."
+* Code 3 : Vérification humaine nécessaire
+ Verbatim : "Même si tu la génères par chatGPT, je suppose que tu la lis quand même derrière et tu l'améliores et tout ça."
+* Code 4 : Incertitude sur l'utilité de l'IA
+ Verbatim : "Je ne sais pas à quel point, je pense que ça ferait gagner du temps, mais est-ce que c'est vraiment utile quoi ?"
+* Code 5 : Importance de la vérification humaine
+ Verbatim : "Pour moi, s'il y a une IA, il faut un humain derrière qui contrôle quoi."
+* Code 6 : Limites de l'IA dans la créativité
+ Verbatim : "J'ai l'impression que dans ces cas-là, chatGPT, en tout cas pour le code, n'est pas supposé savoir te répondre…"
+* Code 7 : Nécessité d'une évaluation humaine
+ Verbatim : "Il faut quand même cette vérification humaine derrière et puis... Je sais pas, après là, peu importe..."
+* Code 8 : Limites de l'IA dans la compréhension
+ Verbatim : "Je sais pas, moi je trouve que, peu importe le contexte, il faut quand même cette vérification humaine derrière"
+* Code 9 : Importance de la supervision humaine
+ Verbatim : "Je pense qu'il faudra toujours un contrôle humain quelque part dans la chaîne quoi."
+* Code 10 : Limites de l'automatisation
+ Verbatim : "On est encore... On est « au début ». Et heu… un petit peu plus que le début du coup."
+
+**Thème 2 : Impact de l'IA sur les pratiques d'apprentissage**
+
+* Code 1 : Intégration de l'IA dans les cursus universitaires
+ Verbatim : "Bah Oui? Bah… En tout cas, j'espère qu'il y a... Enfin, c'est déjà le cas, je crois."
+* Code 2 : Nécessité d'une formation à l'IA
+ Verbatim : "Mais il y a tout ce côté prévention, explication aux gens ce que c'est, comment ça marche, etc., qui devrait être mis en œuvre."
+* Code 3 : Changement dans les pratiques d'apprentissage
+ Verbatim : "Je pense… Enfin, comment ça va changer les pratiques d'apprentissage ?"
+* Code 4 : Incertitude sur l'avenir de l'IA
+ Verbatim : "Est-ce que le truc va tenir ou est-ce que c'est vraiment une mode et que ça va disparaître assez vite quoi ?"
+* Code 5 : Impact de l'IA sur la créativité
+ Verbatim : "Et à ce moment-là, oui, c'est... J'ai l'impression que dans ces cas-là, chatGPT, en tout cas pour le code, n'est pas supposé savoir te répondre…"
+* Code 6 : Importance de la créativité humaine
+ Verbatim : "Quelqu'un qui, ben, imaginons, enfin, pour moi, faudrait pas arriver à un moment où t'as besoin de chatGPT pour réussir ton bachelor master en lettres."
+* Code 7 : Rôle de l'IA dans l'apprentissage
+ Verbatim : "Je pense que l'avenir, il y aura des IA et qu'on... On aura pas le choix, quoi."
+* Code 8 : Limites de l'IA dans l'apprentissage
+ Verbatim : "Je sais pas... Je sais pas ce que l'avenir... Enfin..."
+* Code 9 : Évolution de l'IA et impact sur l'apprentissage
+ Verbatim : "On est « au début ». Et heu… un petit peu plus que le début du coup."
+* Code 10 : Importance de la formation humaine
+ Verbatim : "Il y a tout ce côté prévention, explication aux gens ce que c'est, comment ça marche, etc., qui devrait être mis en œuvre."
+
+**Thème 3 : Dilemme moral et créativité**
+
+* Code 1 : Dilemme moral dans l'utilisation de l'IA
+ Verbatim : "En vrai, j'ai l'impression que l'année passée, oui, quand même, toujours avec ce même cours que j'ai loupé là, je sais pas, bah c'est soit de la fierté, soit moral du fait que je voulais pas utiliser chatGPT pour... enfin au minimum possible pour faire ce cours."
+* Code 2 : Créativité et originalité
+ Verbatim : "De toute façon, Internet a toujours été ton ami, et il y a toujours eu des gens qui ont partagé du code, qui ont partagé leurs connaissances."
+* Code 3 : Importance de la créativité humaine
+ Verbatim : "Quand tu fais une dissertation au gymnase, tout doit venir de toi, faut que tu aies eu la pensée, alors que même si tu fais de l'informatique n'importe où,"
+* Code 4 : Différence entre art et ingénierie
+ Verbatim : "J'ai l'impression que c'est pas la même mentalité pour ce qui est dissertation et art. Enfin, l'art, il y a des gens qui transmettent la méthode, les trucs comme ça.."
+* Code 5 : Impact de l'IA sur la créativité
+ Verbatim : "Et à ce moment-là, oui, c'est... J'ai l'impression que dans ces cas-là, chatGPT, en tout cas pour le code, n'est pas supposé savoir te répondre…"
+* Code 6 : Valeur de l'originalité
+ Verbatim : "Quelqu'un qui, ben, imaginons, enfin, pour moi, faudrait pas arriver à un moment où t'as besoin de chatGPT pour réussir ton bachelor master en lettres."
+* Code 7 : Rôle de l'IA dans la créativité
+ Verbatim : "Je pense que justement, on est vachement moins... Enfin, mon domaine, on est vachement moins... enclin à avoir des dilemmes moraux."
+* Code 8 : Importance de la pensée critique
+ Verbatim : "Il y a des gens qui y échangent. Mais tu vas pas... Enfin, un artiste qui a un certain style va pas s'amuser à expliquer son style à tout le monde."
+* Code 9 : Différence entre reproduction et création
+ Verbatim : "Oui, et bah du coup ce truc de créativité, ça s'applique de nouveau à la dissertation et à du code qui n'a jamais été écrit."
+* Code 10 : Valeur de l'originalité dans l'apprentissage
+ Verbatim : "Enfin, l'art, il y a des gens qui transmettent la méthode, les trucs comme ça.. Mais… Enfin, l’art peut-être avec Internet, ça s'est démocratisé, etc."
+
+**Thème 4 : Perception de l'IA et de son avenir**
+
+* Code 1 : Perception de l'IA comme une tendance
+ Verbatim : "(Rires) Hé le Bitcoin il vaut cher maintenant, il a monté! Non mais, enfin, moi il y a les théories web2.0,3.0, machin4.0."
+* Code 2 : Incertitude sur l'avenir de l'IA
+ Verbatim : "Je sais pas ce que l'avenir... Enfin... Je pense que l'avenir, il y aura des IA et qu'on... On aura pas le choix, quoi."
+* Code 3 : Impact de l'IA sur la société
+ Verbatim : "Et... Et du coup, j'ai l'impression que ce sera aussi beaucoup lié à la question écologique, parce que... Enfin… On trouve une source magique d'énergie infinie, et machin..."
+* Code 4 : Rôle de l'IA dans le futur
+ Verbatim : "Je pense que l'avenir, il y aura des IA et qu'on... On aura pas le choix, quoi."
+* Code 5 : Perception de l'IA comme une révolution
+ Verbatim : "Et là, on a le « processing power » de les utiliser, et c'est pour ça que ça devient populaire, et pour le grand public, et pour ceux qui font des modèles, etc."
+* Code 6 : Impact de l'écologie sur l'avenir de l'IA
+ Verbatim : "Et j'ai l'impression qu'on a réchauffement climatique, guerre et tout ça qui approchent. Et du coup, je me demande... (rires) Est-ce qu'il y a un futur dans l'IA, peut-être dans un futur proche, mais peut-être qu'on s'en fout de l'IA quand il y a une guerre ou je sais pas quoi."
+* Code 7 : Rôle de l'énergie dans l'avenir de l'IA
+ Verbatim : "On trouve une source magique d'énergie infinie, et machin... Ok, bah cool, on peut faire utiliser tous les modèles d'IA et tous les trucs qu'on veut, c'est sympa."
+* Code 8 : Perception de l'IA comme un outil
+ Verbatim : "Je pense, ouais. Ou alors si le monde se mettait d'accord et qu'il fallait bannir ça, mais... Mais vu comment c'est parti, j'ai un peu de la peine à imaginer ce futur-là, quoi."
+* Code 9 : Impact de la société sur l'avenir de l'IA
+ Verbatim : "Je pense que l'avenir, il y aura des IA et qu'on... On aura pas le choix, quoi."
+* Code 10 : Incertitude sur l'impact de l'IA
+ Verbatim : "Je sais pas... Je sais pas ce que l'avenir... Enfin..."
+
+**Thème 5 : Reproduction et créativité dans l'apprentissage**
+
+* Code 1 : Distinction entre reproduction et création
+ Verbatim : "Oui, et bah du coup ce truc de créativité, ça s'applique de nouveau à la dissertation et à du code qui n'a jamais été écrit."
+* Code 2 : Rôle de l'IA dans la reproduction
+ Verbatim : "Est-ce que tu dirais que, de ce qui est de l'ordre du reproductif et plus,.. La manière dont je comprends ce que tu dis, c'est qu'en gros, tout ce qui est de l'ordre de reproduction de choses déjà présentes, c'est bon, c'est fine, tu peux l'utiliser."
+* Code 3 : Importance de la créativité dans l'apprentissage
+ Verbatim : "Quand tu fais une dissertation au gymnase, tout doit venir de toi, faut que tu aies eu la pensée, alors que même si tu fais de l'informatique n'importe où,"
+* Code 4 : Différence entre art et ingénierie
+ Verbatim : "J'ai l'impression que c'est pas la même mentalité pour ce qui est dissertation et art. Enfin, l'art, il y a des gens qui transmettent la méthode, les trucs comme ça.."
+* Code 5 : Rôle de l'IA dans la créativité
+ Verbatim : "Et à ce moment-là, oui, c'est... J'ai l'impression que dans ces cas-là, chatGPT, en tout cas pour le code, n'est pas supposé savoir te répondre…"
+* Code 6 : Valeur de l'originalité dans l'apprentissage
+ Verbatim : "Quelqu'un qui, ben, imaginons, enfin, pour moi, faudrait pas arriver à un moment où t'as besoin de chatGPT pour réussir ton bachelor master en lettres."
+* Code 7 : Importance de la pensée critique
+ Verbatim : "Il y a des gens qui y échangent. Mais tu vas pas... Enfin, un artiste qui a un certain style va pas s'amuser à expliquer son style à tout le monde."
+* Code 8 : Rôle de l'IA dans l'apprentissage
+ Verbatim : "Je pense que justement, on est vachement moins... Enfin, mon domaine, on est vachement moins... enclin à avoir des dilemmes moraux."
+* Code 9 : Différence entre reproduction et création
+ Verbatim : "Oui, et bah du coup ce truc de créativité, ça s'applique de nouveau à la dissertation et à du code qui n'a jamais été écrit."
+* Code 10 : Importance de la créativité humaine
+ Verbatim : "De toute façon, Internet a toujours été ton ami, et il y a toujours eu des gens qui ont partagé du code, qui ont partagé leurs connaissances."

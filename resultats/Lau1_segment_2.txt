@@ -1,0 +1,69 @@
+Je vais analyser l'entretien en respectant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Perception de l'IA**
+
+* Thème : Définition de l'IA
+ - Code 1 : Perception large de l'IA
+ - Verbatim : "Pour moi y'a tout ça qui est englobé dans l'IA."
+ - Code 2 : Exemples d'applications de l'IA
+ - Verbatim : "Tout ce qui est robots et comme ça qui font du... du « smart » et un verbe derrière."
+ - Code 3 : Évolution de la perception de l'IA
+ - Verbatim : "Quand on parle d'IA en général en 2000... enfin maintenant quoi, c'est... pour parler de... j'écris un prompt, et j'ai quelque chose qui ressort derrière quoi."
+ - Code 4 : Distinction entre types d'IA
+ - Verbatim : "Il y a quelque chose de distinct entre l'IA de jeux vidéo et chat GPT par exemple."
+ - Code 5 : Limites de l'IA actuelle
+ - Verbatim : "Je parle, enfin on parle de l'IA actuelle et passée parce qu'on sait jamais, ça se trouve l'IA de jeux vidéo va se développer et être basée sur du machine learning, sur du LLM et des trucs du genre"
+
+* Thème : Compréhension de l'IA
+ - Code 6 : Modèle d'IA basé sur l'entraînement
+ - Verbatim : "Un modèle qui a été entraîné pour faire une action spécifique, et ensuite, on l'utilise pour euh... pour faire chatGPT, etc."
+ - Code 7 : Limite de la créativité de l'IA
+ - Verbatim : "Elle ne va jamais créer un truc elle-même. Vu qu'elle a entraîné sur un modèle, sur des créations finies, enfin genre, créé par l'homme, etc."
+ - Code 8 : Transformation matricielle
+ - Verbatim : "C'est une transformation matricielle, quoi."
+ - Code 9 : Utilisation de l'IA pour des tâches spécifiques
+ - Verbatim : "Pour moi, l'IA c'est... soit un modèle qui a été entraîné pour faire une action spécifique"
+ - Code 10 : Réflexion sur la définition de l'IA
+ - Verbatim : "Il y a je ne sais plus qui qui disait que la vraie intelligence artificielle... Je ne sais plus ce que c'était… Elle réfléchit d'elle-même et tout ça."
+
+**Segment 2 : Expérience avec chatGPT**
+
+* Thème : Découverte de chatGPT
+ - Code 1 : Contexte de découverte
+ - Verbatim : "Je devais être en cours. Euh.. Ça devait être en cours et je pense que quelqu'un l'a utilisé et J'ai vu ça ?"
+ - Code 2 : Influence des pairs
+ - Verbatim : "J'avais un pote qui était super fan de chatGPT quand c'est sorti. Et à force qu'il en parle tout le temps en classe, tout le monde s'est un peu mis"
+ - Code 3 : Réseaux sociaux et mainstream
+ - Verbatim : "Les réseaux sociaux et mainstream… je sais pas comment dire ça en français (rires)… Les réseaux sociaux et mainstream, on en parlé et… Voilà."
+ - Code 4 : Adoption de chatGPT
+ - Verbatim : "Je pense qu'un mois après, deux mois après, tout le monde l'avait au moins utilisé une fois."
+ - Code 5 : Fréquence d'utilisation
+ - Verbatim : "Entre un fois par semaine et une fois toutes les deux semaines. Je pense."
+
+* Thème : Utilisation de chatGPT
+ - Code 6 : Utilisation dans les études
+ - Verbatim : "C'était un peu plus élevé dans le passé, quand j'avais des cours qui nécessitaient chatGPT."
+ - Code 7 : Utilisation pour des tâches non académiques
+ - Verbatim : "Il y a une fois on parlait d'un truc de jeu de rôle avec un ami. Et du coup c'était création de personnages, des trucs comme ça."
+ - Code 8 : Utilisation pour le divertissement
+ - Verbatim : "Je mettrais ça dans des trucs, une catégorie genre fun."
+ - Code 9 : Préférence pour des chatbots spécialisés
+ - Verbatim : "Je suis convaincu que j'aimerais bien, je sais pas trop si... Pour moi, chat GPT, c'est trop général."
+ - Code 10 : Limites de chatGPT
+ - Verbatim : "Je me demande à quel point tu peux vraiment être proche de la vérité quand tu es généraliste."
+
+**Segment 3 : Relation à la technologie**
+
+* Thème : Perception de la technologie
+ - Code 1 : Intérêt pour la technologie
+ - Verbatim : "Comment est-ce que tu décrirais ta relation à la technologie de manière générale ?"
+ - Code 2 : Utilisation de la technologie pour des tâches spécifiques
+ - Verbatim : "Je pense ouais. Genre j'ai pas tout le temps de chat GPT ouvert quoi."
+ - Code 3 : Évolution de l'utilisation de la technologie
+ - Verbatim : "J'ai moins de cours. Et c'est des cours en ce moment, ce semestre en tout cas, j'ai l'impression que c'est des cours qui n'ont pas besoin de chatGPT."
+ - Code 4 : Préférence pour des outils spécialisés
+ - Verbatim : "Il y a Blackbox qui apparemment est plus pour le code et j'ai jamais testé encore mais ça ne ferait que tarder."
+ - Code 5 : Réflexion sur la spécialisation
+ - Verbatim : "Je me dis que faire comme par exemple un chatbot d'une entreprise, il est entraîné pour l'entreprise elle-même et rien d'autre."
+
+Ces thèmes et codes offrent une analyse qualitative de l'entretien, mettant en lumière les perceptions et les expériences de l'enquêté avec l'IA et chatGPT, ainsi que sa relation à la technologie en général.

@@ -1,0 +1,93 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif.
+
+**Segment 1 : Utilisation de Chat-GPT**
+
+- Thème : Perception de l'utilité de Chat-GPT
+ - Code 1 : Satisfaction générale
+ - Verbatim : "J'étais satisfaite."
+ - Code 2 : Gain de temps
+ - Verbatim : "Je suis quasiment sûre d'avoir une réponse plus précise que Google, plus rapidement."
+ - Code 3 : Limitations perçues
+ - Verbatim : "Je ne suis pas très convaincue."
+ - Code 4 : Utilisation pour la rédaction
+ - Verbatim : "C'est dans le cadre de rédaction d'articles ou de reportages en général."
+ - Code 5 : Compréhension du contexte
+ - Verbatim : "Il peut m'expliquer dans ce contexte précis-là."
+ - Code 6 : Utilisation pour les définitions
+ - Verbatim : "Pour les définitions dans des contextes... je suis assez satisfaite et je comprends assez bien."
+ - Code 7 : Créativité et subjectivité
+ - Verbatim : "Pour un titre, je suis plutôt pas vraiment satisfaite, mais c'est parce que je suis en recherche aussi."
+ - Code 8 : Manque de développement
+ - Verbatim : "Je ne suis pas époustouflée par ces réponses."
+ - Code 9 : Aide à la réflexion
+ - Verbatim : "Ça m'aide à réfléchir."
+ - Code 10 : Usage spécifique
+ - Verbatim : "Typiquement, je pense que j'avais un cours de droit des médias et je comprenais pas ce que ça voulait dire."
+
+- Thème : Interaction avec Chat-GPT
+ - Code 1 : Formulation des questions
+ - Verbatim : "Je pense que je savais pas non plus qu'il fallait que je sois... assez précise."
+ - Code 2 : Longueur des discussions
+ - Verbatim : "Je ne fais pas des discussions longues."
+ - Code 3 : Utilisation comme outil de brainstorming
+ - Verbatim : "C'est plus, OK, j'ai ces idées, pas comme une sorte de brainstorming."
+ - Code 4 : Comparaison avec d'autres outils
+ - Verbatim : "Je pense que je peux avoir des réponses plus claires que Google."
+ - Code 5 : Politesse dans l'interaction
+ - Verbatim : "Là, j'ai dit merci."
+ - Code 6 : Fréquence d'utilisation
+ - Verbatim : "Je l'utilise un peu comme un compagnon de discussion."
+ - Code 7 : Contexte d'utilisation
+ - Verbatim : "Dans le master, on a aussi des travaux à rendre."
+ - Code 8 : Type de questions posées
+ - Verbatim : "Des questions de grammaire, des questions synonymes."
+ - Code 9 : Satisfaction par rapport aux réponses
+ - Verbatim : "Ça dépend."
+ - Code 10 : Attentes par rapport à Chat-GPT
+ - Verbatim : "Je m'appuie pas ou très peu en tout cas."
+
+**Segment 2 : Analyse de l'utilisation**
+
+- Thème : Stratégie d'utilisation
+ - Code 1 : Formulation des prompts
+ - Verbatim : "Je n'ai pas l'impression que ça va vraiment me servir pour l'usage que j'en ai."
+ - Code 2 : Évaluation de la qualité des réponses
+ - Verbatim : "4 réponses sur 5 ne vont pas me convenir."
+ - Code 3 : Gain de temps perçu
+ - Verbatim : "C'est plus rapide, quoi."
+ - Code 4 : Limites de l'outil
+ - Verbatim : "Ça montre un peu les limites et l'utilisation que j'en ai."
+ - Code 5 : Utilisation pour des tâches spécifiques
+ - Verbatim : "Des reformulations de phrases."
+ - Code 6 : Comparaison avec d'autres méthodes
+ - Verbatim : "Je vais chercher moi-même."
+ - Code 7 : Niveau de satisfaction
+ - Verbatim : "Je suis pas très convaincue."
+ - Code 8 : Développement personnel
+ - Verbatim : "Je peux quand même en vouloir, parce que j'ai pas assez développé ton prompt."
+ - Code 9 : Utilisation future
+ - Verbatim : "Non, je ne vais pas développer plus pour la prochaine fois."
+ - Code 10 : Perception de l'outil
+ - Verbatim : "C'est un outil qui m'aide à réfléchir."
+
+- Thème : Perception de l'efficacité
+ - Code 1 : Évaluation de l'efficacité
+ - Verbatim : "Je suis quasiment sûre d'avoir une réponse plus précise que Google."
+ - Code 2 : Impact sur le travail
+ - Verbatim : "Ça m'aide à réfléchir."
+ - Code 3 : Satisfaction par rapport aux résultats
+ - Verbatim : "Je suis assez satisfaite et je comprends assez bien."
+ - Code 4 : Limitations
+ - Verbatim : "Je ne suis pas époustouflée par ces réponses."
+ - Code 5 : Utilisation dans différents contextes
+ - Verbatim : "Dans le cadre de rédaction d'articles ou de reportages en général."
+ - Code 6 : Comparaison avec d'autres outils
+ - Verbatim : "Je pense que je peux avoir des réponses plus claires que Google."
+ - Code 7 : Perception de la qualité
+ - Verbatim : "C'est difficile de dire oui ou non clairement, ça dépend."
+ - Code 8 : Attentes
+ - Verbatim : "Je m'appuie pas ou très peu en tout cas."
+ - Code 9 : Évolution de l'utilisation
+ - Verbatim : "Je ne vais pas développer plus pour la prochaine fois."
+ - Code 10 : Bilan global
+ - Verbatim : "C'est un outil qui m'aide à réfléchir."

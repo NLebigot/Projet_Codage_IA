@@ -1,0 +1,113 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes distincts qui reflètent les discussions entre les deux interlocuteurs sur l'utilisation de Chat-GPT dans un contexte académique et professionnel. Voici les thèmes avec leurs codes et verbatims associés :
+
+### Thème 1 : Transparence et responsabilité dans l'utilisation de Chat-GPT
+- Code 1 : Définition de la transparence
+ - Verbatim : "être transparent, ça veut tout et rien dire"
+- Code 2 : Pratique de notation de l'utilisation de Chat-GPT
+ - Verbatim : "je l'ai fait la première fois avec justement le truc du mémoire"
+- Code 3 : Responsabilité de l'utilisateur
+ - Verbatim : "on est quand même responsable"
+- Code 4 : Limite subjective de transparence
+ - Verbatim : "c'est une limite subjective que tu t'es imposée ?"
+- Code 5 : Variation de pratique selon le contexte
+ - Verbatim : "au niveau professionnel, quand je retranscris des audios ou des vidéos pour aller plus vite dans la rédaction de l'article, je le mets pas"
+- Code 6 : Évolution de la pratique
+ - Verbatim : "je pense que je vais commencer à le faire parce qu'il faut être transparent"
+- Code 7 : Perception de la transparence par les lecteurs
+ - Verbatim : "ça questionne la valeur de Chat-GPT, de l'utilisation"
+- Code 8 : Chartes et règles pour l'utilisation de Chat-GPT
+ - Verbatim : "il y a des charts qui existent et qui disent... en tout cas dans les médias"
+- Code 9 : Responsabilité de la publication
+ - Verbatim : "même s'ils ont utilisé lire. Donc je pense que ces charts de médias doivent être les mêmes pour l'académie que pour le professionnel"
+- Code 10 : Signature et responsabilité
+ - Verbatim : "si on signe de son nom ou de son pseudo ou n'importe, on est quand même responsable"
+
+### Thème 2 : Impact de Chat-GPT sur l'apprentissage et la rédaction
+- Code 1 : Perception de l'impact sur l'apprentissage
+ - Verbatim : "est-ce qu'on parle justement... De plus en plus, on parle dans les... En tout cas, moi, dans mon groupe de travail avant, on parlait justement de l'utilisation des IA dans le travail académique"
+- Code 2 : Flemme réflexive
+ - Verbatim : "ça peut amener à une sorte de flemme réflexive"
+- Code 3 : Utilisation de Chat-GPT pour la formulation
+ - Verbatim : "j'aime bien creuser des sujets, chercher... Alors oui, peut-être que j'ai la plume de chercher mille titres et que c'est plus facile de demander à Chat-GPT"
+- Code 4 : Valeur ajoutée par l'utilisation de Chat-GPT
+ - Verbatim : "je considère pas que la valeur... Enfin, je suis pas sûre que trouver des titres, ça fait vraiment ce qui va me faire me démarquer"
+- Code 5 : Différence entre utilisation personnelle et professionnelle
+ - Verbatim : "avec l'utilisation que j'en ai, c'est..."
+- Code 6 : Hypothèse sur l'absence de Chat-GPT
+ - Verbatim : "si je n'avais pas Chat-GPT, en fait je ferais le même processus, c'est juste que je discuterais peut-être plus des sujets avec d'autres gens"
+- Code 7 : Perception de l'outil comme un plus
+ - Verbatim : "je le vois vraiment comme un plus"
+- Code 8 : Question sur la légitimité de l'utilisation
+ - Verbatim : "est-ce que tu dirais qu'il y a des situations, des travaux où l'usage de cette société est plus légitime que d'autres ?"
+- Code 9 : Comparaison avec d'autres outils
+ - Verbatim : "par exemple si on utilise Dipple pour traduire, c'est peut-être plus légitime d'utiliser un traducteur dans ce sens-là"
+- Code 10 : Perception de la légitimité selon l'utilisation
+ - Verbatim : "c'est plus comment est-ce qu'on l'utilise, est-ce que ça devient légitime ou pas, pourquoi on le fait en fait ?"
+
+### Thème 3 : Légitimité et limites de l'utilisation de Chat-GPT
+- Code 1 : Question sur la légitimité
+ - Verbatim : "est-ce que tu dirais qu'il y a des situations, des travaux où l'usage de cette société est plus légitime que d'autres ?"
+- Code 2 : Perception de la légitimité selon l'outil
+ - Verbatim : "un outil reste un outil, donc c'est plus comment est-ce qu'on l'utilise"
+- Code 3 : Exemple d'utilisation légitime
+ - Verbatim : "pour moi, c'est pas illégitime d'utiliser le Chat-GPT si on n'a pas d'idée, au contraire"
+- Code 4 : Limite de l'utilisation
+ - Verbatim : "jusqu'à où tu peux pousser le recours à chat GPT ?"
+- Code 5 : Responsabilité de l'utilisateur dans l'utilisation
+ - Verbatim : "il faut juste pas l'utiliser pas juste, je sais pas, faire un texte, le lire en diagonale et le publier"
+- Code 6 : Vérification des informations
+ - Verbatim : "c'est la responsabilité de chaque personne de... ben voilà, de vérifier les informations, de vérifier l'orthographe aussi"
+- Code 7 : Différence de perception selon l'utilisation
+ - Verbatim : "je pense que je dis ça parce que je l'utilise, mais si quelqu'un ne l'utilise pas du tout, on dira mais l'utiliser pour... Même les synonymes c'est trop déjà"
+- Code 8 : Cas spécifique de l'utilisation pour la création
+ - Verbatim : "là je parle du texte, mais je me dis peut-être que c'est plus illégitime au niveau des images"
+- Code 9 : Perception de l'illégitimité dans la création
+ - Verbatim : "je ne sais pas, moi je suis écrivaine, je veux faire un livre et je demande à Chat-GPT et il me fait mon livre, mes chapitres"
+- Code 10 : Curseur personnel pour la légitimité
+ - Verbatim : "c'est une question de curseur, parce que finalement c'est très personnel de dire que c'est illégitime ou pas"
+
+### Thème 4 : Émotions et perceptions associées à l'utilisation de Chat-GPT
+- Code 1 : Honte ou pas de honte
+ - Verbatim : "non, je ne pense pas honte"
+- Code 2 : Perception de la réponse parfaite
+ - Verbatim : "des fois, c'est des réponses parfaites. Des fois, c'est la réponse qu'il faut"
+- Code 3 : Sentiment face à la performance de la machine
+ - Verbatim : "c'est toujours un peu honteux de se dire, en fait, je ne l'ai pas trouvé moi, mais c'est une machine qui l'a trouvé"
+- Code 4 : Comparaison avec d'autres situations
+ - Verbatim : "c'est la même chose pour le plagiat en dehors de Chat-GPT"
+- Code 5 : Préférence pour la formulation machinale
+ - Verbatim : "on aime plus la formulation machinale, la formulation des machines plutôt que celle des humains"
+- Code 6 : Perception du biais de neutralité
+ - Verbatim : "on se dit que c'est neutre, que c'est plus structuré et au final"
+- Code 7 : Acceptation de l'utilisation
+ - Verbatim : "si j'ai honte, je ne l'utilise pas"
+- Code 8 : Émotions associées à la découverte
+ - Verbatim : "c'est plus dans ce sens-là"
+- Code 9 : Réflexion sur la dépendance
+ - Verbatim : "est-ce que je me laisse remplacer par l'IA ?"
+- Code 10 : Responsabilité personnelle
+ - Verbatim : "c'est ma responsabilité et puis que... En vrai, oui, forcément que ça va affecter mon travail"
+
+### Thème 5 : Évolution et futur de l'utilisation de Chat-GPT
+- Code 1 : Évolution future de l'utilisation
+ - Verbatim : "je pense que... qu'en vrai on peut tout faire avec l'IA"
+- Code 2 : Perception des potentialités
+ - Verbatim : "là je parle du texte, mais je me dis peut-être que c'est plus illégitime au niveau des images"
+- Code 3 : Futur de la création et de l'IA
+ - Verbatim : "je ne sais pas, moi je suis écrivaine, je veux faire un livre et je demande à Chat-GPT et il me fait mon livre, mes chapitres"
+- Code 4 : Question sur le rôle de l'humain
+ - Verbatim : "est-ce que je me laisse remplacer par l'IA ?"
+- Code 5 : Responsabilité face à l'évolution
+ - Verbatim : "c'est la responsabilité de chaque personne de... ben voilà, de vérifier les informations, de vérifier l'orthographe aussi"
+- Code 6 : Impact sur le travail et la créativité
+ - Verbatim : "ça peut amener à une sorte de flemme réflexive"
+- Code 7 : Perception de l'outil comme un support
+ - Verbatim : "je le vois vraiment comme un plus"
+- Code 8 : Futur de la relation entre humain et IA
+ - Verbatim : "on peut l'utiliser pour tout, il faut juste pas l'utiliser pas juste"
+- Code 9 : Évolution des pratiques académiques et professionnelles
+ - Verbatim : "il y a des charts qui existent et qui disent... en tout cas dans les médias"
+- Code 10 : Adaptation et responsabilité
+ - Verbatim : "c'est ma responsabilité et puis que... En vrai, oui, forcément que ça va affecter mon travail"
+
+Chaque thème regroupe des codes qui explorent une dimension spécifique de l'utilisation de Chat-GPT, allant de la transparence et de la responsabilité à l'impact sur l'apprentissage, la légitimité de l'utilisation, les émotions associées, et enfin, l'évolution future de cette technologie et son interaction avec les humains. Les verbatims illustrent la richesse des discussions et la complexité des questions soulevées par l'utilisation de Chat-GPT.

@@ -1,0 +1,77 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Utilisation de ChatGPT pour obtenir des informations**
+
+- Thème 1 : Fiabilité des résultats fournis par ChatGPT
+ - Code 1 : Sources vérifiables
+ - Verbatim : "il me donnait les sources donc je cliquais sur les liens et les liens étaient bons quoi"
+ - Code 2 : Pages académiques authentiques
+ - Verbatim : "C'était la page académique du chercheur ou de la chercheuse"
+ - Code 3 : Résultats non inventés
+ - Verbatim : "il avait pas du tout inventé une page"
+ - Code 4 : Évaluation positive de la fiabilité
+ - Verbatim : "ça m'avait aussi hyper impressionné"
+ - Code 5 : Critères de recherche
+ - Verbatim : "en mettant plusieurs critères"
+ - Code 6 : Évolution de la version de ChatGPT
+ - Verbatim : "j'avais utilisé la dernière version de ChatGPT où y a l'option sourcée"
+ - Code 7 : Réflexion et précision
+ - Verbatim : "il prend son temps aussi pour réfléchir quoi ?"
+ - Code 8 : Résultats différents entre utilisateurs
+ - Verbatim : "j'ai demandé un pote de le faire lui dans son ChatGPT, ça avait pas trop marché"
+ - Code 9 : Contexte d'utilisation
+ - Verbatim : "j'utilise dans le cadre du travail"
+ - Code 10 : Variabilité des résultats
+ - Verbatim : "c'est très variable, hein ?"
+
+- Thème 2 : Perception de l'utilité de ChatGPT
+ - Code 1 : Utilisation pour le travail
+ - Verbatim : "j'utilise dans le cadre du travail"
+ - Code 2 : Aide en cas d'échéances serrées
+ - Verbatim : "je l'utilise proche des échéances"
+ - Code 3 : Réduction du stress
+ - Verbatim : "ça a un effet positif. Ça permet parfois de se décharger d'un peu, d'un peu de boulot"
+ - Code 4 : Utilisation pragmatique
+ - Verbatim : "je me dis enfin ça me enfin parce qu'en fait comme je te l'ai dit, là je l'utilise proche"
+ - Code 5 : Évaluation de l'impact sur le stress
+ - Verbatim : "je pense que ça l'a affecté dans une manière positive quoi"
+
+**Segment 2 : Impact de ChatGPT sur le stress académique et évaluation de sa fiabilité**
+
+- Thème 3 : Impact de ChatGPT sur le stress lié aux échéances académiques
+ - Code 1 : Utilisation en période de stress
+ - Verbatim : "j'utilise proche des échéances"
+ - Code 2 : Réduction du stress grâce à ChatGPT
+ - Verbatim : "ça permet parfois de se décharger d'un peu, d'un peu de boulot lors de ces périodes d'échéance"
+ - Code 3 : Perception positive de l'impact
+ - Verbatim : "je pense que ça l'a affecté dans une manière positive quoi"
+ - Code 4 : Utilisation comme outil de soutien
+ - Verbatim : "j'utilise dans le cadre du travail"
+ - Code 5 : Effet sur la charge de travail
+ - Verbatim : "ça permet parfois de se décharger d'un peu, d'un peu de boulot"
+
+- Thème 4 : Évaluation de la qualité et de la fiabilité des résultats fournis par ChatGPT
+ - Code 1 : Variabilité de la qualité
+ - Verbatim : "c'est très variable, hein ?"
+ - Code 2 : Critères d'évaluation
+ - Verbatim : "sur une échelle de1 à10 quoi ?"
+ - Code 3 : Sources et liens
+ - Verbatim : "il me donnait les sources donc je cliquais sur les liens et les liens étaient bons quoi"
+ - Code 4 : Authenticité des informations
+ - Verbatim : "C'était la page académique du chercheur ou de la chercheuse"
+ - Code 5 : Satisfaction concernant la fiabilité
+ - Verbatim : "ça m'avait aussi hyper impressionné"
+
+- Thème 5 : Contextualisation de l'utilisation de ChatGPT
+ - Code 1 : Contexte académique
+ - Verbatim : "j'utilise dans le cadre du travail"
+ - Code 2 : Périodes d'échéance
+ - Verbatim : "j'utilise proche des échéances"
+ - Code 3 : Échéances académiques
+ - Verbatim : "lors de ces périodes d'échéance"
+ - Code 4 : Utilisation comme soutien
+ - Verbatim : "ça permet parfois de se décharger d'un peu, d'un peu de boulot"
+ - Code 5 : Perception de l'outil
+ - Verbatim : "je pense que ça l'a affecté dans une manière positive quoi"
+
+Ces thèmes et codes offrent une analyse sociologique nuancée de l'entretien, mettant en lumière les perceptions de l'enquêté concernant l'utilisation, la fiabilité et l'impact de ChatGPT sur son stress académique.

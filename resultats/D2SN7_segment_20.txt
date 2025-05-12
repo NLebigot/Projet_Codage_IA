@@ -1,0 +1,111 @@
+Voici le résultat de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Préoccupations éthiques liées à l'utilisation de l'IA**
+- Code 1 : Utilisation abusive de l'IA pour la surveillance
+  - Verbatim : "quand c'est utilisé pour fliquer des gens, pour participer un peu une ère en capitalisme de surveillance et punitif"
+- Code 2 : Imposition sans débat
+  - Verbatim : "c'était le truc là qui est hallucinant quoi dont personne ne parle, qui a été imposé pendant les JO"
+- Code 3 : Biais et discrimination
+  - Verbatim : "ça reprend des biais racistes qui existent toujours, qui ont existé de manière encore plus fort à avant"
+- Code 4 : Utilisation dans le système judiciaire
+  - Verbatim : "si on en fait des usages par exemple, je sais qu'il y a des entreprises utilisent pour des CV pour trier des CV"
+- Code 5 : Problèmes liés à la confidentialité
+  - Verbatim : "qu'est-ce que fait l'IA ? C'est à dire est-ce qu'elle le prend en compte, est-ce que je dois le prendre ?"
+- Code 6 : Manque de transparence
+  - Verbatim : "on te dit juste, on te le vend comme ça parce que les entreprises le vendent comme on dit juste"
+- Code 7 : Travail invisible derrière l'IA
+  - Verbatim : "les travailleurs du clic, où maintenance on essaie de vendre des trucs d’IA, mais en fait c'est juste du travail à distance"
+- Code 8 : Localisation du travail lié à l'IA
+  - Verbatim : "c'est des personnes à Madagascar qui font le travail de l'IA quoi, et qui l’entraîne et tout ça"
+- Code 9 : Effet "magique" de l'IA
+  - Verbatim : "l'effet un peu magique de l'IA, c'est qu'on te dit juste, on te le vend comme ça"
+- Code 10 : Nécessité d'encadrer l'IA
+  - Verbatim : "faut l'encadrer, faut absolument guider parce que bon, si un jour c'est utilisé et je sais pas dans la justice quoi"
+
+**Thème 2 : Utilisation personnelle et paradoxe**
+- Code 1 : Fréquence d'utilisation
+  - Verbatim : "je disais voilà entre 2 et 3 par semaine"
+- Code 2 : Paiement pour l'utilisation de l'IA
+  - Verbatim : "mon père, il paye, il donne de l'argent à OpenAI"
+- Code 3 : Réflexion sur les implications éthiques
+  - Verbatim : "ça pose de grosses questions"
+- Code 4 : Tentatives pour une utilisation plus éthique
+  - Verbatim : "installer un LLM localement quoi, c'est à dire que du coup t'as pas les… Du coup DeepSeek, c’est l’IA chinoise"
+- Code 5 : Préoccupation pour la confidentialité des données
+  - Verbatim : "au moins tu donnes pas tes données"
+- Code 6 : Utilité et gain de temps
+  - Verbatim : "comme c'est utile, ça te fait gagner du temps, t'as envie de l'utiliser"
+- Code 7 : Sentiment d'être pris au piège
+  - Verbatim : "t'es un peu pris au piège dans ce truc quoi"
+- Code 8 : Représentation de l'IA pour les proches
+  - Verbatim : "j'ai envie qu'il s’en serve aussi parce que j'ai envie que ça leur soit utile"
+- Code 9 : Perception de l'IA comme un outil magique
+  - Verbatim : "je le leur représente ça un peu comme un outil magique"
+- Code 10 : Questionnement sur la dépendance à l'IA
+  - Verbatim : "est-ce que t'es contre ces trucs, même en général, que t'es obligé de pas avoir en gros d'iphone, d'ordi…"
+
+**Thème 3 : Risques et conséquences de l'IA**
+- Code 1 : Risque de perpétuation des biais
+  - Verbatim : "elle se base sur des données antérieures, donc bon bah elle va pas changer quoi"
+- Code 2 : Impact sur la justice
+  - Verbatim : "si on en fait des usages par exemple, je sais qu'il y a des entreprises utilisent pour des CV pour trier des CV"
+- Code 3 : Surveillance et contrôle
+  - Verbatim : "pour fliquer des gens, pour participer un peu une ère en capitalisme de surveillance et punitif"
+- Code 4 : Utilisation par les forces répressives
+  - Verbatim : "même à des forces répressives"
+- Code 5 : Manque de débat public
+  - Verbatim : "c'était le truc là qui est hallucinant quoi dont personne ne parle"
+- Code 6 : Normalisation de la surveillance
+  - Verbatim : "c'est la même rhétorique que l'état d'urgence, c'est à dire, « non, non, c'est que pour une petite période », mais en fait bon, comme les gens s’y sont habitués"
+- Code 7 : Risques liés à la confidentialité
+  - Verbatim : "qu'est-ce que fait l'IA ? C'est à dire est-ce qu'elle le prend en compte, est-ce que je dois le prendre ?"
+- Code 8 : Impact sur l'emploi
+  - Verbatim : "les travailleurs du clic, où maintenance on essaie de vendre des trucs d’IA"
+- Code 9 : Dépendance aux données
+  - Verbatim : "elle se base sur des données antérieures"
+- Code 10 : Nécessité d'une réflexion éthique
+  - Verbatim : "faut l'encadrer, faut absolument guider"
+
+**Thème 4 : Alternatives et solutions**
+- Code 1 : Utilisation locale de l'IA
+  - Verbatim : "installer un LLM localement quoi"
+- Code 2 : Contrôle des données
+  - Verbatim : "au moins tu donnes pas tes données"
+- Code 3 : Recherche de solutions alternatives
+  - Verbatim : "mon frère, il essaye de le faire, lui de son ordi"
+- Code 4 : Nécessité d'informer les gens
+  - Verbatim : "il faut continuer aussi à peut-être informer les gens et tout"
+- Code 5 : Sensibilisation aux implications éthiques
+  - Verbatim : "peut être que bon, moi je le fais assez mal"
+- Code 6 : Questionnement sur la nécessité de l'IA
+  - Verbatim : "est-ce que t'es contre ces trucs, même en général"
+- Code 7 : Exploration d'alternatives
+  - Verbatim : "DeepSeek, c’est l’IA chinoise"
+- Code 8 : Réflexion sur l'utilisation responsable
+  - Verbatim : "faut l'encadrer, faut absolument guider"
+- Code 9 : Besoin de débat public
+  - Verbatim : "le plus alarmant, c'est que on ne discute même pas ces questions éthiques"
+- Code 10 : Prise de conscience individuelle
+  - Verbatim : "moi pour parler vraiment de mes pratiques et de mon ressenti, c'est un peu paradoxal quoi"
+
+**Thème 5 : Paradoxes et contradictions**
+- Code 1 : Utilisation personnelle malgré les préoccupations éthiques
+  - Verbatim : "je disais voilà entre 2 et 3 par semaine"
+- Code 2 : Perception paradoxale de l'IA
+  - Verbatim : "c'est un peu paradoxal quoi"
+- Code 3 : Envie d'utiliser l'IA tout en étant conscient des risques
+  - Verbatim : "j'ai envie qu'il s’en serve aussi parce que j'ai envie que ça leur soit utile"
+- Code 4 : Tension entre utilité et éthique
+  - Verbatim : "comme c'est utile, ça te fait gagner du temps, t'as envie de l'utiliser et t'es un peu pris au piège dans ce truc quoi"
+- Code 5 : Conscientisation des implications éthiques
+  - Verbatim : "ça pose de grosses questions"
+- Code 6 : Difficulté à concilier usage personnel et préoccupations éthiques
+  - Verbatim : "moi pour parler vraiment de mes pratiques et de mon ressenti, c'est un peu paradoxal quoi"
+- Code 7 : Acceptation de la dépendance à l'IA
+  - Verbatim : "t'es un peu pris au piège dans ce truc quoi"
+- Code 8 : Questionnement sur la possibilité de se passer de l'IA
+  - Verbatim : "est-ce que t'es contre ces trucs, même en général, que t'es obligé de pas avoir en gros d'iphone, d'ordi…"
+- Code 9 : Reconnaissance de la complexité du problème
+  - Verbatim : "on a tous nos paradoxes i guess"
+- Code 10 : Acceptation de la complexité des implications éthiques
+  - Verbatim : "oui, ça pose de grandes questions éthiques"

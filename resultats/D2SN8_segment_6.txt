@@ -1,0 +1,111 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes distincts avec leurs codes et verbatim associés. Voici les résultats :
+
+**Thème 1 : Utilisation de ChatGPT et gestion du temps**
+ - Code 1 : Gain de temps
+ - Verbatim : "tu gagnes vraiment vachement de temps après"
+ - Code 2 : Dépendance à l'outil
+ - Verbatim : "je me rends compte que je suis un peu trop speed, j’utilise l’IA pour m’en sortir vite"
+ - Code 3 : Équilibre entre rapidité et compréhension
+ - Verbatim : "est-ce que je prends assez de temps pour vraiment comprendre les choses ou bien je me repose trop sur l’outil"
+ - Code 4 : Utilisation en fonction des deadlines
+ - Verbatim : "si je suis sur des choses super techniques ou que la deadline est proche, je sais que ChatGPT va me faire gagner énormément de temps"
+ - Code 5 : Réflexion sur l'utilisation
+ - Verbatim : "je me rends pas forcément compte si tout est bien maîtrisé"
+ - Code 6 : Avantages de l'utilisation
+ - Verbatim : "acheter du temps avec ChatGPT m’a permis de me concentrer sur d’autres aspects du devoir"
+ - Code 7 : Impact sur la réflexion
+ - Verbatim : "ça peut m'empêcher de vraiment m’investir dans la réflexion pour creuser un sujet plus en profondeur"
+ - Code 8 : Utilisation en fonction des matières
+ - Verbatim : "ça dépend aussi des matières"
+ - Code 9 : Minimiser la dépendance
+ - Verbatim : "j’essaie vraiment de minimiser ma dépendance et de pas trop utiliser l’outil"
+ - Code 10 : Conscientisation de l'impact
+ - Verbatim : "je me rends compte que ça change beaucoup ta manière de travailler"
+
+**Thème 2 : Rôle de ChatGPT dans la compréhension et la structuration des projets**
+ - Code 1 : Structuration des idées
+ - Verbatim : "ça m’arrive de l’utiliser pour structurer le sujet"
+ - Code 2 : Clarification des concepts
+ - Verbatim : "quand j’ai un doute sur une consigne, ou un concept clé dans un projet, ça me permet de creuser un peu"
+ - Code 3 : Reformulation des idées
+ - Verbatim : "d’avoir des explications plus personnalisées, plus simples ou juste de reformuler ce que je comprends moyen"
+ - Code 4 : Formalisation des idées
+ - Verbatim : "c’est aussi un moyen de formaliser le tout dans le sens où j’ai une structure, des idées qui sont posées"
+ - Code 5 : Prise de décision
+ - Verbatim : "c'est toujours moi qui doit prendre les décisions et interpréter ces infos pour vraiment cerner l’objectif du projet"
+ - Code 6 : Utilité de l'outil
+ - Verbatim : "je trouve ça vraiment utile pour clarifier des blocages"
+ - Code 7 : Limites de l'outil
+ - Verbatim : "ça reste secondaire"
+ - Code 8 : Aide à la compréhension
+ - Verbatim : "ça joue un rôle pas mal dans ma compréhension des projets"
+ - Code 9 : Nécessité de l'interprétation personnelle
+ - Verbatim : "sinon concrètement ça sert à rien de faire ce que je fais"
+ - Code 10 : Synergie entre l'outil et la réflexion personnelle
+ - Verbatim : "j’ai une structure, des idées qui sont posées sur papier"
+
+**Thème 3 : Légitimité de l'utilisation de ChatGPT selon les types de devoirs**
+ - Code 1 : Variation selon la nature du travail
+ - Verbatim : "ça va surtout dépendre de la nature du travail qu’il faut étaler"
+ - Code 2 : Utilisation justifiée pour la structuration
+ - Verbatim : "pour certains travaux où c’est surtout une question de structure ou de mise en forme, je trouve que c’est super justifié de l’utiliser"
+ - Code 3 : Limite pour les analyses critiques
+ - Verbatim : "pour les devoirs où on doit montrer une vraie réflexion personnelle ou une analyse critique, là c’est plus compliqué de l’utiliser"
+ - Code 4 : Contre-productivité
+ - Verbatim : "le fait d’utiliser ChatGPT serait un peu contre-productif quoi"
+ - Code 5 : Choix personnel
+ - Verbatim : "c’est une question de choix"
+ - Code 6 : Gain de temps sans perte de compétence
+ - Verbatim : "si tu penses que même sans ChatGPT t’aurais été capable de faire le devoir et que c’est juste une question de gagner du temps, bah grand bien te fasse"
+ - Code 7 : Acceptabilité
+ - Verbatim : "c’est pas à moi de décider ce qui est acceptable ou non"
+ - Code 8 : Adaptabilité
+ - Verbatim : "autant exploiter ça au max dans un sens"
+ - Code 9 : Impact sur l'apprentissage
+ - Verbatim : "c’est contre-productif après ça veut pas dire que c’est inacceptable"
+ - Code 10 : Contextualisation de l'utilisation
+ - Verbatim : "il est là aujourd’hui, il sera encore là demain"
+
+**Thème 4 : Perception et réflexivité sur l'usage de ChatGPT**
+ - Code 1 : Réflexion sur l'usage
+ - Verbatim : "j’ai déjà eu cette réflexion c’est clair"
+ - Code 2 : Partage d'expérience
+ - Verbatim : "oui je pense que beaucoup passent par cette même réflexion"
+ - Code 3 : Changement dans la manière de travailler
+ - Verbatim : "à force de l’utiliser tu te rends compte aussi que ça change beaucoup ta manière de travailler"
+ - Code 4 : Conscience de l'impact sur la réflexion
+ - Verbatim : "est-ce que j’ai vraiment pris le temps de me poser toutes les questions nécessaires pour approfondir ma pensée ?"
+ - Code 5 : Évaluation de l'outil
+ - Verbatim : "c’est un peu la double tranchant"
+ - Code 6 : Autonomie
+ - Verbatim : "c'est toujours moi qui doit prendre les décisions"
+ - Code 7 : Utilité ressentie
+ - Verbatim : "je trouve ça vraiment utile"
+ - Code 8 : Limites perçues
+ - Verbatim : "ça reste secondaire"
+ - Code 9 : Adaptation à la situation
+ - Verbatim : "j’essaie vraiment de minimiser ma dépendance"
+ - Code 10 : Neutralité
+ - Verbatim : "c’est pas à moi de décider"
+
+**Thème 5 : Équilibre entre utilisation de ChatGPT et développement de compétences personnelles**
+ - Code 1 : Impact sur l'apprentissage
+ - Verbatim : "c’est là que je pense que ça peut être un frein à l’apprentissage"
+ - Code 2 : Développement de la réflexion personnelle
+ - Verbatim : "on attend vraiment de toi une réflexion pour voir comment tu argumentes et comment tu construis ta propre pensée"
+ - Code 3 : Compétences techniques vs réflexion
+ - Verbatim : "si je suis sur des choses super techniques... je sais que ChatGPT va me faire gagner énormément de temps"
+ - Code 4 : Gestion de la dépendance
+ - Verbatim : "j’essaie vraiment de minimiser ma dépendance et de pas trop utiliser l’outil"
+ - Code 5 : Équilibre entre rapidité et qualité
+ - Verbatim : "est-ce que je prends assez de temps pour vraiment comprendre les choses"
+ - Code 6 : Perception de l'outil comme un complément
+ - Verbatim : "ça reste une aide sur le côté"
+ - Code 7 : Importance de l'interprétation personnelle
+ - Verbatim : "c'est toujours moi qui doit prendre les décisions et interpréter ces infos"
+ - Code 8 : Risque de dépendance
+ - Verbatim : "je me rends compte que je suis un peu trop speed"
+ - Code 9 : Utilisation stratégique
+ - Verbatim : "autant exploiter ça au max dans un sens"
+ - Code 10 : Conscience de la nécessité d'un équilibre
+ - Verbatim : "c’est un peu la double tranchant"

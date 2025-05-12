@@ -1,0 +1,95 @@
+Voici le résultat de l'analyse qualitative de l'entretien avec Léa, suivant les instructions fournies :
+
+**Segment 1 : Utilisation de ChatGPT pour la rédaction et la recherche**
+
+- **Thème : Utilisation de ChatGPT comme outil de travail**
+  - Code 1 : Utilisation pour résumer des articles
+    - Verbatim : "j'ai déjà essayé de mettre des articles dans ChatGPT et je lui demandai de me les résumer"
+  - Code 2 : Limite de ChatGPT dans la substitution à la lecture
+    - Verbatim : "je trouve que il n'est pas très bon enfin ça se substituera jamais à la lecture quoi"
+  - Code 3 : Utilisation pour écrire des idées
+    - Verbatim : "c'est surtout pour écrire mes idées donc je les mets sous forme de tirer et après c'est lui qui rédige"
+  - Code 4 : Révision nécessaire des productions de ChatGPT
+    - Verbatim : "je suis quand même obligée de repasser derrière lui parce que parfois ça ne me plaît pas ou il y a des phrases qui sont mal tournées etc."
+  - Code 5 : Utilisation dans le cadre associatif
+    - Verbatim : "je suis engagée dans plusieurs associations et du coup bah souvent je fais essentiellement de la communication"
+  - Code 6 : Utilisation pour des tâches de rédaction
+    - Verbatim : "je lui demande de rédiger bah les petits bio des posts insta ou des trucs comme ça"
+  - Code 7 : Vérification des productions
+    - Verbatim : "je vérifie à chaque fois"
+  - Code 8 : Perception de ChatGPT comme un outil
+    - Verbatim : "donc je m’en sers comme outil"
+  - Code 9 : Engagement dans des associations
+    - Verbatim : "je suis engagée dans plusieurs associations"
+  - Code 10 : Utilisation pour des tâches spécifiques
+    - Verbatim : "je lui demande de rédiger"
+
+- **Thème : Perception et limites de ChatGPT**
+  - Code 1 : Perception initiale de ChatGPT
+    - Verbatim : "je trouve que il n'est pas très bon"
+  - Code 2 : Amélioration des réponses avec des instructions précises
+    - Verbatim : "j’ai demandé une analyse sociologique et là sa deuxième réponse était nettement meilleure"
+  - Code 3 : Utilité dans la recherche d'information
+    - Verbatim : "il est assez bon en terme de recherche"
+  - Code 4 : Gain de temps
+    - Verbatim : "c'est hyper rapide"
+  - Code 5 : Limite dans l'analyse sociologique
+    - Verbatim : "il n’analysait pas les entretiens sociologiquement parlant"
+  - Code 6 : Nécessité de reformuler les demandes
+    - Verbatim : "je lui ai dit 'j'aimerais que tu ailles plus loin dans ton analyse'"
+  - Code 7 : Utilisation dans le cadre académique
+    - Verbatim : "dans le cadre de mon Master"
+  - Code 8 : Objectif d'avoir de nouvelles idées
+    - Verbatim : "je voulais avoir d’autres idées"
+  - Code 9 : Appréciation des réponses
+    - Verbatim : "ses réponses m’ont pas vraiment convaincue au début"
+  - Code 10 : Révision des plans de travail
+    - Verbatim : "mon travail ne s’est pas inspiré de sa réponse"
+
+**Segment 2 : Impact de ChatGPT sur la méthode de travail**
+
+- **Thème : Changement dans la méthode de travail**
+  - Code 1 : Changement dans la recherche d'information
+    - Verbatim : "avant quand je cherchais une info sur un auteur, bah je la mettais dans Google"
+  - Code 2 : Gain de temps dans la recherche
+    - Verbatim : "maintenant c'est hyper rapide"
+  - Code 3 : Utilisation de ChatGPT pour des tâches répétitives
+    - Verbatim : "il fait très bien à ma place"
+  - Code 4 : Modification de la façon de travailler
+    - Verbatim : "ça a un peu modifié ta façon de travailler au final"
+  - Code 5 : Perception de l'aide de ChatGPT
+    - Verbatim : "oui complètement, vraiment complètement"
+  - Code 6 : Impact sur la qualité du travail
+    - Verbatim : "je sais pas avant j'aurais dit oui mais de depuis que j'ai vu ma directrice de mémoire"
+  - Code 7 : Révision des productions de ChatGPT
+    - Verbatim : "je vérifie à chaque fois"
+  - Code 8 : Utilisation de ChatGPT pour des tâches précises
+    - Verbatim : "je lui demande d’écrire ma bibliographie dans un format précis"
+  - Code 9 : Appréciation de l'outil
+    - Verbatim : "il est assez bon en terme de recherche"
+  - Code 10 : Discussion avec la directrice de mémoire
+    - Verbatim : "ma directrice de mémoire m'a dit que a priori non"
+
+- **Thème : Impact sur la qualité et la perception du travail**
+  - Code 1 : Perception de l'aide de ChatGPT sur la qualité
+    - Verbatim : "peut-être améliorer la qualité de ton travail ou ?"
+  - Code 2 : Doute sur la qualité après discussion avec la directrice
+    - Verbatim : "depuis que j'ai vu ma directrice de mémoire qui m'a dit que a priori non"
+  - Code 3 : Utilisation principale pour gagner du temps
+    - Verbatim : "principalement gagner du temps"
+  - Code 4 : Modification de la perception de ChatGPT
+    - Verbatim : "je sais plus trop"
+  - Code 5 : Perception initiale de l'aide de ChatGPT
+    - Verbatim : "ouais, ouais principalement gagner du temps"
+  - Code 6 : Considération de l'impact sur le travail
+    - Verbatim : "est-ce que tu trouves qu'il t'aide à autre chose ?"
+  - Code 7 : Discussion sur l'impact de ChatGPT
+    - Verbatim : "Mathilda : Ok du coup t’estimes qu’il t'aide principalement à gagner du temps"
+  - Code 8 : Perception de l'utilité de ChatGPT
+    - Verbatim : "il est assez bon en terme de recherche"
+  - Code 9 : Révision de la perception de ChatGPT
+    - Verbatim : "je sais pas avant j'aurais dit oui"
+  - Code 10 : Incertitude sur l'impact de ChatGPT
+    - Verbatim : "je sais plus trop"
+
+Cette analyse met en lumière les différents thèmes et codes émergeant de l'entretien avec Léa concernant son utilisation de ChatGPT, notamment dans le contexte académique et associatif. Les verbatim associés aux codes offrent une illustration claire des thèmes discutés.

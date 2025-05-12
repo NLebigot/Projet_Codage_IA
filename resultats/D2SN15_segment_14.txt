@@ -1,0 +1,101 @@
+Pour analyser l'entretien avec Oriane concernant son utilisation de ChatGPT et son impact sur ses pratiques d'apprentissage, nous allons dégager les thèmes et les codes associés à partir de sa réponse. L'entretien sera divisé en segments pour une analyse plus fine.
+
+### Premier segment : L'utilisation de ChatGPT due aux contraintes de temps et son rapport avec la liberté académique.
+
+- **Thème 1 : La contrainte comme moteur d'utilisation**
+  - Code 1 : Contrainte temporelle
+  - Verbatim : "des contraintes d’emploi du temps, c’est que si la date est là, ben, le temps fait que j’aurais pas le temps de le faire"
+  - Code 2 : Manque de liberté
+  - Verbatim : "si on donnait un peu plus de liberté aux étudiants, qu’il y aurait pas trop cet enjeu-là"
+  - Code 3 : Utilisation par nécessité
+  - Verbatim : "je vais l’utiliser"
+  - Code 4 : Conditionnement par les échéances
+  - Verbatim : "il faut souvent avoir des contraintes, un peu d’échéance"
+  - Code 5 : Perception de l'autonomie
+  - Verbatim : "si je me donne plus de liberté, c’est de mon travail que je me force à pas trop respecter ce qu’on me demande"
+  - Code 6 : Réduction de l'enjeu lié à l'utilisation de ChatGPT
+  - Verbatim : "qu’il y aurait pas trop cet enjeu-là"
+  - Code 7 : Impact de la liberté sur le travail
+  - Verbatim : "c’est de mon travail que je me force à pas trop respecter ce qu’on me demande"
+  - Code 8 : Utilisation contrainte
+  - Verbatim : "Si on me l’avait pas fait, j’aurais jamais fait ça"
+  - Code 9 : Développement de l'habitude
+  - Verbatim : "c’est un peu une question aussi d’habitude"
+  - Code 10 : Évolution de la perception
+  - Verbatim : "maintenant, ça me paraît moins choquant qu’au début"
+
+- **Thème 2 : Éthique et dilemme moral**
+  - Code 1 : Conflit moral initial
+  - Verbatim : "j’ai beaucoup ressenti au début, je pense, un peu l’an dernier"
+  - Code 2 : Critique initiale de ChatGPT
+  - Verbatim : "j’étais vraiment très critique"
+  - Code 3 : Évolution de la perception éthique
+  - Verbatim : "c’est un truc qui se banalise et qui se normalise un peu"
+  - Code 4 : Questionnement éthique
+  - Verbatim : "je me disais : « Mais enfin, non, je peux le faire »"
+  - Code 5 : Peur de la dépendance
+  - Verbatim : "j’avais un peu peur de… enfin, de la place que ChatGPT pourrait prendre"
+  - Code 6 : Développement d'une habitude
+  - Verbatim : "c’est un peu une question aussi d’habitude"
+  - Code 7 : Normalisation de l'utilisation
+  - Verbatim : "ça me paraît moins choquant qu’au début"
+  - Code 8 : Sentiment de malaise initial
+  - Verbatim : "j’avais beaucoup de mal avec cette éthique-là"
+  - Code 9 : Segmentation de l'utilisation
+  - Verbatim : "moi, je… je le segmente bien"
+  - Code 10 : Acceptation progressive
+  - Verbatim : "c’est aussi pour ça que je suis plus à l’aise"
+
+### Deuxième segment : L'impact de ChatGPT sur les pratiques d'apprentissage.
+
+Bien que le deuxième segment de l'entretien ne soit pas fourni, on peut anticiper les thèmes et codes potentiels en se basant sur la question posée.
+
+- **Thème 3 : Transformation des pratiques d'apprentissage**
+  - Code 1 : Anticipation de l'impact
+  - Verbatim : (potentiel) "Je pense que des outils comme ChatGPT vont transformer les pratiques"
+  - Code 2 : Changement dans l'approche de l'apprentissage
+  - Verbatim : (potentiel) "les pratiques d’apprentissage dans les années à venir"
+  - Code 3 : Évolution technologique
+  - Verbatim : (potentiel) "des outils comme ChatGPT, Copilot et d’autres"
+  - Code 4 : Impact sur la manière d'apprendre
+  - Verbatim : (potentiel) "vont transformer les pratiques d’apprentissage"
+  - Code 5 : Perception de l'avenir
+  - Verbatim : (potentiel) "dans les années à venir"
+
+- **Thème 4 : Adaptation et avenir**
+  - Code 1 : Nécessité d'adaptation
+  - Verbatim : (potentiel) "il faudra s'adapter aux outils comme ChatGPT"
+  - Code 2 : Intégration dans les pratiques
+  - Verbatim : (potentiel) "leur intégration dans les pratiques d’apprentissage"
+  - Code 3 : Changement de paradigme
+  - Verbatim : (potentiel) "un changement dans la manière dont on apprend"
+  - Code 4 : Rôle de l'encadrement
+  - Verbatim : (potentiel) "le rôle des enseignants dans ce changement"
+  - Code 5 : Évaluation de l'impact
+  - Verbatim : (potentiel) "évaluer l'impact de ces outils sur l'apprentissage"
+
+### Thème 5 : Perception et vécu de l'étudiant face à ChatGPT.
+
+- **Thème 5 : Perception et vécu de l'étudiant**
+  - Code 1 : Expérience personnelle
+  - Verbatim : "je l’ai beaucoup ressenti au début"
+  - Code 2 : Influence de l'entourage
+  - Verbatim : "Les gens autour de moi l’utilisaient beaucoup"
+  - Code 3 : Émotion associée
+  - Verbatim : "j’avais beaucoup de mal"
+  - Code 4 : Développement d'une réflexion critique
+  - Verbatim : "je me suis beaucoup posé la question du coup"
+  - Code 5 : Évolution personnelle
+  - Verbatim : "je suis plus à l’aise maintenant"
+  - Code 6 : Réflexion sur l'éthique
+  - Verbatim : "par dilemme moral"
+  - Code 7 : Capacité d'adaptation
+  - Verbatim : "c’est un truc qui se banalise et qui se normalise un peu"
+  - Code 8 : Sentiment de contrôle
+  - Verbatim : "je le segmente bien"
+  - Code 9 : Impact sur la confiance en soi
+  - Verbatim : "je peux le faire"
+  - Code 10 : Acceptation
+  - Verbatim : "ça me paraît moins choquant qu’au début"
+
+L'analyse montre que l'utilisation de ChatGPT est influencée par des contraintes temporelles et la perception de liberté dans le travail académique. Oriane exprime un dilemme moral initial qui évolue vers une acceptation et une banalisation de l'outil. Les thèmes dégagés illustrent les complexités de l'intégration de tels outils dans les pratiques d'apprentissage, soulignant à la fois les défis éthiques et l'évolution des perceptions étudiantes.

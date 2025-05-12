@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien avec une structure de codage qualitatif :
+
+**Thème 1 : L'importance de la maîtrise des outils**
+ - Code 1 : Importance de la formation continue
+ - Verbatim : "j'ai une base de ce que j'ai appris sur cette chaîne MeCode, sur Internet, et puis sur quelques gars qui t'expliquent un peu comment booster ou améliorer l'usage de l'IA"
+ - Code 2 : Évolution des outils
+ - Verbatim : "je pense que c'est quelque chose qui évolue. Le modèle de ChatGPT et d'autres IA évolue"
+ - Code 3 : Utilisation efficace des outils
+ - Verbatim : "l'apport qu'on a, il va être utile seulement si tu sais utiliser un outil"
+ - Code 4 : Comparaison avec d'autres outils
+ - Verbatim : "Si toi et moi, on reçoit un scalpel, on ne va pas savoir en faire la même chose"
+ - Code 5 : Expertise nécessaire
+ - Verbatim : "On n'est pas chirurgiens"
+ - Code 6 : Outil et connaissance
+ - Verbatim : "L'IA c'est pareil, sauf que c'est un outil qu'il faut savoir lire, qu'il faut savoir utiliser"
+ - Code 7 : Nécessité de comprendre les limites
+ - Verbatim : "je sais que tu as déjà été amené à faire plus dans tes études"
+ - Code 8 : Utilisation des ressources
+ - Verbatim : "tu as des livres de philosophie, de grands penseurs style Sartre ou je sais pas quoi"
+ - Code 9 : Utilité des outils pour les tâches spécifiques
+ - Verbatim : "pour développer ta pensée ou je sais pas quoi"
+ - Code 10 : Connaissance pratique
+ - Verbatim : "j'ai déjà disséqué des cœurs"
+
+**Thème 2 : L'avantage de la maîtrise de l'IA**
+ - Code 1 : Gain d'efficacité
+ - Verbatim : "Grave"
+ - Code 2 : Meilleure qualité d'information
+ - Verbatim : "En quelques promptes, j'arrive à obtenir une meilleure information, de meilleure qualité et plus précise"
+ - Code 3 : Comparaison avec les non-experts
+ - Verbatim : "que quelqu'un qui n'a pas, qui ne sait pas, par exemple, qui doit entraîner l'IA, qui doit l'aiguiller aura"
+ - Code 4 : Utilisation experte
+ - Verbatim : "je suis biologiste, j'ai les accréditations et le savoir pour utiliser ces produits"
+ - Code 5 : Connaissance du domaine
+ - Verbatim : "je ne me souviens juste plus du nom"
+ - Code 6 : Résultat précis
+ - Verbatim : "Hydroxyde de potassium 10%. Bon bah voilà, merde !"
+ - Code 7 : Satisfaction du résultat
+ - Verbatim : "Et ça marchait d'ailleurs, si jamais"
+ - Code 8 : Sécurité et limitation
+ - Verbatim : "ChatGPT avait une sécurité à ce moment là qui dit non vu que c'est un produit dangereux"
+ - Code 9 : Interaction avec l'IA
+ - Verbatim : "je cherchais pour une expérience un produit et je ne retrouvais pas l'information quel produit chimique je devais trouver"
+ - Code 10 : Limitations de l'IA
+ - Verbatim : "il arrêtait pas de me dire des produits avec précaution, blablabla"
+
+**Thème 3 : L'interaction avec l'IA et la sécurité**
+ - Code 1 : Sécurité de l'IA
+ - Verbatim : "ChatGPT avait une sécurité à ce moment là qui dit non vu que c'est un produit dangereux"
+ - Code 2 : Limite de l'IA
+ - Verbatim : "il ne va pas donner l'information tant qu'il n'est pas sûr que son utilisateur ait les accréditations nécessaires"
+ - Code 3 : Utilisation responsable
+ - Verbatim : "je suis biologiste, j'ai les accréditations et le savoir pour utiliser ces produits"
+ - Code 4 : Information précise
+ - Verbatim : "Hydroxyde de potassium 10%"
+ - Code 5 : Réponse de l'IA
+ - Verbatim : "il arrêtait pas de me dire des produits avec précaution, blablabla"
+ - Code 6 : Manque d'information
+ - Verbatim : "des composés à partir de potassium, dans mon labo, j'en ai des milliers, en tout cas une bonne centaine"
+ - Code 7 : Besoin d'expertise
+ - Verbatim : "j'avais besoin de savoir c'était quoi le putain de produit"
+ - Code 8 : Analogie avec d'autres situations
+ - Verbatim : "c'est comme si je te dis c'est quoi, c'est une épice noire qu'on met dans nos plats. Du poivre, oui, mais si tu veux le mot poivre, ça sert rien qu'on dise que c'est une épice noire qui vient de Madagascar"
+ - Code 9 : Compréhension du fonctionnement
+ - Verbatim : "ils te mettaient en garde en disant qu'il fallait faire attention"
+ - Code 10 : Interaction avec l'utilisateur
+ - Verbatim : "tu penses que si t'étais pas biologiste et que tu posais cette même question, ils t'auraient..."
+
+**Thème 4 : L'adéquation entre l'utilisateur et l'outil**
+ - Code 1 : Adéquation entre l'utilisateur et l'IA
+ - Verbatim : "l'apport qu'on a, il va être utile seulement si tu sais utiliser un outil"
+ - Code 2 : Connaissance du domaine nécessaire
+ - Verbatim : "je suis biologiste, j'ai les accréditations et le savoir pour utiliser ces produits"
+ - Code 3 : Expertise de l'utilisateur
+ - Verbatim : "On n'est pas chirurgiens"
+ - Code 4 : Utilisation appropriée
+ - Verbatim : "L'IA c'est pareil, sauf que c'est un outil qu'il faut savoir lire, qu'il faut savoir utiliser"
+ - Code 5 : Limite de l'utilisateur
+ - Verbatim : "Si toi et moi, on reçoit un scalpel, on ne va pas savoir en faire la même chose"
+ - Code 6 : Importance de la formation
+ - Verbatim : "j'ai une base de ce que j'ai appris sur cette chaîne MeCode, sur Internet"
+ - Code 7 : Différence entre utilisateurs
+ - Verbatim : "tu as des livres de philosophie, de grands penseurs style Sartre ou je sais pas quoi, honnêtement moi je touche pas ça"
+ - Code 8 : Utilisation efficiente
+ - Verbatim : "En quelques promptes, j'arrive à obtenir une meilleure information, de meilleure qualité et plus précise"
+ - Code 9 : Adéquation entre les compétences et l'outil
+ - Verbatim : "je pense que c'est quelque chose qui évolue. Le modèle de ChatGPT et d'autres IA évolue"
+ - Code 10 : Utilisation responsable
+ - Verbatim : "je suis biologiste, j'ai les accréditations et le savoir pour utiliser ces produits"
+
+**Thème 5 : Réflexion sur l'utilisation de l'IA**
+ - Code 1 : Réflexion sur l'utilisation de l'IA
+ - Verbatim : "Est-ce que tu penses que si t'étais pas biologiste et que tu posais cette même question, ils t'auraient..."
+ - Code 2 : Limite de l'IA
+ - Verbatim : "il ne va pas donner l'information tant qu'il n'est pas sûr que son utilisateur ait les accréditations nécessaires"
+ - Code 3 : Interaction entre l'IA et l'utilisateur
+ - Verbatim : "je cherchais pour une expérience un produit et je ne retrouvais pas l'information quel produit chimique je devais trouver"
+ - Code 4 : Besoin d'expertise
+ - Verbatim : "j'avais besoin de savoir c'était quoi le putain de produit"
+ - Code 5 : Sécurité
+ - Verbatim : "ChatGPT avait une sécurité à ce moment là qui dit non vu que c'est un produit dangereux"
+ - Code 6 : Utilisation efficiente
+ - Verbatim : "En quelques promptes, j'arrive à obtenir une meilleure information, de meilleure qualité et plus précise"
+ - Code 7 : Importance de la formation
+ - Verbatim : "j'ai une base de ce que j'ai appris sur cette chaîne MeCode, sur Internet"
+ - Code 8 : Connaissance du domaine
+ - Verbatim : "je suis biologiste, j'ai les accréditations et le savoir pour utiliser ces produits"
+ - Code 9 : Comparaison avec d'autres outils
+ - Verbatim : "c'est comme si je te dis c'est quoi, c'est une épice noire qu'on met dans nos plats. Du poivre, oui, mais si tu veux le mot poivre, ça sert rien qu'on dise que c'est une épice noire qui vient de Madagascar"
+ - Code 10 : Réflexion sur la limite
+ - Verbatim : "tu penses que si t'étais pas biologiste et que tu posais cette même question, ils t'auraient..."

@@ -1,0 +1,111 @@
+Après une analyse minutieuse de l'entretien, j'ai identifié cinq thèmes distincts avec leurs codes associés et verbatim. Voici les résultats :
+
+**Thème 1 : Utilisation de l'intelligence artificielle dans le contexte éducatif**
+- Code 1 : Utilisation de TGPT pour créer des exercices
+- Verbatim : "j'ai utilisé l'intelligence artificielle pour créer ces exercices"
+- Code 2 : Mention de l'utilisation de TGPT en cours
+- Verbatim : "En cours, on en parle. On présente d'ailleurs nos séquences."
+- Code 3 : Perception de l'utilisation de TGPT par les pairs
+- Verbatim : "Entre pairs, ça se dit beaucoup."
+- Code 4 : Transparence sur l'utilisation de TGPT
+- Verbatim : "Les gens qui utilisent les exercices où ils ont utilisé TGPT, ils le disent."
+- Code 5 : Utilisation de TGPT pour des exemples
+- Verbatim : "Si je devais donner des exemples autres, là, j'utilisais TGPT."
+- Code 6 : Sentiment à l'égard de l'utilisation de TGPT
+- Verbatim : "J'ai même pas honte d'utiliser."
+- Code 7 : Perception de TGPT comme un outil
+- Verbatim : "C'est plus un outil qu'autre chose et du coup il m'aide beaucoup."
+- Code 8 : Discussion avec les collègues sur TGPT
+- Verbatim : "On a moins honte de dire... Parce qu'en fait, on sait tous implicitement que tout le monde l'utilise."
+- Code 9 : Raisons de ne pas divulguer l'utilisation de TGPT aux élèves
+- Verbatim : "Mon but, c'est pas non plus de leur dire, oui, même moi j'utilise l'intelligence artificielle, donc vous aussi."
+- Code 10 : Objectif de l'enseignant concernant l'esprit critique
+- Verbatim : "Mon but en tant qu'enseignant, c'est de leur instaurer un esprit critique."
+
+**Thème 2 : Perception et tabou autour de l'utilisation de l'intelligence artificielle**
+- Code 1 : Existence d'un tabou autour de ChatGPT
+- Verbatim : "Il y a une sorte de tabou en fait autour de ChatGPT."
+- Code 2 : Sentiment de honte associé à l'utilisation de TGPT
+- Verbatim : "On n'a pas forcément envie de dire qu'on l'a utilisé."
+- Code 3 : Comparaison entre la discussion avec les pairs et avec les élèves
+- Verbatim : "Entre nous, on a moins honte de le dire."
+- Code 4 : Raisons du tabou
+- Verbatim : "Ça fait un peu... t'as utilisé ChatGPT, c'est pas fou quoi."
+- Code 5 : Perception de TGPT comme un outil potentiellement dérivé
+- Verbatim : "Comme un moyen de dérive aussi énorme."
+- Code 6 : Normalisation de l'utilisation de TGPT entre collègues
+- Verbatim : "On sait tous implicitement que tout le monde l'utilise."
+- Code 7 : Sentiment personnel à l'égard de l'utilisation de TGPT
+- Verbatim : "J'ai même pas honte d'utiliser."
+- Code 8 : Perception de la nécessité de mentionner l'utilisation de TGPT
+- Verbatim : "Ça a pas besoin d'être mentionné."
+- Code 9 : Gêne potentielle à l'égard de la divulgation
+- Verbatim : "Gêné, peut-être."
+- Code 10 : Évolution de la perception de TGPT
+- Verbatim : "C'est plus un outil qu'autre chose."
+
+**Thème 3 : Rôle de l'enseignant dans l'éducation à l'intelligence artificielle et à l'esprit critique**
+- Code 1 : Objectif d'instaurer un esprit critique chez les élèves
+- Verbatim : "Mon but en tant qu'enseignant, c'est de leur instaurer un esprit critique."
+- Code 2 : Importance de l'esprit critique dans l'ère numérique
+- Verbatim : "On est dans une ère du numérique qui est de plus en plus dangereuse d'un point de vue de la désinformation."
+- Code 3 : Rôle de l'intelligence artificielle dans l'éducation à l'esprit critique
+- Verbatim : "Je pense que chaque GPT peut être un... Et l'intelligence artificielle, en général, peut devenir dans un futur proche quelque chose à étudier le plus jeune possible."
+- Code 4 : Matières nécessitant un esprit critique
+- Verbatim : "L'histoire c'est une des matières qui demande à avoir le plus d'esprit critique."
+- Code 5 : Nécessité de croiser les informations et les sources
+- Verbatim : "Faut savoir croiser les informations, croiser les sources."
+- Code 6 : Importance de l'esprit critique face aux images transformées
+- Verbatim : "Au cinéma, c'est des images transformées, donc il faut avoir un esprit critique encore plus grand."
+- Code 7 : Thème du mémoire de l'interviewé
+- Verbatim : "Mon mémoire, c'est justement sur le cinéma et l'histoire."
+- Code 8 : Lien entre l'intelligence artificielle et la désinformation
+- Verbatim : "La désinformation... c'est d'ailleurs un des points sur lesquels se base mon mémoire."
+- Code 9 : But de l'éducation à l'esprit critique
+- Verbatim : "C'est de leur instaurer un esprit critique important."
+- Code 10 : Conscientisation des élèves à la manipulation de l'information
+- Verbatim : "Il faut avoir conscience que c'est transformé."
+
+**Thème 4 : Pratiques et discussions autour de l'utilisation de TGPT**
+- Code 1 : Discussion avec les pairs sur l'utilisation de TGPT
+- Verbatim : "Entre pairs, ça se dit beaucoup."
+- Code 2 : Présentation des séquences en cours
+- Verbatim : "En cours, on en parle. On présente d'ailleurs nos séquences."
+- Code 3 : Transparence sur l'utilisation de TGPT en cours
+- Verbatim : "Les gens qui utilisent les exercices où ils ont utilisé TGPT, ils le disent."
+- Code 4 : Utilisation de TGPT pour des besoins spécifiques
+- Verbatim : "Si je devais donner des exemples autres, là, j'utilisais TGPT."
+- Code 5 : Raisons de l'utilisation de TGPT
+- Verbatim : "C'est plus un outil qu'autre chose et du coup il m'aide beaucoup."
+- Code 6 : Perception positive de l'utilisation de TGPT
+- Verbatim : "J'ai même pas honte d'utiliser."
+- Code 7 : Absence de honte entre collègues
+- Verbatim : "On a moins honte de dire... Parce qu'en fait, on sait tous implicitement que tout le monde l'utilise."
+- Code 8 : Différence de perception entre collègues et élèves
+- Verbatim : "Je vais pas m'amuser à dire à mes élèves, oh, ça a été fait par ChatGPT."
+- Code 9 : Objectif pédagogique
+- Verbatim : "Mon but en tant qu'enseignant, c'est de leur instaurer un esprit critique."
+- Code 10 : Contexte d'utilisation de TGPT
+- Verbatim : "Pour notre séquence, parce que c'était une séquence à faire pour un cours."
+
+**Thème 5 : Évolution et considérations futures sur l'intelligence artificielle dans l'éducation**
+- Code 1 : Évolution de l'intelligence artificielle dans l'éducation
+- Verbatim : "L'intelligence artificielle, en général, peut devenir dans un futur proche quelque chose à étudier le plus jeune possible."
+- Code 2 : Importance de l'éducation à l'esprit critique face à l'intelligence artificielle
+- Verbatim : "Pour instaurer chez les élèves ou chez les jeunes un esprit critique important."
+- Code 3 : Risques associés à l'ère numérique
+- Verbatim : "On est dans une ère du numérique qui est de plus en plus dangereuse d'un point de vue de la désinformation."
+- Code 4 : Rôle de l'enseignant dans l'éducation à l'intelligence artificielle
+- Verbatim : "Mon but en tant qu'enseignant, c'est de leur instaurer un esprit critique."
+- Code 5 : Matières pertinentes pour l'éducation à l'esprit critique
+- Verbatim : "L'histoire et le cinéma sont des matières qui demandent à avoir le plus d'esprit critique."
+- Code 6 : Compétences nécessaires dans l'ère numérique
+- Verbatim : "Faut savoir croiser les informations, croiser les sources."
+- Code 7 : Défis de l'éducation dans un contexte de manipulation de l'information
+- Verbatim : "Il faut avoir conscience que c'est transformé."
+- Code 8 : Thèmes de recherche liés à l'intelligence artificielle et l'éducation
+- Verbatim : "Mon mémoire, c'est justement sur le cinéma et l'histoire."
+- Code 9 : Perception de l'intelligence artificielle comme un outil éducatif
+- Verbatim : "C'est plus un outil qu'autre chose."
+- Code 10 : Nécessité d'une discussion continue sur l'intégration de l'intelligence artificielle dans l'éducation
+- Verbatim : "Je pense que chaque GPT peut être un... sujet à rediscuter."

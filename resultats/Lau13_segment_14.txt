@@ -1,0 +1,67 @@
+Après avoir analysé l'entretien, j'ai identifié plusieurs thèmes et codes pertinents. Voici mes résultats :
+
+**Thème 1 : Fréquence et Contexte d'Utilisation de Chat GPT**
+ - Code 1 : Fréquence élevée en contexte académique
+ - Verbatim : "au moins une fois par heure je pense"
+ - Code 2 : Variation en dehors du contexte académique
+ - Verbatim : "ça dépend vraiment de ce que je fais"
+ - Code 3 : Utilisation régulière mais non quotidienne en dehors des études
+ - Verbatim : "Je pense de 3 à 4 fois par semaine"
+ - Code 4 : Utilisation en lien avec les activités quotidiennes
+ - Verbatim : "quand tu bois ton café, que tu manges à midi"
+ - Code 5 : Distinction entre utilisation académique et personnelle
+ - Verbatim : "dans un contexte de travail"
+ - Code 6 : Flexibilité dans l'utilisation
+ - Verbatim : "tu n'es pas obligé de l'utiliser, mais tu peux l'utiliser"
+ - Code 7 : Perception de l'outil comme une ressource supplémentaire
+ - Verbatim : "une source d'information supplémentaire"
+ - Code 8 : Intégration dans les habitudes
+ - Verbatim : "je pense que c'est rare des méthodes d'apprentissage qui sont en totale contradiction avec l'utilisation de Chat GPT"
+ - Code 9 : Complémentarité avec les méthodes d'apprentissage existantes
+ - Verbatim : "tu peux l'utiliser tout en continuant à utiliser la même méthode d'apprentissage"
+ - Code 10 : Adaptation nécessaire pour son utilisation efficace
+ - Verbatim : "il va falloir pointer correctement, savoir évaluer la compréhension et pas le savoir"
+
+**Thème 2 : Perception et Légitimité de Chat GPT**
+ - Code 1 : Sentiment de légitimité dans l'utilisation
+ - Verbatim : "légitime, tu vois"
+ - Code 2 : Perception positive de l'outil
+ - Verbatim : "Je vois pas de raison de pas l'utiliser"
+ - Code 3 : Sentiment d'être à jour avec l'utilisation
+ - Verbatim : "À la page. À jour"
+ - Code 4 : Neutralité dans la perception de l'outil
+ - Verbatim : "c'est juste une source d'information supplémentaire"
+ - Code 5 : Absence de malaise dans l'utilisation
+ - Verbatim : "Je vois pas de raison de pas l'utiliser"
+
+**Thème 3 : Impact sur les Pratiques d'Apprentissage et d'Enseignement**
+ - Code 1 : Impact significatif sur les pratiques d'apprentissage
+ - Verbatim : "Je pense que oui"
+ - Code 2 : Nécessité d'adaptation pour les enseignants
+ - Verbatim : "c'est là où je pense que ça va devoir évoluer et s'adapter"
+ - Code 3 : Distinction entre savoir et compréhension
+ - Verbatim : "savoir évaluer la compréhension et pas le savoir"
+ - Code 4 : Importance de l'évaluation de la compréhension
+ - Verbatim : "si tu poses les bonnes questions, ça c'est un truc que tu peux reconnaître chez les gens"
+ - Code 5 : Rôle de l'outil comme complément
+ - Verbatim : "une source d'information supplémentaire"
+ - Code 6 : Pas de remplacement de l'apprentissage personnel
+ - Verbatim : "il va pas apprendre à ta place, donc... Donc, in fine, c'est toujours toi qui vas devoir apprendre"
+
+**Thème 4 : Évolution et Adaptation Nécessaires**
+ - Code 1 : Nécessité d'évolution pour les enseignants
+ - Verbatim : "c'est là où je pense que ça va devoir évoluer et s'adapter"
+ - Code 2 : Adaptation au niveau de l'évaluation
+ - Verbatim : "savoir évaluer la compréhension et pas le savoir"
+ - Code 3 : Potentiel pour un changement significatif
+ - Verbatim : "Je pense que oui"
+ - Code 4 : Intégration de l'outil dans les pratiques existantes
+ - Verbatim : "tu peux l'utiliser tout en continuant à utiliser la même méthode d'apprentissage"
+
+**Thème 5 : Limitations et Ouvertures de la Discussion**
+ - Code 1 : Pas de point particulier à ajouter
+ - Verbatim : "Pas vraiment"
+ - Code 2 : Clôture de l'entretien sans autre sujet
+ - Verbatim : "Merci beaucoup" et "Merci à toi"
+
+Chaque thème regroupe des codes qui offrent une compréhension nuancée des réponses de l'enquêté concernant son utilisation de Chat GPT, sa perception de l'outil, et l'impact potentiel sur les pratiques d'apprentissage et d'enseignement.

@@ -1,0 +1,113 @@
+Voici l'analyse de l'entretien en suivant la méthode de codage qualitatif :
+
+**Thème 1 : Perception de l'utilisation de l'IA dans les travaux académiques**
+
+* Code 1 : Utilisation non légitime
+ Verbatim : "On plagiait, on faisait tout un travail avec seulement Wikipédia, sans rien référencer."
+* Code 2 : Manque de réflexion personnelle
+ Verbatim : "C'est pas vraiment du plagiat, mais c'est pas un travail personnel, c'est pas un travail académique, ça n'a pas demandé de réflexion particulière."
+* Code 3 : Limite entre outil et remplacement
+ Verbatim : "Je pense que la limite, c'est la notion de l'outil, donc si on l'utilise comme un outil, quelque chose qui accompagne notre travail, je pense que dans la plupart des cas c'est légitime, mais si ça vient remplacer une réflexion, ça ne l'est plus."
+* Code 4 : Réticence initiale
+ Verbatim : "Peut-être pas un dilemme mais une réticence d'abord à l'utiliser parce que comme tu le disais c'était quand même pas... au tout début c'était pas encore trop... enfin j'ai mis du temps en fait à me dire que je pouvais moi aussi l'utiliser"
+* Code 5 : Vigilance
+ Verbatim : "Donc pas tellement un dilemme, mais plutôt une réticence et une vigilance, du coup."
+* Code 6 : Peur du reproche
+ Verbatim : "Parce que j'ai quand même toujours peur que... Enfin, pas peur, mais j'ai pas envie que ça me soit reproché."
+* Code 7 : Utilisation responsable
+ Verbatim : "Donc je fais en sorte que ça ne puisse pas l'être."
+* Code 8 : Évolution de la réticence
+ Verbatim : "Sûrement par les habitudes que je prends, donc comme je te disais, de vraiment faire attention à ce que je prends et à être critique."
+* Code 9 : Critique des informations
+ Verbatim : "Être critique sur les informations reçues et sur ce que j'en fais donc je l'utilise vraiment avec attention"
+* Code 10 : Sentiment de culpabilité
+ Verbatim : "Sans me sentir coupable"
+
+**Thème 2 : Impact de l'IA sur les pratiques d'apprentissage**
+
+* Code 1 : Utilisation positive
+ Verbatim : "Je pense que ça peut être utilisé pour résumer des cours par exemple pour expliquer des concepts vus en classe"
+* Code 2 : Reformulation des concepts
+ Verbatim : "C'est comme une reformulation de ce qui a été dit ou ce qui a été vu."
+* Code 3 : Autre manière de comprendre
+ Verbatim : "C'est une autre manière de comprendre."
+* Code 4 : Impact positif
+ Verbatim : "Je crois que ça peut être positif."
+* Code 5 : Problème dans le processus de révision
+ Verbatim : "Par contre, là où je verrais un problème, c'est... dans le processus de révision, le fait de synthétiser les cours, d’en faire des résumés, de les réécrire, ça, ça fait partie pour moi du processus d'apprentissage."
+* Code 6 : Perte de l'acquisition des savoirs
+ Verbatim : "Et si l'IA est utilisée à ce niveau-là, c'est plus embêtant."
+* Code 7 : Manque d'acquisition des savoirs
+ Verbatim : "Parce que l'élève n'acquiert pas forcément les savoirs."
+* Code 8 : Limite de l'utilisation de l'IA
+ Verbatim : "Je pense que la limite, c'est la notion de l'outil"
+* Code 9 : Importance de la réflexion personnelle
+ Verbatim : "C'est pas un travail personnel, c'est pas un travail académique, ça n'a pas demandé de réflexion particulière."
+* Code 10 : Transformation des pratiques d'apprentissage
+ Verbatim : "Comment des outils comme ChatGPT peuvent transformer les pratiques d'apprentissage dans les prochaines années"
+
+**Thème 3 : Évolution de la perception de l'IA**
+
+* Code 1 : Réticence initiale
+ Verbatim : "Peut-être pas un dilemme mais une réticence d'abord à l'utiliser"
+* Code 2 : Évolution de la réticence
+ Verbatim : "Sûrement par les habitudes que je prends, donc comme je te disais, de vraiment faire attention à ce que je prends et à être critique."
+* Code 3 : Utilisation responsable
+ Verbatim : "Donc je fais en sorte que ça ne puisse pas l'être."
+* Code 4 : Critique des informations
+ Verbatim : "Être critique sur les informations reçues et sur ce que j'en fais donc je l'utilise vraiment avec attention"
+* Code 5 : Sentiment de culpabilité
+ Verbatim : "Sans me sentir coupable"
+* Code 6 : Confiance dans l'utilisation
+ Verbatim : "Je sais comment l'utiliser sans me sentir coupable"
+* Code 7 : Changement de perception
+ Verbatim : "J'ai mis du temps en fait à me dire que je pouvais moi aussi l'utiliser"
+* Code 8 : Découverte des possibilités
+ Verbatim : "Je connaissais pas très bien ce qu'on pouvait... ce qu'on pouvait en faire."
+* Code 9 : Jugement initial
+ Verbatim : "Peut-être que je jugeais au début les personnes qui l'utilisaient"
+* Code 10 : Acceptation de l'IA
+
+**Thème 4 : Légitimité de l'utilisation de l'IA**
+
+* Code 1 : Limite entre outil et remplacement
+ Verbatim : "Je pense que la limite, c'est la notion de l'outil, donc si on l'utilise comme un outil, quelque chose qui accompagne notre travail, je pense que dans la plupart des cas c'est légitime, mais si ça vient remplacer une réflexion, ça ne l'est plus."
+* Code 2 : Utilisation légitime
+ Verbatim : "Je pense que dans la plupart des cas c'est légitime"
+* Code 3 : Utilisation non légitime
+ Verbatim : "On plagiait, on faisait tout un travail avec seulement Wikipédia, sans rien référencer."
+* Code 4 : Manque de réflexion personnelle
+ Verbatim : "C'est pas vraiment du plagiat, mais c'est pas un travail personnel, c'est pas un travail académique, ça n'a pas demandé de réflexion particulière."
+* Code 5 : Importance de la réflexion personnelle
+ Verbatim : "C'est pas un travail personnel, c'est pas un travail académique, ça n'a pas demandé de réflexion particulière."
+* Code 6 : Rôle de l'IA dans l'apprentissage
+ Verbatim : "Je pense que ça peut être utilisé pour résumer des cours par exemple pour expliquer des concepts vus en classe"
+* Code 7 : Limite de l'utilisation de l'IA
+ Verbatim : "Je pense que la limite, c'est la notion de l'outil"
+* Code 8 : Utilisation abusive
+ Verbatim : "Si ça vient remplacer une réflexion, ça ne l'est plus."
+* Code 9 : Évaluation de la légitimité
+ Verbatim : "Est-ce que tu penses que, parce que là on disait du coup certains travaux qui sont légitimes ou non"
+* Code 10 : Contextualisation de la légitimité
+
+**Thème 5 : Rôle de l'IA dans l'apprentissage**
+
+* Code 1 : Utilisation positive
+ Verbatim : "Je pense que ça peut être utilisé pour résumer des cours par exemple pour expliquer des concepts vus en classe"
+* Code 2 : Reformulation des concepts
+ Verbatim : "C'est comme une reformulation de ce qui a été dit ou ce qui a été vu."
+* Code 3 : Autre manière de comprendre
+ Verbatim : "C'est une autre manière de comprendre."
+* Code 4 : Impact positif
+ Verbatim : "Je crois que ça peut être positif."
+* Code 5 : Importance de la synthèse
+ Verbatim : "Dans le processus de révision, le fait de synthétiser les cours, d’en faire des résumés, de les réécrire, ça, ça fait partie pour moi du processus d'apprentissage."
+* Code 6 : Rôle de l'IA dans la synthèse
+ Verbatim : "Et si l'IA est utilisée à ce niveau-là, c'est plus embêtant."
+* Code 7 : Limite de l'utilisation de l'IA
+ Verbatim : "Je pense que la limite, c'est la notion de l'outil"
+* Code 8 : Utilisation abusive
+ Verbatim : "Si ça vient remplacer une réflexion, ça ne l'est plus."
+* Code 9 : Évaluation de l'impact
+ Verbatim : "Comment des outils comme ChatGPT peuvent transformer les pratiques d'apprentissage dans les prochaines années"
+* Code 10 : Transformation des pratiques d'apprentissage

@@ -1,0 +1,63 @@
+Pour l'analyse de cet entretien, je vais dégager les thèmes principaux qui ressortent des réponses de Gabriel concernant son utilisation de ChatGPT et sa relation avec la technologie.
+
+### Thème 1 : Utilisation initiale de ChatGPT
+- **Première prise en main** : "Je crois que les premières fois, j'en ai quasi aucune idée."
+  - Verbatim : "Je pense que ça a toujours été inscrire un peu dans un cadre de travail."
+- **Utilisation pour le travail académique** : 
+  - Verbatim : "Je me suis servi de ChatGPT pour faire un exposé sur la guerre du Golfe."
+- **Besoin de guidance** : 
+  - Verbatim : "J'essaye de guider quand même un peu ChatGPT."
+- **Limite dans la créativité** : 
+  - Verbatim : "Je m'en suis pas servi pour, je sais pas, faire des chansons ou faire des images."
+- **Innovation dans l'utilisation** : 
+  - Verbatim : "J'étais le seul parmi tout le monde à utiliser ChatGPT pour un exposé."
+
+### Thème 2 : Fréquence et contexte d'utilisation de ChatGPT
+- **Utilisation pendant l'année scolaire** : 
+  - Verbatim : "Pendant l'année scolaire, je dirais 2-3 fois par semaine."
+- **Utilisation en période de production ou d'examens** : 
+  - Verbatim : "Les moments où il y a de la production, des partiels, c'est hyper pratique."
+- **Utilisation quotidienne lors de périodes intenses** : 
+  - Verbatim : "Je l'utilise quasiment tous les jours pour les révisions et tout."
+- **Variabilité dans l'utilisation** : 
+  - Verbatim : "Ça dépend, mais si on veut lisser un peu 2-3 fois par semaine."
+- **Arrêt pendant les vacances** : 
+  - Verbatim : "Pendant les vacances, j'utilise pas."
+
+### Thème 3 : Perception de l'utilité de ChatGPT
+- **Gain de temps** : 
+  - Verbatim : "Ça m'a fait gagner pas mal de temps."
+- **Utilité dans la préparation des tâches** : 
+  - Verbatim : "Quand j'ai un truc à faire, j'essaye de me poser la question, comment ChatGPT peut m'aider."
+- **Résultats mitigés** : 
+  - Verbatim : "Parfois ça marche, parfois ça marche pas."
+- **Limitations** : 
+  - Verbatim : "Parfois il me fait perdre du temps."
+- **Satisfaction générale** : 
+  - Verbatim : "Le plus souvent, il m'aide."
+
+### Thème 4 : Relation à la technologie
+- **Formation spécifique** : 
+  - Verbatim : "Je suis formé en R."
+- **Exigence de la filière** : 
+  - Implicite dans la réponse concernant la formation en R et l'utilisation de logiciels spécifiques.
+- **Ouverture à l'usage de nouveaux outils** : 
+  - Verbatim : "J'utilise ChatGPT pour des tâches spécifiques."
+- **Connaissance des technologies émergentes** : 
+  - Verbatim : "J'ai utilisé ChatGPT dès le début, c'était GPT-3.5."
+- **Adaptabilité** : 
+  - Verbatim : "J'essaye de guider ChatGPT pour qu'il fasse ce que je veux."
+
+### Thème 5 : Impact de ChatGPT sur les pratiques académiques
+- **Changement dans les pratiques** : 
+  - Verbatim : "Personne n'y avait pensé à utiliser ChatGPT pour un exposé."
+- **Avantage comparatif** : 
+  - Verbatim : "J'étais le seul à utiliser ChatGPT pour mon exposé."
+- **Utilisation comme un outil de soutien** : 
+  - Verbatim : "Je l'utilise pour les révisions et pour faire des mails."
+- **Perception par les pairs et les enseignants** : 
+  - Verbatim : "Je pense que c'est parmi l'ensemble des étudiants de France, on l'utilise beaucoup moins."
+- **Évolution de l'utilisation** : 
+  - Verbatim : "C'était le tout début de ChatGPT, c'était GPT-3.5."
+
+Cette analyse permet de comprendre comment Gabriel s'est approprié ChatGPT dans son parcours académique, ainsi que sa perception de la technologie en général.

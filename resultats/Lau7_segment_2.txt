@@ -1,0 +1,113 @@
+Pour analyser l'entretien donné en respectant une méthode rigoureuse de codage qualitatif, je vais dégager des thèmes et des codes associés aux verbatims de l'enquêté. Voici le résultat de cette analyse structurée en 5 thèmes distincts avec environ 10 codes chacun.
+
+### Thème 1 : Usage de la technologie au quotidien
+- Code 1 : Fréquence d'utilisation des appareils numériques
+  - Verbatim : "J'utilise mon ordi presque tous les jours, j'utilise ma tablette aussi, enfin oui en gros j'utilise beaucoup la technologie."
+- Code 2 : Types d'appareils numériques utilisés
+  - Verbatim : "on utilise beaucoup la technologie que ce soit téléphone, ordi, tout, même montre connectée, enfin vraiment plein de trucs."
+- Code 3 : Perception de sa propre utilisation de la technologie
+  - Verbatim : "J'avoue, j'utilise beaucoup (rire)."
+- Code 4 : Niveau de compétence en technologie
+  - Verbatim : "je m'y connais pas trop, si mon ordi bug, je sais pas quoi faire"
+- Code 5 : Dépendance aux appareils numériques
+  - Verbatim : "j'ai toujours mon natel sur moi ça c’est sur (rire)."
+- Code 6 : Utilisation de la technologie pour les études
+  - Verbatim : "je ne connais personne qui n'utilise pas d'ordi en master."
+- Code 7 : Nécessité de l'ordinateur pour les études
+  - Verbatim : "théoriquement, on n'a pas besoin d'ordinateur."
+- Code 8 : Préférence pour la prise de notes numérique
+  - Verbatim : "c'est plus simple pour moi sur l'ordi en tout cas."
+- Code 9 : Usage de logiciels spécifiques dans la filière universitaire
+  - Verbatim : "En méthode quantitative, on devait utiliser RStudio."
+- Code 10 : Flexibilité dans l'utilisation de la technologie pour les études
+  - Verbatim : "Je pourrais prendre mes notes sur papier si besoin."
+
+### Thème 2 : Utilisation de ChatGPT dans les activités universitaires
+- Code 1 : Utilisation pour l'organisation et la planification
+  - Verbatim : "j'utilise déjà pour m'aider à m'organiser, faire des plans de révision, ce genre de choses."
+- Code 2 : Résumé de textes et de cours
+  - Verbatim : "j'utilise aussi beaucoup pour résumer des textes que j'ai lus ou que j'avoue, j'ai la flemme de lire."
+- Code 3 : Assistance à la rédaction
+  - Verbatim : "j'utilise très peu pour la rédaction en elle-même, mais il y a parfois certaines phrases, j'ai une idée bien claire dans la tête, mais je n'arrive pas à la formuler."
+- Code 4 : Reformulation de phrases
+  - Verbatim : "je lance un peu les mots dans le chat et puis il me fait une phrase un peu plus correcte."
+- Code 5 : Structuration des idées pour le mémoire
+  - Verbatim : "il m'a aussi pas mal aidé pour un peu structurer mes idées et puis les rendre un peu plus concrètes."
+- Code 6 : Gain de temps dans les tâches universitaires
+  - Verbatim : "c'est un méga gain de temps."
+- Code 7 : Limitations reconnues de ChatGPT
+  - Verbatim : "je sais que j'apprendrai mieux en le résumant moi-même."
+- Code 8 : Usage pour la rédaction de mails
+  - Verbatim : "J'utilise tout le temps pour répondre aux mails, écrire des mails, formuler des mails."
+- Code 9 : Exemples récents d'utilisation de ChatGPT
+  - Verbatim : "hier j'ai dû écrire à ma directrice de mémoire."
+- Code 10 : Intégration de ChatGPT dans les habitudes de travail académique
+  - Verbatim : "je pense que c'est surtout pour ça que j'utilise dans un contexte académique."
+
+### Thème 3 : Perception de la technologie et de son utilité
+- Code 1 : Définition personnelle de la technologie
+  - Verbatim : "Tu entends quoi par technologie ?"
+- Code 2 : Utilité de la technologie dans la vie quotidienne
+  - Verbatim : "on utilise beaucoup la technologie"
+- Code 3 : Confiance dans l'utilisation de la technologie
+  - Verbatim : "j'utilise beaucoup la technologie, mais je m'y connais pas trop"
+- Code 4 : Perception de sa dépendance à la technologie
+  - Verbatim : "j'ai toujours mon natel sur moi"
+- Code 5 : Valeur accordée à la compétence technologique
+  - Verbatim : "si mon ordi bug, je sais pas quoi faire"
+- Code 6 : Utilité de la technologie pour l'organisation universitaire
+  - Verbatim : "c'est plus simple pour moi sur l'ordi"
+- Code 7 : Reconnaissance de l'utilité de ChatGPT
+  - Verbatim : "c'est un méga gain de temps"
+- Code 8 : Perception de l'impact de ChatGPT sur les compétences
+  - Verbatim : "je sais que j'apprendrai mieux en le résumant moi-même"
+- Code 9 : Utilisation de ChatGPT pour pallier des difficultés
+  - Verbatim : "j'ai la flemme de moi-même résumer un cours, je le mets dans le chat"
+- Code 10 : Satisfaction générale avec l'utilisation de la technologie
+  - Verbatim : "j'utilise beaucoup (rire)"
+
+### Thème 4 : Intégration de ChatGPT dans les pratiques académiques
+- Code 1 : Utilisation de ChatGPT pour les tâches académiques
+  - Verbatim : "j'utilise déjà pour m'aider à m'organiser"
+- Code 2 : Utilisation spécifique pour le résumé
+  - Verbatim : "pour résumer des textes que j'ai lus"
+- Code 3 : Assistance à la rédaction et formulation
+  - Verbatim : "pour reformuler des phrases"
+- Code 4 : Aide à la structuration du mémoire
+  - Verbatim : "il m'a aussi pas mal aidé pour un peu structurer mes idées"
+- Code 5 : Usage pour la communication académique
+  - Verbatim : "J'utilise tout le temps pour répondre aux mails, écrire des mails"
+- Code 6 : Perception de l'utilité de ChatGPT dans le parcours académique
+  - Verbatim : "je pense que c'est surtout pour ça que j'utilise dans un contexte académique"
+- Code 7 : Gain de productivité
+  - Verbatim : "c'est un méga gain de temps"
+- Code 8 : Limitations de ChatGPT
+  - Verbatim : "je sais que j'apprendrai mieux en le résumant moi-même"
+- Code 9 : Fiabilité accordée à ChatGPT
+  - Verbatim : "j'avoue, j'ai la flemme de lire, mais je mets dans le chat"
+- Code 10 : Exemples concrets d'utilisation récente
+  - Verbatim : "hier j'ai dû écrire à ma directrice de mémoire"
+
+### Thème 5 : Dynamique entre technologie et pratiques universitaires
+- Code 1 : Influence de la filière sur l'utilisation de logiciels
+  - Verbatim : "En méthode quantitative, on devait utiliser RStudio."
+- Code 2 : Utilisation de l'ordinateur dans les études
+  - Verbatim : "je ne connais personne qui n'utilise pas d'ordi en master."
+- Code 3 : Perception de la nécessité de l'ordinateur
+  - Verbatim : "théoriquement, on n'a pas besoin d'ordinateur."
+- Code 4 : Préférence pour les outils numériques
+  - Verbatim : "c'est plus simple pour moi sur l'ordi en tout cas."
+- Code 5 : Flexibilité dans l'utilisation des outils pour les études
+  - Verbatim : "Je pourrais prendre mes notes sur papier si besoin."
+- Code 6 : Rôle de ChatGPT dans les études
+  - Verbatim : "j'utilise pour résumer des textes, pour reformuler des phrases"
+- Code 7 : Impact de ChatGPT sur les habitudes de travail
+  - Verbatim : "c'est un méga gain de temps."
+- Code 8 : Usage de ChatGPT pour la communication
+  - Verbatim : "J'utilise tout le temps pour répondre aux mails"
+- Code 9 : Reconnaissance des limites de sa propre compétence numérique
+  - Verbatim : "je m'y connais pas trop, si mon ordi bug, je sais pas quoi faire"
+- Code 10 : Intégration de la technologie dans la vie universitaire
+  - Verbatim : "on utilise beaucoup la technologie"
+
+Ces thèmes offrent une analyse détaillée de l'entretien, en se concentrant sur différents aspects de l'utilisation de la technologie et de ChatGPT dans le parcours universitaire de l'enquêté.

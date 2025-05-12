@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Perception de l'utilisation de Chat GPT**
+- Code 1 : Incertitude quant à la confiance à accorder à Chat GPT
+- Verbatim : "je sais pas si c’est une bonne idée d’utiliser tout le temps Chat GPT"
+- Code 2 : Utilisation de Chat GPT pour des tâches spécifiques
+- Verbatim : "il dit : « Attends, je vais demander à Chat GPT »"
+- Code 3 : Perception de Chat GPT comme un outil pratique mais incertain
+- Verbatim : "C’est vrai que c’est pratique, mais en même temps, je me demande : est-ce que je fais bien de lui faire entièrement confiance ?"
+- Code 4 : Dilemme face à l'utilisation de Chat GPT
+- Verbatim : "C'est un peu un dilemme pour toi ?"
+- Code 5 : Acceptation de l'utilisation de Chat GPT par les pairs
+- Verbatim : "après il fait ce qu'il veut"
+- Code 6 : Réflexion sur la fiabilité de Chat GPT
+- Verbatim : "je me demande : est-ce que je fais bien de lui faire entièrement confiance ?"
+- Code 7 : Utilisation non systématique de Chat GPT
+- Verbatim : "j'allais pas lui dire arrête"
+- Code 8 : Questionnement sur la valeur ajoutée de Chat GPT
+- Verbatim : "c'est pas vraiment moi qui réfléchis"
+- Code 9 : Sentiment mitigé envers l'utilisation de Chat GPT
+- Verbatim : "je sais pas"
+- Code 10 : Contextualisation de l'utilisation de Chat GPT dans le cadre scolaire
+- Verbatim : "on avait un cours en religion, dialogue interreligieux"
+
+**Thème 2 : Impact de Chat GPT sur la gestion du temps**
+- Code 1 : Perception de perte de temps due à Chat GPT
+- Verbatim : "j'ai plus l'impression de perdre du temps"
+- Code 2 : Réponses de Chat GPT jugées trop longues
+- Verbatim : "s'il me fait des réponses trop longues et finalement ça me sert à rien"
+- Code 3 : Utilisation de Chat GPT pour résumer des textes
+- Verbatim : "Résume-moi cet article"
+- Code 4 : Gain de temps grâce à Chat GPT dans certaines situations
+- Verbatim : "ça m’a évité de tout rédiger moi-même"
+- Code 5 : Économie de temps dans la préparation d'un oral
+- Verbatim : "j’avais déjà lu le texte, mais demander à Chat GPT de l’écrire m’a économisé du temps"
+- Code 6 : Modification des réponses de Chat GPT pour les adapter
+- Verbatim : "j’ai modifié quelques phrases, surligné les passages importants"
+- Code 7 : Partage des résultats de Chat GPT avec les pairs
+- Verbatim : "j’ai précisé que c’était Chat GPT"
+- Code 8 : Utilité de Chat GPT dans la préparation d'un travail de groupe
+- Verbatim : "pour aider aussi les autres personnes de mon groupe"
+- Code 9 : Fréquence d'utilisation de Chat GPT
+- Verbatim : "Mais c'était... c'est rare"
+- Code 10 : Évaluation nuancée de l'impact de Chat GPT sur la gestion du temps
+- Verbatim : "ça m'économise de l'énergie peut-être"
+
+**Thème 3 : Stress et impact de Chat GPT sur la confiance en soi**
+- Code 1 : Stress général lié à la gestion du temps
+- Verbatim : "Je suis stressée de manière générale en fait"
+- Code 2 : Impact de Chat GPT sur le stress lié à la pertinence du travail
+- Verbatim : "Peut-être que ça me permet de passer moins de temps à me remettre en question"
+- Code 3 : Confiance dans la pertinence des réponses de Chat GPT
+- Verbatim : "ça me confortait dans ma pertinence, dans la pertinence"
+- Code 4 : Réduction potentielle du stress grâce à Chat GPT
+- Verbatim : "Peut-être que j'ai moins ce stress de me dire..."
+- Code 5 : Préoccupation quant à la perception des professeurs
+- Verbatim : "après, je ne vais pas dire, oui, c'est Chat GPT qui m'a dit ça"
+- Code 6 : Stress lié à la qualité du travail produit
+- Verbatim : "le stress, la gestion du stress"
+- Code 7 : Lien entre l'utilisation de Chat GPT et la confiance en soi
+- Verbatim : "est-ce que c'est lié au stress aussi de ce que les profs vont penser de mon thème"
+- Code 8 : Perception nuancée de l'impact de Chat GPT sur le stress
+- Verbatim : "Je ne sais pas"
+- Code 9 : Utilisation de Chat GPT comme outil de vérification
+- Verbatim : non directement cité mais implicite dans plusieurs verbatims
+- Code 10 : Gestion du stress à travers l'utilisation de Chat GPT
+- Verbatim : "peut-être que ça me permet de passer moins de temps à me remettre en question"
+
+**Thème 4 : Expérience utilisateur et limites de Chat GPT**
+- Code 1 : Frustration liée aux réponses trop longues de Chat GPT
+- Verbatim : "s'il me fait des réponses trop longues et finalement ça me sert à rien"
+- Code 2 : Limite de Chat GPT dans la compréhension du contexte
+- Verbatim : non directement cité mais implicite dans la discussion sur les réponses
+- Code 3 : Utilisation de Chat GPT pour des tâches spécifiques
+- Verbatim : "pour un oral, on devait lire des textes"
+- Code 4 : Adaptation des réponses de Chat GPT
+- Verbatim : "j’ai modifié quelques phrases"
+- Code 5 : Transparence sur l'utilisation de Chat GPT
+- Verbatim : "j’ai précisé que c’était Chat GPT"
+- Code 6 : Perception des pairs sur l'utilisation de Chat GPT
+- Verbatim : "elles se sont dit ah elle est flemmarde celle-là"
+- Code 7 : Rareté de l'utilisation de Chat GPT
+- Verbatim : "Mais c'était... c'est rare"
+- Code 8 : Satisfaction occasionnelle avec les résultats de Chat GPT
+- Verbatim : "c’était vraiment utile"
+- Code 9 : Évaluation nuancée de l'utilité de Chat GPT
+- Verbatim : "j'ai l'impression de perdre du temps"
+- Code 10 : Contextualisation de l'utilisation de Chat GPT dans les études
+- Verbatim : "on devait lire des textes, on devait se baser sur des lectures"
+
+**Thème 5 : Dynamique sociale et collaboration**
+- Code 1 : Utilisation de Chat GPT pour aider les pairs
+- Verbatim : "pour aider aussi les autres personnes de mon groupe"
+- Code 2 : Partage des résultats de Chat GPT
+- Verbatim : "j’ai copié son résumé, je l’ai collé dans notre document commun"
+- Code 3 : Perception des pairs sur l'utilisation de Chat GPT
+- Verbatim : "elles m'ont dit est-ce que tu peux faire des petites phrases, un résumé"
+- Code 4 : Collaboration dans le cadre d'un travail de groupe
+- Verbatim : "on devait... enfin, on devait lire des textes"
+- Code 5 : Utilisation de Chat GPT pour faciliter la collaboration
+- Verbatim : "pour aider aussi les autres personnes de mon groupe qui n'avaient pas compris"
+- Code 6 : Impact de l'utilisation de Chat GPT sur la dynamique de groupe
+- Verbatim : non directement cité
+- Code 7 : Perception nuancée de la collaboration avec Chat GPT
+- Verbatim : "elles se sont dit ah elle est flemmarde celle-là"
+- Code 8 : Contextualisation de l'utilisation de Chat GPT dans un cadre collaboratif
+- Verbatim : "on devait se baser sur des lectures"
+- Code 9 : Utilité de Chat GPT dans la préparation d'un travail de groupe
+- Verbatim : "c’était vraiment utile"
+- Code 10 : Évaluation de la collaboration avec Chat GPT
+- Verbatim : "je pense que ça, ça m'a économisé du temps"

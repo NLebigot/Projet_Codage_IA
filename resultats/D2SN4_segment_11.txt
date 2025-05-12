@@ -1,0 +1,93 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats pour le premier segment de l'entretien :
+
+**Thème 1 : Perception de l'outil ChatGPT**
+ - Code 1 : Utilisation continue
+ - Verbatim : "j'utiliserai chatGPT et je continuerai à l'utiliser tant que ça m'apporte quelque chose"
+ - Code 2 : Indifférence à la perception des autres
+ - Verbatim : "peu importe la manière dont c'est perçu"
+ - Code 3 : Utilité de l'outil
+ - Verbatim : "c'est un outil comme un autre : un synthétiseur qui permet d'avoir des réponses faciles"
+ - Code 4 : Gain de temps
+ - Verbatim : "des choses qui permettent d'aller plus vite"
+ - Code 5 : Amélioration de la qualité
+ - Verbatim : "le résultat qu'on obtient à la ﬁn, il est plus qualitatif"
+ - Code 6 : Analogie avec d'autres outils musicaux
+ - Verbatim : "c'est de l'ordre de la production musicale, chatGPT ce serait une boîte à rythme"
+ - Code 7 : Acceptation de l'utilisation
+ - Verbatim : "pour moi c'est la même chose d'utiliser chatGPT pour un devoir"
+ - Code 8 : Reformulation
+ - Verbatim : "en reformulant simplement les comptes pour être adapté à ce qu'on fait"
+ - Code 9 : Limite de la copie complète
+ - Verbatim : "la copie complète c'est un problème eﬀectivement"
+ - Code 10 : Responsabilité de l'utilisateur
+ - Verbatim : "si tu copies chatGPT complètement c'est que soit tu es très en retard pour rendre le devoir"
+
+**Thème 2 : Éthique et responsabilité**
+ - Code 1 : Problème d'éthique
+ - Verbatim : "il y a un problème d'éthique sur ChatGPT notamment vis-à-vis de ce que l’IA est capable de dire ou non"
+ - Code 2 : Vol de données
+ - Verbatim : "le fait qu'elle soit capable de voler des informations vis-à-vis de papier ou de publication ou littérature sans trop citer les sources"
+ - Code 3 : Responsabilité de ChatGPT
+ - Verbatim : "c'est pas un problème qui est de l'utilisateur de chatGPT, techniquement c'est un problème de chatGPT en lui-même"
+ - Code 4 : Citation des sources
+ - Verbatim : "il faudrait que chatGPT soit constamment en train de citer ses sources"
+ - Code 5 : Difficulté technique
+ - Verbatim : "ce qui à mon avis d'un point de vue technique est compliqué à faire…"
+ - Code 6 : Éthique de l'utilisateur
+ - Verbatim : "si tu as pas compris à quoi ça servait d'être à l'école et que tu perds ton temps"
+ - Code 7 : Utilisation abusive
+ - Verbatim : "soit que tu es très en retard pour rendre le devoir et que tu as envie de quand même rendre quelque chose"
+ - Code 8 : Limite de la technologie
+ - Verbatim : "chatGPT est pas capable de citer ses sources"
+ - Code 9 : Besoin de réglementation
+ - Verbatim : "c'est un problème eﬀectivement"
+ - Code 10 : Évaluation de l'utilisation
+ - Verbatim : "j'estime que c'est de l'ordre de la production musicale"
+
+**Thème 3 : Impact sur l'apprentissage (commence à peine, nous n'avons pas encore les verbatim associés pour ce thème-ci pour Romain)**
+ 
+**Thème 4 : Comparaison avec d'autres outils**
+ - Code 1 : Outil musical
+ - Verbatim : "une boîte à rythme"
+ - Code 2 : Logiciel de musique assistée par ordinateur
+ - Verbatim : "un logiciel de musique assistée par ordinateur"
+ - Code 3 : Synthétiseur
+ - Verbatim : "un synthétiseur qui permet d'avoir des réponses faciles"
+ - Code 4 : Utilisation similaire
+ - Verbatim : "c'est un outil comme un autre"
+ - Code 5 : Facilité d'utilisation
+ - Verbatim : "des réponses faciles, des phrases toutes faites"
+ - Code 6 : Gain de productivité
+ - Verbatim : "des choses qui permettent d'aller plus vite"
+ - Code 7 : Amélioration de la qualité du résultat
+ - Verbatim : "le résultat qu'on obtient à la ﬁn, il est plus qualitatif"
+ - Code 8 : Équivalence avec d'autres outils
+ - Verbatim : "pour moi c'est la même chose d'utiliser chatGPT pour un devoir"
+ - Code 9 : Utilisation créative
+ - Verbatim : "c'est de l'ordre de la production musicale"
+ - Code 10 : Intégration dans les pratiques existantes
+ - Verbatim : "on écoute énormément de musique partout qui est fabriqué de cette manière là"
+
+**Thème 5 : Perception de la technologie et son évolution**
+ - Code 1 : Technologie en constante évolution
+ - Verbatim : (pas encore disponible pour ce segment)
+ - Code 2 : Acceptation de la technologie
+ - Verbatim : "j'utiliserai chatGPT et je continuerai à l'utiliser"
+ - Code 3 : Impact sur les pratiques
+ - Verbatim : "ça m'apporte quelque chose"
+ - Code 4 : Évolution des mentalités
+ - Verbatim : (pas encore disponible pour ce segment)
+ - Code 5 : Perception positive
+ - Verbatim : "le résultat qu'on obtient à la ﬁn, il est plus qualitatif"
+ - Code 6 : Intégration dans la vie quotidienne
+ - Verbatim : "on écoute énormément de musique partout qui est fabriqué de cette manière là"
+ - Code 7 : Changement de paradigme
+ - Verbatim : "c'est de l'ordre de la production musicale"
+ - Code 8 : Nouveaux outils et nouvelles pratiques
+ - Verbatim : "un synthétiseur qui permet d'avoir des réponses faciles"
+ - Code 9 : Évolution des compétences
+ - Verbatim : (pas encore disponible pour ce segment)
+ - Code 10 : Perception de l'avenir
+ - Verbatim : (pas encore disponible pour ce segment)
+
+Seuls les thèmes 1, 2 et 4 sont complets pour le moment, en attendant les réponses suivantes de Romain pour compléter les thèmes 3 et 5.

@@ -1,0 +1,106 @@
+Voici l'analyse de l'entretien en respectant la méthode de codage qualitatif demandée :
+
+**Thème 1 : Utilisation de ChatGPT en fonction des disciplines**
+- Code 1 : Utilisation pour les cours d'informatique
+- Verbatim : "J'ai utilisé beaucoup pour mes cours d'informatique."
+- Code 2 : Utilisation pour la sociologie
+- Verbatim : "La socio, je l'ai utilisé, je crois que c'était pour le thème, pour trouver un thème, je sais plus sur quoi d’ailleurs."
+- Code 3 : Différence d'utilisation entre les disciplines
+- Verbatim : "Pour la socio, j’utilise beaucoup le côté réflexif, parce que c’est des travaux de recherche, de réflexion, où il faut essayer de combiner des idées."
+- Code 4 : Utilisation machinale pour l'informatique
+- Verbatim : "Alors qu’en info, c’est plus factuel, c’est plus direct."
+- Code 5 : Brainstorming avec ChatGPT pour la sociologie
+- Verbatim : "Pour la socio, je vais plus utiliser ChatGPT pour brainstormer, parce que c’est plus complexe."
+- Code 6 : Réponses factuelles pour l'informatique
+- Verbatim : "Là, je sais qu’il va me donner une réponse factuelle, une réponse qui est censée être juste, sans trop de débat."
+- Code 7 : Complexité des sujets en sociologie
+- Verbatim : "C’est des travaux de recherche, de réflexion, où il faut essayer de combiner des idées."
+- Code 8 : Utilité de ChatGPT pour la recherche de thème
+- Verbatim : "Je l'ai utilisé pour le thème, pour trouver un thème."
+- Code 9 : Précision des réponses pour l'informatique
+- Verbatim : "C’est quoi la mémoire d’un ordi ? ou C’est quoi les data structures ? Là, je sais qu’il va me donner une réponse factuelle."
+- Code 10 : Utilisation nuancée selon les besoins
+
+**Thème 2 : Comparaison entre ChatGPT et Google**
+- Code 1 : Complémentarité entre ChatGPT et Google
+- Verbatim : "Je l’utilise pas pour tout en fait. Mais, par exemple, là, pour l'informatique, pour certains trucs, j'avais cherché... Enfin, j'avais trouvé, une fois, je ne sais plus par quel moyen."
+- Code 2 : Utilisation de ChatGPT pour les questions complexes
+- Verbatim : "Quand c'était un peu trop complexe et qu’il y a quand même un terme que je ne comprenais pas et j'allais sur ChatGPT."
+- Code 3 : Limitations de Google
+- Verbatim : "Alors que sur Google, bah... j’ai pas l’impression d’avoir d’autres moyens pour creuser un sujet, tu vois."
+- Code 4 : Capacité de ChatGPT à approfondir les sujets
+- Verbatim : "ChatGPT, je trouve que c’est bien, parce que ça fait pas juste répondre à ta question. Ça te donne aussi des trucs en plus, des éléments pour aller plus loin."
+- Code 5 : Utilisation première de Google
+- Verbatim : "Des fois oui j'allais chercher sur internet."
+- Code 6 : Spécificité de ChatGPT par rapport à Google
+- Verbatim : "Je pose des questions un peu basiques, genre 'C’est quoi ça ?', ou 'Qu’est-ce que les gens disent là-dessus ?'. Et il me répond vraiment."
+- Code 7 : Utilité de sites spécifiques en informatique
+- Verbatim : "J'avais trouvé un site qui était pas mal, qui expliquait pas mal de codes, des langages de codes, et qui expliquait les data structures."
+- Code 8 : Étape de recherche avec ChatGPT
+- Verbatim : "Je vais sur ChatGPT quand c'était un peu trop complexe."
+- Code 9 : Perception de la réponse de Google
+- Verbatim : "Sur Google, j’ai pas l’impression d’avoir d’autres moyens pour creuser un sujet."
+- Code 10 : Complémentarité des outils de recherche
+
+**Thème 3 : Perception et expérience de l'utilisateur avec ChatGPT**
+- Code 1 : Appréciation de ChatGPT
+- Verbatim : "ChatGPT, je trouve que c’est bien, parce que ça fait pas juste répondre à ta question."
+- Code 2 : Utilisation pour les examens
+- Verbatim : "C'était un examen. J'avais un examen de mid-term exam et du coup c'était le domaine informatique que je ne maîtrisais pas encore du tout."
+- Code 3 : Perception de l'aide à la compréhension
+- Verbatim : "Ça te donne aussi des trucs en plus, des éléments pour aller plus loin."
+- Code 4 : Sécurité dans les réponses
+- Verbatim : "Je sais qu’il va me donner une réponse factuelle, une réponse qui est censée être juste."
+- Code 5 : Utilisation nuancée
+- Verbatim : "Je l’utilise pas pour tout en fait."
+- Code 6 : Comparaison avec d'autres moyens de recherche
+- Verbatim : "Alors que sur Google, bah... j’ai pas l’impression d’avoir d’autres moyens pour creuser un sujet."
+- Code 7 : Préférence pour ChatGPT dans certains cas
+- Verbatim : "Quand c'était un peu trop complexe, j'allais sur ChatGPT."
+- Code 8 : Utilisation dans le cadre académique
+- Verbatim : "Pour mes cours d'informatique."
+- Code 9 : Utilisation pour formuler des questions
+- Verbatim : "Je ne comprenais rien .Et je pense que je n'aurais pas réussi à formuler mes questions pour la barre de recherche Google."
+- Code 10 : Expérience générale positive
+
+**Thème 4 : Contexte et raisons de l'utilisation de ChatGPT**
+- Code 1 : Contexte d'utilisation pour un examen
+- Verbatim : "C'était un examen de mid-term exam."
+- Code 2 : Manque de compréhension
+- Verbatim : "Je ne comprenais rien."
+- Code 3 : Besoin de clarification
+- Verbatim : "Quand c'était un peu trop complexe et qu’il y a quand même un terme que je ne comprenais pas."
+- Code 4 : Utilisation pour des sujets spécifiques
+- Verbatim : "Pour l'informatique, pour certains trucs."
+- Code 5 : Besoin d'approfondissement
+- Verbatim : "Ça te donne aussi des trucs en plus, des éléments pour aller plus loin."
+- Code 6 : Usage académique
+- Verbatim : "Pour mes cours d'informatique et pour le thème, pour trouver un thème pour mon travail de master."
+- Code 7 : Recherche de thème pour le travail de master
+- Verbatim : "Je l'ai utilisé pour le thème, pour trouver un thème."
+- Code 8 : Utilité pour la formulation de questions
+- Verbatim : "Je pose des questions un peu basiques."
+- Code 9 : Usage lié aux lacunes dans la compréhension
+- Verbatim : "Je ne maîtrisais pas encore du tout."
+- Code 10 : Contexte d'utilisation pour le travail de master
+
+**Thème 5 : Réflexivité et interaction avec ChatGPT**
+- Code 1 : Utilisation réflexive pour la sociologie
+- Verbatim : "Pour la socio, j’utilise beaucoup le côté réflexif."
+- Code 2 : Brainstorming avec ChatGPT
+- Verbatim : "Je vais plus utiliser ChatGPT pour brainstormer."
+- Code 3 : Interaction avec ChatGPT pour la recherche
+- Verbatim : "C’est des travaux de recherche, de réflexion, où il faut essayer de combiner des idées."
+- Code 4 : Complexité des sujets abordés
+- Verbatim : "C’est plus complexe."
+- Code 5 : Capacité à explorer des concepts
+- Verbatim : "On peut réfléchir à des concepts comme bah l’éducation."
+- Code 6 : Utilisation pour explorer des idées
+- Verbatim : "Je vais plus utiliser ChatGPT pour brainstormer, parce que c’est plus complexe."
+- Code 7 : Interaction avec l'IA
+- Verbatim : "Je pose des questions un peu basiques, genre 'C’est quoi ça ?'."
+- Code 8 : Facilité d'utilisation
+- Verbatim : "Il me répond vraiment."
+- Code 9 : Expérience de dialogue
+- Verbatim : "Je dirais un usage un peu machinal pour l'info."
+- Code 10 : Différence dans l'interaction selon la discipline

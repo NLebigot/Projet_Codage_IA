@@ -1,0 +1,118 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes associés. Voici les résultats :
+
+**Thème 1 : Relation à la technologie**
+
+- Code 1 : Familiarité précoce avec la technologie
+  - Verbatim : "J'ai eu un iPad quand j'étais petite donc j'ai toujours été familière à la technologie"
+- Code 2 : Utilisation positive de la technologie
+  - Verbatim : "Je pense que c'est une relation assez positive. J'ai jamais eu d'expérience négative par rapport à la technologie."
+- Code 3 : Découverte progressive des outils technologiques
+  - Verbatim : "J'ai commencé à utiliser VSCode. Après, à l'utilisation, je ne comprends pas tout ce qui marche derrière."
+- Code 4 : Intégration de la technologie dans la vie quotidienne
+  - Verbatim : "Je pense que c'est tellement automatique, je ne me rends pas vraiment compte des logiciels que j'utilise."
+- Code 5 : Curiosité envers le fonctionnement des technologies
+  - Verbatim : "J'ai toujours voulu comprendre comment ça marchait derrière, surtout parce que ça faisait cool."
+- Code 6 : Évolution de la perception de la technologie
+  - Verbatim : "Depuis que j'ai commencé ce master, j'ai l'impression de commencer à comprendre vite comment ça marche derrière."
+- Code 7 : Impact de la formation sur la maîtrise technologique
+  - Verbatim : "Ce master, ça m'a aussi un petit peu démystifié, tout ça."
+- Code 8 : Utilisation de logiciels spécifiques pour des tâches précises
+  - Verbatim : "J'ai commencé à utiliser VSCode pour faire du code."
+- Code 9 : Automatisation de l'utilisation des logiciels
+  - Verbatim : "Je ne me rends pas compte de ce qui pourrait rentrer dans la catégorie, à moins que ce ne soit pas dit explicitement."
+- Code 10 : Progression dans la maîtrise des outils
+  - Verbatim : "J'arrive à le faire marcher, mais je sais que je n'ai pas des bonnes pratiques et tout."
+
+**Thème 2 : Utilisation de ChatGPT dans les activités universitaires**
+
+- Code 1 : Utilisation principale pour le codage
+  - Verbatim : "Je pense que c'est vraiment 60% de l'utilisation, c'est pas plus, ça demande vraiment des périodes."
+- Code 2 : Utilisation pour la recherche d'informations
+  - Verbatim : "J'essaye des fois dans mes cours d'histoire de demander les sources."
+- Code 3 : Limites de la version gratuite
+  - Verbatim : "Moi, j'utilise une version gratuite. Donc, je n'ai pas la version payante."
+- Code 4 : Différence de confiance selon les domaines
+  - Verbatim : "Si je demande du code, là, je crois à tout ce qu'il me dit, pratiquement. Alors que si je pose des autres questions en histoire, là, je sais que... Enfin, donc dans les lettres, je lui fais moins confiance."
+- Code 5 : Expérimentation avec des questions diverses
+  - Verbatim : "J'ai commencé dernièrement à vraiment essayer de lui poser plein de questions différentes."
+- Code 6 : Utilisation non académique
+  - Verbatim : "J'ai arrêté de fumer. Ça, c'est un peu le cadre pas académique où j'ai utilisé ça."
+- Code 7 : Découverte de limites dans les capacités de ChatGPT
+  - Verbatim : "Le problème, c'est qu'il ne sait pas trop bien me répondre."
+- Code 8 : Jeu et expérimentation avec ChatGPT
+  - Verbatim : "Il y avait une chasse au trésor à Fribourg, avec des devinettes, et puis je lui posais des questions, et puis en fait je me suis rappelée là que ChatGPT... Il répond... Je lui donne plusieurs éléments dans la question."
+- Code 9 : Compréhension des mécanismes de réponse de ChatGPT
+  - Verbatim : "Il ne va pas répondre par rapport à des sources vraies. Il va juste répondre pour essayer de me satisfaire."
+- Code 10 : Apprentissage par l'usage
+  - Verbatim : "J'ai découvert ça, c'est un truc que j'ai redécouvert récemment."
+
+**Thème 3 : Perception et confiance dans les technologies**
+
+- Code 1 : Confiance variable selon les contextes
+  - Verbatim : "Si je demande du code, je crois à tout ce qu'il me dit, pratiquement."
+- Code 2 : Perception de la fiabilité des sources
+  - Verbatim : "Je sais que... Enfin, donc dans les lettres, je lui fais moins confiance."
+- Code 3 : Compréhension des limites des outils technologiques
+  - Verbatim : "Le problème, c'est qu'il ne sait pas trop bien me répondre."
+- Code 4 : Expérience positive avec la technologie
+  - Verbatim : "J'ai jamais eu d'expérience négative par rapport à la technologie."
+- Code 5 : Évolution de la perception avec l'expérience
+  - Verbatim : "Depuis que j'ai commencé ce master, j'ai l'impression de commencer à comprendre vite comment ça marche derrière."
+- Code 6 : Curiosité et envie de comprendre
+  - Verbatim : "J'ai toujours voulu comprendre comment ça marchait derrière."
+- Code 7 : Impact de la formation sur la perception
+  - Verbatim : "Ce master, ça m'a aussi un petit peu démystifié, tout ça."
+- Code 8 : Limites de la technologie
+  - Verbatim : "Il ne va pas répondre par rapport à des sources vraies."
+- Code 9 : Satisfaction et frustration avec les outils
+  - Verbatim : "Je suis pas vraiment satisfaite quand il ne répond pas bien."
+- Code 10 : Apprentissage continu
+  - Verbatim : "J'ai commencé dernièrement à vraiment essayer de lui poser plein de questions différentes."
+
+**Thème 4 : Intégration des technologies dans la vie quotidienne et universitaire**
+
+- Code 1 : Utilisation quotidienne de la technologie
+  - Verbatim : "J'ai eu un iPad quand j'étais petite donc j'ai toujours été familière à la technologie"
+- Code 2 : Intégration dans les études
+  - Verbatim : "J'ai commencé à utiliser VSCode pour faire du code."
+- Code 3 : Automatisation des tâches
+  - Verbatim : "Je pense que c'est tellement automatique, je ne me rends pas vraiment compte des logiciels que j'utilise."
+- Code 4 : Utilisation de ChatGPT dans les études
+  - Verbatim : "Je pense que c'est vraiment 60% de l'utilisation, c'est pas plus, ça demande vraiment des périodes."
+- Code 5 : Diversification des usages
+  - Verbatim : "J'essaye des fois dans mes cours d'histoire de demander les sources."
+- Code 6 : Expérimentation avec différentes fonctionnalités
+  - Verbatim : "J'ai commencé dernièrement à vraiment essayer de lui poser plein de questions différentes."
+- Code 7 : Impact sur les méthodes de travail
+  - Verbatim : "Ce master, ça m'a aussi un petit peu démystifié, tout ça."
+- Code 8 : Utilisation non académique
+  - Verbatim : "J'ai arrêté de fumer. Ça, c'est un peu le cadre pas académique où j'ai utilisé ça."
+- Code 9 : Adaptation aux limites des outils
+  - Verbatim : "Le problème, c'est qu'il ne sait pas trop bien me répondre."
+- Code 10 : Évolution des pratiques avec l'expérience
+  - Verbatim : "J'arrive à le faire marcher, mais je sais que je n'ai pas des bonnes pratiques et tout."
+
+**Thème 5 : Apprentissages et limites de ChatGPT**
+
+- Code 1 : Utilisation pour le codage
+  - Verbatim : "Je pense que c'est vraiment 60% de l'utilisation, c'est pas plus, ça demande vraiment des périodes."
+- Code 2 : Expérimentation avec des questions diverses
+  - Verbatim : "J'ai commencé dernièrement à vraiment essayer de lui poser plein de questions différentes."
+- Code 3 : Limites dans la recherche d'informations
+  - Verbatim : "Le problème, c'est qu'il ne sait pas trop bien me répondre."
+- Code 4 : Compréhension des mécanismes de réponse
+  - Verbatim : "Il ne va pas répondre par rapport à des sources vraies. Il va juste répondre pour essayer de me satisfaire."
+- Code 5 : Utilisation non académique
+  - Verbatim : "J'ai arrêté de fumer. Ça, c'est un peu le cadre pas académique où j'ai utilisé ça."
+- Code 6 : Découverte de limites dans les capacités
+  - Verbatim : "J'essaye des fois dans mes cours d'histoire de demander les sources."
+- Code 7 : Différence de confiance selon les domaines
+  - Verbatim : "Si je demande du code, là, je crois à tout ce qu'il me dit, pratiquement."
+- Code 8 : Limites de la version gratuite
+  - Verbatim : "Moi, j'utilise une version gratuite. Donc, je n'ai pas la version payante."
+- Code 9 : Jeu et expérimentation
+  - Verbatim : "Il y avait une chasse au trésor à Fribourg, avec des devinettes, et puis je lui posais des questions."
+- Code 10 : Apprentissage par l'usage
+  - Verbatim : "J'ai découvert ça, c'est un truc que j'ai redécouvert récemment."
+
+Ces thèmes et codes donnent une vue détaillée de la relation de l'enquêté avec la technologie, son utilisation de ChatGPT, et les limites et apprentissages associés à cet outil.

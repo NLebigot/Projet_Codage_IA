@@ -1,0 +1,111 @@
+Après une analyse rigoureuse de l'entretien, j'ai identifié plusieurs thèmes pertinents. Voici les résultats de mon analyse, structurés en 5 thèmes distincts avec leurs codes associés et verbatim.
+
+### Thème 1 : Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide
+- Code 1 : Définition personnelle de l'honneur
+  - Verbatim : "j'ai une certaine vision, dirons-nous, de l'honneur, oui, surtout de l’honneur de manière général."
+- Code 2 : Légitimité de demander de l'aide
+  - Verbatim : "je considère que de mon point de vue, il n'y a aucun mal à demander un gain de temps, pour plusieurs raisons, mais si ce gain de temps est légitime et est raisonnable."
+- Code 3 : Différence entre être aidé et faire quelque chose à sa place
+  - Verbatim : "il y a une différence entre être aidé et faire quelque chose à sa place."
+- Code 4 : Perception de l'utilisation de l'IA comme déshonorant
+  - Verbatim : "l'utilisation de l’IA pour réfléchir, ça ne me viendrait pas à l'esprit. Dans le sens où je considère la chose comme déshonorant"
+- Code 5 : Importance de la réflexion personnelle
+  - Verbatim : "ce qui compte, c'est comment est-ce que toi tu traites le problème qu'on te pose."
+- Code 6 : Valeur de l'effort personnel
+  - Verbatim : "l’intérêt n'aurait pas été là. Ca aurait voulu dire que ça aurait été une entité abstraite dont la légitimité est extrêmement moindre, qui l'aurait fait à ma place."
+- Code 7 : Réflexion vs. utilisation de l'IA
+  - Verbatim : "pour moi c’est de m’amener, moi profane, à m'élever au travers de la réflexion, de la pensée, etc."
+- Code 8 : Perception de la triche
+  - Verbatim : "quelqu'un d'autre a fait ton travail. Quelqu’un d’autre à penser à ta place et ça n'est pas toi"
+- Code 9 : Valeur accordée à la pensée personnelle
+  - Verbatim : "ce qui compte c'est vraiment ce que toi tu peux avoir, ce que toi tu peux me dire."
+- Code 10 : Honnêteté intellectuelle
+  - Verbatim : "il y a aucun honneur et aucun mérite à avoir une note aussi mauvaise soit elle la dedans que celle-là dedans."
+
+### Thème 2 : Utilisation de l'IA dans les travaux académiques
+- Code 1 : Exemple d'utilisation légitime de l'IA
+  - Verbatim : "j'ai aussi utilisé l’IA pour m'aider parce que je ne comprenais pas."
+- Code 2 : Condition d'utilisation acceptable
+  - Verbatim : "si j'avais un camarade qui me dit 'oui je l’ai utilisé', je lui ai dit, il m'a expliqué ces courbes là."
+- Code 3 : Frontière entre aide et plagiat
+  - Verbatim : "mais si par exemple mon camarade me dit 'Ecoute, j’ai utilisé que l’IA, tout ce que je vais te dire durant l’exposé, ça sera l'IA qui me l'a dit et y compris ma réflexion' mais là... Je ne pourrais pas"
+- Code 4 : Rôle de l'IA dans l'apprentissage
+  - Verbatim : "j'ai utilisé l’IA pour m'aider parce que je ne comprenais pas."
+- Code 5 : Inquiétude face à une dépendance excessive à l'IA
+  - Verbatim : "l’IA dans mon sens… Par exemple, si j'avais fait le concours commun avec l’IA mais non, pour moi l’intérêt n'aurait pas été là."
+- Code 6 : Réflexion sur l'usage approprié de l'IA
+  - Verbatim : "je considère que de mon point de vue, il n'y a aucun mal à demander un gain de temps, pour plusieurs raisons, mais si ce gain de temps est légitime et est raisonnable."
+- Code 7 : Impact de l'IA sur la valeur du travail
+  - Verbatim : "ça aurait voulu dire que ça aurait été une entité abstraite dont la légitimité est extrêmement moindre, qui l'aurait fait à ma place."
+- Code 8 : Distinction entre utilisation et dépendance
+  - Verbatim : "l'utilisation de l’IA pour réfléchir, ça ne me viendrait pas à l'esprit."
+- Code 9 : Préoccupation éthique
+  - Verbatim : "je considère la chose comme déshonorant, à savoir que peu importe la nature de la chose, quelqu'un d'autre a fait ton travail."
+- Code 10 : Débat interne sur l'usage de l'IA
+  - Verbatim : "je n’en voudrais pas à mon camarade s’il me dit 'oui je l’ai utilisé'."
+
+### Thème 3 : Réactions des enseignants face à l'utilisation de ChatGPT
+- Code 1 : Interrogation sur la connaissance des enseignants
+  - Verbatim : "Est-ce que tu sais si les enseignants sont au courant de vos usages de tout le monde de ChatGPT"
+- Code 2 : Attente de réaction des enseignants
+  - Verbatim : "comment ils réagissent à ce sujet"
+- Code 3 : Expérience personnelle de mise en garde
+  - Verbatim : "est-ce que tu as déjà eu des profs qui vous ont fait une sorte de... Euh... Comment est-ce que je pourrais appeler ça ? ou de mise en garde ouais quelque chose dans le genre par rapport à ChatGPT ou non ?"
+- Code 4 : Perception de l'attitude des enseignants
+  - Verbatim : non disponible dans le segment fourni.
+- Code 5 : Hypothèses sur la réaction des enseignants
+  - Verbatim : non disponible dans le segment fourni.
+- Code 6 : Importance de la communication sur l'usage de l'IA
+  - Verbatim : non disponible dans le segment fourni.
+- Code 7 : Rôle des enseignants dans la régulation de l'IA
+  - Verbatim : non disponible dans le segment fourni.
+- Code 8 : Réflexion sur la nécessité d'une clarification
+  - Verbatim : non disponible dans le segment fourni.
+- Code 9 : Attentes envers les enseignants concernant l'IA
+  - Verbatim : non disponible dans le segment fourni.
+- Code 10 : discussion autour de l'encadrement de l'IA
+  - Verbatim : non disponible dans le segment fourni.
+
+### Thème 4 : Valeur accordée aux notes et à la performance académique
+- Code 1 : Préférence pour une mauvaise note sans aide
+  - Verbatim : "Tu préfères avoir une mauvaise note sans ChatGPT qu'avoir une bonne note avec..."
+- Code 2 : Raisonnement derrière la préférence
+  - Verbatim : "Parce que cette note là ensuite m ’apprendra bon... t'as une mauvaise note parce que tu as je sais pas moi... tu as pensé de façon trop restreinte ou autre..."
+- Code 3 : Valeur de l'apprentissage par l'échec
+  - Verbatim : "t'as une mauvaise note parce que tu as... tu as pensé de façon trop restreinte ou autre..."
+- Code 4 : Perception de la note comme retour d'expérience
+  - Verbatim : "cette note là ensuite m ’apprendra"
+- Code 5 : Priorité à l'apprentissage sur la note
+  - Verbatim : "ce qui compte c'est que tu penses. Peu importe si ta pensée soit cohérente ou pas."
+- Code 6 : Réflexion sur la valeur réelle de la performance
+  - Verbatim : "il y a aucun honneur et aucun mérite à avoir une note aussi mauvaise soit elle la dedans que celle-là dedans."
+- Code 7 : Distinction entre note et mérite
+  - Verbatim : "ce qui compte c'est vraiment ce que toi tu peux avoir, ce que toi tu peux me dire."
+- Code 8 : Importance de la démarche personnelle
+  - Verbatim : "pour moi c’est de m’amener, moi profane, à m'élever au travers de la réflexion, de la pensée, etc."
+- Code 9 : Critique de la notation comme mesure de compétence
+  - Verbatim : "l’intérêt n'aurait pas été là. Ca aurait voulu dire que ça aurait été une entité abstraite dont la légitimité est extrêmement moindre, qui l'aurait fait à ma place."
+- Code 10 : Réflexion sur la finalité de l'évaluation
+  - Verbatim : "ce qui compte, c'est comment est-ce que toi tu traites le problème qu'on te pose."
+
+### Thème 5 : Philosophie personnelle d'apprentissage et de réflexion
+- Code 1 : Valeur accordée à la réflexion personnelle
+  - Verbatim : "ce qui compte c'est comment est-ce que toi tu traites le problème qu'on te pose."
+- Code 2 : Importance de la pensée critique
+  - Verbatim : "pour moi c’est de m’amener, moi profane, à m'élever au travers de la réflexion, de la pensée, etc."
+- Code 3 : Perception de l'apprentissage comme processus personnel
+  - Verbatim : "l’intérêt n'aurait pas été là. Ca aurait voulu dire que ça aurait été une entité abstraite dont la légitimité est extrêmement moindre, qui l'aurait fait à ma place."
+- Code 4 : Rôle de l'effort personnel dans l'apprentissage
+  - Verbatim : "ce qui compte c'est vraiment ce que toi tu peux avoir, ce que toi tu peux me dire."
+- Code 5 : Distinction entre connaissances et réflexion
+  - Verbatim : "tu ne peux pas faire une dissert de droit constit ou alors de sociopo sans connaissance, mais ce qu'il va joué, et c'est ça qui par ailleurs qu'il va valoriser pour le concours commun"
+- Code 6 : Priorité à la capacité de réflexion
+  - Verbatim : "ce qui va compter, c'est comment est-ce que toi tu traites le problème qu'on te pose."
+- Code 7 : Critique de la dépendance à l'égard des outils
+  - Verbatim : "l'utilisation de l’IA pour réfléchir, ça ne me viendrait pas à l'esprit."
+- Code 8 : Importance de l'expérience personnelle d'apprentissage
+  - Verbatim : "pour moi c’est de m’amener, moi profane, à m'élever au travers de la réflexion, de la pensée, etc."
+- Code 9 : Réflexion sur la nature de l'intelligence et de la compétence
+  - Verbatim : "peu importe si ta pensée soit cohérente ou pas. Ce qui compte c'est vraiment ce que toi tu peux avoir"
+- Code 10 : Philosophie de l'apprentissage axée sur la personne
+  - Verbatim : "l’intérêt n'aurait pas été là. Ca aurait voulu dire que ça aurait été une entité abstraite dont la légitimité est extrêmement moindre, qui l'aurait fait à ma place."

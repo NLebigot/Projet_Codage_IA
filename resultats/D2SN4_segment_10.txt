@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en 5 thèmes distincts, chacun contenant environ 10 codes avec leur verbatim associé.
+
+**Thème 1 : Perception de la dépendance aux outils numériques**
+
+- Code 1 : Définition de la dépendance
+ - Verbatim : "je trouve que le mot dépendance est vraiment très fort"
+- Code 2 : Utilisation non obligatoire
+ - Verbatim : "ça n'a rien d'obligatoire pour moi"
+- Code 3 : Comparaison avec les smartphones
+ - Verbatim : "c'est la même chose de dire pour moi qu'on est dépendant à nos smartphones"
+- Code 4 : Utilisation pratique
+ - Verbatim : "c'est beaucoup plus pratique pour un million de choses"
+- Code 5 : Liberté d'utilisation
+ - Verbatim : "je peux faire ça sans aucun problème"
+- Code 6 : Usage contrôlé
+ - Verbatim : "je ne vais pas voir chatGPT ou aller sur Chat GPT parce que je m'ennuie"
+- Code 7 : Usage ciblé
+ - Verbatim : "c'est vraiment pour le travail"
+- Code 8 : Recherche d'informations
+ - Verbatim : "le point c'est rechercher des informations"
+- Code 9 : Différenciation des usages
+ - Verbatim : "c'est pas du tout pour discuter avec un ami"
+- Code 10 : Usage personnel vs usage d'autrui
+ - Verbatim : "je sais qu'il y a des gens qui l'utilisent de cette manière là mais dans mon cas, c'est pas comme ça du tout"
+
+**Thème 2 : Légitimité de l'utilisation de ChatGPT dans le cadre universitaire**
+
+- Code 1 : Légitimité de l'outil
+ - Verbatim : "j'estime que l'utilisation de chatGPT est légitime et nécessaire"
+- Code 2 : Intégration dans la vie quotidienne
+ - Verbatim : "si l'intelligence artificielle c'est quelque chose qui va de plus en plus entrer dans nos vies"
+- Code 3 : Comparaison avec d'autres outils
+ - Verbatim : "de la même manière que l'utilisation des réseaux sociaux l'a été"
+- Code 4 : Adaptation aux nouveaux outils
+ - Verbatim : "il faut s'y mettre il faut le faire"
+- Code 5 : Utilisation responsable
+ - Verbatim : "la question c'est de savoir comment est-ce qu'on utilise chatGPT dans le cadre universitaire"
+- Code 6 : Évolution des outils de travail
+ - Verbatim : "dans 10 ans 20 ans le travail ce sera avec de l'intelligence artificielle"
+- Code 7 : Utilisation comme un outil
+ - Verbatim : "c'est un nouvel outil qui est pas prêt de disparaître"
+- Code 8 : Comparaison avec d'autres outils numériques
+ - Verbatim : "c'est comme se demander s'il est légitime d'utiliser une calculatrice ou non"
+- Code 9 : Nécessité de l'adaptation
+ - Verbatim : "il faut pouvoir l'utiliser au mieux dans le cadre du travail plus tard"
+- Code 10 : Normalisation de l'usage
+ - Verbatim : "c'est la même chose que l'utilisation d'un ordinateur"
+
+**Thème 3 : Perception de l'intelligence artificielle par les professeurs**
+
+- Code 1 : Connaissance de l'usage de ChatGPT
+ - Verbatim : "ils sont bien sûr au courant que tout le monde utilise chatGPT"
+- Code 2 : Réaction négative en cas d'usage abusif
+ - Verbatim : "si on rend un devoir qui est entièrement écrit par chatGPT et que ça se voit, c'est vraiment pas bien"
+- Code 3 : Utilisation générale tolérée
+ - Verbatim : "l'utilisation générale de chatGPT pour permettre d'aller plus vite dans la recherche d'information et tout ce sont pas des choses qui nous sont interdites"
+- Code 4 : Réticence de certains professeurs
+ - Verbatim : "il y a quand même quelques professeurs qui restent réticents face à l'émergence de l'intelligence artificielle"
+- Code 5 : Réaction nostalgique
+ - Verbatim : "ça reste quand même une réaction qui est de l'ordre de 'c'était mieux avant'"
+- Code 6 : Adaptation passée à de nouveaux outils
+ - Verbatim : "ces professeurs là ont profité de l'avènement de l'informatique"
+- Code 7 : Progrès et amélioration
+ - Verbatim : "par rapport à ce que c'était de faire la recherche dans des livres par exemple"
+- Code 8 : Changement dans les méthodes de travail
+ - Verbatim : "ou faire du traitement texte sur des machines à écrire"
+- Code 9 : Acceptation de l'inévitable
+ - Verbatim : "il y a pas trop à se poser de questions à ce niveau-là"
+- Code 10 : Point de vue personnel sur la question
+ - Verbatim : "de mon point de vue personnel"
+
+**Thème 4 : Rôle de ChatGPT dans le travail universitaire**
+
+- Code 1 : Usage pour le travail
+ - Verbatim : "c'est vraiment pour le travail"
+- Code 2 : Recherche d'informations
+ - Verbatim : "le point c'est rechercher des informations"
+- Code 3 : Utilisation comme un outil
+ - Verbatim : "c'est un nouvel outil qui est pas prêt de disparaître"
+- Code 4 : Gain de temps
+ - Verbatim : "pour permettre d'aller plus vite dans la recherche d'information"
+- Code 5 : Usage complémentaire
+ - Verbatim : "c'est vraiment relié à des questions que je peux avoir en règle générale"
+- Code 6 : Usage ciblé et non récréatif
+ - Verbatim : "je ne vais pas voir chatGPT ou aller sur Chat GPT parce que je m'ennuie"
+- Code 7 : Utilisation par d'autres
+ - Verbatim : "je sais qu'il y a des gens qui l'utilisent de cette manière là"
+- Code 8 : Spécificité de l'usage personnel
+ - Verbatim : "mais dans mon cas, c'est pas comme ça du tout"
+- Code 9 : Utilisation pour des tâches spécifiques
+ - Verbatim : "ça n'a rien d'obligatoire pour moi je peux faire ça sans aucun problème"
+- Code 10 : Flexibilité d'utilisation
+ - Verbatim : "c'est beaucoup plus pratique pour un million de choses"
+
+**Thème 5 : Évolution des mentalités face à l'intelligence artificielle**
+
+- Code 1 : Évolution inévitable
+ - Verbatim : "si l'intelligence artificielle c'est quelque chose qui va de plus en plus entrer dans nos vies"
+- Code 2 : Nécessité d'adaptation
+ - Verbatim : "il faut s'y mettre il faut le faire"
+- Code 3 : Changement de paradigme
+ - Verbatim : "dans 10 ans 20 ans le travail ce sera avec de l'intelligence artificielle"
+- Code 4 : Comparaison avec les révolutions technologiques antérieures
+ - Verbatim : "de la même manière que l'utilisation des réseaux sociaux l'a été"
+- Code 5 : Résistance au changement
+ - Verbatim : "il y a quand même quelques professeurs qui restent réticents face à l'émergence de l'intelligence artificielle"
+- Code 6 : Acceptation progressive
+ - Verbatim : "c'est un nouvel outil qui est pas prêt de disparaître"
+- Code 7 : Intégration dans les pratiques
+ - Verbatim : "l'utilisation générale de chatGPT pour permettre d'aller plus vite dans la recherche d'information"
+- Code 8 : Normalisation
+ - Verbatim : "c'est la même chose que l'utilisation d'un ordinateur"
+- Code 9 : Perception de l'avenir
+ - Verbatim : "le travail ce sera avec de l'intelligence artificielle"
+- Code 10 : Réflexion sur la légitimité
+ - Verbatim : "j'estime que l'utilisation de chatGPT est légitime et nécessaire"

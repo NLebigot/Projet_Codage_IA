@@ -1,0 +1,113 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les thèmes et les codes que j'ai identifiés :
+
+**Thème 1 : L'expérience de l'utilisation de ChatGPT dans le parcours académique**
+- Code 1 : Influence de l'entourage sur l'utilisation de ChatGPT
+  - Verbatim : "ma mère elle est prof de français, donc en fait c'est elle qui me relisait mes trucs"
+- Code 2 : Perception de l'encadrement universitaire concernant ChatGPT
+  - Verbatim : "ils n'avaient aucune manière de savoir" ; "il y a plus eu des mises en garde plutôt qu'un encouragement à l'utiliser"
+- Code 3 : Évolution de la perception de ChatGPT par les enseignants
+  - Verbatim : "je pense qu'ils vont intégrer ça" (en parlant de ChatGPT dans les pratiques universitaires)
+- Code 4 : Utilisation de ChatGPT lors d'expériences à l'étranger
+  - Verbatim : "quand j'ai fait mon échange à Montréal"
+- Code 5 : Perception de l'utilisation de ChatGPT par les pairs
+  - Verbatim : "j'avais l'impression que les jeunes ne l'utilisaient pas trop"
+- Code 6 : Attitude des étudiants envers ChatGPT
+  - Verbatim : "ils avaient un petit peu méfiance"
+- Code 7 : Rôle de ChatGPT dans le processus de rédaction
+  - Verbatim : "je le fais tout le long… puis que justement j'ai un autre correcteur en fait"
+- Code 8 : Impact de ChatGPT sur la rédaction
+  - Verbatim : "je pense que ça rend plus nécessaire ce genre d'activité"
+- Code 9 : Perception de l'évolution future de l'utilisation de ChatGPT
+  - Verbatim : "je pense qu'ils vont intégrer ça"
+- Code 10 : Différences dans l'utilisation de ChatGPT entre différentes institutions académiques
+  - Verbatim : "pas trop, non" (en parlant de différence entre la France et Montréal)
+
+**Thème 2 : L'approche universitaire envers ChatGPT**
+- Code 1 : Position favorable à l'utilisation de ChatGPT
+  - Verbatim : "je pense qu'il faudrait presque encourager la pratique"
+- Code 2 : Importance de la réflexion critique dans l'utilisation de ChatGPT
+  - Verbatim : "encourager à garder une réflexion critique qui est propre"
+- Code 3 : Nécessité d'informer sur les limites de ChatGPT
+  - Verbatim : "il faudrait juste informer les étudiants sur les limites de ChatGPT"
+- Code 4 : Risques associés à l'utilisation de ChatGPT
+  - Verbatim : "les mauvais usages de ChatGPT"
+- Code 5 : Utilité de ChatGPT comme outil
+  - Verbatim : "c'est un outil qui est formidable"
+- Code 6 : Perception de l'interdiction de l'utilisation de ChatGPT
+  - Verbatim : "on ne devrait pas interdire son utilisation"
+- Code 7 : Importance de comprendre le fonctionnement de ChatGPT
+  - Verbatim : "expliquer mieux comment ça fonctionne"
+- Code 8 : Risque de plagiat ou de non-production de savoir personnel
+  - Verbatim : "tu n'as rien répondu toi-même"
+- Code 9 : Nécessité d'un encadrement approprié
+  - Verbatim : "mettre en garde sur les mauvais usages"
+- Code 10 : Perception de ChatGPT comme une avancée
+  - Verbatim : "c'est une avancée folle"
+
+**Thème 3 : La légitimité de l'utilisation de ChatGPT dans les tâches académiques**
+- Code 1 : Distinction entre utilisations légitimes et illégitimes
+  - Verbatim : "certaines c'est plus légitime d'utiliser ChatGPT que d'autres"
+- Code 2 : Exemples d'utilisations acceptables de ChatGPT
+  - Verbatim : "si tu demandes à ChatGPT de faire des réformes bibliographiques, c'est ok"
+- Code 3 : Perception de l'abus de ChatGPT dans les tâches académiques
+  - Verbatim : "on peut abuser parce que... je sais qu'à certains niveaux d'études, des étudiants qui utilisent un peu à outrance"
+- Code 4 : Importance de la production personnelle de savoir
+  - Verbatim : "tu n'as produit aucun savoir si tu te bases uniquement sur ce qu'un ChatGPT t'a proposé"
+- Code 5 : Rôle de ChatGPT dans l'analyse de données
+  - Verbatim : "si je demande à ChatGPT d'analyser mes données et de lui-même en faire des conclusions et des résultats, il ne va pas le faire"
+- Code 6 : Valeur accordée à l'effort personnel dans le travail académique
+  - Verbatim : "c'est juste que tu n'as pas vraiment fait le taf de fou quoi"
+- Code 7 : Perception de la nécessité de produire un travail personnel
+  - Verbatim : "pour toi c'est important de produire quelque chose quand même"
+- Code 8 : Acceptabilité de l'assistance de ChatGPT dans certaines tâches
+  - Verbatim : "je pense que des fois, c'est vrai que des fois... ouais, par exemple, je ne le fais pas, mais c'est vrai qu'il y a beaucoup de gens qui, limite, demandent à ChatGPT d'écrire des conclusions"
+- Code 9 : Critère de légitimité pour l'utilisation de ChatGPT
+  - Verbatim : "est-ce que c'est nécessaire que c'est toi-même qui fasse le travail de réflexion ?"
+- Code 10 : Équilibre entre utilisation de ChatGPT et production personnelle
+  - Verbatim : "on ne peut pas aller contre son temps non plus"
+
+**Thème 4 : La vérification et la légitimité du travail produit avec l'aide de ChatGPT**
+- Code 1 : Pratique de vérification de plagiat
+  - Verbatim : "je check tout le temps sur des sites web si mon texte il n'y a pas de plagiat"
+- Code 2 : Attitude envers la vérification de l'utilisation de ChatGPT
+  - Verbatim : "non jamais" (en parlant de vérifier si ChatGPT a été utilisé)
+- Code 3 : Raisons de ne pas vérifier l'utilisation de ChatGPT
+  - Verbatim : "mais il y a un côté où je n'ai pas envie de me confronter aux résultats"
+- Code 4 : Perception de la vérifiabilité de l'utilisation de ChatGPT
+  - Verbatim : "je n'ai pas envie de me confronter aux résultats"
+- Code 5 : Préférence pour l'ignorance concernant l'utilisation de ChatGPT
+  - Verbatim : "je préfère être aveugle et te dire c'est bon"
+- Code 6 : Perception du risque de détection
+  - Verbatim : "je n'ai pas envie de me confronter aux résultats"
+- Code 7 : Manière dont les étudiants gèrent l'utilisation de ChatGPT
+  - Verbatim : "certains utilisent un peu à outrance"
+- Code 8 : Importance de l'intégrité académique
+  - Verbatim : "tu n'as rien répondu toi-même"
+- Code 9 : Perception de la facilité à détecter l'utilisation de ChatGPT
+  - Verbatim : "je check tout le temps" (en parlant de la vérification de plagiat)
+- Code 10 : Implication de l'utilisation de ChatGPT sur l'intégrité académique
+  - Verbatim : "tu n'as produit aucun savoir si tu te bases uniquement sur ce qu'un ChatGPT t'a proposé"
+
+**Thème 5 : L'intégration de ChatGPT dans les pratiques académiques**
+- Code 1 : Perception de l'avenir de ChatGPT dans le monde académique
+  - Verbatim : "je pense qu'ils vont intégrer ça"
+- Code 2 : Évolution de l'attitude envers ChatGPT
+  - Verbatim : "j'ai vu que ça a évolué"
+- Code 3 : Perception de la nécessité d'une réglementation ou d'un encadrement
+  - Verbatim : "mettre en garde sur les mauvais usages"
+- Code 4 : Rôle de l'université dans l'encadrement de l'utilisation de ChatGPT
+  - Verbatim : "il faudrait informer les étudiants sur les limites de ChatGPT"
+- Code 5 : Importance de la formation concernant ChatGPT
+  - Verbatim : "expliquer mieux comment ça fonctionne"
+- Code 6 : Perception de l'utilisation de ChatGPT comme une compétence
+  - Verbatim : "c'est un outil qui est formidable"
+- Code 7 : Intégration de ChatGPT dans les pratiques de travail
+  - Verbatim : "une fois qu'on a essayé, on peut plus s'en passer"
+- Code 8 : Perception de l'impact de ChatGPT sur les pratiques académiques
+  - Verbatim : "ça rend plus nécessaire ce genre d'activité"
+- Code 9 : Nécessité d'une réflexion critique avec l'utilisation de ChatGPT
+  - Verbatim : "garder une réflexion critique qui est propre"
+- Code 10 : Perception de ChatGPT comme un outil incontournable
+  - Verbatim : "on peut plus s'en passer une fois qu'on a essayé"
+
+Ces thèmes et codes permettent d'aborder l'entretien sous différents angles, mettant en lumière les perceptions, les pratiques et les réflexions concernant l'utilisation de ChatGPT dans le contexte académique.

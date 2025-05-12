@@ -1,0 +1,74 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Perception de l'utilisation de Chat GPT dans l'éducation**
+
+- Thème : Contrôle et autonomie
+ - Code 1 : Nécessité de contrôle
+ - Verbatim : "Il faut en garder le contrôle et ne pas le subir."
+ - Code 2 : Rôle du professeur
+ - Verbatim : "Il faudrait toujours garder un professeur au cas où pour revérifier avant de distribuer le cours."
+ - Code 3 : Limite de l'outil
+ - Verbatim : "Ça reste un outil."
+ - Code 4 : Scepticisme envers l'automatisation complète
+ - Verbatim : "Non. Ça ne serait pas souhaitable d'avoir certaines formations purement faites à partir de IA."
+ - Code 5 : Importance de la vérification humaine
+ - Verbatim : "Il faudrait toujours garder un professeur au cas où pour revérifier avant de distribuer le cours."
+ - Code 6 : Préoccupation pour la qualité de l'éducation
+ - Code 7 : Perception de l'IA comme un soutien
+ - Code 8 : Risque de dépendance à l'IA
+ - Code 9 : Besoin de maitriser l'outil
+ - Code 10 : Intégration modérée de l'IA
+
+- Thème : Futur de l'éducation avec l'IA
+ - Code 1 : Potentiel de personnalisation
+ - Verbatim : "Un cours entier serait fait par Chat GPT en fonction des élèves."
+ - Code 2 : Adaptation au contexte éducatif
+ - Verbatim : "Créer un GPT interne à l'université pour qu’il puisse s'adapter au professeur."
+ - Code 3 : Uniformisation de l'outil
+ - Verbatim : "Pour qu’on parte sur la même base chacun."
+ - Code 4 : Évolution de l'université
+ - Verbatim : "Que l'université se mette à jour dessus aussi."
+ - Code 5 : Formation des usagers
+ - Verbatim : "Savoir comment on utilise, comment on surveille."
+ - Code 6 : Innovation pédagogique
+ - Code 7 : Gestion du changement
+ - Code 8 : Cohérence institutionnelle
+ - Code 9 : Développement d'une culture numérique
+ - Code 10 : Proactivité institutionnelle
+
+**Segment 2 : Utilisation personnelle et perception des autres outils d'IA**
+
+- Thème : Choix et utilisation des outils d'IA
+ - Code 1 : Utilisation principale de Chat GPT
+ - Verbatim : "Je n’ai pas besoin d'utiliser la génération d'image."
+ - Code 2 : Préférence pour Chat GPT
+ - Verbatim : "Je vais prendre le plus efficace."
+ - Code 3 : Connaissance d'autres outils
+ - Verbatim : "Je sais que c'est pas mal."
+ - Code 4 : Non-utilisation d'autres IA
+ - Verbatim : "Pas eu besoin d'utiliser en tout cas."
+ - Code 5 : Satisfaction avec Chat GPT
+ - Verbatim : "Celui avec qui j'ai toujours eu les cours, avec qui j'ai toujours bataillé."
+ - Code 6 : Critères de choix
+ - Code 7 : Perception de l'efficacité
+ - Code 8 : Habitude d'utilisation
+ - Code 9 : Manque de nécessité d'autres outils
+ - Code 10 : Focalisation sur les besoins immédiats
+
+- Thème : Considérations géopolitiques et culturelles dans le choix de l'IA
+ - Code 1 : Neutralité dans le choix
+ - Verbatim : "Je ne sais pas si c'est le plus efficace mais celui avec qui j'ai toujours eu les cours."
+ - Code 2 : Préférence pour l'efficacité
+ - Verbatim : "Je vais prendre le plus efficace."
+ - Code 3 : Conscience des origines géographiques des IA
+ - Verbatim : "Plutôt une IA qui soit plutôt américaine ou une autre chinoise par exemple."
+ - Code 4 : Indifférence actuelle aux considérations géopolitiques
+ - Verbatim : "Peut-être plus tard quand j'aurai vraiment des enjeux."
+ - Code 5 : Pragmatisme dans le choix
+ - Code 6 : Évolution des besoins
+ - Code 7 : Perception des implications géopolitiques
+ - Code 8 : Focalisation sur les besoins immédiats
+ - Code 9 : Diversité des options d'IA
+ - Code 10 : Éventuelle adaptation future
+
+Ces thèmes et codes explorent différentes dimensions de l'entretien, notamment la perception de l'utilisation de Chat GPT dans l'éducation, le contrôle et l'autonomie, l'utilisation personnelle et la perception des autres outils d'IA, ainsi que les considérations géopolitiques et culturelles dans le choix de l'IA.

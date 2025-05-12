@@ -1,0 +1,111 @@
+Après analyse de l'entretien, j'ai identifié 5 thèmes distincts avec leurs codes et verbatims associés.
+
+**Thème 1 : La perception de ChatGPT**
+- Code 1 : Définition de ChatGPT
+- Verbatim : "Je pense que c'est, en tout cas ChatGPT, c'est un outil, un outil qui peut servir à beaucoup de choses, mais je dirais que c'est plutôt une aide en ligne."
+- Code 2 : Perception de la conversation avec ChatGPT
+- Verbatim : "je pense que c'est surtout une conversation qui est un peu, et je pense aussi à un robot en fait, de manière un peu synthétique."
+- Code 3 : Interaction avec ChatGPT
+- Verbatim : "Oui en fait je me rends compte que c'est pas une conversation humaine parce que ça se ressent quand même mais ça reste une conversation où il y a un interlocuteur qui est finalement mon ordinateur"
+- Code 4 : Utilité de ChatGPT
+- Verbatim : "j'ai commencé à utiliser pour reformuler des paragraphes ou synthétiser des textes."
+- Code 5 : Attente envers ChatGPT
+- Verbatim : "j'attends une conversation plus logique et synthétique qu'avec une vraie personne."
+- Code 6 : Premières impressions
+- Verbatim : "Conversation."
+- Code 7 : Comparaison avec une conversation humaine
+- Verbatim : "ça se ressent quand même que c'est pas une conversation humaine"
+- Code 8 : Rôle de ChatGPT
+- Verbatim : "une aide en ligne"
+- Code 9 : Expérience utilisateur
+- Verbatim : "je me rends compte que c'est pas une conversation humaine"
+- Code 10 : Caractéristique de la conversation
+- Verbatim : "un peu synthétique"
+
+**Thème 2 : Parcours universitaire et recherche**
+- Code 1 : Niveau d'étude
+- Verbatim : "j'entreprends cette année une thèse en histoire contemporaine à l'université Paris1, Panthéon-Sorbonne."
+- Code 2 : Domaine de recherche
+- Verbatim : "les violences masculines intrafamiliales, et l'objectif est d'observer l'appropriation de ces thématiques par l'ONU notamment, et les féministes de la seconde vague"
+- Code 3 : Parcours antérieur
+- Verbatim : "j'ai réalisé mon bachelor à l'UNIL en lettres, en histoire et histoire de l'art, et mon master en études européennes à l'université de Genève."
+- Code 4 : Thèse en cours
+- Verbatim : "ta thèse porte sur les violences masculines intrafamiliales"
+- Code 5 : Intérêt pour le sujet
+- Verbatim : "l'objectif est d'observer l'appropriation de ces thématiques par l'ONU notamment, et les féministes de la seconde vague"
+- Code 6 : Institution universitaire
+- Verbatim : "l'université Paris1, Panthéon-Sorbonne"
+- Code 7 : Discipline académique
+- Verbatim : "histoire contemporaine"
+- Code 8 : Expérience de recherche
+- Verbatim : "j'entreprends cette année une thèse"
+- Code 9 : Formation antérieure
+- Verbatim : "mon bachelor à l'UNIL en lettres, en histoire et histoire de l'art"
+- Code 10 : Domaine d'études
+- Verbatim : "histoire et histoire de l'art, et études européennes"
+
+**Thème 3 : Découverte et utilisation de ChatGPT**
+- Code 1 : Moment de découverte
+- Verbatim : "pendant mon master"
+- Code 2 : Moyen de découverte
+- Verbatim : "dans le cadre d'un cours"
+- Code 3 : Première utilisation
+- Verbatim : "j'ai commencé à utiliser pour reformuler des paragraphes ou synthétiser des textes."
+- Code 4 : Contexte d'utilisation
+- Verbatim : "dans le master à l'université"
+- Code 5 : Usage de ChatGPT
+- Verbatim : "reformuler des paragraphes ou synthétiser des textes"
+- Code 6 : Moment de la première utilisation
+- Verbatim : "il y a deux ans peut-être"
+- Code 7 : Utilisation dans les études
+- Verbatim : "dans le cadre d'un cours"
+- Code 8 : Impact de ChatGPT
+- Verbatim : (non directement disponible dans le verbatim mais sous-entendu dans l'usage)
+- Code 9 : Raisons de l'utilisation
+- Verbatim : "pour reformuler des paragraphes ou synthétiser des textes"
+- Code 10 : Continuité d'utilisation
+- Verbatim : (non directement disponible)
+
+**Thème 4 : Interaction avec les outils numériques**
+- Code 1 : Perception des outils numériques
+- Verbatim : "un outil, un outil qui peut servir à beaucoup de choses"
+- Code 2 : Interaction avec ChatGPT
+- Verbatim : "une conversation qui est un peu, et je pense aussi à un robot en fait"
+- Code 3 : Attentes envers les outils numériques
+- Verbatim : "j'attends une conversation plus logique et synthétique qu'avec une vraie personne"
+- Code 4 : Comparaison avec l'humain
+- Verbatim : "ça se ressent quand même que c'est pas une conversation humaine"
+- Code 5 : Rôle des outils numériques
+- Verbatim : "une aide en ligne"
+- Code 6 : Utilisation dans la recherche
+- Verbatim : "reformuler des paragraphes ou synthétiser des textes"
+- Code 7 : Perception de la technologie
+- Verbatim : "un robot en fait, de manière un peu synthétique"
+- Code 8 : Impact sur le travail
+- Verbatim : (sous-entendu dans l'usage pour la reformulation et la synthèse)
+- Code 9 : Adéquation avec les besoins
+- Verbatim : "j'attends une conversation plus logique et synthétique"
+- Code 10 : Différenciation avec l'humain
+- Verbatim : "pas une conversation humaine"
+
+**Thème 5 : Engagement et confidentialité**
+- Code 1 : Acceptation de l'entretien
+- Verbatim : "Avec plaisir, je suis très contente de participer à ton projet."
+- Code 2 : Assurance de confidentialité
+- Verbatim : "tout est confidentiel sur tes réponses"
+- Code 3 : Absence de jugement
+- Verbatim : "il n'y a pas de bonne ou mauvaise réponse"
+- Code 4 : Consentement
+- Verbatim : "Très bien."
+- Code 5 : Participation active
+- Verbatim : "je suis très contente de participer"
+- Code 6 : Confiance dans le processus
+- Verbatim : "Super."
+- Code 7 : Compréhension de l'objectif
+- Verbatim : "Oui."
+- Code 8 : Disponibilité
+- Verbatim : "Avec plaisir"
+- Code 9 : Réponse positive
+- Verbatim : "je suis très contente de participer à ton projet"
+- Code 10 : Appui à la recherche
+- Verbatim : "Avec plaisir"

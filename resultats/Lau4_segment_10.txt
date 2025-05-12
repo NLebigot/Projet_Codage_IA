@@ -1,0 +1,111 @@
+Dans le cadre de cette analyse, je vais structurer les résultats en suivant les instructions données et en produisant au moins 4 à 5 thèmes distincts avec leurs codes et verbatims associés.
+
+### Thème 1 : Perception de la dépendance à ChatGPT
+- Code 1 : Reconnaissance d'une dépendance
+  - Verbatim : "Maintenant que tu le formules comme ça, peut-être qu'il y a une forme de dépendance"
+- Code 2 : Évolution de la perception de dépendance
+  - Verbatim : "parce que je ne la ressentais pas au tout début."
+- Code 3 : Raison de la dépendance
+  - Verbatim : "parce que je m'y suis habituée et que je vois des résultats sur ma manière de travailler"
+- Code 4 : Impact sur le travail
+  - Verbatim : "Des résultats sur l'approche que j'ai face au processus de rédaction."
+- Code 5 : Acceptation de la dépendance
+  - Verbatim : "C'est vrai que la dépendance, c'est jamais quelque chose de positif, mais..."
+- Code 6 : Justification de l'usage
+  - Verbatim : "Mais en sachant que ce n'est pas nécessaire, mais que c'est du confort, ça me rassure."
+- Code 7 : Perception de l'aide apportée
+  - Verbatim : "Oui, parce qu'au final, je sais que le travail a été... que c'est mon travail de A à Z, mais c'est vraiment la forme qui a bénéficié de cette liberté."
+- Code 8 : Sentiment sur la dépendance
+  - Verbatim : "C'est un peu mon plan B."
+- Code 9 : Usage systématique
+  - Verbatim : "C'est vrai que ça devient quand même systématique, oui."
+- Code 10 : Réflexion sur l'usage
+  - Verbatim : "Je me dis que, c'est ce que je dis quand je parle d'être rassurée, c'est parce que je sais que je vais pouvoir l'utiliser donc j'y pense dès que je suis bloquée à ce niveau-là."
+
+### Thème 2 : Légitimité de l'utilisation de ChatGPT dans le milieu académique
+- Code 1 : Perception générale de la légitimité
+  - Verbatim : "Pas toujours."
+- Code 2 : Légitimité dans certaines tâches
+  - Verbatim : "Là, dans le cas de relecture et de reformulation, je trouve que c'est légitime."
+- Code 3 : Condition d'usage légitime
+  - Verbatim : "Sinon je ne l'utiliserai pas."
+- Code 4 : Risques d'usage illégitime
+  - Verbatim : "Mais après dans le cadre d'une thèse, je pense que c'est un peu difficile, ou même dans un mémoire, c'est peut-être difficile de vraiment l'utiliser d'une manière illégitime."
+- Code 5 : Importance de la réflexion personnelle
+  - Verbatim : "Il y a de toute façon une réflexion personnelle et on ne peut pas demander à ChatGPT de..."
+- Code 6 : Limite de l'outil
+  - Verbatim : "On pourrait demander à ChatGPT de remplir... d'écrire une problématique et de rédiger à notre place, mais je pense que dans les travaux, ça pourrait devenir un peu embêtant si la personne n'a pas fait le travail de réflexion."
+- Code 7 : Différenciation des contextes d'usage
+  - Verbatim : "Donc oui, il y a beaucoup de cas, je pense, où je trouve moins légitime d'utiliser ChatGPT"
+- Code 8 : Légitimité pour les outils d'aide
+  - Verbatim : "mais dans les cas de lecture et d'outils vraiment d'aide à la rédaction et à la relecture, je trouve que c'est légitime."
+- Code 9 : Conscience des implications
+  - Verbatim : "je pense que c'est un peu difficile, ou même dans un mémoire, c'est peut-être difficile de vraiment l'utiliser d'une manière illégitime."
+- Code 10 : Réflexion éthique
+  - Verbatim : "Mais après dans le cadre d'une thèse..."
+
+### Thème 3 : Impact de ChatGPT sur les habitudes de travail
+- Code 1 : Changement dans l'approche du travail
+  - Verbatim : "Des résultats sur l'approche que j'ai face au processus de rédaction."
+- Code 2 : Adoption comme outil de confort
+  - Verbatim : "Mais en sachant que ce n'est pas nécessaire, mais que c'est du confort, ça me rassure."
+- Code 3 : Utilisation comme plan B
+  - Verbatim : "C'est un peu mon plan B."
+- Code 4 : Changement dans la perception de la tâche
+  - Verbatim : "Je me dis que, c'est ce que je dis quand je parle d'être rassurée, c'est parce que je sais que je vais pouvoir l'utiliser donc j'y pense dès que je suis bloquée à ce niveau-là."
+- Code 5 : Effet sur la systématicité du travail
+  - Verbatim : "C'est vrai que ça devient quand même systématique, oui."
+- Code 6 : Influence sur la manière de travailler
+  - Verbatim : "parce que je m'y suis habituée et que je vois des résultats sur ma manière de travailler"
+- Code 7 : Perception de la dépendance comme un confort
+  - Verbatim : "Mais en sachant que ce n'est pas nécessaire, mais que c'est du confort, ça me rassure."
+- Code 8 : Impact sur l'autonomie
+  - Verbatim : "Je sais que le travail a été... que c'est mon travail de A à Z, mais c'est vraiment la forme qui a bénéficié de cette liberté."
+- Code 9 : Changement dans la façon d'aborder les difficultés
+  - Verbatim : "dès que je suis bloquée à ce niveau-là."
+- Code 10 : Modification de l'expérience utilisateur
+  - Verbatim : "ça me rassure."
+
+### Thème 4 : Usage et bénéfices de ChatGPT pour la rédaction
+- Code 1 : Utilisation pour la reformulation
+  - Verbatim : "Notamment, disons, les reformulations."
+- Code 2 : Utilisation comme aide à la rédaction
+  - Verbatim : "dans les cas de lecture et d'outils vraiment d'aide à la rédaction et à la relecture, je trouve que c'est légitime."
+- Code 3 : Appréciation de l'outil pour la relecture
+  - Verbatim : "Là, dans le cas de relecture et de reformulation, je trouve que c'est légitime."
+- Code 4 : Utilité dans le processus de rédaction
+  - Verbatim : "C'est vrai que ça devient quand même systématique, oui."
+- Code 5 : Impact sur la qualité du travail
+  - Verbatim : "mais c'est vraiment la forme qui a bénéficié de cette liberté."
+- Code 6 : Complémentarité avec le travail personnel
+  - Verbatim : "Je sais que le travail a été... que c'est mon travail de A à Z"
+- Code 7 : Rôle dans la résolution des blocages
+  - Verbatim : "dès que je suis bloquée à ce niveau-là."
+- Code 8 : Effet sur la fluidité du travail
+  - Verbatim : "C'est un peu mon plan B."
+- Code 9 : Perception de l'outil comme un soutien
+  - Verbatim : "ça me rassure."
+- Code 10 : Usage adaptatif
+  - Verbatim : "Je me dis que, c'est ce que je dis quand je parle d'être rassurée, c'est parce que je sais que je vais pouvoir l'utiliser"
+
+### Thème 5 : Évolution de la relation avec ChatGPT
+- Code 1 : Évolution de la perception
+  - Verbatim : "Maintenant que tu le formules comme ça, peut-être qu'il y a une forme de dépendance"
+- Code 2 : Habituation à l'outil
+  - Verbatim : "parce que je m'y suis habituée"
+- Code 3 : Reconnaissance de l'utilité
+  - Verbatim : "et que je vois des résultats sur ma manière de travailler"
+- Code 4 : Changement dans l'usage au fil du temps
+  - Verbatim : "parce que je ne la ressentais pas au tout début."
+- Code 5 : Prise de conscience de la dépendance
+  - Verbatim : "Maintenant que tu le formules comme ça, peut-être qu'il y a une forme de dépendance"
+- Code 6 : Évaluation de l'impact de l'outil
+  - Verbatim : "Des résultats sur l'approche que j'ai face au processus de rédaction."
+- Code 7 : Acceptation de l'évolution de l'usage
+  - Verbatim : "C'est vrai que la dépendance, c'est jamais quelque chose de positif, mais..."
+- Code 8 : Adaptation à l'outil
+  - Verbatim : "Mais en sachant que ce n'est pas nécessaire, mais que c'est du confort, ça me rassure."
+- Code 9 : Conscientisation des limites
+  - Verbatim : "Il y a de toute façon une réflexion personnelle et on ne peut pas demander à ChatGPT de..."
+- Code 10 : Réflexion sur l'avenir de l'usage
+  - Verbatim : "Mais après dans le cadre d'une thèse, je pense que c'est un peu difficile, ou même dans un mémoire, c'est peut-être difficile de vraiment l'utiliser d'une manière illégitime."

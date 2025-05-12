@@ -1,0 +1,121 @@
+Voici le résultat de l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Gain de temps et réduction du stress**
+
+- Thème : Impact de ChatGPT sur le travail universitaire
+ - Code 1 : Gain de temps
+ - Verbatim : "Oui, ça me prend beaucoup moins de temps."
+ - Code 2 : Réduction du stress
+ - Verbatim : "Bah oui, dans ce sens-là, du coup, oui."
+ - Code 3 : Automatisation
+ - Verbatim : "En fait, pour moi, ça marche en automatique avec ça."
+ - Code 4 : Sécurité
+ - Verbatim : "J'ai toujours l'opportunité de l'utiliser."
+ - Code 5 : Dépendance
+ - Verbatim : "Si à un moment, il y a ChatGPT qui devait être hors d'usage, là, je pense que mon niveau de stress, il pourrait monter."
+ - Code 6 : Confiance
+ - Verbatim : "Je sais qu'il y a ça éventuellement."
+ - Code 7 : Utilisation régulière
+ - Verbatim : "Pour l'instant, je me dis, OK, ça passe."
+ - Code 8 : Disponibilité
+ - Verbatim : "Je sais que je peux l'utiliser."
+ - Code 9 : Adaptation
+ - Verbatim : "En fait, j'ai toujours l'opportunité de l'utiliser."
+ - Code 10 : Stress lié à la disponibilité
+ - Verbatim : "Si ChatGPT devait être hors d'usage... mon niveau de stress pourrait monter."
+
+**Segment 2 : Sentiment de culpabilité et dépendance**
+
+- Thème : Sentiments et dépendance à ChatGPT
+ - Code 1 : Culpabilité
+ - Verbatim : "Ouais, pour le code, des fois, je me sens un peu coupable."
+ - Code 2 : Facilité
+ - Verbatim : "C'est de la facilité. C'est juste de la flemme."
+ - Code 3 : Utilité
+ - Verbatim : "Je sais qu'il va me donner les bonnes réponses sur certains trucs."
+ - Code 4 : Gain de temps
+ - Verbatim : "Quand en deux minutes, j'ai la réponse."
+ - Code 5 : Alternatives
+ - Verbatim : "J'aurais pu essayer, moi, de chercher avant."
+ - Code 6 : Commodité
+ - Verbatim : "Je n'ai pas envie d'aller passer 30 minutes à chercher."
+ - Code 7 : Réticence
+ - Verbatim : "Je me sens un peu coupable parce que je me dis, en fait, j'aurais pu ne pas lui demander ça."
+ - Code 8 : Justification
+ - Verbatim : "C'est juste de la flemme."
+ - Code 9 : Efficacité
+ - Verbatim : "Il va me donner les bonnes réponses."
+ - Code 10 : Reconnaissance de la dépendance
+ - Verbatim : "Je me sens un peu coupable."
+
+**Segment 3 : Légitimité de l'utilisation de ChatGPT**
+
+- Thème : Perception de la légitimité de ChatGPT dans le contexte académique
+ - Code 1 : Utilisation non légitime
+ - Verbatim : "Pour les lettres, en fait, ChatGPT n'aide pas trop pour moi pour l'instant."
+ - Code 2 : Contextualisation
+ - Verbatim : "Du coup, son utilisation ne sera pas toujours légitime."
+ - Code 3 : Dépendance au contexte
+ - Verbatim : "Ça dépend vraiment de son utilisation."
+ - Code 4 : Responsabilité
+ - Verbatim : "C'est toujours nous qui l'utilisons."
+ - Code 5 : Critique de la prohibition
+ - Verbatim : "Je pense que sur-critiquer, ça sert à rien."
+ - Code 6 : Éducation à l'usage
+ - Verbatim : "Il faudrait plutôt éduquer à l'utiliser plutôt que de culpabiliser ChatGPT."
+ - Code 7 : Utilisation abusive
+ - Verbatim : "Il avait trop mal utilisé ChatGPT."
+ - Code 8 : Acceptation
+ - Verbatim : "Tout le monde l'utilise."
+ - Code 9 : Réglementation
+ - Verbatim : "Interdire complètement, ça sert à rien."
+ - Code 10 : Cas de figure
+ - Verbatim : "Pour les cours de JavaScript avec Isaac Pante, là, l'utiliser, ça a du sens."
+
+**Segment 4 : Perception de l'utilisation de ChatGPT par les enseignants**
+
+- Thème : Perception de la conscience et de la réaction des enseignants concernant ChatGPT
+ - Code 1 : Connaissance de l'usage
+ - Verbatim : "Les enseignants, tu dis? En fait, c'est eux qui me disent ce que je peux."
+ - Code 2 : Connaissance tacite
+ - Verbatim : "Je pense qu'ils le savent."
+ - Code 3 : Proactivité
+ - Verbatim : "Moi, je ne vais jamais proposer moi-même."
+ - Code 4 : Perception de la désapprobation
+ - Verbatim : "Je sais que c'est mal vu."
+ - Code 5 : Différences disciplinaires
+ - Verbatim : "En lettres, je pense que s'ils savent que je pose la question, trouve-moi des sources."
+ - Code 6 : Risque
+ - Verbatim : "En histoire médiévale, je me ferais dégager."
+ - Code 7 : Clivage
+ - Verbatim : "C'est vraiment un gros clivage."
+ - Code 8 : Connaissance implicite
+ - Verbatim : "C'est sous-entendu."
+ - Code 9 : Variations
+ - Verbatim : "Ça dépend des cours."
+ - Code 10 : Acceptation tacite
+ - Verbatim : "Je pense qu'ils les savent."
+
+**Segment 5 : Enjeux éthiques liés à l'utilisation de ChatGPT**
+
+- Thème : Positionnement face aux enjeux éthiques de l'utilisation de ChatGPT
+ - Code 1 : Conscience éthique
+ - Verbatim : "Comment est-ce que tu te positionnerais face aux enjeux éthiques."
+ - Code 2 : Éthique contextuelle
+ - Verbatim : "Ça dépend du contexte."
+ - Code 3 : Utilisation légitime
+ - Verbatim : "Pour JavaScript, c'est ouvertement dit."
+ - Code 4 : Malaise éthique
+ - Verbatim : "Il y a un petit peu un enjeu éthique."
+ - Code 5 : Attentes enseignantes
+ - Verbatim : "Le prof s'attend comme ça."
+ - Code 6 : Utilisation cachée
+ - Verbatim : "Tout le monde l'utilise mais le prof ne veut pas."
+ - Code 7 : Transparence
+ - Verbatim : "Citer son utilisation."
+ - Code 8 : Responsabilité individuelle
+ - Verbatim : "C'est à chacun de gérer ça."
+ - Code 9 : Éducation
+ - Verbatim : "Il faudrait éduquer à utiliser ChatGPT."
+ - Code 10 : Complexité
+ - Verbatim : "C'est compliqué."

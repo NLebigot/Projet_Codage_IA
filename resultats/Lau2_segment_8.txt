@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Gain de productivité et transformation du travail**
+- Code 1 : Réduction du temps de travail pour créer du contenu
+- Verbatim : "En une minute et en plus avec des éléments personnalisés adaptés justement à mes élèves, mes étudiants"
+- Code 2 : Gain de temps considérable
+- Verbatim : "ça me prenait vraiment longtemps"
+- Code 3 : Liberté de faire autre chose
+- Verbatim : "qui a été libéré pour faire autre chose"
+- Code 4 : Satisfaction par rapport à la technologie
+- Verbatim : "enfin une technologie qui fait ce que les récits par rapport à la technologie nous promettent depuis tellement longtemps"
+- Code 5 : Sentiment de libération
+- Verbatim : "la technologie va libérer l'humanité du travail"
+- Code 6 : Changement dans la manière de travailler
+- Verbatim : "maintenant vraiment en une minute ou deux minutes j'arrive à tout avoir"
+- Code 7 : Utilité dans le cadre professionnel
+- Verbatim : "c'était plus vraiment dans le cadre professionnel pour gagner du temps"
+- Code 8 : Amélioration de l'efficacité
+- Verbatim : "je peux faire ça en vraiment une minute"
+- Code 9 : Simplification du travail
+- Verbatim : "ça m'a permis de...en fait, avec ChatGPT, je peux faire ça"
+- Code 10 : Optimisation du temps de travail
+- Verbatim : "vis-à-vis de mon rapport par rapport au temps de travail"
+
+**Thème 2 : Limites et frustrations liées à l'utilisation de ChatGPT**
+- Code 1 : Réponses fausses ou inexactes
+- Verbatim : "quand je sais que la réponse est fausse ou pas tout à fait exacte"
+- Code 2 : Frustration face aux limites de la technologie
+- Verbatim : "c'est frustrant parce qu'on se dit que ce n'est pas ça qui va m'aider sur le moment"
+- Code 3 : Nécessité de vérification
+- Verbatim : "c'est toujours bien de vérifier"
+- Code 4 : Compréhension des limites de la technologie
+- Verbatim : "je pense qu'on ne doit pas s'attendre à des miracles"
+- Code 5 : Manque de fiabilité
+- Verbatim : "je ne pourrais pas me fier à ça"
+- Code 6 : Insatisfaction face aux réponses
+- Verbatim : "lorsque je me dis que ça j'aurais pu le trouver moi-même aussi"
+- Code 7 : Limite de la technologie basée sur les probabilités
+- Verbatim : "ça travaille avec des probabilités et qu'il n'y a pas vraiment une intelligence à proprement parler là derrière"
+- Code 8 : Évaluation critique des réponses
+- Verbatim : "je me rends compte que des fois, je ne pourrais pas me fier à ça"
+- Code 9 : Sentiment d'impuissance
+- Verbatim : "on se dit que ce n'est pas ça qui va m'aider sur le moment"
+- Code 10 : Maturité dans l'utilisation de la technologie
+- Verbatim : "je pense qu'on ne doit pas s'attendre à des miracles"
+
+**Thème 3 : Utilisation de ChatGPT pour la compréhension et le travail académique**
+- Code 1 : Utilisation pour comprendre des concepts
+- Verbatim : "ça m'a quand même permis de mieux comprendre certaines choses"
+- Code 2 : Utilisation pour la rédaction de travaux académiques
+- Verbatim : "pour mon mémoire, il y avait différents concepts que je voulais justement intégrer à mon travail"
+- Code 3 : Reformulation de concepts complexes
+- Verbatim : "je voulais un peu une sorte de reformulation, où je pouvais peut-être poser des questions un peu précises"
+- Code 4 : Utilisation comme un expert dans le domaine
+- Verbatim : "un peu comme si ChatGPT était expert en la matière"
+- Code 5 : Compensation du manque d'expertise
+- Verbatim : "étant donné que pour ces sujets-là, je n'avais pas accès à un ou une vraie experte du domaine"
+- Code 6 : Amélioration de la compréhension
+- Verbatim : "ça m'a quand même permis de mieux comprendre certaines choses"
+- Code 7 : Intégration dans les travaux académiques
+- Verbatim : "et donc par conséquent aussi d'en parler dans mes travaux"
+- Code 8 : Utilité dans le processus d'apprentissage
+- Verbatim : "oui, oui, oui. Ben notamment pour mon mémoire"
+- Code 9 : Facilitation de l'accès à l'information
+- Verbatim : "je pouvais peut-être poser des questions un peu précises par rapport à ces sujets"
+- Code 10 : Support pour les étudiants
+- Verbatim : "notamment pour mon mémoire"
+
+**Thème 4 : Impact sur le stress et la gestion du temps**
+- Code 1 : Pas d'impact significatif sur le stress lié aux échéances
+- Verbatim : "honnêtement, je dirais que ça ne m'a pas vraiment... En tout cas, dans mon cas de figure"
+- Code 2 : Travail personnel reste prédominant
+- Verbatim : "99% du travail, c'était quand même moi qui l'ai fait, disons, par moi-même"
+- Code 3 : Utilisation principalement pour gagner du temps dans le cadre professionnel
+- Verbatim : "c'était plus vraiment dans le cadre professionnel pour gagner du temps"
+- Code 4 : Séparation entre travail personnel et utilisation de ChatGPT
+- Verbatim : "je pense pas que l'absence de ChatGPT aurait changé quelque chose au niveau des échéances"
+- Code 5 : Évaluation nuancée de l'impact
+- Verbatim : "honnêtement, je dirais que ça ne m'a pas vraiment impacté"
+- Code 6 : Reconnaissance de l'utilité de ChatGPT
+- Verbatim : "c'était plus vraiment dans le cadre professionnel pour gagner du temps"
+- Code 7 : Limite de l'impact sur le stress
+- Verbatim : "je dirais que ça ne m'a pas vraiment... En tout cas, dans mon cas de figure"
+- Code 8 : Prédominance du travail personnel
+- Verbatim : "99% du travail, c'était quand même moi qui l'ai fait"
+- Code 9 : Utilisation contextuelle
+- Verbatim : "c'était plus vraiment dans le cadre professionnel"
+- Code 10 : Effet limité sur la gestion du temps académique
+- Verbatim : "je pense pas que l'absence de ChatGPT aurait changé quelque chose au niveau des échéances"
+
+**Thème 5 : Évaluation critique et stratégies d'utilisation de ChatGPT**
+- Code 1 : Évaluation de la qualité des réponses
+- Verbatim : "Comment est-ce que toi tu évalues la qualité et la fiabilité des réponses de Chat GPT ?"
+- Code 2 : Adoption de stratégies de vérification
+- Verbatim : "c'est toujours bien de vérifier"
+- Code 3 : Compréhension des limites de la technologie
+- Verbatim : "je pense qu'on ne doit pas s'attendre à des miracles"
+- Code 4 : Critique des informations fournies
+- Verbatim : "lorsque je me dis que ça j'aurais pu le trouver moi-même aussi"
+- Code 5 : Utilisation réfléchie de ChatGPT
+- Verbatim : "je me rends compte que des fois, je ne pourrais pas me fier à ça"
+- Code 6 : Nécessité de compléter les informations
+- Verbatim : "c'est toujours bien de vérifier"
+- Code 7 : Évaluation de la fiabilité
+- Verbatim : "je ne pourrais pas me fier à ça"
+- Code 8 : Développement de stratégies d'utilisation
+- Verbatim : "Est-ce que tu adoptes des stratégies spécifiques pour vérifier, compléter, critiquer les informations fournies par ChatGPT ?"
+- Code 9 : Prise de distance critique
+- Verbatim : "on se dit que ce n'est pas ça qui va m'aider sur le moment"
+- Code 10 : Maturité dans l'utilisation
+- Verbatim : "je pense qu'on ne doit pas s'attendre à des miracles"

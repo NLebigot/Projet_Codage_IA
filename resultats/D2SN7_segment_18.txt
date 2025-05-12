@@ -1,0 +1,111 @@
+Voici mon analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif. J'ai identifié 5 thèmes distincts avec environ 10 codes chacun.
+
+**Thème 1 : Utilisation de l'IA dans le travail universitaire**
+- Code 1 : Utilisation de l'IA pour la retranscription d'entretiens
+- Verbatim : "je ne pense pas qu'il y ait un seul doctorant ou doctorante actuellement, qui retranscrivent à la main ses entretiens"
+- Code 2 : Recours à l'IA pour les tâches administratives
+- Verbatim : "j'ai une prof qui fait ses slides avec une IA"
+- Code 3 : Utilité de l'IA dans le travail universitaire
+- Verbatim : "c'est utile surtout parce qu'il s'agit surtout de ça quoi"
+- Code 4 : Utilisation de ChatGPT pour les statistiques
+- Verbatim : "pour les stats en fait, il y a j’sais pas si aujourd'hui il y a un prof de stat qui dans une fac de sociologie dirait « attention surtout, n'utilisez pas ChatGPT quoi pour vous débloquer »"
+- Code 5 : Efficacité de l'IA dans le travail universitaire
+- Verbatim : "les doctorants, c'est du temps qui prennent sur leur travail quoi, ils sont payés, ils ont pas de financement pour pouvoir faire retranscrire les trucs"
+- Code 6 : Raisons de l'utilisation de l'IA
+- Verbatim : "on bah évidemment ils vont prendre ce qui est le plus efficace"
+- Code 7 : Pratique courante de l'utilisation de l'IA
+- Verbatim : "quasi beaucoup de personnes utilisent notamment parmi les jeunes"
+- Code 8 : Intégration de l'IA dans les ressources étudiantes
+- Verbatim : "tu vois donc évidemment faut donner en faut, donner et montrer plein de ressources importantes mais bon pour les stats ChatGPT très fort"
+- Code 9 : Impact de l'IA sur le travail universitaire
+- Verbatim : "ça se légitimise quoi"
+- Code 10 : Perception de l'utilisation de l'IA
+- Verbatim : "est-ce que c'est légitime pour autant ?"
+
+**Thème 2 : Legitimité de l'utilisation de l'IA**
+- Code 1 : Débat sur la légitimité de l'utilisation de ChatGPT
+- Verbatim : "il y a plein de profs qui disent attention, pas de ChatGPT"
+- Code 2 : Valorisation du travail personnel
+- Verbatim : "ce qu'on retrouvait dans ces discours, c'était une valorisation de leur travail"
+- Code 3 : Rôle de l'IA dans le travail universitaire
+- Verbatim : "ils essaient de un peu rendre… Moi, je vais parler un peu comme… Enfin je sais pas mais … y a un peu le rôle de rendre ChatGPT le méchant quoi"
+- Code 4 : Perception de l'utilisation de l'IA par les professeurs
+- Verbatim : "ils ont envie, que tu travailles, que tu fasses ton propre travail, quoi"
+- Code 5 : Manière d'utiliser ChatGPT
+- Verbatim : "tu relis ton texte, enfin tu relis ce que te donne ChatGPT, tu essaies de l'intégrer, t'essayes de le guider"
+- Code 6 : Valorisation de la bonne utilisation de ChatGPT
+- Verbatim : "tu valorises quand même ton propre travail"
+- Code 7 : Différence entre utilisation légitime et illégitime
+- Verbatim : "y avait une dévalorisation en gros des autres et de certains de leurs camarades qui faisaient du copier coller"
+- Code 8 : Perception des élèves sur l'utilisation de ChatGPT
+- Verbatim : "t'as envie de valoriser ta bonne utilisation de ChatGPT"
+- Code 9 : Gain de temps grâce à l'IA
+- Verbatim : "tu travailles à partir de ce que te donne ChatGPT, tu gagnes toujours du temps"
+- Code 10 : Légitimation de l'utilisation de l'IA
+- Verbatim : "ça gagnerait à être légitimé"
+
+**Thème 3 : Pratiques des étudiants concernant l'IA**
+- Code 1 : Utilisation de ChatGPT par les étudiants
+- Verbatim : "quasi beaucoup de personnes utilisent notamment parmi les jeunes"
+- Code 2 : Manière d'intégrer ChatGPT dans le travail
+- Verbatim : "tu relis ce que te donne ChatGPT, tu essaies de l'intégrer, t'essayes de le guider"
+- Code 3 : Perception des étudiants sur l'utilisation de l'IA
+- Verbatim : "t'as envie de valoriser ta bonne utilisation de ChatGPT"
+- Code 4 : Différence entre les étudiants
+- Verbatim : "y avait une dévalorisation en gros des autres et de certains de leurs camarades qui faisaient du copier coller"
+- Code 5 : Raisons de l'utilisation de ChatGPT
+- Verbatim : "on bah évidemment ils vont prendre ce qui est le plus efficace"
+- Code 6 : Perception de la qualité du travail avec ChatGPT
+- Verbatim : "tu auras un truc qui est beaucoup mieux"
+- Code 7 : Impact de ChatGPT sur le temps de travail
+- Verbatim : "tu gagnes toujours du temps"
+- Code 8 : Manière de travailler avec ChatGPT
+- Verbatim : "tu travailles à partir de ce que te donne ChatGPT"
+- Code 9 : Perception de la légitimité de l'utilisation de ChatGPT
+- Verbatim : "est-ce que c'est légitime pour autant ?"
+- Code 10 : Contexte d'utilisation de ChatGPT
+- Verbatim : "dans un contexte aussi particulier, c'est à dire un contexte où y a pas de moyen en fait hein"
+
+**Thème 4 : Perception des professeurs concernant l'IA**
+- Code 1 : Avertissements des professeurs contre l'utilisation de ChatGPT
+- Verbatim : "il y a plein de profs qui disent attention, pas de ChatGPT"
+- Code 2 : Perception des professeurs sur l'utilisation de l'IA
+- Verbatim : "ils ont envie, que tu travailles, que tu fasses ton propre travail, quoi"
+- Code 3 : Rôle des professeurs dans la détection de l'utilisation de ChatGPT
+- Verbatim : "elle disait « Voilà, je me suis rendu compte que 2 personnes utilisaient ChatGPT, parce que je lis la bibliographie et j'ai dit « Ah mais ça je connais pas »"
+- Code 4 : Manière dont les professeurs abordent l'utilisation de ChatGPT
+- Verbatim : "ils essaient de un peu rendre… Moi, je vais parler un peu comme… Enfin je sais pas mais … y a un peu le rôle de rendre ChatGPT le méchant quoi"
+- Code 5 : Perception des professeurs sur la qualité du travail
+- Verbatim : "ils veulent que tu fasses un travail toi-même"
+- Code 6 : Manière dont les professeurs détectent l'utilisation de ChatGPT
+- Verbatim : "elle lisait la bibliographie et se rendait compte que c'était fait avec ChatGPT"
+- Code 7 : Rôle des professeurs dans la guidance des étudiants
+- Verbatim : "ils donnent des exemples"
+- Code 8 : Perception des professeurs sur l'intégration de ChatGPT
+- Verbatim : "ils essaient de rendre ChatGPT le méchant quoi"
+- Code 9 : Manière dont les professeurs réagissent à l'utilisation de ChatGPT
+- Verbatim : "ils diraient « Bon bah voilà, voici des liens de ressources importantes, mais surtout, ChatGPT »"
+- Code 10 : Attitude des professeurs envers l'utilisation de l'IA
+- Verbatim : "ils valorisent quand même ton propre travail"
+
+**Thème 5 : Contexte et implications de l'utilisation de l'IA**
+- Code 1 : Contexte universitaire et utilisation de l'IA
+- Verbatim : "dans un contexte aussi particulier, c'est à dire un contexte où y a pas de moyen en fait hein"
+- Code 2 : Raisons de l'utilisation de l'IA
+- Verbatim : "on bah évidemment ils vont prendre ce qui est le plus efficace"
+- Code 3 : Impact de l'utilisation de l'IA sur le travail universitaire
+- Verbatim : "ça se légitimise quoi"
+- Code 4 : Perception de l'impact de l'IA sur la qualité du travail
+- Verbatim : "tu auras un truc qui est beaucoup mieux"
+- Code 5 : Contexte financier et utilisation de l'IA
+- Verbatim : "les doctorants, c'est du temps qui prennent sur leur travail quoi, ils sont payés, ils ont pas de financement pour pouvoir faire retranscrire les trucs"
+- Code 6 : Implications de l'utilisation de l'IA sur la légitimité du travail
+- Verbatim : "est-ce que c'est légitime pour autant ?"
+- Code 7 : Perception de la valeur du travail avec l'IA
+- Verbatim : "tu valorises quand même ton propre travail"
+- Code 8 : Impact de l'IA sur le temps de travail
+- Verbatim : "tu gagnes toujours du temps"
+- Code 9 : Manière dont l'IA change les pratiques universitaires
+- Verbatim : "quasi beaucoup de personnes utilisent notamment parmi les jeunes"
+- Code 10 : Conséquences de l'utilisation de l'IA sur l'enseignement
+- Verbatim : "ça gagnerait à être légitimé"

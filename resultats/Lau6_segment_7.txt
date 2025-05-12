@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Utilisation de ChatGPT dans les tâches académiques**
+ - Code 1 : Utilisation pour la reformulation
+ - Verbatim : "Je me rends compte que je me repose beaucoup sur ChatGPT, pour euh ben… vraiment pour l'écriture."
+ - Code 2 : Recherche d'articles
+ - Verbatim : "C'est beaucoup tout ce qui est recherche d'articles. C'est que je vais d'abord essayer avec ChatGPT, parce que souvent il va-t’en trouver des articles très précis sur ton sujet."
+ - Code 3 : Gain de temps
+ - Verbatim : "Je gagne peut-être bien deux heures."
+ - Code 4 : Limites de ChatGPT
+ - Verbatim : "Il me propose des choses qui n'ont vraiment rien à voir."
+ - Code 5 : Sélection par ressemblance
+ - Verbatim : "Il va sélectionner par ressemblance."
+ - Code 6 : Résumé d'articles
+ - Verbatim : "Je vais lui demander de me donner des articles qui parlent là-dessus, puis il va me faire un petit résumé."
+ - Code 7 : Vérification des résultats
+ - Verbatim : "Si l'article m'intéresse, je vais le lire moi-même."
+ - Code 8 : Utilisation pour les tâches administratives
+ - Verbatim : "Je prends l’exemple de quand j’étais partie au Canada mais en mode « quels sont les meilleurs opérateurs au Canada ? »"
+ - Code 9 : Facilité d'utilisation
+ - Verbatim : "C'est un peu trop facile quand même."
+ - Code 10 : Réécriture après utilisation de ChatGPT
+ - Verbatim : "C'est pour ça que j'essaye de réécrire."
+
+**Thème 2 : Légitimité de l'utilisation de ChatGPT**
+ - Code 1 : Question sur la légitimité
+ - Verbatim : "Et du coup, selon toi, ce type d’utilisation de ChatGPT, que ce soit pour ton travail de Master ou avant c'est légitime ?"
+ - Code 2 : Peur de détection
+ - Verbatim : "Je me dis, mais dans quelle mesure est-ce qu'ils peuvent détecter que j'utilise des ChatGPT ?"
+ - Code 3 : Histoire de détection
+ - Verbatim : "J'avais entendu une histoire d'une université en Amérique du Sud qui avait... pénalisé des étudiants parce qu'ils avaient utilisé ChatGPT"
+ - Code 4 : Limites des technologies de détection
+ - Verbatim : "Les technologies qu'ils utilisent pour détecter le ChatGPT, c'est basé sur la même technologie qu'utilise ChatGPT donc en fait, on n'est pas sûr à100%."
+ - Code 5 : Réflexion sur la légitimité
+ - Verbatim : "Mais oui, j'ai quand même toujours un peu cette peur de qu’ils trouvent un outil, comme le plagiat, qui te permettent de détecter quand tu utilises ChatGPT."
+ - Code 6 : Légitimité en tant qu'étudiante
+ - Verbatim : "Ça ne remet pas en cause ma légitimité en tant d'étudiante parce que j'utilise ChatGPT pour des tâches spécifiques."
+ - Code 7 : Propriété du travail
+ - Verbatim : "Le travail que je produis, c'est mon travail avant tout."
+ - Code 8 : Impact sur les compétences
+ - Verbatim : "Je me rends compte que j'ai perdu certaines compétences."
+ - Code 9 : Utilisation comme aide
+ - Verbatim : "C'est juste que des fois je me dis que je n'ai pas fait100% moi-même non plus, avec une petite aide on va dire."
+ - Code 10 : Acceptation de l'utilisation
+ - Verbatim : "C'est clair que je me rends compte que j'ai un peu perdu ça."
+
+**Thème 3 : Impact de ChatGPT sur les compétences rédactionnelles**
+ - Code 1 : Perte de l'habitude d'écrire
+ - Verbatim : "Je me rends compte que j'ai perdu l'habitude d'écrire un truc de A à Z toute seule, sans passer par ChatGPT qui me reformule mieux."
+ - Code 2 : Utilisation pour l'écriture
+ - Verbatim : "Je me repose beaucoup sur ChatGPT, pour euh ben… vraiment pour l'écriture."
+ - Code 3 : Importance des capacités rédactionnelles
+ - Verbatim : "Les capacités rédactionnelles, c'est quelque chose que tu es censé avoir en plus des autres."
+ - Code 4 : Conscience de la perte
+ - Verbatim : "C'est clair que je me rends compte que j'ai un peu perdu ça."
+ - Code 5 : Réflexion sur l'impact
+ - Verbatim : "Je me dis que j'ai perdu certaines compétences."
+ - Code 6 : Comparaison avec avant
+ - Verbatim : "Avant ChatGPT, je demandais de l’aide pour la relecture à quelqu’un ?"
+ - Code 7 : Changement dans les habitudes de travail
+ - Verbatim : "Je délègue tout ce qui est recherche d'articles."
+ - Code 8 : Effet sur la qualité du travail
+ - Verbatim : "C'est ma réflexion, c'est mon processus."
+ - Code 9 : Perception de la facilité
+ - Verbatim : "C'est un peu trop facile quand même."
+ - Code 10 : Tentative de rééquilibrage
+ - Verbatim : "C'est pour ça que j'essaye de réécrire."
+
+**Thème 4 : Expérience et limites de ChatGPT**
+ - Code 1 : Expérience positive
+ - Verbatim : "Je gagne peut-être bien deux heures."
+ - Code 2 : Limites dans la recherche
+ - Verbatim : "Il me propose des choses qui n'ont vraiment rien à voir."
+ - Code 3 : Sélection par mots-clés
+ - Verbatim : "Il va sélectionner par ressemblance."
+ - Code 4 : Résumé et analyse
+ - Verbatim : "Il va me faire un petit résumé."
+ - Code 5 : Vérification nécessaire
+ - Verbatim : "Si l'article m'intéresse, je vais le lire moi-même."
+ - Code 6 : Cas de mauvaise correspondance
+ - Verbatim : "Il me propose des articles, des rapports de2012 d'un pays lointain, juste parce que c'est vraiment le même nom que je recherche."
+ - Code 7 : Utilisation pour des tâches spécifiques
+ - Verbatim : "C'est beaucoup tout ce qui est recherche d'articles."
+ - Code 8 : Fiabilité relative
+ - Verbatim : "On n'est pas sûr à100%."
+ - Code 9 : Évolution de l'utilisation
+ - Verbatim : "Je me rends compte que je me repose beaucoup sur ChatGPT."
+ - Code 10 : Amélioration possible
+ - Verbatim : "C'est pour ça que j'essaye de réécrire."
+
+**Thème 5 : Perception et attitude face à l'utilisation de ChatGPT**
+ - Code 1 : Perception mitigée
+ - Verbatim : "C'est un peu trop facile quand même."
+ - Code 2 : Acceptation de l'aide
+ - Verbatim : "C'est juste que des fois je me dis que je n'ai pas fait100% moi-même non plus, avec une petite aide on va dire."
+ - Code 3 : Légitimité en question
+ - Verbatim : "Ça ne remet pas en cause ma légitimité en tant d'étudiante."
+ - Code 4 : Réflexion sur l'impact à long terme
+ - Verbatim : "Je me rends compte que j'ai perdu certaines compétences."
+ - Code 5 : Comparaison avec d'autres outils
+ - Verbatim : "Avant ChatGPT, je demandais de l’aide pour la relecture à quelqu’un ?"
+ - Code 6 : Effet sur la confiance
+ - Verbatim : "J'ai toujours un peu cette peur de qu’ils trouvent un outil, comme le plagiat, qui te permettent de détecter quand tu utilises ChatGPT."
+ - Code 7 : Attitude proactive
+ - Verbatim : "C'est pour ça que j'essaye de réécrire."
+ - Code 8 : Équilibre entre utilisation et autonomie
+ - Verbatim : "C'est mon travail avant tout."
+ - Code 9 : Conscience des risques
+ - Verbatim : "Je me dis, mais dans quelle mesure est-ce qu'ils peuvent détecter que j'utilise des ChatGPT ?"
+ - Code 10 : Justification de l'utilisation
+ - Verbatim : "C'est ma réflexion, c'est mon processus."

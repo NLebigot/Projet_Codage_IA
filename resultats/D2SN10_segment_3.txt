@@ -1,0 +1,113 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes pertinents avec leurs codes associés. Voici les résultats :
+
+### Thème 1 : L'impact de l'IA sur la défense et la sécurité
+- Code 1 : Investissement dans l'IA pour la défense
+- Verbatim : "il y a un réel effort qui est en train d'être investi, d'être fait par le ministère des armées pour justement investir sur des IA"
+- Code 2 : Modernisation des armées grâce à l'IA
+- Verbatim : "moderniser les armées grâce à l'IA, pour avoir des programmes plus intelligents notamment vis-à-vis de la détection des cibles et autres"
+- Code 3 : Utilisation de drones et IA dans la défense
+- Verbatim : "dans la mesure où les drones font passer leur place, je pense à mon avis que l'IA dans le domaine de la défense des armées, surtout du côté des drones, prendra"
+- Code 4 : Risques liés à l'utilisation de l'IA dans la défense
+- Verbatim : "je n'espère pas un scénario à la Skynet"
+- Code 5 : Préoccupations éthiques
+- Verbatim : "Éthiquement, ça peut être très compliqué, il y a pas mal de choses qui peuvent être mises en place"
+- Code 6 : Dilemme du pilote de chasse
+- Verbatim : "j'avais le choix entre tirer ou ne pas tirer, parce que je n'étais pas très sûr que le mec était armé"
+- Code 7 : Conscience de l'IA
+- Verbatim : "est-ce qu’elle aurait eu la conscience de se dire « cette personne c’est potentiellement pas un taliban mais juste un paysan qui fait sa vie »"
+- Code 8 : Programmation de l'IA
+- Verbatim : "certes, elles sont programmées pour faire X ou Y chose"
+- Code 9 : Dommages collatéraux
+- Verbatim : "je largue ma bombe et je fais des dommages collatéraux"
+- Code 10 : Réflexion sur l'utilisation de l'IA dans la guerre
+- Verbatim : "qu’est-ce que ça aurait été si à la place du pilote, il y aurait eu une IA"
+
+### Thème 2 : Perception de l'IA générative et de ChatGPT
+- Code 1 : Définition de l'IA générative
+- Verbatim : "je vois le concept d’IA générative je dis ChatGPT mais moi dans mon esprit c'est tout ce qui est Gemini IA etc."
+- Code 2 : L'IA comme assistant
+- Verbatim : "je vois ça comme une sorte d'assistant... ou d'aide un peu comme a été les smartphones pendant leur temps"
+- Code 3 : L'IA comme outil
+- Verbatim : "une sorte d’outil, on va s'inquiéter, mais plus sur une sorte d'outil ou d'assistant, en un sens dans les tâches dans lesquelles on seraient limité"
+- Code 4 : Utilisation actuelle de l'IA générative
+- Verbatim : "l'usage que l'on a actuellement de l'IA génératif c'est de nous aider à résoudre des problèmes sur lesquels on n'arrive pas à plancher"
+- Code 5 : Pas un sauveur
+- Verbatim : "Je ne veux pas la chose comme sortes de messi, salvateur ou quelque chose de ce type"
+- Code 6 : Aide à la résolution de problèmes
+- Verbatim : "une sorte de... pas de Messie, mais un peu quand même de... ouais.."
+- Code 7 : Restructuration de la société
+- Verbatim : "quelque chose qui va permettre une sorte de restructuration de la société comme on a fait un peu les téléphones"
+- Code 8 : Impact sur les tâches quotidiennes
+- Verbatim : "dans les tâches dans lesquelles on serait limité sur des points"
+- Code 9 : Perception positive de l'IA générative
+- Verbatim : "je vois ça comme une sorte d'extension"
+- Code 10 : Utilisation future de l'IA générative
+- Verbatim : "l’usage que je vois… une sorte de... pas de Messie, mais un peu quand même"
+
+### Thème 3 : Préoccupations éthiques liées à l'IA
+- Code 1 : Préoccupations éthiques dans la défense
+- Verbatim : "Éthiquement, ça peut être très compliqué"
+- Code 2 : Conscience et décisions de l'IA
+- Verbatim : "est-ce qu’elle aurait eu la conscience de se dire « cette personne c’est potentiellement pas un taliban mais juste un paysan qui fait sa vie »"
+- Code 3 : Dilemmes moraux
+- Verbatim : "j'avais le choix entre tirer ou ne pas tirer"
+- Code 4 : Responsabilité
+- Verbatim : "qui peut faire vraiment peur. Parce qu'on sait pas comment..."
+- Code 5 : Éthique dans la programmation
+- Verbatim : "certes, elles sont programmées pour faire X ou Y chose"
+- Code 6 : Impact sur la société
+- Verbatim : "ça va arriver j'ai l'impression ça va vite ça va vite en fait, l'intelligence artificielle ça va super vite"
+- Code 7 : Risques liés à l'IA
+- Verbatim : "je n'espère pas un scénario à la Skynet"
+- Code 8 : Réflexion éthique nécessaire
+- Verbatim : "il y a pas mal de choses qui peuvent être mises en place"
+- Code 9 : Complexité des décisions
+- Verbatim : "C'est très compliqué"
+- Code 10 : Incertitudes
+- Verbatim : "on sait pas comment..."
+
+### Thème 4 : Utilisation et fréquence d'utilisation de ChatGPT
+- Code 1 : Fréquence d'utilisation
+- Verbatim : "à quelle fréquence est-ce que tu utilises ChatGPT dans le cadre de tes études ou au quotidien ?"
+- Code 2 : Utilisation dans les études
+- Verbatim : "dans le cadre de tes études"
+- Code 3 : Utilisation quotidienne
+- Verbatim : "ou au quotidien"
+- Code 4 : Attentes vis-à-vis de ChatGPT
+- Verbatim : "quelles sont les premières choses qui vous viennent à l’esprit quand tu penses à ChatGPT ?"
+- Code 5 : Perception de l'utilité
+- Verbatim : "une sorte d’outil ou d'assistant"
+- Code 6 : Résolution de problèmes
+- Verbatim : "l'usage que l'on a actuellement de l'IA génératif c'est de nous aider à résoudre des problèmes"
+- Code 7 : Limitations
+- Verbatim : "sur lesquels on n'arrive pas à plancher"
+- Code 8 : Amélioration de la productivité
+- Verbatim : "dans les tâches dans lesquelles on serait limité"
+- Code 9 : Adoption de l'IA
+- Verbatim : "l'intelligence artificielle ça va super vite"
+- Code 10 : Intégration dans la vie quotidienne
+- Verbatim : "une sorte de restructuration de la société"
+
+### Thème 5 : Impact sociétal de l'IA
+- Code 1 : Changements sociétaux
+- Verbatim : "une sorte de restructuration de la société comme on a fait un peu les téléphones"
+- Code 2 : Adoption de nouvelles technologies
+- Verbatim : "l'intelligence artificielle ça va super vite"
+- Code 3 : Impact sur les comportements
+- Verbatim : "on va s'inquiéter, mais plus sur une sorte d'outil ou d'assistant"
+- Code 4 : Nouvelles formes d'interaction
+- Verbatim : "une sorte d'extension"
+- Code 5 : Évolution des besoins
+- Verbatim : "l’usage que l'on a actuellement de l'IA génératif"
+- Code 6 : Simplification des tâches
+- Verbatim : "nous aider à résoudre des problèmes sur lesquels on n'arrive pas à plancher"
+- Code 7 : Nouveaux outils pour la société
+- Verbatim : "une sorte d’outil ou d'assistant, en un sens dans les tâches dans lesquelles on serait limité"
+- Code 8 : Répercussions sur la vie quotidienne
+- Verbatim : "au quotidien"
+- Code 9 : Transformation de la société
+- Verbatim : "restructuration de la société"
+- Code 10 : Dynamique d'innovation
+- Verbatim : "l'intelligence artificielle ça va super vite"
+
+Chaque thème regroupe des codes qui partagent un sens commun et offrent une compréhension plus approfondie des propos de l'enquêté. Les verbatim associés à chaque code sont choisis pour leur représentativité par rapport au code et au thème.

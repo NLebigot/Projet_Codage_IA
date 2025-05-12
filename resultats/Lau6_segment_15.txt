@@ -1,0 +1,118 @@
+Pour analyser cet entretien de manière rigoureuse et en respectant la méthode de codage qualitatif, je vais dégager plusieurs thèmes avec leurs codes associés et verbatims.
+
+### Thème 1 : Adaptation aux nouvelles technologies dans l'enseignement
+
+- Code 1 : Évolution de l'enseignement avec Internet
+  - Verbatim : "Je pense que c'est comme quand Internet s'est développé."
+- Code 2 : Nécessité d'adapter les critères d'évaluation
+  - Verbatim : "il faudra adapter les critères d'évaluation, la manière d'évaluer... en prenant en compte le fait que ChatGPT existe."
+- Code 3 : Expérience passée avec Internet
+  - Verbatim : "ma mère, elle enseigne depuis bientôt 15 ans... les gens utilisaient, mais pas tous les adultes, en tout cas."
+- Code 4 : Contournements par les étudiants
+  - Verbatim : "certains élèves avaient juste copié-collé une partie d'un site Internet"
+- Code 5 : Vérification et évaluation
+  - Verbatim : "on va juste adapter nos manières de vérifier, d'évaluer les travaux"
+- Code 6 : Impact sur les méthodes d'enseignement
+  - Verbatim : "ça va évoluer les manières de travail."
+- Code 7 : Changement dans les pratiques éducatives
+  - Verbatim : "Je pense qu'on va peut-être avoir plus d'examens écrits."
+- Code 8 : Familiarisation progressive avec la technologie
+  - Verbatim : "ceux qui traînent vont être obligés, par l'évolution technologique, d'utiliser Internet."
+- Code 9 : Utilisation inévitable de la technologie
+  - Verbatim : "Tu ne peux pas éviter d'utiliser Internet, d'utiliser un écran."
+- Code 10 : Comparaison avec l'intégration d'Internet
+  - Verbatim : "Je pense que ce sera pareil avec ChatGPT."
+
+### Thème 2 : Impact de ChatGPT sur les pratiques académiques
+
+- Code 1 : Utilisation pour les tâches administratives
+  - Verbatim : "on utilise toutes et tous ChatGPT pour la même raison, pour gagner du temps"
+- Code 2 : Gain de temps pour des tâches fastidieuses
+  - Verbatim : "c'est les tâches qui te font chier, c'est les tâches administratives"
+- Code 3 : Tâches ne nécessitant pas de réflexion
+  - Verbatim : "c'est les tâches que finalement t'as pas besoin de réflexion pour faire un formatage ou une bibliographie."
+- Code 4 : Concentration sur l'analyse
+  - Verbatim : "tu gagnes du temps à peut-être te concentrer, à réfléchir, à approfondir ton analyse"
+- Code 5 : Amélioration potentielle de la qualité du travail
+  - Verbatim : "ça te permet aussi de faire un meilleur travail"
+- Code 6 : Réduction du stress lié au formatage
+  - Verbatim : "parce que tu vas pas te faire chier."
+- Code 7 : Engagement personnel dans les thématiques intéressantes
+  - Verbatim : "si t'as une thématique en cours qui t'intéresse, tu vas automatiquement faire le travail par toi-même."
+- Code 8 : Perception positive de l'outil
+  - Verbatim : "Je trouve ça intéressant aussi de voir finalement qu'on est tous... on utilise ChatGPT"
+- Code 9 : Uniformisation de l'usage
+  - Verbatim : "on utilise toutes et tous ChatGPT pour la même raison"
+- Code 10 : Valorisation de la réflexion
+  - Verbatim : "tu vas te concentrer, à réfléchir, à approfondir ton analyse"
+
+### Thème 3 : Inévitabilité de l'intégration de ChatGPT
+
+- Code 1 : Progression technologique
+  - Verbatim : "l'évolution technologique"
+- Code 2 : Adaptation nécessaire
+  - Verbatim : "il faudra adapter... la manière d'évaluer"
+- Code 3 : Comparaison avec l'adoption d'Internet
+  - Verbatim : "Je pense que c'est comme quand Internet s'est développé."
+- Code 4 : Impact sur les pratiques futures
+  - Verbatim : "ça va évoluer les manières de travail."
+- Code 5 : Obligation d'utiliser les nouvelles technologies
+  - Verbatim : "Tu ne peux pas éviter d'utiliser Internet, d'utiliser un écran."
+- Code 6 : Utilisation généralisée
+  - Verbatim : "on est tous... on utilise ChatGPT"
+- Code 7 : Adaptation au changement
+  - Verbatim : "c'est une question de temps."
+- Code 8 : Futur de l'enseignement
+  - Verbatim : "Je pense qu'on va peut-être avoir plus d'examens écrits."
+- Code 9 : Changement dans la culture éducative
+  - Verbatim : "l'évolution technologique... d'utiliser Internet."
+- Code 10 : Inexorabilité de l'adoption de ChatGPT
+  - Verbatim : "Je pense que ce sera pareil avec ChatGPT."
+
+### Thème 4 : Perception de l'impact de ChatGPT sur la qualité du travail
+
+- Code 1 : Gain de temps pour l'analyse
+  - Verbatim : "tu gagnes du temps à peut-être te concentrer, à réfléchir, à approfondir ton analyse"
+- Code 2 : Amélioration de la qualité
+  - Verbatim : "ça te permet aussi de faire un meilleur travail"
+- Code 3 : Réduction des tâches fastidieuses
+  - Verbatim : "c'est les tâches qui te font chier, c'est les tâches administratives"
+- Code 4 : Meilleure concentration
+  - Verbatim : "tu vas te concentrer, à réfléchir, à approfondir ton analyse"
+- Code 5 : Valorisation de la réflexion
+  - Verbatim : "parce que tu vas pas te faire chier."
+- Code 6 : Perception positive de ChatGPT
+  - Verbatim : "Je trouve ça intéressant aussi de voir finalement qu'on est tous... on utilise ChatGPT"
+- Code 7 : Utilisation pour des tâches spécifiques
+  - Verbatim : "c'est les tâches que finalement t'as pas besoin de réflexion pour faire un formatage ou une bibliographie."
+- Code 8 : Impact sur la qualité du travail
+  - Verbatim : "Finalement peut-être que la qualité du travail est meilleure après."
+- Code 9 : Engagement dans le travail personnel
+  - Verbatim : "si t'as une thématique en cours qui t'intéresse, tu vas automatiquement faire le travail par toi-même."
+- Code 10 : Optimisation du processus de travail
+  - Verbatim : "tu gagnes du temps à peut-être te concentrer"
+
+### Thème 5 : Uniformisation et partage de l'expérience avec ChatGPT
+
+- Code 1 : Uniformisation de l'usage de ChatGPT
+  - Verbatim : "on utilise toutes et tous ChatGPT pour la même raison"
+- Code 2 : Partage d'expérience
+  - Verbatim : "de ce que j'ai discuté avec d'autres personnes, d'autres potes de l'école, de l'Uni"
+- Code 3 : Utilisation pour des tâches similaires
+  - Verbatim : "c'est les tâches administratives, c'est les tâches que finalement t'as pas besoin de réflexion"
+- Code 4 : Perception commune de l'utilité de ChatGPT
+  - Verbatim : "on utilise ChatGPT pour la même raison, pour gagner du temps"
+- Code 5 : Communauté d'usages
+  - Verbatim : "Je trouve ça intéressant aussi de voir finalement qu'on est tous... on utilise ChatGPT"
+- Code 6 : Discussions autour de ChatGPT
+  - Verbatim : "de ce que j'ai discuté avec d'autres personnes"
+- Code 7 : Partage de pratiques
+  - Verbatim : "on utilise toutes et tous ChatGPT pour la même raison"
+- Code 8 : Convergence dans l'usage
+  - Verbatim : "pour gagner du temps et de la même manière."
+- Code 9 : Reconnaissance de l'utilité de ChatGPT
+  - Verbatim : "Je trouve ça intéressant"
+- Code 10 : Communauté d'expérience autour de ChatGPT
+  - Verbatim : "on est tous... on utilise ChatGPT"
+
+Ces thèmes et codes illustrent la richesse de l'entretien et permettent d'analyser en profondeur les propos de l'enquêté concernant l'impact de ChatGPT sur les pratiques académiques et la perception de cette technologie.

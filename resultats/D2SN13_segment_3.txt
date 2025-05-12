@@ -1,0 +1,111 @@
+Voici le résultat de l'analyse de l'entretien en 5 thèmes distincts, chacun contenant environ 10 codes avec leur verbatim associé.
+
+**Thème 1 : Perception initiale de ChatGPT**
+ - Code 1 : Inquiétude initiale
+ - Verbatim : "j’étais un peu réticente au début à l'utiliser"
+ - Code 2 : Crainte de la perte d'autonomie
+ - Verbatim : "les étudiants allaient moins réfléchir et produire des travaux moins bien finalement"
+ - Code 3 : Préoccupation quant à la qualité du travail
+ - Verbatim : "s'ils avaient pas utilisé ChatGPT, donc c'est pour ça que j’étais un peu réticente"
+ - Code 4 : Vision négative initiale
+ - Verbatim : "mon idée c'était vraiment que avec ChatGPT, surtout les étudiants, ils allaient moins réfléchir"
+ - Code 5 : Réflexion sur l'impact de ChatGPT
+ - Verbatim : "je continue à faire mes dissert’ de mon côté, mais mon idée c'était vraiment que avec ChatGPT"
+ - Code 6 : Évaluation des risques
+ - Verbatim : "je l'ai encore mais après je trouve que mon utilisation de ChatGPT, elle reste bien faite entre guillemets"
+ - Code 7 : Évolution de la perception
+ - Verbatim : "maintenant je l’utilise beaucoup pour rédiger des parties de mes rendus"
+ - Code 8 : Reconnaissance des limites
+ - Verbatim : "je lui dis 'tu écris dans un style un peu simple' mais c'est vraiment juste parce que j'ai la flemme d'écrire"
+ - Code 9 : Conscience de la dépendance
+ - Verbatim : "c'est toujours mes idées à en tirer"
+ - Code 10 : Réajustement de l'usage
+ - Verbatim : "récemment j'ai ma directrice de mémoire qui m'a demandé si j'utilisais ChatGPT pour écrire"
+
+**Thème 2 : Utilisation actuelle de ChatGPT**
+ - Code 1 : Fréquence d'utilisation
+ - Verbatim : "je l’utilise quand même tous les jours"
+ - Code 2 : Utilisation variée
+ - Verbatim : "soit pour lui poser des questions sur des auteurs, soit parfois quand il y a une phrase que j'ai pas compris dans un article"
+ - Code 3 : Utilisation pour la compréhension
+ - Verbatim : "je lui demande d'expliquer"
+ - Code 4 : Utilisation pour la rédaction
+ - Verbatim : "je l’utilise beaucoup pour rédiger des parties de mes rendus"
+ - Code 5 : Appréciation de la capacité de ChatGPT
+ - Verbatim : "je trouve qu'il est assez fort pour ça"
+ - Code 6 : Utilisation en contexte académique
+ - Verbatim : "quand il y a quelqu'un qui parle d'une théorie que j'ai pas, ben je lui demande parle moins de telle théorie"
+ - Code 7 : Utilisation pour des tâches personnelles
+ - Verbatim : "je l’utilise aussi pour des trucs un peu plus perso pour rédiger des mails"
+ - Code 8 : Satisfaction générale
+ - Verbatim : "je trouve qu'il a quand même plein de points positifs aussi"
+ - Code 9 : Interaction avec ChatGPT
+ - Verbatim : "je lui mets vraiment mes idées et je lui dis 'tu écris dans un style un peu simple'"
+ - Code 10 : Évaluation continue
+ - Verbatim : "je l'utilise toujours donc c'est que je trouve qu'il a quand même plein de points positifs"
+
+**Thème 3 : Relation à la technologie**
+ - Code 1 : Dépendance à la technologie
+ - Verbatim : "une relation surtout d'aide je pense, mais aussi un peu de dépendance"
+ - Code 2 : Reconnaissance de l'aide apportée
+ - Verbatim : "sans la technologie, je pense que j’aurais pas réussi mes études"
+ - Code 3 : Influence sur les études
+ - Verbatim : "je pense que j’aurais pas réussi mes études"
+ - Code 4 : Perception de la technologie comme outil
+ - Verbatim : "c’est une relation surtout d’aide je pense"
+ - Code 5 : Acceptation de la dépendance
+ - Verbatim : "mais aussi un peu de dépendance parce que sans la technologie"
+ - Code 6 : Réflexion sur l'impact de la technologie
+ - Verbatim : "je pense que j’aurais pas réussi mes études"
+ - Code 7 : Intégration de la technologie dans la vie quotidienne
+ - Verbatim : "je l’utilise tous les jours"
+ - Code 8 : Utilisation de la technologie pour pallier les lacunes
+ - Verbatim : "quand il y a une phrase que j'ai pas compris dans un article je lui demande d'expliquer"
+ - Code 9 : Évaluation de l'utilité de la technologie
+ - Verbatim : "je trouve qu'il est assez fort pour ça"
+ - Code 10 : Satisfaction générale concernant la technologie
+ - Verbatim : "c’est une relation surtout d’aide je pense"
+
+**Thème 4 : Impact de ChatGPT sur la qualité du travail**
+ - Code 1 : Préoccupation quant à la qualité
+ - Verbatim : "les étudiants allaient moins réfléchir et produire des travaux moins bien finalement"
+ - Code 2 : Effet sur la rédaction
+ - Verbatim : "il fait des phrases qui veulent rien dire mais c'est des phrases qui sont assez jolies"
+ - Code 3 : Critère de qualité
+ - Verbatim : "si tu réfléchis ça veut rien dire, c'est quoi une réalité sociale ?"
+ - Code 4 : Distinction entre le travail personnel et celui de ChatGPT
+ - Verbatim : "si c'était toi qui avait écrit toute seule t'aurais jamais écrit ça"
+ - Code 5 : Évaluation de la qualité du contenu généré
+ - Verbatim : "ça veut tout et rien dire à la fois"
+ - Code 6 : Influence sur la créativité
+ - Verbatim : "il fait des phrases qui sont assez jolies"
+ - Code 7 : Comparaison avec le travail humain
+ - Verbatim : "y’a un style un peu plus joli, c'est plus fluide"
+ - Code 8 : Reconnaissance des limites de ChatGPT
+ - Verbatim : "parfois il dit des choses qu'ils veulent rien dire"
+ - Code 9 : Impact sur la pensée critique
+ - Verbatim : "les étudiants allaient moins réfléchir"
+ - Code 10 : Réflexion sur la valeur ajoutée de ChatGPT
+ - Verbatim : "ça paraît très joli à première lecture quoi"
+
+**Thème 5 : Évolution de la perception et de l'usage de ChatGPT**
+ - Code 1 : Évolution de la perception négative
+ - Verbatim : "elle m'a remis un peu cette vision négative"
+ - Code 2 : Réajustement de l'usage
+ - Verbatim : "du coup là je l'utilise un peu moins surtout pour mon mémoire"
+ - Code 3 : Prise de conscience des limites
+ - Verbatim : "c'est vrai que du coup quand on lit juste un écrit que j'aurais fait moi et un écrit fait par ChatGPT"
+ - Code 4 : Évaluation continue de ChatGPT
+ - Verbatim : "y’a un style un peu plus joli, c'est plus fluide mais en fait parfois il dit des choses qu'ils veulent rien dire"
+ - Code 5 : Adaptation de l'usage en fonction des besoins
+ - Verbatim : "je l’utilise toujours donc c'est que je trouve qu'il a quand même plein de points positifs"
+ - Code 6 : Influence de l'environnement sur la perception
+ - Verbatim : "ma directrice de mémoire qui m'a demandé si j'utilisais ChatGPT pour écrire"
+ - Code 7 : Impact des retours sur la perception
+ - Verbatim : "elle m'a dit que ça se voyait de temps en temps"
+ - Code 8 : Réflexion sur l'usage approprié
+ - Verbatim : "je lui dis 'tu écris dans un style un peu simple' mais c'est vraiment juste parce que j'ai la flemme d'écrire"
+ - Code 9 : Équilibre entre utilisation et autonomie
+ - Verbatim : "c'est toujours mes idées à en tirer"
+ - Code 10 : Poursuite de l'utilisation malgré les réserves
+ - Verbatim : "je l’utilise quand même tous les jours"

@@ -1,0 +1,117 @@
+Voici mon analyse du texte en respectant la méthode de codage qualitatif :
+
+**Segment 1 : Perception de l'impact de son travail**
+
+- Thème : Incertitude et motivation
+ - Code 1 : Sentiment d'incertitude
+ - Verbatim : "Et ça fait un peu peur."
+ - Code 2 : Motivation malgré l'incertitude
+ - Verbatim : "Ça fait avancer quand même."
+ - Code 3 : Contradiction entre peur et progression
+ - Verbatim : "Ça fait avancer mais ça fait peur."
+ - Code 4 : Réflexion sur l'impact de son travail
+ - Verbatim : "J'ai fait deux ans pour qu'au final je fasse avancer."
+ - Code 5 : Perception de l'utilité de son sujet
+ - Verbatim : "Pas grand chose, j'aurais bien voulu que mon sujet apporte quelque chose"
+ - Code 6 : Doute sur la pertinence de son sujet
+ - Verbatim : "Mais c'est un combat mental qu'il faut avoir, enfin c'est se dire peut-être je fais un sujet dans le vent et on verra."
+ - Code 7 : Acceptation de l'incertitude
+ - Verbatim : "C'est foiring, c'est très bien foiring."
+ - Code 8 : Sentiment d'insatisfaction
+ - Verbatim : "Pas grand chose"
+ - Code 9 : Espoir d'impact
+ - Verbatim : "j'aurais bien voulu que mon sujet apporte quelque chose"
+ - Code 10 : Résignation face à l'incertitude
+ - Verbatim : "on verra"
+
+- Thème : Perception de son sujet de recherche
+ - Code 1 : Apport du sujet
+ - Verbatim : "il apporte déjà des réponses"
+ - Code 2 : Défis liés au sujet
+ - Verbatim : "c'est un combat mental qu'il faut avoir"
+ - Code 3 : Doute sur la pertinence
+ - Verbatim : "peut-être je fais un sujet dans le vent"
+ - Code 4 : Acceptation du risque
+ - Verbatim : "et on verra"
+ - Code 5 : Perception positive de l'expérience
+ - Verbatim : "C'est foiring, c'est très bien foiring"
+ - Code 6 : Évaluation de l'impact
+ - Verbatim : "Pas grand chose"
+ - Code 7 : Attente élevée
+ - Verbatim : "j'aurais bien voulu que mon sujet apporte quelque chose"
+ - Code 8 : Réalisme
+ - Verbatim : "il apporte déjà des réponses"
+ - Code 9 : Incertitude
+ - Verbatim : "peut-être je fais un sujet dans le vent"
+ - Code 10 : Optimisme
+ - Verbatim : "C'est foiring"
+
+**Segment 2 : Utilisation de ChatGPT dans la préparation de cours**
+
+- Thème : Utilisation de ChatGPT pour la préparation
+ - Code 1 : Fréquence d'utilisation
+ - Verbatim : "je l'utilise un petit peu moins"
+ - Code 2 : Utilité de ChatGPT
+ - Verbatim : "il me sert dans ce cas où j'ai mon cours qui est prêt et là, j'ai un doute sur une règle, par exemple"
+ - Code 3 : Moment d'utilisation
+ - Verbatim : "quand on me donnait un cours"
+ - Code 4 : Raisons de l'utilisation
+ - Verbatim : "pour vérifier des points sur lesquels j'ai des doutes"
+ - Code 5 : Manière d'utiliser ChatGPT
+ - Verbatim : "je lui dis, avec cette règle-là, comment ça fonctionne ?"
+ - Code 6 : Vérification des réponses
+ - Verbatim : "Et après, je vérifie avec Internet, avec ce que j'ai déjà vu, avec le livre"
+ - Code 7 : Exploration des limites
+ - Verbatim : "j'essaie un petit peu de le manipuler, en mode est-ce que t'es vraiment sûr de toi ?"
+ - Code 8 : Découverte des limites
+ - Verbatim : "souvent c'est là qu'on voit les limites de ChatGPT"
+ - Code 9 : Précaution dans l'utilisation
+ - Verbatim : "j'utilise ChatGPT mais toujours avec des pincettes"
+ - Code 10 : Gain de temps
+ - Verbatim : "il me fait gagner énormément de temps dans la création d'exercices"
+
+- Thème : Perception de l'utilité de ChatGPT
+ - Code 1 : Utilité dans la préparation
+ - Verbatim : "il me sert dans ce cas où j'ai mon cours qui est prêt"
+ - Code 2 : Gain de temps
+ - Verbatim : "il me fait gagner énormément de temps dans la création d'exercices"
+ - Code 3 : Qualité des réponses
+ - Verbatim : "il me donne des exercices, mais toujours de la même manière"
+ - Code 4 : Nécessité de vérification
+ - Verbatim : "je vérifie toujours en amont, évidemment"
+ - Code 5 : Appréciation de la structuration
+ - Verbatim : "il le fait de façon très construite"
+ - Code 6 : Utilisation pour des exercices
+ - Verbatim : "pour créer des exercices"
+ - Code 7 : Utilisation pour des vérifications
+ - Verbatim : "pour vérifier des points sur lesquels j'ai des doutes"
+ - Code 8 : Interaction avec ChatGPT
+ - Verbatim : "je lui dis, avec cette règle-là, comment ça fonctionne ?"
+ - Code 9 : Limites de ChatGPT
+ - Verbatim : "on voit les limites de ChatGPT"
+ - Code 10 : Précaution nécessaire
+ - Verbatim : "toujours avec des pincettes"
+
+- Thème : Interaction avec ChatGPT et vérification
+ - Code 1 : Vérification des réponses
+ - Verbatim : "Et après, je vérifie avec Internet, avec ce que j'ai déjà vu, avec le livre"
+ - Code 2 : Test des limites
+ - Verbatim : "j'essaie un petit peu de le manipuler"
+ - Code 3 : Interaction dynamique
+ - Verbatim : "est-ce que t'es vraiment sûr de toi ?"
+ - Code 4 : Exploration des capacités
+ - Verbatim : "est-ce que tu peux te corriger toi-même ?"
+ - Code 5 : Réponse de ChatGPT
+ - Verbatim : "Et il me répond"
+ - Code 6 : Évaluation de la réponse
+ - Verbatim : "je regarde si c'est assez varié"
+ - Code 7 : Utilisation pour amélioration
+ - Verbatim : "pour vérifier des points sur lesquels j'ai des doutes"
+ - Code 8 : Appréciation de la qualité
+ - Verbatim : "il le fait de façon très construite"
+ - Code 9 : Limites rencontrées
+ - Verbatim : "souvent c'est là qu'on voit les limites de ChatGPT"
+ - Code 10 : Nécessité de vérification
+ - Verbatim : "je vérifie toujours en amont"
+
+Ces thèmes et codes reflètent les aspects principaux de l'entretien, notamment la perception de l'impact de son travail, l'utilisation de ChatGPT pour la préparation de cours, et l'interaction avec cet outil. Les verbatim associés offrent une représentation claire et directe des propos de l'enquêté.

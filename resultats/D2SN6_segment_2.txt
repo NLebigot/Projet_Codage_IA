@@ -1,0 +1,89 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+### Thème 1 : Perception et utilisation de ChatGPT
+- Code 1 : Définition de ChatGPT
+  - Verbatim : "Pour moi, l'intelligence artificielle, c'est un ordinateur qui a de grandes ressources et de grandes connaissances sur beaucoup de sujets et à qui on peut demander plein de choses et toujours avoir une réponse."
+- Code 2 : Découverte de ChatGPT
+  - Verbatim : "Je l'ai découvert par quelqu'un qui m'en avait parlé... Ça doit faire trois ans, peut-être, ouais, trois, quatre ans."
+- Code 3 : Fréquence d'utilisation
+  - Verbatim : "Je n'utilise pas tous les jours mais je pense que j'utilise au moins toutes les semaines pour plein de choses."
+- Code 4 : Utilisation dans les études
+  - Verbatim : "Ça me sert à avoir des informations rapidement... Par exemple, sur une simple question, du genre, qui est cet auteur sociologique, histoire d'avoir une petite biographie rapide."
+- Code 5 : Utilisation pour l'organisation
+  - Verbatim : "Je m'en sers aussi des fois pour faire des plans. Ça m'aide un peu à organiser des idées."
+- Code 6 : Limitations de la version gratuite
+  - Verbatim : "Il y a une limite de documents qu'on peut envoyer à ChatGPT, une limite de messages."
+- Code 7 : Perception de l'aide
+  - Verbatim : "C'est un peu comme un petit assistant, donc c'est vrai que je passe moins de temps à travailler."
+- Code 8 : Impact sur le stress
+  - Verbatim : "Ça m'aide beaucoup, franchement ouais, ça m'aide beaucoup. C'est vrai que comme il retient en plus tout ce que tu lui dis, tu perds quand même vraiment beaucoup moins de temps."
+- Code 9 : Évaluation des réponses
+  - Verbatim : "Je fais toujours un peu attention. Surtout, comme maintenant, je sais que les citations sont bidons."
+- Code 10 : Interaction avec ChatGPT
+  - Verbatim : "Moi, j'avoue que je ne fais pas trop d'efforts. Je lui demande vraiment comme je l'entends."
+
+### Thème 2 : Impact de ChatGPT sur les études et le travail académique
+- Code 1 : Gain de temps
+  - Verbatim : "Ça m'aide vraiment à gagner du temps, surtout quand on a beaucoup de travail."
+- Code 2 : Amélioration de la qualité du travail
+  - Verbatim : "Ça n'améliore pas forcément la qualité de mon travail."
+- Code 3 : Utilisation pour les projets
+  - Verbatim : "Je lui demande de m'organiser des plannings et de m'organiser un peu mes journées ou mes semaines de travail."
+- Code 4 : Aide à la compréhension
+  - Verbatim : "Ça m'aide parce que c'est vrai que des fois, je lui demande de m'expliquer vraiment totalement d'une autre façon que le prof aurait pu le faire en CM."
+- Code 5 : Impact sur le stress lié aux échéances
+  - Verbatim : "Ça m'aide parce que ça mâche un peu le travail. Ça aide à aller plus vite."
+- Code 6 : Utilisation complémentaire à Internet
+  - Verbatim : "Maintenant, au lieu d'utiliser directement Google, j'utilise peut-être plus ChatGPT."
+- Code 7 : Perception de l'accessibilité
+  - Verbatim : "C'est comme avoir un petit prof avec nous et qui nous aide vraiment."
+- Code 8 : Comparaison avec les autres étudiants
+  - Verbatim : "Je pense que normalement, tout le monde l'utilise. Donc je me dis que si les gens budarizes pas  if they can't, si they n'ont pas besoin et qu'ils dévouent bien sans."
+- Code 9 : Tensions entre le gain de temps et l'apprentissage
+  - Verbatim : "Ben non, au contraire, parce que du coup, je peux me concentrer sur d'autres choses qui sont aussi importantes."
+- Code 10 : Utilisation légitime
+  - Verbatim : "Pour moi, elle est légitime puisque si on l'a à notre portée, on peut l'utiliser, c'est comme internet, donc je pense que oui."
+
+### Thème 3 : Aspects éthiques et responsabilités liées à l'utilisation de ChatGPT
+- Code 1 : Préoccupations concernant la RGPD
+  - Verbatim : "Je sais que ça pollue pas mal et surtout au niveau RGPD, je sais que c'est pas... en général, j'essaye de pas mettre évidemment de données trop sensibles."
+- Code 2 : Dilemme moral
+  - Verbatim : "Au début, peut-être un peu. En fait, ça va dépendre à quel point mon travail a été influencé par le ChatGPT ou non."
+- Code 3 : Utilisation acceptable ou non
+  - Verbatim : "Pas dans le cadre professionnel. Je dirais plutôt dans le cadre personnel, ça peut être non acceptable."
+- Code 4 : Perception de la dépendance
+  - Verbatim : "Oui, je pense que maintenant, ce serait compliqué de revenir travailler comme avant."
+- Code 5 : Besoin d'éducation sur l'utilisation de ChatGPT
+  - Verbatim : "Moi, je pense qu'on devrait nous apprendre à l'utiliser mieux pour éviter les gens qui font vraiment trop de copier-coller."
+- Code 6 : Utilisation responsable
+  - Verbatim : "Je pense qu'il faut faire attention."
+- Code 7 : Impact sur l'interaction humaine
+  - Verbatim : "Peut-être que ça dépourvoit trop les interactions et les échanges entre êtres humains."
+- Code 8 : Règles d'utilisation dans le cadre académique
+  - Verbatim : "À moins que ce soit à l'encontre des règles d'un examen ou d'un DST, non, je ne trouverais pas."
+- Code 9 : Équilibre entre utilisation et autonomie
+  - Verbatim : "Je ne vais pas non plus, entre guillemets, parce qu'il m'a dit de faire ce plan, faire exactement ce plan, je vais vraiment faire un mix de ce que moi, j'avais envisagé."
+- Code 10 : Futur de l'intégration de ChatGPT dans l'éducation
+  - Verbatim : "Je pense que ça pourrait être bien d'apprendre ça aux élèves."
+
+### Thème 4 : Futur et évolutions potentielles de ChatGPT dans l'éducation
+- Code 1 : Utilité dans différentes filières
+  - Verbatim : "Je me dis que dans certaines filières, ça peut être vraiment utile. Je pense aux filières scientifiques."
+- Code 2 : Évolution des pratiques d'apprentissage
+  - Verbatim : "Je pense que ça peut vraiment aider, surtout dans le cadre d'études vraiment très terre-à-terre et très concrètes."
+- Code 3 : Intégration dans les pratiques éducatives
+  - Verbatim : "Peut-être apprendre à l'utiliser correctement."
+- Code 4 : Limitations et améliorations possibles
+  - Verbatim : "Je pense que ça pourrait être bien de apprendre ça aux élèves pour éviter les abus."
+- Code 5 : Changement dans la manière d'enseigner
+  - Verbatim : "Alors moi, je trouve ça bien qu'il y ait des profs maintenant qui acceptent vraiment l'utilisation de ChatGPT par les élèves."
+- Code 6 : Rôle dans la personnalisation de l'apprentissage
+  - Verbatim : "Ça m'aide vraiment à personnaliser ma demande pour que je puisse ensuite comprendre encore mieux la réponse."
+- Code 7 : Impact sur la charge de travail
+  - Verbatim : "Ça m'aide beaucoup. Ça peut m'aider à être plus rassurée sur les deadlines, des rendus, etc."
+- Code 8 : Perception de l'avenir
+  - Verbatim : "Je pense que dans le futur, ça peut vraiment aider."
+- Code 9 : Nécessité d'une utilisation éthique
+  - Verbatim : "Il faut faire attention à comment on l'utilise."
+- Code 10 : Potentiel pour améliorer l'expérience éducative
+  - Verbatim : "Je pense que ça peut vraiment aider."

@@ -1,0 +1,111 @@
+### Analyse de l'entretien avec Oriane concernant l'utilisation de ChatGPT dans les travaux universitaires
+
+#### Thème 1 : Perception de l'utilité et de la légitimité de ChatGPT dans le contexte universitaire
+- Code 1 : Utilité de ChatGPT
+- Verbatim : "c'est vraiment un outil, et, euh... enfin, c'est aussi utile dans le monde du travail, in fine…"
+- Code 2 : Légitimité dans le monde universitaire
+- Verbatim : "Je ne sais pas pourquoi on n'utiliserait pas dans le monde universitaire."
+- Code 3 : Réduction du stress lié à la remise d'un travail
+- Verbatim : "ça réduit le stress de… ben, c'est bon, je l'ai rendu."
+- Code 4 : Utilisation dans la recherche d'information
+- Verbatim : "surtout dans la recherche d’information, la recherche d’articles."
+- Code 5 : Perception positive de l'outil
+- Verbatim : "je suis globalement à l’aise avec ça, parce que… pour moi, enfin, c’est… euh, quelque chose qui, dans tous les cas, aide"
+- Code 6 : Adéquation avec les compétences à évaluer
+- Verbatim : "On nous évalue souvent sur des tâches un peu, euh… ingrates et pas valorisantes, ou qui sont juste de l’ordre de la connaissance."
+- Code 7 : ChatGPT comme révélateur des lacunes dans le système d'évaluation
+- Verbatim : "ça permet juste de remettre en cause un peu et de trouver un peu le levier sur quoi il faut évaluer les étudiants"
+- Code 8 : Capacité à réfléchir et à ordonner les idées
+- Verbatim : "sur leur capacité à réfléchir, et, par exemple, à ordonner leurs idées, à hiérarchiser les idées"
+- Code 9 : Utilité dans le monde professionnel
+- Verbatim : "c'est aussi utile dans le monde du travail"
+- Code 10 : Supériorité de ChatGPT dans certaines tâches
+- Verbatim : "il le fait mieux que nous"
+
+#### Thème 2 : Enjeux éthiques liés à l'utilisation de ChatGPT
+- Code 1 : Confort avec l'utilisation de ChatGPT pour la recherche
+- Verbatim : "je suis à l’aise avec ça, surtout dans la recherche d’information"
+- Code 2 : Inconfort avec l'utilisation de ChatGPT pour la réflexion
+- Verbatim : "je suis très peu à l’aise avec l’éthique de… euh, il fait le travail à ma place"
+- Code 3 : Distinction entre rédaction/recherche et réflexion
+- Verbatim : "c’est pas juste de la rédaction, c’est pas juste de la recherche, là, c’est de la réflexion"
+- Code 4 : Préoccupation éthique concernant la réalisation du travail par ChatGPT
+- Verbatim : "là, par contre, c’est vraiment mon travail, ça, à moi de le faire"
+- Code 5 : Citation de l'usage de ChatGPT
+- Verbatim : "pour mon mémoire, tu vas citer l’usage de ChatGPT"
+- Code 6 : Perception de la légitimité de l'usage
+- Verbatim : "je suis globalement à l’aise avec ça"
+- Code 7 : Évaluation et impact sur l'apprentissage
+- Verbatim : (non directement cité, mais sous-entendu dans les discussions sur l'évaluation)
+- Code 8 : Frontières de l'utilisation acceptable
+- Verbatim : "je suis beaucoup moins à l’aise avec l’éthique de… euh, il fait le travail à ma place"
+- Code 9 : Responsabilité de l'étudiant
+- Verbatim : "c’est vraiment mon travail, ça, à moi de le faire"
+- Code 10 : Réflexion personnelle sur l'éthique
+- Verbatim : "je me dis : là, par contre, c’est vraiment mon travail"
+
+#### Thème 3 : Stress et sentiment de légitimité dans la réalisation des travaux universitaires avec ChatGPT
+- Code 1 : Réduction du stress à court terme
+- Verbatim : "ça réduit le stress de… ben, c'est bon, je l'ai rendu."
+- Code 2 : Augmentation du stress lié à la correction
+- Verbatim : "je vais stresser justement qu’on me corrige, parce que je sais que j’ai fait avec."
+- Code 3 : Sentiment d'illégitimité
+- Verbatim : "c’est pas bien, parce que j’ai utilisé ChatGPT, et c’est pas un bon travail"
+- Code 4 : Conflit interne
+- Verbatim : "je me dis, genre, juste, entre guillemets, je peux me faire prendre"
+- Code 5 : Perception de la qualité du travail
+- Verbatim : "c’est pas un bon travail, quoi"
+- Code 6 : Peur de la correction
+- Verbatim : "je sais que j’ai fait avec. Et donc, finalement, je me dis, genre, juste, entre guillemets, je peux me faire prendre"
+- Code 7 : Impact sur la confiance en soi
+- Verbatim : (sous-entendu à travers les inquiétudes concernant la correction et la perception du travail)
+- Code 8 : Stress à long terme
+- Verbatim : "ça ne va pas diminuer mon stress, parce que, là, une fois que je l’ai rendu"
+- Code 9 : Anticipation de la réaction des correcteurs
+- Verbatim : "je vais stresser justement qu’on me corrige"
+- Code 10 : Dilemme entre gain de temps et authenticité
+- Verbatim : "je peux me faire prendre"
+
+#### Thème 4 : Perception de l'adéquation entre ChatGPT et les exigences universitaires
+- Code 1 : Utilité dans la réalisation des tâches
+- Verbatim : "ChatGPT va permettre de pouvoir rendre quelque chose."
+- Code 2 : ChatGPT et l'évaluation des capacités
+- Verbatim : "on devrait pas avoir peur de ChatGPT si on est évalué sur la capacité à réfléchir"
+- Code 3 : Tâches ingrates et valorisantes
+- Verbatim : "on nous évalue souvent sur des tâches un peu, euh… ingrates et pas valorisantes"
+- Code 4 : Limites de ChatGPT dans la réflexion
+- Verbatim : "si je lui pose une question de réflexion, je suis très peu à l’aise avec ça"
+- Code 5 : Capacité de ChatGPT à effectuer des tâches mieux que les humains
+- Verbatim : "il peut le faire, et il peut le faire bien que nous"
+- Code 6 : Réflexion sur la nature des évaluations universitaires
+- Verbatim : "ça permet juste de remettre en cause un peu et de trouver un peu le levier sur quoi il faut évaluer les étudiants"
+- Code 7 : Adéquation avec les compétences professionnelles futures
+- Verbatim : "c'est aussi utile dans le monde du travail, in fine…"
+- Code 8 : Nécessité d'adapter le système d'évaluation
+- Verbatim : "je trouve que le système ne s'adapte pas à ça"
+- Code 9 : Perception de la valeur du travail réalisé avec ChatGPT
+- Verbatim : "c’est pas un bon travail, quoi"
+- Code 10 : Impact sur la manière d'évaluer
+- Verbatim : "sur leur capacité à réfléchir, et, par exemple, à ordonner leurs idées"
+
+#### Thème 5 : Tension entre gain de temps et apprentissage personnel
+- Code 1 : Gain de temps grâce à ChatGPT
+- Verbatim : "ChatGPT va permettre de pouvoir rendre quelque chose"
+- Code 2 : Valeur de l'apprentissage personnel
+- Verbatim : "c’est vraiment mon travail, ça, à moi de le faire"
+- Code 3 : Conflit entre utilisation de ChatGPT et apprentissage
+- Verbatim : "je suis très peu à l’aise avec l’éthique de… euh, il fait le travail à ma place"
+- Code 4 : Perception de l'utilité de ChatGPT dans l'apprentissage
+- Verbatim : "surtout dans la recherche d’information, la recherche d’articles"
+- Code 5 : Réflexion sur les tâches effectuées par ChatGPT
+- Verbatim : "on nous évalue souvent sur des tâches un peu, euh… ingrates et pas valorisantes"
+- Code 6 : Équilibre entre gain de temps et valeur éducative
+- Verbatim : (sous-entendu dans la discussion sur les tâches et l'évaluation)
+- Code 7 : Satisfaction liée à la réalisation d'un travail
+- Verbatim : "c'est bon, je l'ai rendu"
+- Code 8 : Dilemme entre productivité et qualité de l'apprentissage
+- Verbatim : "je vais stresser justement qu’on me corrige, parce que je sais que j’ai fait avec"
+- Code 9 : Répercussions sur la perception de soi en tant qu'apprenant
+- Verbatim : "c’est pas un bon travail, quoi"
+- Code 10 : Préoccupation concernant l'impact sur le développement des compétences
+- Verbatim : "là, par contre, c’est vraiment mon travail, ça, à moi de le faire"

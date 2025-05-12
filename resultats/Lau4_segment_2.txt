@@ -1,0 +1,69 @@
+Je vais procéder à l'analyse de l'entretien en suivant la méthode de codage qualitatif que vous avez indiquée. Je vais identifier les thèmes et les codes associés avec leurs verbatim.
+
+**Segment 1 : Utilisation de ChatGPT**
+
+- **Thème 1 : Fréquence et contexte d'utilisation**
+  - Code 1 : Utilisation périodique en fonction des échéances académiques
+  - Verbatim : "Je pense que c'est par période, parce que c'est quand même très axé sur mon travail académique, donc si j'ai une date, une échéance, ça va peut-être être à une fréquence assez élevée"
+  - Code 2 : Utilisation quotidienne avant une échéance importante
+  - Verbatim : "peut-être les derniers jours de ma rédaction, je vais l'utiliser. Peut-être même tous les jours pendant une petite période."
+  - Code 3 : Utilisation mensuelle générale
+  - Verbatim : "Et sinon, quand même chaque mois, de manière générale."
+  - Code 4 : Utilisation principalement académique
+  - Verbatim : "les principales raisons d'utiliser pour ma thèse c'est donc soit pour mes rédactions, mes travaux académiques"
+  - Code 5 : Utilisation pour le travail journalistique
+  - Verbatim : "soit pour mon travail d'étudiant à côté. Donc d'être journaliste pour un journal et je l’utilise un peu pour les mêmes raisons"
+
+- **Thème 2 : Raisons d'utilisation de ChatGPT**
+  - Code 1 : Synthétiser des paragraphes
+  - Verbatim : "synthétiser des paragraphes ou améliorer des tournures de phrases par exemple."
+  - Code 2 : Améliorer la formulation
+  - Verbatim : "Donc je vais l'utiliser plutôt en fin de rédaction... pour améliorer ou de synthétiser, ou de résumer parfois, mais souvent de reformuler le paragraphe"
+  - Code 3 : Questions pratiques quotidiennes (rare)
+  - Verbatim : "Une troisième raison qui est beaucoup plus rare, ce serait pour des questions pratiques de la vie quotidienne"
+  - Code 4 : Utilisation comme outil d'aide à la rédaction
+  - Verbatim : "j'écris sans trop me poser de questions, et ensuite je copie-colle"
+  - Code 5 : Vérification finale de la rédaction
+  - Verbatim : "Donc ça agit presque comme une espèce de vérification finale ?"
+
+**Segment 2 : Relation avec la technologie et perception**
+
+- **Thème 3 : Perception de la technologie dans le domaine académique**
+  - Code 1 : Tabou autour de l'utilisation de ChatGPT
+  - Verbatim : "je pense qu'il y a quelque chose du tabou, oui."
+  - Code 2 : Manque de légitimité de l'outil
+  - Verbatim : "Donc c'est un outil qui est bien connu mais qui n'est pas forcément valorisé ou légitime."
+  - Code 3 : Hésitation à discuter de l'utilisation de ChatGPT
+  - Verbatim : "certains hésitent à en parler ou font le choix de ne pas en parler"
+  - Code 4 : Perception négative des professeurs
+  - Verbatim : "il y a une espèce de tabou vis-à-vis des profs"
+  - Code 5 : Discussion entre étudiants sur l'utilisation
+  - Verbatim : "on en parle un peu entre étudiants ou entre doctorants"
+
+- **Thème 4 : Impact sur le processus de rédaction**
+  - Code 1 : Utilisation en fin de rédaction
+  - Verbatim : "je vais l'utiliser plutôt en fin de rédaction"
+  - Code 2 : Aide à la formulation et non au contenu
+  - Verbatim : "C'est plutôt sur la forme."
+  - Code 3 : Outil pour améliorer la clarté et la qualité de l'écriture
+  - Verbatim : "être sûre que le message est clair et, comment dire, assez beau, entre guillemets, que ce soit un beau texte."
+  - Code 4 : Résolution du blocage de l'écrivain
+  - Verbatim : "ce qui me bloque dans mon travail de rédaction, c'est de faire attention aux formulations"
+  - Code 5 : Comparaison avec un assistant de rédaction
+  - Verbatim : "si j'avais quelqu'un comme une assistante ou un assistant, peut-être que le travail serait similaire"
+
+**Segment 3 : Activités universitaires et ChatGPT**
+
+- **Thème 5 : Utilisation spécifique dans les activités universitaires**
+  - Code 1 : Utilisation pour la rédaction de la thèse
+  - Verbatim : "les principales raisons d'utiliser pour ma thèse"
+  - Code 2 : Utilisation pour le travail journalistique lié à la formation
+  - Verbatim : "pour mon travail d'étudiant à côté. Donc d'être journaliste pour un journal"
+  - Code 3 : Synthèse et reformulation pour les travaux académiques
+  - Verbatim : "pour les mêmes raisons, donc synthétiser des paragraphes ou améliorer des tournures de phrases"
+  - Code 4 : Utilisation pour la vérification finale
+  - Verbatim : "ça agit presque comme une espèce de vérification finale"
+  - Code 5 : Liberté dans l'utilisation pour la rédaction
+  - Verbatim : "j'écris sans trop me poser de questions"
+
+Chaque thème est développé avec une dizaine de codes qui reflètent les aspects principaux discutés par l'interviewée concernant son utilisation de ChatGPT, sa perception de la technologie dans son domaine académique, et l'impact sur son processus de rédaction. Les verbatim associés offrent un aperçu direct des réponses et permettent une analyse plus approfondie.

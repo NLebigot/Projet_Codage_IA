@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Limites et fiabilité de l'outil**
+ - Code 1 : [Fiabilité de l'outil]
+ - Verbatim : "je me suis rendu compte que ce n’étaient jamais des citations existantes"
+ - Code 2 : [Reformulation des citations]
+ - Verbatim : "il prenait un paragraphe où l'auteur avait l'idée générale et il faisait une citation à partir de ça mais ce n’étaient pas des véritables citations"
+ - Code 3 : [Dépendance au document fourni]
+ - Verbatim : "quand je lui fournis un PDF, il te colle au PDF et il ne va pas chercher d'autres informations"
+ - Code 4 : [Résultats inexacts sans document précis]
+ - Verbatim : "si on lui demande de chercher sur le web, pour moi, il ne va pas donner des informations justes"
+ - Code 5 : [Vérification nécessaire]
+ - Verbatim : "j'ai testé plusieurs fois"
+ - Code 6 : [Limite de l'outil pour les recherches sur le web]
+ - Verbatim : "il ne va pas donner des informations justes"
+ - Code 7 : [Utilisation restreinte]
+ - Verbatim : "j'ai arrêté de l'utiliser pour ça"
+ - Code 8 : [Précision variable]
+ - Verbatim : "il va me citer des vraies citations du texte du PDF"
+ - Code 9 : [Sensibilité au contexte]
+ - Verbatim : "ça dépend de comment on lui donne le document"
+ - Code 10 : [Critique de la fiabilité]
+ - Verbatim : "ce n’étaient pas des véritables citations"
+
+**Thème 2 : Évolution de l'utilisation de l'outil**
+ - Code 1 : [Découverte du prompt engineering]
+ - Verbatim : "j'avais lu des articles où j'avais vu des vidéos qui disaient qu'on pouvait entraîner Chat GPT"
+ - Code 2 : [Influence sur la formulation des questions]
+ - Verbatim : "ça m'a fait changer un peu la manière dont tu le questionnes"
+ - Code 3 : [Évolution vers une utilisation plus précise]
+ - Verbatim : "je vais préciser beaucoup plus ma demande"
+ - Code 4 : [Adaptation à l'outil]
+ - Verbatim : "je vais m'adapter et je vais lui donner un peu les caractéristiques de ce que je recherche"
+ - Code 5 : [Changement dans la formulation des demandes]
+ - Verbatim : "je posais juste la question assez vaguement quoi"
+ - Code 6 : [Utilisation plus ciblée]
+ - Verbatim : "si je veux un paragraphe qui est court qui fait seulement une dizaine de lignes"
+ - Code 7 : [Personnalisation de l'outil]
+ - Verbatim : "je vais lui donner un peu les caractéristiques de ce que je recherche"
+ - Code 8 : [Meilleure compréhension de l'outil]
+ - Verbatim : "je pense que bah mon utilisation d'aujourd'hui face à celle d’il y a un an est différente"
+ - Code 9 : [Optimisation de l'outil]
+ - Verbatim : "l'art de bien questionner chatGPT"
+ - Code 10 : [Stratégie d'utilisation]
+ - Verbatim : "je vais préciser beaucoup plus ma demande"
+
+**Thème 3 : Intégration de l'outil dans les pratiques de travail**
+ - Code 1 : [Rôle de l'outil dans la méthode de travail]
+ - Verbatim : "ChatGPT va juste rentrer en compte pour me simplifier certaines tâches"
+ - Code 2 : [Stabilité de la méthode de travail]
+ - Verbatim : "je garde un peu toujours la même méthode de travail"
+ - Code 3 : [Complémentarité avec d'autres outils]
+ - Verbatim : "je vais utiliser d'autres outils d'accompagnement"
+ - Code 4 : [Diversification des sources]
+ - Verbatim : "j’essaye de diversifier au maximum"
+ - Code 5 : [Limite de l'outil comme source unique]
+ - Verbatim : "je ne vais pas seulement me baser sur chat GPT"
+ - Code 6 : [Utilisation d'autres ressources]
+ - Verbatim : "je vais utiliser cairn qui va me donner de la littérature académique"
+ - Code 7 : [Complémentarité avec les ressources universitaires]
+ - Verbatim : "je vais à mon universitaire pour voir si peu si je peux trouver des des manuels ou des articles"
+ - Code 8 : [Préférence pour une approche diversifiée]
+ - Verbatim : "je trouverais ça trop restreint"
+ - Code 9 : [Intégration de l'outil dans une pratique plus large]
+ - Verbatim : "ChatGPT n'est pas une source en soi"
+ - Code 10 : [Pragmatisme dans l'utilisation de l'outil]
+ - Verbatim : "je vais utiliser d'autres outils"
+
+**Thème 4 : Perception de l'outil et de son potentiel**
+ - Code 1 : [Potentiel de l'outil pour la recherche]
+ - Verbatim : "on pouvait entraîner Chat GPT en lui donnant des prompts déjà faits spécifiques"
+ - Code 2 : [Attentes vis-à-vis de l'outil]
+ - Verbatim : "l'idée de prompt engineering c'est-à-dire de l'art de bien questionner chatGPT"
+ - Code 3 : [Intérêt pour les fonctionnalités avancées]
+ - Verbatim : "j'avais vu des vidéos qui disaient qu'on pouvait entraîner Chat GPT"
+ - Code 4 : [Perception de la capacité de l'outil à fournir des réponses précises]
+ - Verbatim : "il va me citer des vraies citations du texte du PDF"
+ - Code 5 : [Scepticisme quant à la fiabilité de l'outil]
+ - Verbatim : "ce n’étaient pas des véritables citations"
+ - Code 6 : [Appréciation de la capacité de l'outil à s'adapter]
+ - Verbatim : "je vais m'adapter et je vais lui donner un peu les caractéristiques de ce que je recherche"
+ - Code 7 : [Confiance limitée dans l'outil]
+ - Verbatim : "je ne vais pas seulement me baser sur chat GPT"
+ - Code 8 : [Recherche d'amélioration continue]
+ - Verbatim : "l'art de bien questionner chatGPT"
+ - Code 9 : [Utilisation stratégique de l'outil]
+ - Verbatim : "je vais préciser beaucoup plus ma demande"
+ - Code 10 : [Évaluation nuancée de l'outil]
+ - Verbatim : "ça dépend de comment on lui donne le document"
+
+**Thème 5 : Stratégies d'utilisation et limites rencontrées**
+ - Code 1 : [Stratégie de vérification]
+ - Verbatim : "j'ai testé plusieurs fois"
+ - Code 2 : [Dépendance au contexte de la requête]
+ - Verbatim : "ça dépend de comment on lui donne le document"
+ - Code 3 : [Reconnaissance des limites de l'outil]
+ - Verbatim : "j'ai arrêté de l'utiliser pour ça"
+ - Code 4 : [Stratégie d'adaptation]
+ - Verbatim : "je vais m'adapter et je vais lui donner un peu les caractéristiques de ce que je recherche"
+ - Code 5 : [Limite de l'outil pour les tâches complexes]
+ - Verbatim : "il ne va pas donner des informations justes"
+ - Code 6 : [Utilisation de l'outil pour des tâches spécifiques]
+ - Verbatim : "quand je lui fournis un PDF, il te colle au PDF"
+ - Code 7 : [Stratégie de diversification]
+ - Verbatim : "j’essaye de diversifier au maximum"
+ - Code 8 : [Prise en compte des limites dans l'utilisation]
+ - Verbatim : "je ne vais pas seulement me baser sur chat GPT"
+ - Code 9 : [Régulation de l'utilisation en fonction des besoins]
+ - Verbatim : "je vais préciser beaucoup plus ma demande"
+ - Code 10 : [Flexibilité dans l'utilisation de l'outil]
+ - Verbatim : "je vais utiliser d'autres outils d'accompagnement"

@@ -1,0 +1,115 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif demandée.
+
+**Segment 1 : Perception de l'impact de ChatGPT**
+
+- Thème : Perception de l'influence de ChatGPT sur les études
+ - Code1 : Incertitude sur l'impact
+ - Verbatim : "Mais je sais pas, après je sais pas quel est c'est plein de trucs qui se mélangent"
+ - Code2 : Reconnaissance d'un effet positif
+ - Verbatim : "je pense que oui"
+ - Code3 : Exemple d'utilisation pour la révision
+ - Verbatim : "J'avais un cours de sociologie des réseaux et c'était dans 2 jours l’éval, et j’étais en mode, j'avais pas trop révisé mais j ’étais en mode pour être tranquille au pire si je comprends pas un truc dans mes révisions y a ChatGPT qui me dira qui m'expliquera"
+ - Code4 : Manque de suivi des cours
+ - Verbatim : "j'avais pas trop suivi. J'avais, suivi un peu le début, mais j'avais un peu lâché"
+ - Code5 : Sentiment de tranquillité
+ - Verbatim : "j’étais en mode pour être tranquille"
+ - Code6 : Absence de stress
+ - Verbatim : "j'étais pas pour autant très stressé"
+ - Code7 : Incertitude sur la cause de la tranquillité
+ - Verbatim : "Après, est-ce que c'est parce que je sais pas ?"
+ - Code8 : Possibilité d'un effet ChatGPT
+ - Verbatim : "c'est vrai que ça a peut-être eu un effet là"
+ - Code9 : Cas isolé d'utilisation
+ - Verbatim : "c'est la seule occasion un peu à laquelle je pense"
+ - Code10 : Réflexion sur l'influence de ChatGPT
+ - Verbatim : "je sais pas vraiment aussi un effet ChatGPT"
+
+- Thème : Attitudes envers la révision et les cours
+ - Code1 : Manque de préparation
+ - Verbatim : "j'avais pas trop révisé"
+ - Code2 : Suivi irrégulier des cours
+ - Verbatim : "j'avais pas trop suivi"
+ - Code3 : Évaluation imminente
+ - Verbatim : "c'était dans 2 jours l’éval"
+ - Code4 : Stratégie de secours
+ - Verbatim : "j ’étais en mode pour être tranquille au pire si je comprends pas un truc dans mes révisions y a ChatGPT"
+ - Code5 : Recours à ChatGPT pour comprendre
+ - Verbatim : "y a ChatGPT qui me dira qui m'expliquera"
+ - Code6 : Manque de suivi initial
+ - Verbatim : "j'avais suivi un peu le début, mais j'avais un peu lâché"
+ - Code7 : État d'esprit nonchalant
+ - Verbatim : "j’étais en mode pour être tranquille"
+ - Code8 : Absence de stress malgré le manque de préparation
+ - Verbatim : "j'étais pas pour autant très stressé"
+ - Code9 : Confiance dans ChatGPT pour la dernière ligne droite
+ - Verbatim : "si je comprends pas un truc dans mes révisions y a ChatGPT"
+ - Code10 : Utilisation de ChatGPT comme filet de sécurité
+ - Verbatim : "pour être tranquille au pire"
+
+- Thème : Évaluation de l'utilité de ChatGPT dans les études
+ - Code1 : Utilité perçue pour la révision
+ - Verbatim : "y a ChatGPT qui me dira qui m'expliquera"
+ - Code2 : Utilisation dans un contexte de manque de préparation
+ - Verbatim : "j'avais pas trop révisé mais j ’étais en mode pour être tranquille"
+ - Code3 : Contexte d'utilisation stressant
+ - Verbatim : "c'était dans 2 jours l’éval"
+ - Code4 : Perception positive de l'assistance de ChatGPT
+ - Verbatim : "je pense que oui"
+ - Code5 : Exemple concret d'utilisation
+ - Verbatim : "J'avais un cours de sociologie des réseaux"
+ - Code6 : Bénéfice perçu de l'utilisation de ChatGPT
+ - Verbatim : "ça a peut-être eu un effet là"
+ - Code7 : Effet sur la confiance
+ - Verbatim : "j’étais en mode pour être tranquille"
+ - Code8 : Utilisation comme ressource supplémentaire
+ - Verbatim : "y a ChatGPT qui me dira qui m'expliquera"
+ - Code9 : Sentiment de sécurité apporté par ChatGPT
+ - Verbatim : "pour être tranquille au pire"
+ - Code10 : Cas spécifique où ChatGPT a été utile
+ - Verbatim : "c'est la seule occasion un peu à laquelle je pense"
+
+- Thème : Réflexion sur la légitimité de l'utilisation de ChatGPT
+ - Code1 : Question sur la légitimité
+ - Verbatim : "Est-ce que tu penses que c'est toujours légitime d'utiliser enfin ?"
+ - Code2 : Contexte universitaire
+ - Verbatim : "dans le cadre de travaux universitaires"
+ - Code3 : Perception personnelle
+ - Verbatim : "ce que tu penses que c'est légitime d'utiliser ChatGPT ?"
+ - Code4 : Début de réflexion
+ - Verbatim : "je pense que oui"
+ - Code5 : Exemple personnel
+ - Verbatim : "J'avais un cours de sociologie des réseaux"
+ - Code6 : Cas d'utilisation acceptable
+ - Verbatim : "pour être tranquille au pire si je comprends pas un truc"
+ - Code7 : Frontière floue
+ - Verbatim : "Mais je sais pas, après je sais pas quel est c'est plein de trucs qui se mélangent"
+ - Code8 : Incertitude
+ - Verbatim : "je sais pas vraiment aussi un effet ChatGPT"
+ - Code9 : Première réflexion sur l'éthique
+ - Verbatim : "Est-ce que tu penses que c'est toujours légitime"
+ - Code10 : Lancement d'une discussion interne
+ - Verbatim : "ce que tu penses que c'est légitime d'utiliser ChatGPT ?"
+
+- Thème : Impact de ChatGPT sur la confiance et le stress
+ - Code1 : Réduction du stress
+ - Verbatim : "j'étais pas pour autant très stressé"
+ - Code2 : Confiance accrue
+ - Verbatim : "j’étais en mode pour être tranquille"
+ - Code3 : Rôle de ChatGPT dans la réduction du stress
+ - Verbatim : "y a ChatGPT qui me dira qui m'expliquera"
+ - Code4 : Sentiment de sécurité
+ - Verbatim : "pour être tranquille au pire"
+ - Code5 : Moins de stress malgré le manque de préparation
+ - Verbatim : "j'avais pas trop révisé mais j’étais en mode pour être tranquille"
+ - Code6 : Impact positif sur la confiance en soi
+ - Verbatim : "ça a peut-être eu un effet là"
+ - Code7 : Utilisation comme moyen de gérer le stress
+ - Verbatim : "pour être tranquille"
+ - Code8 : Perception d'une aide
+ - Verbatim : "y a ChatGPT qui me dira qui m'expliquera"
+ - Code9 : Effet sur l'état d'esprit
+ - Verbatim : "j’étais en mode pour être tranquille"
+ - Code10 : Cas où ChatGPT a apporté une aide
+ - Verbatim : "c'est la seule occasion un peu à laquelle je pense"
+
+Ces thèmes et codes montrent une analyse riche et variée de l'entretien, couvrant les perceptions de l'influence de ChatGPT, les attitudes envers la révision et les cours, l'évaluation de l'utilité de ChatGPT, la réflexion sur la légitimité de son utilisation, et son impact sur la confiance et le stress.

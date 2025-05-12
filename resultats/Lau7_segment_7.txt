@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Utilisation de ChatGpt pour la recherche d'informations**
+- Code 1 : Satisfaction initiale
+  - Verbatim : "Oui pour moi l’information donnée était satisfaisante"
+- Code 2 : Utilisation pour les discussions de cours
+  - Verbatim : "j'ai créé une discussion et je reviens à chaque fois dessus"
+- Code 3 : Demande d'informations spécifiques
+  - Verbatim : "j'ai demandé des infos sur des termes médicaux spécifiques"
+- Code 4 : Vérification des informations
+  - Verbatim : "j'ai trouvé une source plus fiable qui avait attesté ce lien"
+- Code 5 : Limites de ChatGpt
+  - Verbatim : "je n'ai pas trouvé grand-chose"
+- Code 6 : Interaction avec d'autres sources
+  - Verbatim : "une fille du cours nous avait justement fait part de ça"
+- Code 7 : Recherche active
+  - Verbatim : "j'ai cherché de la documentation"
+- Code 8 : Reformulation de contenu
+  - Verbatim : "je lui demande de reformuler"
+- Code 9 : Évaluation de la qualité
+  - Verbatim : "je n'étais pas satisfaite"
+- Code 10 : Itération dans les demandes
+  - Verbatim : "je lui ai redemandé plusieurs fois d'affilée de reformuler"
+
+**Thème 2 : Fiabilité et vérification des sources**
+- Code 1 : Doute sur les références
+  - Verbatim : "tu me disais tout à l'heure que t'avais du mal à lui faire confiance sur les références"
+- Code 2 : Vérification des auteurs
+  - Verbatim : "je les ai tous vérifiés"
+- Code 3 : Insatisfaction avec les résultats
+  - Verbatim : "il me semble qu’il n'y en avait aucun qui m'ont satisfaite"
+- Code 4 : Recherche personnelle
+  - Verbatim : "j'ai cherché moi-même les auteurs liés à ce sujet là"
+- Code 5 : Importance de la vérification
+  - Verbatim : "je n'ai peut-être gardé qu'un"
+- Code 6 : Scepticisme initial
+  - Verbatim : "j'avais du mal à lui faire confiance"
+- Code 7 : Validation externe
+  - Verbatim : "j'ai trouvé une source fiable, mais pas via ChatGpt"
+- Code 8 : Confirmation de l'importance de vérifier
+  - Verbatim : "sur tous les auteurs qui m'en ont donné, je n'ai peut-être gardé qu'un"
+- Code 9 : Méfiance envers ChatGpt
+  - Verbatim : "j'avais peur de manquer de temps"
+- Code 10 : Décision finale sur les sources
+  - Verbatim : "je crois que j'ai trouvé aucun d'eux"
+
+**Thème 3 : Expérience utilisateur avec ChatGpt**
+- Code 1 : Frustration
+  - Verbatim : "j'ai dit 'c'est nul'"
+- Code 2 : Énerivement
+  - Verbatim : "des fois il m'énerve"
+- Code 3 : Irritation face aux résultats
+  - Verbatim : "ça ne t’as pas convenue"
+- Code 4 : Abandon de l'utilisation
+  - Verbatim : "j’ai pas utilisé ça m’avait énervée"
+- Code 5 : Attentes non satisfaites
+  - Verbatim : "je n'étais pas satisfaite"
+- Code 6 : Réaction émotionnelle
+  - Verbatim : "j'avais oublié (rire)"
+- Code 7 : Expression de la frustration
+  - Verbatim : "il m'énerve"
+- Code 8 : Décision d'arrêter l'interaction
+  - Verbatim : "la discussion s’arrête à ce niveau"
+- Code 9 : Satisfaction non atteinte
+  - Verbatim : "je n'ai pas trouvé grand-chose"
+- Code 10 : Reconnaissance de l'émotion
+  - Verbatim : "ouais je pense que c'était ça"
+
+**Thème 4 : Stratégies de recherche et d'utilisation de l'information**
+- Code 1 : Consultation de sources diverses
+  - Verbatim : "une fille du cours nous avait justement fait part de ça"
+- Code 2 : Utilisation de ChatGpt pour validation
+  - Verbatim : "je lui ai demandé à ChatGpt si c'était vrai"
+- Code 3 : Recherche de documentation
+  - Verbatim : "j'ai cherché de la documentation"
+- Code 4 : Reformulation et itération
+  - Verbatim : "je lui demande de reformuler"
+- Code 5 : Utilisation de ChatGpt dans le processus de rédaction
+  - Verbatim : "quand je demande de reformuler c'est moi qui ai écrit quelque chose"
+- Code 6 : Stratégies de vérification
+  - Verbatim : "j'ai trouvé une source plus fiable qui avait attesté ce lien"
+- Code 7 : Interaction avec d'autres personnes
+  - Verbatim : "une fille du cours nous avait justement fait part de ça"
+- Code 8 : Évaluation continue
+  - Verbatim : "je n'étais pas satisfaite"
+- Code 9 : Adaptation des stratégies
+  - Verbatim : "j'ai cherché moi-même les auteurs liés à ce sujet là"
+- Code 10 : Intégration dans le processus de recherche
+  - Verbatim : "j'ai créé une discussion et je reviens à chaque fois dessus"
+
+**Thème 5 : Évaluation de l'interaction avec ChatGpt**
+- Code 1 : Évaluation positive initiale
+  - Verbatim : "l’information donnée était satisfaisante"
+- Code 2 : Évaluation négative ultérieure
+  - Verbatim : "je n'étais pas satisfaite"
+- Code 3 : Fréquence des interactions
+  - Verbatim : "je reviens à chaque fois dessus"
+- Code 4 : Demandes spécifiques
+  - Verbatim : "j'ai demandé des infos sur des termes médicaux spécifiques"
+- Code 5 : Réponses insatisfaisantes
+  - Verbatim : "il m'énerve"
+- Code 6 : Analyse des résultats
+  - Verbatim : "j'ai trouvé une source plus fiable"
+- Code 7 : Comparaison avec d'autres sources
+  - Verbatim : "j'ai cherché de la documentation et je trouvais pas grand-chose"
+- Code 8 : Réajustement des attentes
+  - Verbatim : "je lui ai redemandé plusieurs fois d'affilée de reformuler"
+- Code 9 : Réflexion sur l'utilité
+  - Verbatim : "je n'ai pas utilisé ça m’avait énervée"
+- Code 10 : Conscience de la limite
+  - Verbatim : "j'avais du mal à lui faire confiance sur les références"

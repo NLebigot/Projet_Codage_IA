@@ -1,0 +1,99 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée.
+
+**Segment 1 : Utilisation de ChatGPT**
+
+- Thème 1 : Objectifs d'utilisation de ChatGPT
+ - Code 1 : Conception d'exercices personnalisés
+ - Verbatim : "C'était pour concevoir des exercices de grammaire un peu sur mesure pour les élèves."
+ - Code 2 : Génération d'exercices de grammaire
+ - Verbatim : "Je voulais que ChatGPT me génère des exercices de grammaire."
+ - Code 3 : Utilisation pour la curiosité personnelle
+ - Verbatim : "Maintenant, je l'utilise beaucoup moins. À part peut-être pour des questions un peu de curiosité personnelle."
+ - Code 4 : Exploration des capacités de ChatGPT
+ - Verbatim : "Quand je me pose la question, je me demande ce que ChatGPT pense par rapport à ce sujet-là."
+ - Code 5 : Utilisation antérieure
+ - Verbatim : "Je dirais honnêtement plus avant."
+ - Code 6 : Adaptation de l'utilisation
+ - Verbatim : "Maintenant, je l'utilise beaucoup moins."
+ - Code 7 : Utilisation pour des besoins spécifiques
+ - Verbatim : "En fait, je donnais le vocabulaire que les élèves avaient appris ou étaient censés apprendre."
+ - Code 8 : Personnalisation
+ - Verbatim : "C'était des exercices personnalisés."
+ - Code 9 : Changement dans les habitudes
+ - Verbatim : "Je dirais honnêtement plus avant. Maintenant, je l'utilise beaucoup moins."
+ - Code 10 : Diminution de l'utilisation
+ - Verbatim : "Maintenant, je l'utilise beaucoup moins."
+
+- Thème 2 : Évolution de l'utilisation
+ - Code 1 : Fréquence d'utilisation
+ - Verbatim : "Je dirais honnêtement plus avant."
+ - Code 2 : Changement de comportement
+ - Verbatim : "Maintenant, je l'utilise beaucoup moins."
+ - Code 3 : Nouveaux usages
+ - Verbatim : "À part peut-être pour des questions un peu de curiosité personnelle."
+ - Code 4 : Diminution de la dépendance
+ - Verbatim : "Maintenant, je l'utilise beaucoup moins."
+ - Code 5 : Remplacement par d'autres outils
+ - (Pas de verbatim direct, mais possibilité d'inférence)
+ - Code 6 : Évolution des besoins
+ - Verbatim : "En fait, je donnais le vocabulaire que les élèves avaient appris ou étaient censés apprendre."
+ - Code 7 : Adaptation aux nouvelles exigences
+ - Verbatim : "C'était des exercices personnalisés."
+ - Code 8 : Exploration de nouvelles fonctionnalités
+ - Verbatim : "Quand je me pose la question, je me demande ce que ChatGPT pense par rapport à ce sujet-là."
+ - Code 9 : Réduction de l'utilisation régulière
+ - Verbatim : "Maintenant, je l'utilise beaucoup moins."
+ - Code 10 : Utilisation occasionnelle
+ - Verbatim : "À part peut-être pour des questions un peu de curiosité personnelle."
+
+**Segment 2 : Relation à la technologie**
+
+- Thème 3 : Perception de la technologie
+ - Code 1 : Attitude positive envers la technologie
+ - Verbatim : "J'ai envie de dire que la technologie en soi, j'ai un rapport plutôt positif avec."
+ - Code 2 : Non-technophobie
+ - Verbatim : "Je me qualifierais en tout cas pas de technophobe ou comme ça."
+ - Code 3 : Utilisation sélective de la technologie
+ - Verbatim : "J'aime utiliser la technologie lorsque je considère qu'elle puisse m'apporter quelque chose."
+ - Code 4 : Esprit critique envers les entreprises de technologie
+ - Verbatim : "Je suis un peu critique par rapport aux entreprises qui sont derrière des fois, qui n'ont pas des pratiques tout à fait éthiques."
+ - Code 5 : Reconnaissance de l'utilité de la technologie
+ - Verbatim : "Faire un doctorat sans ordinateur, ce serait impossible."
+ - Code 6 : Importance de la technologie dans la filière
+ - Verbatim : "Dans ma filière, dans mon académique, c'est vrai qu'on utilise beaucoup la technologie."
+ - Code 7 : Utilisation de logiciels spécifiques
+ - Verbatim : "On utilise la suite office de Microsoft et on doit tout mettre à disposition sur Moodle."
+ - Code 8 : Dépendance à la technologie
+ - Verbatim : "Je pense qu'on doit quand même rester conscient que maintenant on a un peu cette dépendance."
+ - Code 9 : Curiosité envers les nouvelles technologies
+ - Verbatim : "Je suis assez curieux aussi quand même."
+ - Code 10 : Exploration de l'intelligence artificielle
+ - Verbatim : "Je me demande s'il y a des outils d'intelligence artificielle qui pourraient sortir bientôt."
+
+**Segment 3 : Utilisation de ChatGPT dans les activités universitaires**
+
+- Thème 4 : Utilisation de ChatGPT pour l'enseignement
+ - Code 1 : Reformulation de concepts complexes
+ - Verbatim : "Je demande à ce que ChatGPT, tu pourrais m’expliquer de manière un peu plus simple qu'est-ce que l'auteur, là, il veut dire."
+ - Code 2 : Simplification de concepts abstraits
+ - Verbatim : "Reformuler d'une manière un peu plus compréhensive, un peu plus terre-à-terre des fois, parce que c'est vrai qu'on a affaire à des textes assez abstracts des fois."
+ - Code 3 : Aide à la compréhension
+ - Verbatim : "Pour me faciliter un peu la vie, des fois je demande à ce que ChatGPT m’explique."
+ - Code 4 : Identification des différences subtiles entre concepts
+ - Verbatim : "Quelle est la différence entre ce concept-là et ce concept-là, lorsque des fois il y a des différences très subtiles, par exemple."
+ - Code 5 : Utilité dans l'enseignement
+ - Verbatim : "Ça, c'est très utile."
+ - Code 6 : Exploration de nouvelles utilisations
+ - Verbatim : "J'envisage justement d'utiliser l'intelligence artificielle pour du traitement de données."
+ - Code 7 : Manque d'expertise dans l'utilisation de l'intelligence artificielle
+ - Verbatim : "Je dois avouer que je suis assez inexpérimenté encore à ce niveau-là."
+ - Code 8 : Potentiel de l'intelligence artificielle
+ - Verbatim : "Il faudra bien que je regarde par la suite, ne serait-ce que de voir si ce que j'imagine est disponible en fait comme technologie."
+ - Code 9 : Utilisation future
+ - Verbatim : "J'envisage justement d'utiliser l'intelligence artificielle pour du traitement de données."
+ - Code 10 : Développement de compétences
+ - Verbatim : "Il faudra bien que je regarde par la suite."
+
+- Thème 5 : Exemples d'utilisation de ChatGPT (malheureusement, le verbatim associé n'est pas disponible dans le texte fourni)
+
+Ces thèmes et codes offrent une analyse qualitative de l'entretien, mettant en évidence les différents aspects de l'utilisation de ChatGPT et la relation de l'enquêté avec la technologie.

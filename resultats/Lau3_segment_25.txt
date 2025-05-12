@@ -1,0 +1,88 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif.
+
+**Segment 1 : Perception de ChatGPT et de la désinformation**
+
+- Thème : La nécessité d'un regard critique sur ChatGPT
+ - Code 1 : Catalyseur de désinformation
+ - Verbatim : "J'ai le mot catalyseur en tête, de désinformation."
+ - Code 2 : Importance de la manipulation
+ - Verbatim : "Il faudrait apprendre à le manipuler très vite."
+ - Code 3 : Comparaison avec les médias sociaux
+ - Verbatim : "La critique qu'on fait ou le regard qu'on doit porter sur le chat GPT doit être le même regard qu'on doit porter sur les réseaux sociaux ou les choses comme ça."
+ - Code 4 : Erreurs et fiabilité
+ - Verbatim : "Le chat GPT peut sembler comme quelque chose d'extrêmement fiable qui se base sur des milliers de bases de données, il fait des erreurs aussi."
+ - Code 5 : Regard critique nécessaire
+ - Verbatim : "Donc il faut avoir un regard critique sur lui aussi."
+ - Code 6 : Désinformation omniprésente
+ - Verbatim : "Parce que la désinformation elle est partout."
+ - Code 7 : Éducation aux médias
+ - Verbatim : "De la même manière qu'on parle d'enseigner à apprendre Internet, comment gérer justement tout ce qui est médias, médias sociaux, médias sociaux, chose de ce genre."
+ - Code 8 : Utilisation responsable
+ - Verbatim : "C'est vraiment beau et c'est très intéressant."
+ - Code 9 : Contextualisation de l'usage
+ - Verbatim : "Aussi, ouais."
+ - Code 10 : Perception positive malgré les risques
+
+**Segment 2 : Utilisation de ChatGPT par les pairs et les enseignants**
+
+- Thème : L'utilisation de ChatGPT par les pairs et les enseignants
+ - Code 1 : Définition des pairs
+ - Verbatim : "Les pairs, c'est tes collègues."
+ - Code 2 : Utilisation par les enseignants
+ - Verbatim : "J'ai des enseignants qui utilisent des images pour illustrer leurs cours."
+ - Code 3 : Hypothèse sur l'utilisation par les enseignants
+ - Verbatim : "Je pense qu'eux, ils se basent surtout beaucoup sur des... des trucs ont été dit et redit et redit."
+ - Code 4 : Incertitude sur l'utilisation quotidienne
+ - Verbatim : "Mais je pense qu'eux, ils se basent surtout beaucoup sur des... des trucs ont été dit et redit et redit, donc je sais pas s'ils utilisent."
+ - Code 5 : Conscience de l'utilisation par les enseignants
+ - Verbatim : "Je suis complètement conscient que beaucoup d'enseignants l'utilisent, ça oui."
+ - Code 6 : Perception de l'utilisation par les pairs
+ - Code 7 : Usage pour des tâches spécifiques
+ - Verbatim : "Pour faire des résumés d'un article ou faire des trucs..."
+ - Code 8 : Acceptation de l'usage
+ - Verbatim : "Je pense qu'ils s'en ficheraient, mais ils verraient ça comme quelque chose de normal aujourd'hui."
+ - Code 9 : Utilisation convenable
+ - Verbatim : "Je pense que c'est normal d'utiliser le chat GPT, encore une fois, convenablement, et en ayant le regard critique suffisant pour le faire."
+ - Code 10 : Normalisation de l'usage
+
+**Segment 3 : Perception de l'utilisation de ChatGPT**
+
+- Thème : La perception de l'utilisation de ChatGPT
+ - Code 1 : Perception de l'usage par les enseignants
+ - Verbatim : "Je pense qu'ils s'en ficheraient, mais ils verraient ça comme quelque chose de normal aujourd'hui."
+ - Code 2 : Utilisation pour vérification
+ - Verbatim : "Si c'est dans un but soit de curiosité, soit de vérification de ta propre... supériorité quelque part."
+ - Code 3 : Conscience de la limite
+ - Verbatim : "J'ai dit supériorité mais c'est un mot très mal choisi."
+ - Code 4 : Acceptation de l'usage personnel
+ - Verbatim : "Dans un cas personnel, si tu poses des questions en sachant pertinemment que ce que tu as dit, Tchatché Pété, n'a rien à voir avec la réalité, il n'y a pas de souci."
+ - Code 5 : Utilisation pour des tâches
+ - Verbatim : "Pour faire des résumés d'un article ou faire des trucs..."
+ - Code 6 : Perception positive de l'outil
+ - Verbatim : "C'est vraiment beau et c'est très intéressant."
+ - Code 7 : Usage modéré
+ - Code 8 : Conscience de l'usage abusif
+ - Verbatim : "Jamais je me suis demandé... Ah, là, c'est bizarre comment ils l'utilisent."
+ - Code 9 : Perception de la normalité
+ - Verbatim : "Je pense que c'est normal d'utiliser le chat GPT."
+ - Code 10 : Futur de l'usage
+
+**Segment 4 : Risques et limites de ChatGPT**
+
+- Thème : Les risques et limites de ChatGPT
+ - Code 1 : Risque de désinformation
+ - Verbatim : "J'ai le mot catalyseur en tête, de désinformation."
+ - Code 2 : Erreurs de ChatGPT
+ - Verbatim : "Il fait des erreurs aussi."
+ - Code 3 : Importance de la vérification
+ - Verbatim : "Il faut avoir un regard critique sur lui aussi."
+ - Code 4 : Limite de la fiabilité
+ - Verbatim : "Le chat GPT peut sembler comme quelque chose d'extrêmement fiable qui se base sur des milliers de bases de données."
+ - Code 5 : Nécessité d'une utilisation critique
+ - Verbatim : "En ayant le regard critique suffisant pour le faire."
+ - Code 6 : Usage pour des tâches inappropriées
+ - Code 7 : Risque de dépendance
+ - Code 8 : Limite de la contextualisation
+ - Verbatim : "Il faudrait apprendre à le manipuler très vite."
+ - Code 9 : Biais potentiel
+ - Code 10 : Conscience des limites de l'outil

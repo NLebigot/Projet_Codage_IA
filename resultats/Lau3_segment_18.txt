@@ -1,0 +1,113 @@
+Après analyse du texte, j'ai pu dégager 5 thèmes principaux avec leurs codes et verbatim associés.
+
+**Thème 1 : Limites de l'IA dans la compréhension des émotions humaines**
+- Code 1 : Compréhension théorique des émotions
+  - Verbatim : "il les comprend mais d'un point de vue purement théorique"
+- Code 2 : Incapacité à comprendre l'expression des émotions
+  - Verbatim : "comment l'humain les exprime, c'est autre chose"
+- Code 3 : Limite dans la créativité
+  - Verbatim : "quand il s'agit de donner une âme à son texte, de donner du rythme, il n'y a rien du tout"
+- Code 4 : Réponses insatisfaisantes
+  - Verbatim : "je me rends compte il me dit n'importe quoi"
+- Code 5 : Manque d'originalité
+  - Verbatim : "c'est souvent des trucs très, très niés, très barbons"
+- Code 6 : Utilisation limitée pour la créativité
+  - Verbatim : "je lui ai demandé, écris-moi une courte histoire fantastique d'horreur"
+- Code 7 : Résultats académiques mais sans âme
+  - Verbatim : "il écrit très bien, on va dire, académiquement"
+- Code 8 : Comparaison avec la créativité humaine
+  - Verbatim : "quand il s'agit de faire des figures de style"
+- Code 9 : Utilisation pour des tâches spécifiques
+  - Verbatim : "pour l'exercice et parce que c'est marrant et parce que je suis curieux"
+- Code 10 : Conscientisation des limites
+  - Verbatim : "il faut vraiment faire attention avec l'IA d'un point de vue personnel"
+
+**Thème 2 : Interaction avec l'IA et perception de son utilité**
+- Code 1 : Utilisation pour tester les capacités
+  - Verbatim : "je suis curieux, j'ai envie de savoir comment il fonctionne"
+- Code 2 : Perception de l'aide apportée par l'IA
+  - Verbatim : "ça m'aide un peu"
+- Code 3 : Effet de contradiction dans l'interaction
+  - Verbatim : "par effet de contradiction, il m'a dit une réponse et moi je prends volontairement l'autre"
+- Code 4 : Utilisation pour la vérification
+  - Verbatim : "je me rends compte que ce qu'il me dit c'est de la merde"
+- Code 5 : Interaction comme moyen de comprendre l'IA
+  - Verbatim : "j'ai envie de comprendre comment il fonctionne pour mieux l'utiliser"
+- Code 6 : Sentiment de supériorité
+  - Verbatim : "ça me conforte dans l'idée que je suis supérieur"
+- Code 7 : Rassurance dans le processus de création
+  - Verbatim : "quand t'as un doute par rapport à comment tu fais les choses"
+- Code 8 : Utilisation dans le processus de création
+  - Verbatim : "quand je lui pose une question de ce style là un peu d'un point de vue créatif"
+- Code 9 : Évaluation des réponses de l'IA
+  - Verbatim : "j'écoute même pas ce qu'il me dit"
+- Code 10 : Exploration des capacités de l'IA
+  - Verbatim : "je lui demande pour... parce que je suis curieux"
+
+**Thème 3 : Perception de l'IA et de son évolution**
+- Code 1 : Fascination pour l'IA
+  - Verbatim : "je suis très attentif à l'IA et l'évolution de l'IA en général"
+- Code 2 : Passion pour la technologie
+  - Verbatim : "c'est quelque chose qui m'intéresse et qui me passionne aussi"
+- Code 3 : Appréhension face à l'IA
+  - Verbatim : "ça me fait peur"
+- Code 4 : Reconnaissance de l'impact de l'IA
+  - Verbatim : "c'est un peu la révolution du siècle, je pense"
+- Code 5 : Nécessité d'interroger l'IA
+  - Verbatim : "c'est normal de s'interroger dessus"
+- Code 6 : Exploration et test de l'IA
+  - Verbatim : "c'est normal de tester, de poser des questions"
+- Code 7 : Désir de compréhension
+  - Verbatim : "j'ai envie de le comprendre"
+- Code 8 : Perception de l'IA comme un outil en évolution
+  - Verbatim : "l'évolution de l'IA en général"
+- Code 9 : Conscience de l'importance de l'IA
+  - Verbatim : "c'est quelque chose qui m'intéresse"
+- Code 10 : Acceptation de la nouveauté
+  - Verbatim : "c'est un peu normal"
+
+**Thème 4 : Créativité et originalité dans l'interaction avec l'IA**
+- Code 1 : Limite de l'IA dans la créativité
+  - Verbatim : "il écrit très mal, en fait"
+- Code 2 : Importance de l'originalité
+  - Verbatim : "quand il s'agit de donner une âme à son texte"
+- Code 3 : Comparaison entre créativité humaine et machine
+  - Verbatim : "il n'y a rien du tout, même en termes de musique"
+- Code 4 : Perception de la créativité de l'IA
+  - Verbatim : "c'est souvent des trucs très, très niés"
+- Code 5 : Utilisation de l'IA pour des tâches créatives
+  - Verbatim : "je lui ai demandé de m'écrire une poésie"
+- Code 6 : Résultats décevants
+  - Verbatim : "j'écoute même pas ce qu'il me dit"
+- Code 7 : Importance de la subjectivité
+  - Verbatim : "quand il s'agit de donner du rythme, de donner de la vitesse"
+- Code 8 : Manque d'âme dans la créativité de l'IA
+  - Verbatim : "sans aucune âme"
+- Code 9 : Utilisation de l'IA comme référence
+  - Verbatim : "pour l'exercice et parce que c'est marrant"
+- Code 10 : Critique de la créativité de l'IA
+  - Verbatim : "il écrit très bien, on va dire, académiquement mais..."
+
+**Thème 5 : Impact psychologique et émotionnel de l'interaction avec l'IA**
+- Code 1 : Sentiment de supériorité par rapport à l'IA
+  - Verbatim : "ça me conforte dans l'idée que je suis supérieur"
+- Code 2 : Effet psychologique de l'interaction
+  - Verbatim : "par effet de contradiction"
+- Code 3 : Perception de soi à travers l'interaction
+  - Verbatim : "je me rends compte que ce qu'il me dit c'est de la merde"
+- Code 4 : Impact émotionnel de l'utilisation de l'IA
+  - Verbatim : "ça me fait peur"
+- Code 5 : Rassurance apportée par l'IA
+  - Verbatim : "ça me rassure à ce moment"
+- Code 6 : Comparaison et évaluation de soi
+  - Verbatim : "je suis curieux, j'ai envie de savoir comment il fonctionne"
+- Code 7 : Impact sur la confiance en soi
+  - Verbatim : "quand t'as un doute par rapport à comment tu fais les choses"
+- Code 8 : Perception de l'IA comme un outil de validation
+  - Verbatim : "ça me conforte dans l'idée que je suis supérieur"
+- Code 9 : Émotions suscitées par l'interaction
+  - Verbatim : "ça me passionne aussi"
+- Code 10 : Conscience de l'impact émotionnel
+  - Verbatim : "c'est normal de s'interroger dessus"
+
+Chaque thème représente un aspect de l'interaction avec l'IA et la perception qu'en a l'interviewé, allant des limites de l'IA dans la compréhension des émotions humaines à l'impact psychologique et émotionnel de cette interaction.

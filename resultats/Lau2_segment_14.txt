@@ -1,0 +1,139 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Segment 1 : Utilisation de DeepL et d'autres outils d'intelligence artificielle**
+
+- Thème : Perception et utilisation des outils d'intelligence artificielle
+ - Code 1 : Utilisation de DeepL
+ - Verbatim : "Oui, alors c'est vrai que DeepL, en fait, c'est un outil... Enfin, c'est une intelligence artificielle aussi."
+ - Code 2 : Comparaison avec d'autres outils
+ - Verbatim : "J'avais essayé l'intelligence artificielle de Google Gemini. Mais je sais pas, je trouvais que l'interface était moins sympathique, moins convaincante."
+ - Code 3 : Limites des chatbots
+ - Verbatim : "Quand je lui disais de me raconter une autre blague, en fait souvent il me donnait juste la même blague d'avant."
+ - Code 4 : Maturité des technologies
+ - Verbatim : "Je voyais que... Donc cette intelligence artificielle là, elle était encore pas tout à fait mature pour être utilisée, en gros."
+ - Code 5 : Exploration des fonctionnalités
+ - Verbatim : "J'avais utilisé l'intelligence artificielle, plutôt le chatbot en fait de Snapchat, où j'ai demandé de me raconter des blagues."
+ - Code 6 : Évaluation des performances
+ - Verbatim : "Je trouvais que l'interface était moins sympathique, moins convaincante."
+ - Code 7 : Variété des outils utilisés
+ - Verbatim : "J'utilise DeepL. Des fois... J'avais essayé l'intelligence artificielle de Google Gemini."
+ - Code 8 : Réactions à l'égard des résultats
+ - Verbatim : "Je voyais que... Donc cette intelligence artificielle là, elle était encore pas tout à fait mature pour être utilisée, en gros."
+ - Code 9 : Premières impressions
+ - Verbatim : "J'avais essayé l'intelligence artificielle de Google Gemini."
+ - Code 10 : Contexte d'utilisation
+ - Verbatim : "J'avais utilisé l'intelligence artificielle, plutôt le chatbot en fait de Snapchat, où j'ai demandé de me raconter des blagues."
+
+- Thème : Connaissance et anticipation des évolutions technologiques
+ - Code 1 : Connaissance des alternatives
+ - Verbatim : "Ben justement Gemini de Google. Je sais que bientôt Apple va sortir Apple Intelligence."
+ - Code 2 : Dominance de ChatGPT
+ - Verbatim : "J'ai l'impression que ChatGPT domine vraiment ce marché pour l'instant et je pense que ChatGPT va continuer à dominer ce marché pendant un moment encore."
+ - Code 3 : Nouvelles entrées sur le marché
+ - Verbatim : "Je sais que bientôt Apple va sortir Apple Intelligence. Mais je crois en fait que c'est basé sur ChatGPT."
+ - Code 4 : Diversification des acteurs
+ - Verbatim : "Je crois que Microsoft veut aussi faire une IA, tout le monde veut faire une IA."
+ - Code 5 : Évolution anticipée
+ - Verbatim : "Je pense que ChatGPT va continuer à dominer ce marché pendant un moment encore."
+ - Code 6 : Perception de l'avenir
+ - Verbatim : "Je sais que bientôt Apple va sortir Apple Intelligence."
+ - Code 7 : Technologie émergente
+ - Verbatim : "Apple va sortir Apple Intelligence."
+ - Code 8 : Relations entre technologies
+ - Verbatim : "Je crois en fait que c'est basé sur ChatGPT."
+ - Code 9 : Concurrence
+ - Verbatim : "Tout le monde veut faire une IA."
+ - Code 10 : État actuel du marché
+ - Verbatim : "ChatGPT domine vraiment ce marché pour l'instant"
+
+**Segment 2 : Utilisation de ChatGPT et considérations sur sa version payante**
+
+- Thème : Perception et impact de la version payante de ChatGPT
+ - Code 1 : Connaissance de la version payante
+ - Verbatim : "Pas moi, mais je connais des gens qui l'ont fait."
+ - Code 2 : Intérêt pour la version payante
+ - Verbatim : "Envie, oui, parce qu'il y a quand même des fonctionnalités en plus."
+ - Code 3 : Évaluation de la valeur ajoutée
+ - Verbatim : "Mais après, en entendant le retour des gens qui l'ont utilisé, je trouvais que ça n'en valait pas la peine."
+ - Code 4 : Utilité perçue
+ - Verbatim : "Je trouvais que ça n'en valait pas la peine. En tout cas pour l'instant."
+ - Code 5 : Perception des fonctionnalités avancées
+ - Verbatim : "Il y a quand même des fonctionnalités en plus."
+ - Code 6 : Influence des retours d'expérience
+ - Verbatim : "En entendant le retour des gens qui l'ont utilisé, je trouvais que ça n'en valait pas la peine."
+ - Code 7 : Décision d'utilisation
+ - Verbatim : "Pas moi, mais je connais des gens qui l'ont fait."
+ - Code 8 : Évaluation continue
+ - Verbatim : "En tout cas pour l'instant."
+ - Code 9 : Perception de la nécessité
+ - Verbatim : "Je trouvais que ça n'en valait pas la peine."
+ - Code 10 : Contexte d'appréciation
+ - Verbatim : "Pour l'instant."
+
+- Thème : Compétences nécessaires pour l'utilisation efficace de ChatGPT
+ - Code 1 : Importance de la formulation des questions
+ - Verbatim : "Poser la bonne question, c'est déjà un art en soi qu'il faut un peu maîtriser."
+ - Code 2 : Nécessité d'une certaine réflexion
+ - Verbatim : "C'est déjà faire preuve d'une certaine réflexion."
+ - Code 3 : Apprentissage nécessaire
+ - Verbatim : "Je pense que c'est aussi quelque chose qu'on doit apprendre et que peut-être certaines personnes n'ont pas encore vraiment appris à poser les questions de la bonne manière."
+ - Code 4 : Intégration dans l'éducation
+ - Verbatim : "Par exemple, dans des cours d'informatique à l'école dans le futur, ou alors dans les formations continues du personnel de l'UNIL."
+ - Code 5 : Développement des compétences
+ - Verbatim : "C'est déjà un art en soi qu'il faut un peu maîtriser."
+ - Code 6 : Limites actuelles
+ - Verbatim : "Certaines personnes n'ont pas encore vraiment appris à poser les questions de la bonne manière."
+ - Code 7 : Potentiel éducatif
+ - Verbatim : "Je pense que c'est aussi quelque chose qu'on doit apprendre"
+ - Code 8 : Nécessité d'adapter l'enseignement
+ - Verbatim : "Dans des cours d'informatique à l'école dans le futur"
+ - Code 9 : Élargissement de l'éducation
+ - Verbatim : "Ou alors dans les formations continues du personnel de l'UNIL."
+ - Code 10 : Valeur pédagogique
+ - Verbatim : "C'est déjà faire preuve d'une certaine réflexion."
+
+**Segment 3 : Intégration de ChatGPT dans les pratiques d'apprentissage**
+
+- Thème : Potentiel de ChatGPT dans l'appui scolaire
+ - Code 1 : Utilisation potentielle
+ - Verbatim : "ChatGPT ou toute autre intelligence artificielle dans le genre pourrait vraiment devenir une sorte d'appui scolaire pour beaucoup d'étudiants"
+ - Code 2 : Avantages envisagés
+ - Verbatim : "Pour beaucoup d'élèves, et que ça c'est quelque chose de très positif."
+ - Code 3 : Préoccupations concernant l'utilisation
+ - Verbatim : "Pour éviter que des travaux entiers soient rédigés à l'intelligence artificielle"
+ - Code 4 : Solutions proposées
+ - Verbatim : "Généraliser l'utilisation de logiciels comme Google Docs ou Microsoft Word, mais la version sur OneDrive, pour qu'en fait il y ait un historique de l'écriture."
+ - Code 5 : Importance de la traçabilité
+ - Verbatim : "Pour qu'en cas de doute, il sera toujours possible de voir que c'est la personne qui a écrit le texte."
+ - Code 6 : Nécessité d'encadrer l'utilisation
+ - Verbatim : "Je pense qu'il serait bon peut-être de généraliser l'utilisation de logiciels"
+ - Code 7 : Éducation sur les limites
+ - Verbatim : "Une sorte d'éducation par rapport à ChatGPT sur comment poser les questions, pour connaître un peu les limites."
+ - Code 8 : Amélioration de la technologie
+ - Verbatim : "Intégrer peut-être une fonction dans les IA, pour qu'elles-mêmes aient une sorte de mémoire, une sorte d'historique"
+ - Code 9 : Fiabilité
+ - Verbatim : "Et ChatGPT puisse vraiment répondre de manière... fiable à la question."
+ - Code 10 : Sécurité
+ - Verbatim : "Bon, est-ce que ça pourrait vraiment apporter une sécurité à 100% et garantir à 100% qu'il n'y aura jamais de fraude ? Je ne sais pas."
+
+- Thème : Amélioration et encadrement de l'utilisation de ChatGPT
+ - Code 1 : Nécessité d'encadrer l'utilisation
+ - Verbatim : "Je pense qu'il serait bon peut-être de généraliser l'utilisation de logiciels"
+ - Code 2 : Éducation sur l'utilisation
+ - Verbatim : "Une sorte d'éducation par rapport à ChatGPT sur comment poser les questions"
+ - Code 3 : Intégration de fonctions de traçabilité
+ - Verbatim : "Intégrer peut-être une fonction dans les IA, pour qu'elles-mêmes aient une sorte de mémoire, une sorte d'historique"
+ - Code 4 : Amélioration de la fiabilité
+ - Verbatim : "Et ChatGPT puisse vraiment répondre de manière... fiable à la question."
+ - Code 5 : Préoccupation pour la sécurité
+ - Verbatim : "Bon, est-ce que ça pourrait vraiment apporter une sécurité à 100% et garantir à 100% qu'il n'y aura jamais de fraude ? Je ne sais pas."
+ - Code 6 : Limites de la technologie
+ - Verbatim : "Pour connaître un peu les limites."
+ - Code 7 : Valeur de l'encadrement
+ - Verbatim : "Je pense que ça pourrait être une manière aussi d'encadrer un peu mieux la technologie."
+ - Code 8 : Développement de l'éducation
+ - Verbatim : "Une sorte d'éducation par rapport à ChatGPT"
+ - Code 9 : Nécessité de la prudence
+ - Verbatim : "Bon, est-ce que ça pourrait vraiment apporter une sécurité à 100% et garantir à 100% qu'il n'y aura jamais de fraude ? Je ne sais pas."
+ - Code 10 : Potentiel d'amélioration
+ - Verbatim : "Intégrer peut-être une fonction dans les IA"

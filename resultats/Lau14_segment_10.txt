@@ -1,0 +1,113 @@
+Pour analyser l'entretien donné en suivant une méthode rigoureuse de codage qualitatif, je vais identifier et structurer les thèmes et les codes associés aux verbatim des réponses de l'enquêté, James.
+
+### Thème 1 : Interaction avec ChatGPT
+- Code 1 : Compréhension du fonctionnement de ChatGPT
+  - Verbatim : "Et ça je sais parce qu'on m'a appris par des vidéos ou des forums de recherche que ChatGPR fonctionne comme ça."
+- Code 2 : Apport de sources pour une meilleure interprétation
+  - Verbatim : "J'ai supposé du coup qu'en lui fournissant l'information, il pourrait l'interpréter mieux."
+- Code 3 : Limitations de ChatGPT
+  - Verbatim : "Dans ses phrases, on lisait des choses qui n'avaient pas de sens."
+- Code 4 : Comparaison avec un humain
+  - Verbatim : "C'est comme un humain qui aurait mal compris un sujet."
+- Code 5 : Nécessité de guider ChatGPT
+  - Verbatim : "Le fait de lui redonner les sources, c'est voilà, mets tes pendules à l'heure, et on prend une bonne base."
+- Code 6 : Réorientation des réponses
+  - Verbatim : "Quand tu recevais pas forcément des réponses qui te satisfaisaient, tu réorientais la machine."
+- Code 7 : Stratégie d'interaction
+  - Verbatim : "Faudrait réessayer maintenant le prompt. Par curiosité, il faudrait réessayer d'avoir le même genre de discussion avec lui, mais avec un apport et un angle d'attaque différent."
+- Code 8 : Personnalisation de l'interaction
+  - Verbatim : "Tu aurais pu lui dire, genre « Tu es un chercheur de l'histoire de la bio-indication »."
+- Code 9 : Vérification des sources
+  - Verbatim : "Toi-même t'as dit aussi que tu prenais pas forcément pour acquis ce qu'il te donnait comme source et du coup t'allais faire du fact-checking."
+- Code 10 : Exploration de différentes approches
+  - Verbatim : "Est-ce que t'as un petit peu d'autres manières, un petit peu de... de checker en fait ce qu'il te dit."
+
+### Thème 2 : Vérification et Validation
+- Code 1 : Fact-checking
+  - Verbatim : "Faire du fact-checking, c'est-à-dire vérifier l'information."
+- Code 2 : Utilisation de sources externes
+  - Verbatim : "Soit tu prends l'information qu'ils te donnent et tu vas regarder sur internet ce que le monde scientifique en dit."
+- Code 3 : Consultation de bases de données académiques
+  - Verbatim : "Sur Google Scholar ou sur n'importe quelle base de données, tu mets une info."
+- Code 4 : Contre-vérification
+  - Verbatim : "Tu vérifies qu'il a bien compris la source."
+- Code 5 : Importance de la vérification
+  - Verbatim : "C'est du fact-checking, on n'est pas sur Twitter non plus."
+- Code 6 : Confrontation avec d'autres sources
+  - Verbatim : "Tu retrouves des milliers d'articles qui disent que non."
+- Code 7 : Analyse critique
+  - Verbatim : "Tu comprends, ou pas, que le Covid n'est pas volontairement créé par les Chinois."
+- Code 8 : Usage personnel des connaissances
+  - Verbatim : "C'est tout de mes propres connaissances, les cours, des fois j'ai un polycopier de cours, un PowerPoint."
+- Code 9 : Croisement des informations
+  - Verbatim : "Je vais quand même aller le lire pour être sûre qu'en fait il me propose cet article pour une raison qui est cohérente."
+- Code 10 : Prudence dans l'acceptation des réponses
+  - Verbatim : "Tu le prends pas au pied de la lettre."
+
+### Thème 3 : Stratégies d'Interaction avec ChatGPT
+- Code 1 : Approche directe
+  - Verbatim : "Au lieu de lui balancer directement les textes que tu cherchais."
+- Code 2 : Personnalisation du prompt
+  - Verbatim : "Tu aurais pu lui dire, genre « Tu es un chercheur de l'histoire de la bio-indication »."
+- Code 3 : Réorientation des réponses
+  - Verbatim : "Tu réorientais la machine, tu lui disais en fait c'est ça ou alors prends à partir de là."
+- Code 4 : Exploration de différents angles
+  - Verbatim : "Faudrait réessayer d'avoir le même genre de discussion avec lui, mais avec un apport et un angle d'attaque différent."
+- Code 5 : Adaptation
+  - Verbatim : "Tu réorientais la machine."
+- Code 6 : Investigation plus approfondie
+  - Verbatim : "Est-ce que t'as un petit peu d'autres manières de checker en fait ce qu'il te dit."
+- Code 7 : Utilisation des capacités de ChatGPT
+  - Verbatim : "J'ai supposé qu'en lui fournissant l'information, il pourrait l'interpréter mieux."
+- Code 8 : Contre-vérification des sources
+  - Verbatim : "Tu vas faire du fact-checking."
+- Code 9 : Interaction dynamique
+  - Verbatim : "Tu réorientais la machine, tu lui disais en fait c'est ça."
+- Code 10 : Personnalisation de l'interaction
+  - Verbatim : "Tu aurais pu lui dire, genre « Tu es un chercheur de l'histoire de la bio-indication »."
+
+### Thème 4 : Limites et Biais de ChatGPT
+- Code 1 : Limitations dans la compréhension
+  - Verbatim : "Dans ses phrases, on lisait des choses qui n'avaient pas de sens."
+- Code 2 : Risques d'interprétation erronée
+  - Verbatim : "Il va te dire n'importe quoi, mais pas parce qu'il a envie de te dire n'importe quoi, mais parce qu'il sait pas."
+- Code 3 : Nécessité de corriger ChatGPT
+  - Verbatim : "Le fait de lui redonner les sources, c'est voilà, mets tes pendules à l'heure."
+- Code 4 : Biais dans les réponses
+  - Verbatim : "Il mélangeait les sources."
+- Code 5 : Compréhension limitée du contexte
+  - Verbatim : "C'est comme un humain qui aurait mal compris un sujet."
+- Code 6 : Importance de la formulation du prompt
+  - Verbatim : "Faudrait réessayer d'avoir le même genre de discussion avec lui, mais avec un apport et un angle d'attaque différent."
+- Code 7 : Capacité d'amélioration
+  - Verbatim : "J'ai supposé qu'en lui fournissant l'information, il pourrait l'interpréter mieux."
+- Code 8 : Nécessité d'une vérification
+  - Verbatim : "Tu vas faire du fact-checking."
+- Code 9 : Limite dans la fiabilité
+  - Verbatim : "On lisait des choses qui n'avaient pas de sens."
+- Code 10 : Adaptation nécessaire
+  - Verbatim : "Tu réorientais la machine, tu lui disais en fait c'est ça ou alors prends à partir de là."
+
+### Thème 5 : Utilisation et Perception de ChatGPT
+- Code 1 : Utilité de ChatGPT
+  - Verbatim : "J'ai supposé qu'en lui fournissant l'information, il pourrait l'interpréter mieux."
+- Code 2 : Perception de ChatGPT comme un outil
+  - Verbatim : "C'est comme un humain qui aurait mal compris un sujet."
+- Code 3 : Interaction avec ChatGPT
+  - Verbatim : "Je lui disais en fait c'est ça ou alors prends à partir de là."
+- Code 4 : Limitations reconnues
+  - Verbatim : "Il va te dire n'importe quoi."
+- Code 5 : Apprentissage nécessaire
+  - Verbatim : "Et ça je sais parce qu'on m'a appris par des vidéos ou des forums de recherche que ChatGPR fonctionne comme ça."
+- Code 6 : Flexibilité dans l'utilisation
+  - Verbatim : "Faudrait réessayer d'avoir le même genre de discussion avec lui, mais avec un apport et un angle d'attaque différent."
+- Code 7 : Potentiel de ChatGPT
+  - Verbatim : "J'ai supposé qu'en lui fournissant l'information, il pourrait l'interpréter mieux."
+- Code 8 : Nécessité de guidance
+  - Verbatim : "Le fait de lui redonner les sources."
+- Code 9 : Vérification des résultats
+  - Verbatim : "Tu vas faire du fact-checking."
+- Code 10 : Intégration dans le processus de recherche
+  - Verbatim : "C'est tout de mes propres connaissances, les cours, des fois j'ai un polycopier de cours."
+
+Cette analyse permet d'explorer les différents aspects de l'utilisation de ChatGPT par James, notamment la manière dont il interagit avec l'outil, les stratégies qu'il emploie pour obtenir des réponses satisfaisantes, les limites qu'il rencontre, et la façon dont il perçoit et utilise ChatGPT dans son processus de recherche.

@@ -1,0 +1,113 @@
+Après une analyse minutieuse de l'entretien, j'ai identifié plusieurs thèmes pertinents en appliquant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+### Thème 1 : Stratégies d'organisation et d'efficacité
+ - Code 1 : Planification
+ - Verbatim : "il me dit de faire un plan"
+ - Code 2 : Priorisation
+ - Verbatim : "commencer par telle tâche parce qu’elle va me prendre plus de temps"
+ - Code 3 : Découpage en étapes
+ - Verbatim : "découper mon travail en plusieurs étapes"
+ - Code 4 : Gestion du temps
+ - Verbatim : "je me retrouve à tout faire à l’arrache à la dernière minute"
+ - Code 5 : Organisation
+ - Verbatim : "comment je peux m’organiser pour être plus efficace ?"
+ - Code 6 : Productivité
+ - Verbatim : "ça m’aide, parce que sinon, j’ai tendance à procrastiner"
+ - Code 7 : Préparation
+ - Verbatim : "faire un plan"
+ - Code 8 : Méthodologie
+ - Verbatim : "il me donne des pistes"
+ - Code 9 : Anticipation
+ - Verbatim : "parce qu’elle va me prendre plus de temps"
+ - Code 10 : Structuration
+ - Verbatim : "découper mon travail en plusieurs étapes"
+
+### Thème 2 : Utilisation de ChatGPT pour la productivité académique
+ - Code 1 : Résumé de contenu
+ - Verbatim : "je vais lui demander de me faire un résumé des points importants"
+ - Code 2 : Facilitation de l'apprentissage
+ - Verbatim : "ça me permet de capter l’essentiel plus rapidement"
+ - Code 3 : Aide à la compréhension
+ - Verbatim : "t’as juste besoin d’un truc clair pour te mettre dans le bain"
+ - Code 4 : Gain de temps
+ - Verbatim : "de voir ce que j’ai vraiment besoin de bosser en profondeur"
+ - Code 5 : Efficacité académique
+ - Verbatim : "une fois que t’es lancé, c’est plus simple de bosser"
+ - Code 6 : Assistance
+ - Verbatim : "je vais lui demander de me faire un résumé"
+ - Code 7 : Adaptation
+ - Verbatim : "ChatGPT a changé ma façon de bosser"
+ - Code 8 : Utilité
+ - Verbatim : "ça m’aide"
+ - Code 9 : Simplification
+ - Verbatim : "un truc clair pour te mettre dans le bain"
+ - Code 10 : Support à l'apprentissage
+ - Verbatim : "ça me permet de capter l’essentiel"
+
+### Thème 3 : Dépendance et autonomie dans l'utilisation de ChatGPT
+ - Code 1 : Risque de dépendance
+ - Verbatim : "y’a aussi le risque que je devienne trop dépendant"
+ - Code 2 : Manque d'initiative
+ - Verbatim : "au lieu de chercher moi-même une info, je vais direct lui poser la question"
+ - Code 3 : Perte d'autonomie
+ - Verbatim : "si je me repose trop dessus, bah j’entraîne pas mon cerveau à faire le taf par lui-même"
+ - Code 4 : Réflexion critique
+ - Verbatim : "je me dis : 'Mec, t’aurais pu faire l’effort de chercher un peu avant d’aller sur ChatGPT'"
+ - Code 5 : Équilibre
+ - Verbatim : "faut trouver un équilibre, entre se faciliter la vie et pas perdre l’habitude de réfléchir par soi-même"
+ - Code 6 : Conscience de la dépendance
+ - Verbatim : "je vais pas te mentir, y’a aussi le risque que je devienne trop dépendant"
+ - Code 7 : Importance de l'effort personnel
+ - Verbatim : "t’aurais pu faire l’effort de chercher un peu"
+ - Code 8 : Développement de l'autonomie
+ - Verbatim : "pas perdre l’habitude de réfléchir par soi-même"
+ - Code 9 : Utilisation responsable
+ - Verbatim : "trouver un équilibre"
+ - Code 10 : Auto-évaluation
+ - Verbatim : "je me dis : 'Mec, t’aurais pu faire l’effort'"
+
+### Thème 4 : Impact de ChatGPT sur les habitudes de travail
+ - Code 1 : Changement de comportement
+ - Verbatim : "ChatGPT a changé ma façon de bosser"
+ - Code 2 : Nouveaux réflexes
+ - Verbatim : "maintenant j’ai un réflexe de plus"
+ - Code 3 : Adoption de nouvelles stratégies
+ - Verbatim : "j’ai un réflexe de plus"
+ - Code 4 : Évolution des méthodes de travail
+ - Verbatim : "ça m’aide, parce que sinon, j’ai tendance à procrastiner"
+ - Code 5 : Intégration dans la routine
+ - Verbatim : "je vais lui demander de me faire un résumé"
+ - Code 6 : Modification des habitudes
+ - Verbatim : "j’ai tendance à procrastiner de ouf"
+ - Code 7 : Nouvelles approches
+ - Verbatim : "il me donne des pistes"
+ - Code 8 : Changement dans la productivité
+ - Verbatim : "ça me permet de capter l’essentiel plus rapidement"
+ - Code 9 : Impact sur les méthodes d'apprentissage
+ - Verbatim : "une fois que t’es lancé, c’est plus simple de bosser"
+ - Code 10 : Adaptation aux outils numériques
+ - Verbatim : "ChatGPT a changé ma façon de bosser"
+
+### Thème 5 : Perception et expérience de l'utilisation de ChatGPT
+ - Code 1 : Perception positive
+ - Verbatim : "franchement, ça m’aide"
+ - Code 2 : Satisfaction
+ - Verbatim : "ça me permet de capter l’essentiel plus rapidement"
+ - Code 3 : Utilité perçue
+ - Verbatim : "ça me permet de voir ce que j’ai vraiment besoin de bosser en profondeur"
+ - Code 4 : Expérience utilisateur
+ - Verbatim : "je vais lui demander de me faire un résumé des points importants"
+ - Code 5 : Bénéfices perçus
+ - Verbatim : "une fois que t’es lancé, c’est plus simple de bosser"
+ - Code 6 : Confiance
+ - Verbatim : "il me donne des pistes"
+ - Code 7 : Réflexion sur l'usage
+ - Verbatim : "je me dis : 'Mec, t’aurais pu faire l’effort de chercher un peu avant d’aller sur ChatGPT'"
+ - Code 8 : Conscience des limites
+ - Verbatim : "y’a aussi le risque que je devienne trop dépendant"
+ - Code 9 : Évaluation de l'impact
+ - Verbatim : "ChatGPT a changé ma façon de bosser"
+ - Code 10 : Attitude envers la technologie
+ - Verbatim : "faut trouver un équilibre, entre se faciliter la vie et pas perdre l’habitude de réfléchir par soi-même"
+
+Ces thèmes offrent une compréhension nuancée de la façon dont l'enquêté utilise ChatGPT, des bénéfices qu'il en tire, ainsi que des défis et des réflexions qu'il rencontre dans son utilisation.

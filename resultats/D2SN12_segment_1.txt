@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif.
+
+**Thème 1 : Perception de l'intelligence artificielle**
+
+- Code 1 : Définition de l'intelligence artificielle
+  - Verbatim : "je dirais que c'est une entité numérique... qui s'appuie sur des bases de données pour répondre aux questions qu'on lui pose"
+- Code 2 : Inquiétude face à l'intelligence artificielle
+  - Verbatim : "ça peut constituer un danger"
+- Code 3 : Impact sur les capacités cognitives
+  - Verbatim : "on va moins faire marcher notre cerveau"
+- Code 4 : Utilité dans la vie quotidienne
+  - Verbatim : "ça peut être utile dans la vie de tous les jours"
+- Code 5 : Risque de surconsommation
+  - Verbatim : "on peut rentrer dans une sorte de surconsommation chat GPT qui peut être un peu inquiétante"
+- Code 6 : Développement autonome de l'intelligence artificielle
+  - Verbatim : "l'intelligence artificielle maintenant, elle se développe toute seule"
+- Code 7 : Sentiment de perte de contrôle
+  - Verbatim : "je trouve ça un peu inquiétant quoi"
+- Code 8 : Perception de la puissance de l'intelligence artificielle
+  - Verbatim : "qui a réponse à tout et qui est plus fort que nos limites"
+- Code 9 : Limites de l'intelligence artificielle
+  - Verbatim : "je sais que c'est un outil qui n'est pas fiable à 100 %"
+- Code 10 : Fiabilité des sources
+  - Verbatim : "il va me donner des sources qui sont fausses"
+
+**Thème 2 : Expérience personnelle avec ChatGPT**
+
+- Code 1 : Découverte de ChatGPT
+  - Verbatim : "je l'ai découvert l'année dernière, j'étais en Erasmus en Hongrie"
+- Code 2 : Premières utilisations
+  - Verbatim : "j'avais testé, posé des questions un petit peu ou alors essayer même sur un texte de voir un peu ce qu'il pouvait nous dire"
+- Code 3 : Fréquence d'utilisation
+  - Verbatim : "oui, en vrai, je l'utilise pas mal"
+- Code 4 : Utilisation pour des tâches quotidiennes
+  - Verbatim : "je vais demander à chat GPT parce que je sais qu'il va me donner une réponse directe"
+- Code 5 : Utilisation pour des recherches
+  - Verbatim : "quand je cherche quelque chose sur le web, je sais que je vais le trouver plus facilement sur chat GPT"
+- Code 6 : Gain de temps
+  - Verbatim : "ça réduit un peu le temps de recherche"
+- Code 7 : Utilisation pour des conseils
+  - Verbatim : "je vais lui demander de me conseiller des restaurants ou des bars"
+- Code 8 : Synthèse d'informations
+  - Verbatim : "il va me faire une synthèse de tous les meilleurs avis Google"
+- Code 9 : Utilisation dans les études
+  - Verbatim : "j'essaie de réduire en vrai mon utilisation de GPT"
+- Code 10 : Utilisation pour des tâches spécifiques
+  - Verbatim : "je peux lui demander de me tirer les informations les plus importantes de ce PDF"
+
+**Thème 3 : Impact de ChatGPT sur les études et la recherche d'information**
+
+- Code 1 : Utilisation pour les devoirs
+  - Verbatim : "les élèves à l'école, ils vont plus faire leur exercice de math, ils vont demander à CHGPT de le faire"
+- Code 2 : Gain de temps dans les études
+  - Verbatim : "ça peut nous faire gagner du temps"
+- Code 3 : Utilisation pour la recherche d'articles de loi
+  - Verbatim : "si je cherche un article de loi précis, je vais lui demander"
+- Code 4 : Limites dans la recherche d'information
+  - Verbatim : "il n'est pas fiable à 100 %"
+- Code 5 : Problèmes avec les sources
+  - Verbatim : "il va me donner des sources qui sont fausses"
+- Code 6 : Nécessité de vérification
+  - Verbatim : "je fais aussi mes propres recherches de mon côté"
+- Code 7 : Utilisation pour la synthèse de documents
+  - Verbatim : "je peux lui demander de me tirer les informations les plus importantes de ce PDF"
+- Code 8 : Aide à la recherche
+  - Verbatim : "ça va être plus clair"
+- Code 9 : Risque de dépendance
+  - Verbatim : "on va direct aller demander des informations à GPT"
+- Code 10 : Équilibre entre utilisation de ChatGPT et efforts personnels
+  - Verbatim : "j'essaie de réduire en vrai mon utilisation de GPT, de pas tant l'utiliser"
+
+**Thème 4 : Évolution et perception de la technologie**
+
+- Code 1 : Développement de l'intelligence artificielle
+  - Verbatim : "l'intelligence artificielle maintenant, elle se développe toute seule"
+- Code 2 : Perception de la technologie
+  - Verbatim : "c'est une entité numérique"
+- Code 3 : Changement dans les habitudes
+  - Verbatim : "on va moins faire marcher notre cerveau"
+- Code 4 : Impact sur la société
+  - Verbatim : "ça peut constituer un danger"
+- Code 5 : Inquiétudes éthiques
+  - Verbatim : "je trouve ça un peu inquiétant quoi"
+- Code 6 : Évolution de l'utilisation de la technologie
+  - Verbatim : "ça commençait un peu à se développer"
+- Code 7 : Curiosité envers la technologie
+  - Verbatim : "j'avais testé, posé des questions un petit peu"
+- Code 8 : Adoption de la technologie
+  - Verbatim : "je l'utilise pas mal"
+- Code 9 : Perception des bénéfices
+  - Verbatim : "ça peut être utile dans la vie de tous les jours"
+- Code 10 : Réflexion sur l'avenir
+  - Verbatim : "quand on voit que l'intelligence artificielle maintenant, elle se développe toute seule"
+
+**Thème 5 : Contextualisation de l'utilisation de ChatGPT**
+
+- Code 1 : Contexte d'utilisation
+  - Verbatim : "quand je suis dans une nouvelle ville, je vais lui demander de me conseiller des restaurants"
+- Code 2 : Situation d'utilisation
+  - Verbatim : "si j'ai un doute sur la date de péremption d'un aliment, je peux demander à CH GPT"
+- Code 3 : Bénéfices dans des situations spécifiques
+  - Verbatim : "je sais qu'il va me donner une réponse directe"
+- Code 4 : Type de questions posées
+  - Verbatim : "je vais lui demander de me conseiller des bars ou sortir comme ça"
+- Code 5 : Attentes envers ChatGPT
+  - Verbatim : "je sais que je vais le trouver plus facilement sur chat GPT"
+- Code 6 : Évaluation de la performance de ChatGPT
+  - Verbatim : "il va me faire une synthèse de tous les meilleurs avis Google"
+- Code 7 : Facilité d'utilisation
+  - Verbatim : "ça réduit un peu le temps de recherche"
+- Code 8 : Intégration dans la vie quotidienne
+  - Verbatim : "oui, en vrai, je l'utilise pas mal"
+- Code 9 : Contexte universitaire
+  - Verbatim : "j'étais en Erasmus en Hongrie"
+- Code 10 : Influence du contexte sur l'utilisation
+  - Verbatim : "j'essaie de réduire en vrai mon utilisation de GPT, de pas tant l'utiliser"

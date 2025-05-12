@@ -1,0 +1,118 @@
+L'analyse de l'entretien avec Oriane sera structurée en cinq thèmes distincts, chacun contenant environ 10 codes avec leurs verbatims associés.
+
+### Thème 1 : Vérification et Validation de l'Information
+
+- Code 1 : Vérification des références
+  - Verbatim : "je vais la vérifier, parce que, justement, euh… parce que, enfin, je me dis : est-ce qu’il l’a dit parce que c’est vraiment pertinent ?"
+- Code 2 : Évaluation de la pertinence
+  - Verbatim : "est-ce que c’est abouti d’une vraie recherche ? Ou c’est juste le truc le plus logique qui est lié à ce que je demande."
+- Code 3 : Différenciation des sources
+  - Verbatim : "on peut clairement voir si, par exemple, c’est une référence donnée par ChatGPT ou pas."
+- Code 4 : Processus de vérification
+  - Verbatim : "je vais chercher, parce que je me dis que là, on peut clairement voir si c’est une vraie référence."
+- Code 5 : Importance de la vérification
+  - Verbatim : "c’est plus pour ça que je vais vérifier la référence."
+- Code 6 : Analyse critique
+  - Verbatim : "on doit vraiment avoir une analyse critique de tous les articles."
+- Code 7 : Limites personnelles
+  - Verbatim : "je pense pas avoir les connaissances, et je pense aussi à un problème de légitimité là-dedans, pour critiquer l’article."
+- Code 8 : Utilisation de ChatGPT pour la critique
+  - Verbatim : "je vais lui demander, par exemple, s’il trouve des critiques, parce que moi, de moi-même, je sais pas en formuler."
+- Code 9 : Élaboration de la critique
+  - Verbatim : "je vais trouver un peu des critiques, et après, c’est… je vais les prendre un peu comme telles."
+- Code 10 : Recherche de justification
+  - Verbatim : "je vais chercher pourquoi il y a ça, donc je vais chercher dans l’article."
+
+### Thème 2 : Rédaction et Révision
+
+- Code 1 : Révision des formulations
+  - Verbatim : "je vais repasser au peigne fin, surtout parce que je sais quelles formulations de phrases, moi j’utilise."
+- Code 2 : Identification des styles
+  - Verbatim : "je sais quelles formulations j’aurais pas utilisé, des mots, des styles de phrase."
+- Code 3 : Réappropriation du texte
+  - Verbatim : "autant que je le rédige moi-même, c’est que j’aime vraiment pas rédiger, mais peut-être juste quand son texte, en fait, je reprends."
+- Code 4 : Réorganisation du contenu
+  - Verbatim : "je remets les mots chacun à sa place, comme je l’aurais mis."
+- Code 5 : Processus de réécriture
+  - Verbatim : "c’est un peu comme ça que je repasse."
+- Code 6 : Valeur accordée à la rédaction personnelle
+  - Verbatim : "j’aime vraiment pas rédiger."
+- Code 7 : Nécessité de la révision
+  - Verbatim : "c’est pour ça que c’est assez long."
+- Code 8 : Fidélité au style personnel
+  - Verbatim : "je sais quelles formulations de phrases moi j’utilise."
+- Code 9 : Adaptation du contenu généré
+  - Verbatim : "je reprends, et je remets les mots chacun à sa place."
+- Code 10 : Satisfaction dans la réécriture
+  - Verbatim : "peut-être juste quand son texte, en fait, je reprends."
+
+### Thème 3 : Interaction avec ChatGPT
+
+- Code 1 : Formulation des demandes
+  - Verbatim : "j’essaie de donner le maximum de précision, mais assez succinct."
+- Code 2 : Directivité dans les demandes
+  - Verbatim : "souvent, c’est des demandes très directes."
+- Code 3 : Exemples de demandes
+  - Verbatim : "Trouve-moi ça », ou « Fais ça », ou « Corrige », « Résume »."
+- Code 4 : Importance de la précision
+  - Verbatim : "il faut que ça soit ça, ça, qui est ça."
+- Code 5 : Structuration des informations
+  - Verbatim : "je lui donne toutes les informations, virgule par virgule."
+- Code 6 : Objectif de clarté
+  - Verbatim : "pour pas qu’il interprète mal une information."
+- Code 7 : Évaluation de l'interaction
+  - Verbatim : "je pense que c’est assez succinct."
+- Code 8 : Utilisation des impératifs
+  - Verbatim : "donc, un impératif."
+- Code 9 : Fourniture de détails
+  - Verbatim : "il faut que ça soit ça."
+- Code 10 : Satisfaction de l'interaction
+  - Verbatim : "c’est quelque chose d’assez succinct et assez direct."
+
+### Thème 4 : Évaluation de ChatGPT
+
+- Code 1 : Évaluation positive
+  - Verbatim : "elle est relativement bonne."
+- Code 2 : Utilité de l'outil
+  - Verbatim : "je trouve que c’est vraiment une aide."
+- Code 3 : Connaissance des besoins
+  - Verbatim : "je sais ce que je veux, et je sais ce qui m’apporte."
+- Code 4 : Note attribuée
+  - Verbatim : "j’aurais mis une note de 16, je pense."
+- Code 5 : Justification de la note
+  - Verbatim : "vraiment une aide quoi."
+- Code 6 : Utilité dans le cadre de travail
+  - Verbatim : "dans le cadre de ce que moi j’utilise."
+- Code 7 : Satisfaction générale
+  - Verbatim : "ouais, juste, vu que c’est pas des trucs très précis."
+- Code 8 : Appréciation de l'aide apportée
+  - Verbatim : "c’est vraiment une aide."
+- Code 9 : Évaluation de la performance
+  - Verbatim : "elle est relativement bonne, parce que, enfin, je veux dire."
+- Code 10 : Adéquation aux besoins
+  - Verbatim : "je sais ce qui m’apporte."
+
+### Thème 5 : Impact sur la Méthode de Travail
+
+- Code 1 : Influence sur l'approche
+  - Verbatim : "as-tu constaté que certaines d’entre elles t’incitaient à revoir ton approche sur un sujet ?"
+- Code 2 : Adaptation de la méthode
+  - Verbatim : "ou à adapter ta méthode de travail ?"
+- Code 3 : Utilisation des réponses de ChatGPT
+  - Verbatim : "je vais les prendre un peu comme telles."
+- Code 4 : Recherche de pistes
+  - Verbatim : "ça fait un peu une piste, un point de départ."
+- Code 5 : Élaboration de la critique personnelle
+  - Verbatim : "je vais chercher dans l’article."
+- Code 6 : Difficultés personnelles
+  - Verbatim : "critiquer un article, c’est souvent assez compliqué, je trouve."
+- Code 7 : Utilité de ChatGPT dans la critique
+  - Verbatim : "je vais lui demander, par exemple, s’il trouve des critiques."
+- Code 8 : Point de départ pour la réflexion
+  - Verbatim : "c’est un peu avoir un point de départ."
+- Code 9 : Développement personnel
+  - Verbatim : "je vais essayer de remonter."
+- Code 10 : Intégration dans le processus de travail
+  - Verbatim : "je vais chercher pourquoi il y a ça."
+
+Ces thèmes et codes offrent une analyse structurée et riche de l'entretien avec Oriane, couvrant divers aspects de son interaction avec ChatGPT, de la vérification de l'information à l'impact sur sa méthode de travail.

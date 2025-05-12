@@ -1,0 +1,64 @@
+Analysons l'entretien en respectant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Perception de la dépendance à l'outil**
+
+- Thème : Perception de la légitimité dans l'utilisation de ChatGPT
+ - Code 1 : Perception de la dépendance
+ - Verbatim : "par rapport à eux tu te sens moins dépendante on va dire ou en tout cas tu t'appropries moins son travail ?"
+ - Code 2 : Justification de la non-dépendance
+ - Verbatim : "c'est surtout parce qu'ils s'y sont pris au dernier moment et du coup ils ont plus le temps de lire un article qui fait 80 pages quoi."
+ - Code 3 : Évaluation de la capacité à réaliser une tâche
+ - Verbatim : "s'ils avaient lu l'article, ils auraient fait le résumé eux-mêmes, bon enfin ils savent le faire."
+ - ...
+ - Code 10 : Sentiment de légitimité dans l'utilisation
+ - Verbatim : "je pense que oui parce que ça reste quand même un outil où bah c'est comme un genre de moteur de recherche un peu avancé."
+
+- Thème : Facteurs influençant l'utilisation de ChatGPT
+ - Code 1 : Gestion du temps
+ - Verbatim : "s'ils s'y prenaient à l'avance, ils sauraient faire le résumé eux-mêmes."
+ - Code 2 : Niveau de préparation
+ - Verbatim : "c'est vraiment parce qu'ils s’y prennent au dernier moment."
+ - Code 3 : Perception de l'outil comme une aide
+ - Verbatim : "je pense que ça reste quand même un outil légitime qui m'aide"
+ - ...
+ - Code 10 : Perception de la capacité de l'outil
+ - Verbatim : "en 5 minutes, il me sort ma réponse."
+
+**Segment 2 : Légitimité et encadrement de l'utilisation de ChatGPT**
+
+- Thème : Encadrement de l'utilisation de ChatGPT par les enseignants
+ - Code 1 : Perception de l'attitude des enseignants
+ - Verbatim : "les profs nous ils nous encouragent pas à le faire mais ils savent qu'on le fait et ça les dérange pas plus que ça."
+ - Code 2 : Conseils pour une utilisation raisonnée
+ - Verbatim : "ils nous disent en tant que moteur de recherche, bah vérifier ses sources."
+ - Code 3 : Importance de la vérification
+ - Verbatim : "vérifiez bien qu'il fait pas des phrases jolies mais qui veulent rien dire."
+ - ...
+ - Code 10 : Développement de l'esprit critique
+ - Verbatim : "gardez toujours du recul sur ce qu'il va vous dire parce que c'est pas toujours pertinent."
+
+- Thème : Évolution de la perception et de l'utilisation de ChatGPT
+ - Code 1 : Prise de conscience de l'impact des IA
+ - Verbatim : "ils sont tout à fait conscients que ça va vraiment changer la manière dont les gens travaillent"
+ - Code 2 : Adaptation aux nouvelles technologies
+ - Verbatim : "dans 5 ou 10 ans, bah ça sera plus du tout les mêmes méthodes de travail"
+ - Code 3 : Encouragement à utiliser l'outil à bon escient
+ - Verbatim : "ils nous encouragent à l'utiliser mais d'une manière qui est euh utile et raisonnée."
+ - ...
+ - Code 10 : Développement de la pensée critique face aux outils numériques
+ - Verbatim : "vos critiques à vous bah elles sont meilleures que les critiques de ChatGPT parce que vous, vous avez un bagage universitaire"
+
+**Segment 3 : Positionnement face aux enjeux éthiques**
+
+- Thème : Prise en compte des enjeux éthiques liés à l'utilisation de ChatGPT
+ - Code 1 : Sensibilisation aux enjeux éthiques
+ - Verbatim : "comment toi tu te positionnes ou tu te positionnerais en fait face aux enjeux éthiques liés à son utilisation?"
+ - Code 2 : Réflexion sur l'éthique
+ - Verbatim : "éthique c’est dans quel sens ?"
+ - Code 3 : Nécessité de questionner l'éthique
+ - Verbatim : "il faut garder un avis critique sur ce qu'il va vous dire"
+ - ...
+ - Code 10 : Nécessité d'une utilisation responsable
+ - Verbatim : "c'est justement ce qu'on attend alors que ChatGPT non."
+
+Ces thèmes et codes montrent une analyse détaillée de l'entretien, mettant en évidence les perceptions, les attitudes et les réflexions de Léa concernant l'utilisation de ChatGPT dans le cadre de ses travaux universitaires, ainsi que les enjeux éthiques associés.

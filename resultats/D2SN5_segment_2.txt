@@ -1,0 +1,111 @@
+Après avoir analysé l'entretien, j'ai identifié plusieurs thèmes distincts avec leurs codes et verbatims associés. Voici les résultats de l'analyse :
+
+**Thème 1 : Rapport à la technologie**
+
+* Code 1 : Utilisation fréquente de la technologie
+ Verbatim : "Mon rapport à la technologie est assez fréquent, car on utilise tous nos téléphones portables et nos ordinateurs à longueur de journée"
+* Code 2 : Équilibre entre technologie et authenticité
+ Verbatim : "J'essaie quand même de garder une certaine distance, de savoir savourer un livre, écrire manuellement, et ça me donne une certaine proximité avec tout ce qui est authentique"
+* Code 3 : Utilisation de la technologie pour les loisirs
+ Verbatim : "J'aime bien, par exemple, quand je suis en vacances, envoyer des cartes postales, même si ça se fait de moins en moins"
+* Code 4 : Technologie et aspects poétiques
+ Verbatim : "Je trouve ça assez poétique"
+* Code 5 : Utilisation de la technologie dans la vie quotidienne
+ Verbatim : "Je pense qu'on a toujours un appareil technologique avec nous"
+* Code 6 : Utilisation de la technologie pour rester informé
+ Verbatim : "Je dois rester à l'affût des fluctuations, enfin, des différents changements sur les marchés financiers, des actualités"
+* Code 7 : Rôle des réseaux sociaux dans la vie quotidienne
+ Verbatim : "On utilise énormément les réseaux sociaux, car un journal ne suffit plus"
+* Code 8 : Équilibre entre technologie et humanité
+ Verbatim : "J'essaie de garder une certaine distance"
+* Code 9 : Utilisation de la technologie pour les tâches administratives
+ Verbatim : "Différents logiciels de comptabilité"
+* Code 10 : Impact de la technologie sur les habitudes
+
+**Thème 2 : Utilisation de ChatGPT dans les études**
+
+* Code 1 : Résumé de contenus
+ Verbatim : "Je l'utilise surtout lorsque j'ai besoin d'un résumé"
+* Code 2 : Consultation rapide de documents
+ Verbatim : "Pour consulter rapidement des PDF volumineux qui peuvent parfois être ennuyeux à lire"
+* Code 3 : Analyse SWOT
+ Verbatim : "Je l'ai utilisé pour m'aider à faire une analyse SWOT"
+* Code 4 : Optimisation de pitchs et de présentations
+ Verbatim : "J'ai demandé à ChatGPT de reformuler mes arguments et mes phrases afin qu'elles soient plus percutantes"
+* Code 5 : Utilisation de ChatGPT pour les tâches rédactionnelles
+ Verbatim : "La qualité rédactionnelle est plutôt bonne"
+* Code 6 : Limites de ChatGPT
+ Verbatim : "Il a tendance à répéter certaines informations dans plusieurs catégories"
+* Code 7 : Utilisation de ChatGPT pour les analyses
+ Verbatim : "Lorsqu'il s'agit d'analyse, comme une étude de marché ou un bilan d'entreprise, il répond correctement"
+* Code 8 : Vérification des résultats
+ Verbatim : "Les valeurs doivent être vérifiées, car parfois il se trompe"
+* Code 9 : Satisfaction générale
+ Verbatim : "En général, pour des contenus textuels, il est assez efficace"
+* Code 10 : Complémentarité avec le travail personnel
+
+**Thème 3 : Impact de ChatGPT sur le travail et l'organisation**
+
+* Code 1 : Accélération du travail
+ Verbatim : "Il a juste accéléré et même amélioré mon travail"
+* Code 2 : Amélioration de la qualité du travail
+ Verbatim : "La qualité de mon travail a été améliorée"
+* Code 3 : Complémentarité avec le travail personnel
+ Verbatim : "Je fais d'abord mon travail et lui se contente de l'améliorer"
+* Code 4 : Pas de modification de l'organisation du travail
+ Verbatim : "Mon organisation de travail n'a pas été impactée ni vraiment modifiée"
+* Code 5 : Réduction des tâches répétitives
+ Verbatim : "Je m'occupe plus des tâches techniques et moins des tâches répétitives"
+* Code 6 : Utilisation de ChatGPT comme outil d'appoint
+ Verbatim : "Je fais partie des gens qui l'utilisent en complément"
+* Code 7 : Pas de dépendance à ChatGPT
+ Verbatim : "Ça reste mon travail"
+* Code 8 : Amélioration de l'efficacité
+ Verbatim : "Je passe la même quantité de temps sur mon travail, juste que maintenant"
+* Code 9 : Utilisation de ChatGPT pour les tâches spécifiques
+ Verbatim : "Pour des contenus textuels, il est assez efficace"
+* Code 10 : Satisfaction générale concernant l'utilisation de ChatGPT
+
+**Thème 4 : Limites et difficultés rencontrées avec ChatGPT**
+
+* Code 1 : Répétition d'informations
+ Verbatim : "Il a tendance à répéter certaines informations dans plusieurs catégories"
+* Code 2 : Manque de précision
+ Verbatim : "Il peut aussi manquer de précision, donnant des réponses trop générales"
+* Code 3 : Nécessité de vérification
+ Verbatim : "Les valeurs doivent être vérifiées, car parfois il se trompe"
+* Code 4 : Limites dans les analyses complexes
+ Verbatim : "Lorsqu'il s'agit d'analyse, comme une étude de marché ou un bilan d'entreprise, il répond correctement, mais..."
+* Code 5 : Difficultés à comprendre le contexte
+ Verbatim : "Il peut aussi manquer de précision"
+* Code 6 : Frustrations potentielles
+ Verbatim : "Je n'ai pas mentionné de frustrations spécifiques, mais..."
+* Code 7 : Nécessité de retravailler les résultats
+ Verbatim : "Les réponses nécessitent d’être retravaillées avec des données plus concrètes"
+* Code 8 : Limites dans la compréhension des nuances
+ Verbatim : "Il peut aussi manquer de précision"
+* Code 9 : Importance de la vérification
+ Verbatim : "Les valeurs doivent être vérifiées"
+* Code 10 : Évaluation globale des limites
+
+**Thème 5 : Perception et évaluation de ChatGPT**
+
+* Code 1 : Satisfaction générale
+ Verbatim : "En général, pour des contenus textuels, il est assez efficace"
+* Code 2 : Utilité pour les tâches rédactionnelles
+ Verbatim : "La qualité rédactionnelle est plutôt bonne"
+* Code 3 : Aide à l'amélioration du travail
+ Verbatim : "Il a juste accéléré et même amélioré mon travail"
+* Code 4 : Complémentarité avec le travail personnel
+ Verbatim : "Je fais d'abord mon travail et lui se contente de l'améliorer"
+* Code 5 : Évaluation positive de l'outil
+ Verbatim : "Je suis satisfait des résultats que j'obtiens avec ChatGPT"
+* Code 6 : Reconnaissance des limites
+ Verbatim : "Il a tendance à répéter certaines informations"
+* Code 7 : Importance de la vérification
+ Verbatim : "Les valeurs doivent être vérifiées"
+* Code 8 : Utilisation de ChatGPT comme outil d'appoint
+ Verbatim : "Je fais partie des gens qui l'utilisent en complément"
+* Code 9 : Amélioration de l'efficacité
+ Verbatim : "Je passe la même quantité de temps sur mon travail, juste que maintenant"
+* Code 10 : Perception globale de ChatGPT comme un outil utile

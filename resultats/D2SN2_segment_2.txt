@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif. J'ai identifié 5 thèmes distincts avec environ 10 codes chacun, accompagnés de leur verbatim associé.
+
+**Thème 1 : Utilisation de Chat GPT**
+
+* Code 1 : Utilisation en cours de programmation
+ Verbatim : "j'ai utilisé plutôt en cours de python quand je ne comprends pas."
+* Code 2 : Utilisation pour les questions sur R
+ Verbatim : "pour poser des questions sur R, il est super fort."
+* Code 3 : Utilisation pour la traduction
+ Verbatim : "je lui avais demandé de traduire, j'écrivais en français, il devait traduire en anglais"
+* Code 4 : Utilisation pour la correction orthographique
+ Verbatim : "je lui demande de corriger les fautes d'orthographe."
+* Code 5 : Utilisation pour la fluidification de texte
+ Verbatim : "je lui demande de fluidifier mes textes."
+* Code 6 : Limites de l'utilisation de Chat GPT
+ Verbatim : "je sais qu’en recherche, il est mauvais."
+* Code 7 : Contexte d'utilisation
+ Verbatim : "dans ma double licence, on n’avait pas le droit aux ordinateurs."
+* Code 8 : Découverte de Chat GPT
+ Verbatim : "c'est là la première fois où j'ai vu que tout le monde l'utilisait"
+* Code 9 : Évaluation de la performance de Chat GPT
+ Verbatim : "tous ceux qui avaient utilisé Chat GPT avaient une note de 7 sur 7"
+* Code 10 : Manière d'interagir avec Chat GPT
+ Verbatim : "je lui parle hyper poliment déjà, donc je lui dis coucou, je lui dis s'il te plaît"
+
+**Thème 2 : Perception de la technologie**
+
+* Code 1 : Relation à la technologie
+ Verbatim : "je suis pas hyper douée de manière générale, mais ça va."
+* Code 2 : Familiarité avec les logiciels
+ Verbatim : "je ne suis pas hyper familière de tous les logiciels."
+* Code 3 : Capacité à se débrouiller
+ Verbatim : "après je peux quand même me débrouiller."
+* Code 4 : Perception de l'utilité de Chat GPT
+ Verbatim : "c'est débile parce qu’on apprend rien."
+* Code 5 : Préoccupations concernant la collecte de données
+ Verbatim : "il y avait plein de trucs qui sortaient sur le fait qu'il collectait nos données"
+* Code 6 : Évaluation de la fiabilité de Chat GPT
+ Verbatim : "je sais même pas si ce qu'elle fait est bon ou mauvais parce que je connais pas"
+* Code 7 : Sentiment de dépendance à la technologie
+ Verbatim : "je me dis mais à tout moment, il y a une connerie et puis au final on apprend rien"
+* Code 8 : Manière d'utiliser la technologie
+ Verbatim : "je l'utilise pour R aussi. Là je demande de m'expliquer les concepts."
+* Code 9 : Limites de la technologie
+ Verbatim : "je laisse jamais faire tout toute seule."
+* Code 10 : Attitude face à la technologie
+ Verbatim : "j'ai jamais joué sur internet ou des choses comme ça."
+
+**Thème 3 : Contexte d'utilisation de Chat GPT**
+
+* Code 1 : Contexte universitaire
+ Verbatim : "dans ma double licence, on n’avait pas le droit aux ordinateurs."
+* Code 2 : Changement de contexte
+ Verbatim : "j'ai fait un échange universitaire où je suis partie au Chili"
+* Code 3 : Influence du contexte sur l'utilisation de Chat GPT
+ Verbatim : "c'est là la première fois où j'ai vu que tout le monde l'utilisait"
+* Code 4 : Utilisation de Chat GPT par les pairs
+ Verbatim : "tous les autres étudiants étrangers utilisaient énormément Chat GPT."
+* Code 5 : Comparaison avec les pairs
+ Verbatim : "j'avais tout fait à la main et j'avais eu 7 sur 7 mais tous ceux qui avaient utilisé chat GPT ils avaient aussi eu 7 sur 7"
+* Code 6 : Perception de l'équité
+ Verbatim : "c'était choquant parce que moi, comme je t'ai dit, dans ma licence, personne ne l'utilise."
+* Code 7 : Effet du contexte sur la perception de Chat GPT
+ Verbatim : "ça faisait bizarre parce que je me disais c'est débile parce qu’on apprend rien."
+* Code 8 : Utilisation de Chat GPT pour les devoirs
+ Verbatim : "on avait un devoir à faire et moi la première fois, je l'ai fait moi-même"
+* Code 9 : Évaluation de l'efficacité de Chat GPT
+ Verbatim : "la deuxième fois, j'avais pas trop le temps et du coup je lui avais demandé"
+* Code 10 : Conscience des implications de l'utilisation de Chat GPT
+ Verbatim : "je me dis mais à tout moment, il y a une connerie et puis au final on apprend rien"
+
+**Thème 4 : Manière d'interagir avec Chat GPT**
+
+* Code 1 : Manière de formuler les demandes
+ Verbatim : "je lui dis coucou, je lui dis s'il te plaît, je lui dis merci."
+* Code 2 : Manière de corriger les réponses de Chat GPT
+ Verbatim : "faut relire. Moi, il faut toujours relire."
+* Code 3 : Manière de demander des traductions
+ Verbatim : "je lui demande, je lui dis 'T u changes rien, juste tu traduis.'"
+* Code 4 : Perception de la politesse dans l'interaction avec Chat GPT
+ Verbatim : "je lui parle hyper poliment déjà"
+* Code 5 : Utilisation de Chat GPT pour la reformulation
+ Verbatim : "je lui demande de fluidifier mes textes."
+* Code 6 : Évaluation de la qualité des réponses de Chat GPT
+ Verbatim : "il utilise parfois des mots un peu trop compliqués."
+* Code 7 : Conscience des limites de Chat GPT
+ Verbatim : "je sais qu’en recherche, il est mauvais."
+* Code 8 : Manière de vérifier les réponses de Chat GPT
+ Verbatim : "je laisse jamais faire tout toute seule."
+* Code 9 : Évaluation de la fiabilité de Chat GPT
+ Verbatim : "je sais même pas si ce qu'elle fait est bon ou mauvais parce que je connais pas"
+* Code 10 : Manière d'utiliser Chat GPT pour les tâches complexes
+ Verbatim : "je l'utilise pour R aussi. Là je demande de m'expliquer les concepts."
+
+**Thème 5 : Implications de l'utilisation de Chat GPT**
+
+* Code 1 : Perception de l'impact sur l'apprentissage
+ Verbatim : "c'est débile parce qu’on apprend rien."
+* Code 2 : Préoccupations concernant la dépendance à la technologie
+ Verbatim : "je me dis mais à tout moment, il y a une connerie et puis au final on apprend rien"
+* Code 3 : Évaluation de l'équité dans l'utilisation de Chat GPT
+ Verbatim : "c'était choquant parce que moi, comme je t'ai dit, dans ma licence, personne ne l'utilise."
+* Code 4 : Perception de l'utilité de Chat GPT dans le contexte académique
+ Verbatim : "je l'utilise pour R aussi. Là je demande de m'expliquer les concepts."
+* Code 5 : Conscience des limites de Chat GPT
+ Verbatim : "je sais qu’en recherche, il est mauvais."
+* Code 6 : Évaluation de la qualité des réponses de Chat GPT
+ Verbatim : "il utilise parfois des mots un peu trop compliqués."
+* Code 7 : Manière de gérer les risques liés à l'utilisation de Chat GPT
+ Verbatim : "je laisse jamais faire tout toute seule."
+* Code 8 : Perception de l'impact sur la créativité
+ Verbatim : "je me dis mais à tout moment, il y a une connerie et puis au final on apprend rien"
+* Code 9 : Évaluation de la fiabilité de Chat GPT
+ Verbatim : "je sais même pas si ce qu'elle fait est bon ou mauvais parce que je connais pas"
+* Code 10 : Manière d'utiliser Chat GPT de manière responsable
+ Verbatim : "je lui demande de relire ou je lui demande de traduire, et les gens qui laissent tout faire, je me dis mais à tout moment, il y a une connerie"

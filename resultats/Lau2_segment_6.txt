@@ -1,0 +1,77 @@
+Voici l'analyse de l'entretien avec un codage qualitatif rigoureux.
+
+**Segment 1 : Utilisation de ChatGPT pour une recherche précise**
+
+- **Thème 1 : Limites de ChatGPT**
+ - Code 1 : "Erreur dans la réponse"
+ - Verbatim : "Je me suis rendu compte qu'en fait la réponse était fausse."
+ - Code 2 : "Insistance sur une réponse incorrecte"
+ - Verbatim : "ChatGPT insiste en disant non non, il n'y a pas d'autres épisodes de Star Trek où il se passe ça."
+ - Code 3 : "Découverte de l'information correcte par d'autres moyens"
+ - Verbatim : "J'ai trouvé en fait le bon épisode, celui que j'avais en tête."
+ - Code 4 : "Réaction de ChatGPT face à l'erreur"
+ - Verbatim : "ChatGPT a dit ah ouais en fait t'as absolument raison, désolé, etc."
+ - Code 5 : "Remise en question de la fiabilité de ChatGPT"
+ - Verbatim : "Je me dis si ça, ça peut arriver dans ce cas de figure-là, ça peut arriver plein d'autres fois aussi."
+ - Code 6 : "Nouvelle approche après l'expérience"
+ - Verbatim : "Donc c'est à partir de là que vraiment j'ai fait plus attention en fait."
+ - Code 7 : "Utilisation initiale de ChatGPT pour une recherche spécifique"
+ - Verbatim : "Je voulais que ChatGPT me dise quel épisode c'était parce que justement j'avais besoin de citer ça en fait dans mon mémoire."
+ - Code 8 : "Limite de la capacité de ChatGPT à fournir des informations précises"
+ - Verbatim : "Il y avait clairement l'épisode 3 de la saison 3 qui répondait exactement à ce que moi je disais et toi tu me l'as pas mentionné."
+ - Code 9 : "Interaction avec ChatGPT pour corriger l'erreur"
+ - Verbatim : "J'ai répondu à ChatGPT, bah excuse-moi mais je veux pas être malpoli mais en fait tu t'es trompé"
+ - Code 10 : "Réflexion sur la fiabilité des réponses de ChatGPT"
+ - Verbatim : "Si ça peut arriver plein d'autres fois aussi, donc c'est à partir de là que vraiment j'ai fait plus attention en fait."
+
+- **Thème 2 : Contexte d'utilisation de ChatGPT**
+ - Code 1 : "Recherche pour un mémoire"
+ - Verbatim : "Je voulais à un moment mentionner un épisode de Star Trek dans lequel il s'est passé quelque chose dans mon mémoire."
+ - Code 2 : "Utilisation de ChatGPT pour une recherche précise"
+ - Verbatim : "Je voulais que ChatGPT me dise quel épisode c'était."
+ - Code 3 : "Dépendance à la technologie pour la recherche d'information"
+ - Verbatim : "J'avais besoin de citer ça en fait dans mon mémoire."
+ - Code 4 : "Rôle de ChatGPT dans la vérification d'information"
+ - Verbatim : "Je me suis rendu compte qu'en fait la réponse était fausse."
+ - Code 5 : "Recours à d'autres sources pour vérifier l'information"
+ - Verbatim : "J'ai fait des recherches sur internet et j'ai trouvé en fait le bon épisode."
+ 
+**Segment 2 : Discussion sur la nature des requêtes et l'utilisation de ChatGPT**
+
+- **Thème 3 : Nature des requêtes adressées à ChatGPT**
+ - Code 1 : "Requêtes courtes et simples"
+ - Verbatim : "C'est plutôt des conversations courtes, où tu as une question, une requête, tu as des petites réponses."
+ - Code 2 : "Utilisation pour des synonymes"
+ - Verbatim : "Tu cherches des synonymes."
+ - Code 3 : "Comparaison avec Google"
+ - Verbatim : "Tu l'utilises un peu comme Google en fait au final."
+ - Code 4 : "Satisfaction variable avec les réponses de ChatGPT"
+ - Verbatim : "Des fois, je pense que oui, effectivement, je ne suis pas tout à fait satisfait."
+ - Code 5 : "Habitude d'utiliser ChatGPT pour des recherches spécifiques"
+ - Verbatim : "Je demande à ChatGPT voir s'il me répond à quelque chose de plus satisfaisant."
+ - Code 6 : "Limitations dans l'utilisation de ChatGPT"
+ - Verbatim : "Je n'ai pas encore tout à fait épuisé le potentiel de ChatGPT."
+ - Code 7 : "Stigmatisation de l'utilisation de ChatGPT en lettres"
+ - Verbatim : "Il y a surtout en lettres une sorte de stigmatisation quand même vis-à-vis de son utilisation."
+ - Code 8 : "Exploration limitée des fonctionnalités de ChatGPT"
+ - Verbatim : "Je n'ai pas trop osé, peut-être qu'il y a des fonctionnalités qui me seraient tout à fait utiles que je n'ai même pas encore testées."
+ 
+- **Thème 4 : Comparaison entre ChatGPT et les moteurs de recherche traditionnels**
+ - Code 1 : "Préférence pour Google pour les recherches initiales"
+ - Verbatim : "J'avais encore cette habitude d'aller rechercher d'abord sur l'internet, disons, traditionnel."
+ - Code 2 : "Rôle secondaire de ChatGPT"
+ - Verbatim : "ChatGPT, c'est plus en deuxième option pour l'instant."
+ - Code 3 : "Changement de paradigme chez les nouvelles générations"
+ - Verbatim : "J'avais entendu une histoire d'écoliers maintenant qui, au lieu de rechercher des informations sur Wikipédia comme on faisait nous à l'époque, ils vont directement sur ChatGPT."
+ - Code 4 : "Habitudes héritées de la génération précédente"
+ - Verbatim : "Nous on a grandi avec Google, donc oui, je dirais ChatGPT, c'est plus en deuxième option pour l'instant."
+
+- **Thème 5 : Perception de ChatGPT dans le contexte académique**
+ - Code 1 : "Stigmatisation de ChatGPT dans les facultés de lettres"
+ - Verbatim : "Il y a surtout en lettres une sorte de stigmatisation quand même vis-à-vis de son utilisation."
+ - Code 2 : "Utilisation prudente de ChatGPT"
+ - Verbatim : "Je n'ai pas trop osé, peut-être qu'il y a des fonctionnalités qui me seraient tout à fait utiles."
+ - Code 3 : "Position des professeurs par rapport à ChatGPT"
+ - Verbatim : "Comment est-ce que tu décrirais la position des profs par rapport à ChatGPT ?"
+
+Ces thèmes et codes offrent une analyse qualitative nuancée de l'entretien, mettant en lumière les nuances de l'utilisation de ChatGPT, les limites perçues, les comparaisons avec d'autres outils de recherche, et le contexte académique dans lequel ChatGPT est utilisé.

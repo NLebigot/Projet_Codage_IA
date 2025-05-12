@@ -1,0 +1,111 @@
+Après analyse de l'entretien, j'ai identifié cinq thèmes principaux qui sont : la perception de l'utilité de ChatGPT, les difficultés rencontrées lors de l'utilisation de ChatGPT, l'impact de ChatGPT sur la compréhension des sujets abordés, l'influence de ChatGPT sur le niveau de stress lié aux échéances académiques, et la relation entre ChatGPT et la planification du travail.
+
+### Thème 1 : Perception de l'utilité de ChatGPT
+- Code 1 : Utilité générale
+- Verbatim : "Là, etc'est explicitement, si je l'explicite, je peux le faire. Et ça, je trouve que c'est génial"
+- Code 2 : Gain de temps
+- Verbatim : "Donc, ça ne sert à rien de faire semblant."
+- Code 3 : Facilité d'utilisation
+- Verbatim : "Et ça, je trouve que c'est génial parce que de toute façon, on sait qu'on le fait."
+- Code 4 : Utilisation explicite
+- Verbatim : "Là, etc'est explicitement, si je l'explicite, je peux le faire."
+- Code 5 : Sentiment positif
+- Verbatim : "Et ça, je trouve que c'est génial"
+- Code 6 : Effet sur la charge de travail
+- Verbatim : "Non, je fais pas... Non, je ne calcule pas trop ça parce que je sais que des fois je bug avec chatGPT dessus et je prends le même temps, en vrai."
+- Code 7 : Utilité dans le contexte académique
+- Verbatim : "Clairement, j’utilisais ChatGPT pour m’expliquer les concepts aussi."
+- Code 8 : Aide à la compréhension
+- Verbatim : "Mais là, ça m’a vraiment aidé."
+- Code 9 : Utilisation pour la créativité
+- Verbatim : "Non, c’est pas un truc que je considère qui me met beaucoup de stress, voilà."
+- Code 10 : Perception globale positive
+- Verbatim : "C'est vrai que je me rends compte que je fais un discours très positiviste."
+
+### Thème 2 : Difficultés rencontrées lors de l'utilisation de ChatGPT
+- Code 1 : Problèmes de fonctionnement
+- Verbatim : "Mais avec la version 3.5, des fois, vraiment, ça marche pas."
+- Code 2 : Répétition des erreurs
+- Verbatim : "Il me reprenait toujours la même erreur."
+- Code 3 : Limitations de la version gratuite
+- Verbatim : "Surtout avant cette année, depuis qu’il y a la version 4 qui est dispo pour quelques questions par jour, ça va un peu mieux."
+- Code 4 : Problèmes avec certaines librairies
+- Verbatim : "Surtout autour des librairies qu’il connaissait pas, j’pense."
+- Code 5 : Difficultés avec des sujets spécifiques
+- Verbatim : "La chasse au trésor à Fribourg, j’ai donné des fausses réponses."
+- Code 6 : Limite de la capacité de réponse
+- Verbatim : "Il me disait, ah mais c’est ça le problème, alors que c’était pas du tout ça."
+- Code 7 : Répétition dans les réponses
+- Verbatim : "Je lui pose 25 fois la même, c’est pas la même question, mais il me tourne en rond."
+- Code 8 : Frustration
+- Verbatim : "Donc là, vraiment, il y avait des frustrations au niveau du codage."
+- Code 9 : Amélioration avec la version 4
+- Verbatim : "Avec le 4, ça va un peu mieux et j’ai moins ce problème, j’pense."
+- Code 10 : Dépendance à la documentation
+- Verbatim : "Quand je lui donne de la documentation et je lui dis où aller chercher la documentation, des fois ça marche mieux."
+
+### Thème 3 : Impact de ChatGPT sur la compréhension des sujets abordés
+- Code 1 : Aide à la compréhension
+- Verbatim : "Clairement, j’utilisais ChatGPT pour m’expliquer les concepts aussi."
+- Code 2 : Utilisation dans le contexte académique
+- Verbatim : "J'étais toujours pour ce cours de Python ce semestre."
+- Code 3 : Utilité pour comprendre les concepts
+- Verbatim : "Et là, clairement, j’utilisais ChatGPT pour m’expliquer les concepts aussi."
+- Code 4 : Support pour le cours à distance
+- Verbatim : "Le premier mois, je n’étais pas là. J’ai dû suivre à distance."
+- Code 5 : Utilisation continue
+- Verbatim : "Après, je le fais toujours maintenant que je suis en présentiel."
+- Code 6 : Facilitation de la compréhension
+- Verbatim : "Mais là, ça m’a vraiment aidé."
+- Code 7 : Besoin de clarification
+- Verbatim : "J’ai discuté, on tourne en rond dans notre truc."
+- Code 8 : Utilité pour les sujets complexes
+- Verbatim : "Surtout autour des librairies qu’il connaissait pas, j’pense."
+- Code 9 : Perception de l'aide apportée
+- Verbatim : "Non, ça m’a aidé aussi pour comprendre les choses."
+- Code 10 : Complémentarité avec d'autres ressources
+- Verbatim : "Quand je lui donne de la documentation et je lui dis où aller chercher la documentation, des fois ça marche mieux."
+
+### Thème 4 : Influence de ChatGPT sur le niveau de stress lié aux échéances académiques
+- Code 1 : Réduction du stress
+- Verbatim : "Alors, je pense que je serais un peu plus stressée si je l’avais pas."
+- Code 2 : Impact sur la gestion du temps
+- Verbatim : "Je sais que je dois m’y prendre un petit peu à l’avance quand même."
+- Code 3 : Perception de la charge de travail
+- Verbatim : "Je mets plus de temps à trouver les infos."
+- Code 4 : Sentiment de sécurité
+- Verbatim : "Je sais que j’ai ChatGPT derrière pour faire plus vite."
+- Code 5 : Effet sur la planification
+- Verbatim : "Non, je ne calcule pas trop ça."
+- Code 6 : Stress lié à l'absence de ChatGPT
+- Verbatim : "Je serais un peu plus stressée si je l’avais pas."
+- Code 7 : Perception de l'utilité pour la gestion du stress
+- Verbatim : "Cen’est pas un truc que je considère qui me met beaucoup de stress, voilà."
+- Code 8 : Impact sur les deadlines
+- Verbatim : "Pour le codage en tout cas."
+- Code 9 : Effet sur la tranquillité d'esprit
+- Verbatim : "Je sais que je dois avoir un peu plus de support."
+- Code 10 : Utilisation comme soutien
+- Verbatim : "Je l’utilise pour me faciliter la tâche."
+
+### Thème 5 : Relation entre ChatGPT et la planification du travail
+- Code 1 : Impact sur la planification
+- Verbatim : "Non, je ne calcule pas trop ça par ce que je sais que des fois je bug avec chatGPT dessus et je prends le même temps, en vrai."
+- Code 2 : Perception de l'utilité pour la planification
+- Verbatim : "Je sais que je dois m’y prendre un petit peu à l’avance quand même."
+- Code 3 : Effet sur la gestion du temps
+- Verbatim : "Je mets plus de temps à trouver les infos."
+- Code 4 : Utilisation comme outil de soutien
+- Verbatim : "Je l’utilise pour me faciliter la tâche."
+- Code 5 : Perception de la nécessité de planifier
+- Verbatim : "Je sais que je dois avoir un peu plus de support."
+- Code 6 : Changement dans la façon de travailler
+- Verbatim : "Non, ça change pas vraiment ma façon de travailler."
+- Code 7 : Utilisation en cas de besoin
+- Verbatim : "Quand j’en ai besoin, je l’utilise."
+- Code 8 : Perception de l'impact sur la productivité
+- Verbatim : "Je fais pas... Je ne calcule pas trop ça."
+- Code 9 : Utilisation complémentaire
+- Verbatim : "Je l’utilise en complément."
+- Code 10 : Flexibilité dans l'utilisation
+- Verbatim : "Des fois, je l’utilise, des fois non."

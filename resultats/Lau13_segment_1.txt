@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en respectant la méthode de codage qualitatif :
+
+**Thème 1 : Perception de Chat GPT et de l'IA**
+
+* Code 1 : Définition de Chat GPT
+ - Verbatim : "Pour moi c'est un outil."
+* Code 2 : Limites de Chat GPT
+ - Verbatim : "qui n'est pas non plus fiable à 100%"
+* Code 3 : Utilité de Chat GPT
+ - Verbatim : "il est très utile notamment... technique"
+* Code 4 : Variété d'outils d'IA
+ - Verbatim : "il y a plein de modèles différents en fonction de ce que tu veux faire"
+* Code 5 : Simplification des tâches
+ - Verbatim : "une large variété d'outils qui te permettent de te simplifier des tâches"
+* Code 6 : Équilibre entre simplification et effort personnel
+ - Verbatim : "c'est de bien équilibrer entre te simplifier la vie et juste ne plus rien faire du tout"
+* Code 7 : Réflexion critique face aux réponses de l'IA
+ - Verbatim : "il faut quand même faire l'effort de… Faut pas juste demander à une IA et prendre sa réponse"
+* Code 8 : Importance de la réflexion personnelle
+ - Verbatim : "il faut quand même avoir de la réflexion derrière pour comprendre"
+* Code 9 : Risque de dépendance à l'IA
+ - Verbatim : "il y a plein de gens qui disent qu'avec l’IA, il y a plein de... les gens réfléchissent plus"
+* Code 10 : Évaluation critique des réponses de Chat GPT
+ - Verbatim : "comment tu prends la réponse que Chat GPT te donne ?"
+
+**Thème 2 : Expérience universitaire et utilisation de Chat GPT**
+
+* Code 1 : Parcours universitaire
+ - Verbatim : "j'ai fait une matu à Nyon et en option en maths physique et par la suite j'ai prolongé sur un bachelor en génie civil à l'EPFL"
+* Code 2 : Expérience à l'étranger
+ - Verbatim : "j'ai fait ma dernière année à l'étranger, au Danemark"
+* Code 3 : Année de césure
+ - Verbatim : "là je suis en année de césure en train de travailler avant de poursuivre mon master"
+* Code 4 : Utilisation de Chat GPT pendant les études
+ - Verbatim : "c'était pendant le bachelor, que ce soit à Lausanne ou au Danemark"
+* Code 5 : Champ d'application de Chat GPT
+ - Verbatim : "notamment… technique. Quand je dis technique, je pense surtout à genre de la prog ou des trucs comme ça"
+* Code 6 : Intégration de Chat GPT dans les études
+ - Verbatim : "c'est un outil"
+* Code 7 : Contexte d'utilisation
+ - Verbatim : "pendant le bachelor"
+* Code 8 : Rétrospective sur l'utilisation de Chat GPT
+ - Verbatim : "les entrées de Chat GPT que tu m'as données, c'est quand même celles que t'as utilisées quand t'étais en études"
+* Code 9 : Utilité dans les études
+ - Verbatim : "il est très utile"
+* Code 10 : Continuité de l'utilisation
+ - Verbatim : "c'était pendant le bachelor"
+
+**Thème 3 : Réflexion critique et autonomie**
+
+* Code 1 : Importance de l'effort personnel
+ - Verbatim : "il faut quand même faire l'effort de… Faut pas juste demander à une IA et prendre sa réponse"
+* Code 2 : Réflexion critique
+ - Verbatim : "il faut quand même avoir de la réflexion derrière pour comprendre"
+* Code 3 : Équilibre entre simplification et autonomie
+ - Verbatim : "c'est de bien équilibrer entre te simplifier la vie et juste ne plus rien faire du tout"
+* Code 4 : Risque de perte d'autonomie
+ - Verbatim : "il y a plein de gens qui disent qu'avec l’IA, il y a plein de... les gens réfléchissent plus"
+* Code 5 : Évaluation des réponses de l'IA
+ - Verbatim : "comment tu prends la réponse que Chat GPT te donne ?"
+* Code 6 : Prise de distance par rapport aux réponses de l'IA
+ - Verbatim : "il faut quand même avoir de la réflexion derrière pour comprendre"
+* Code 7 : Conscience des limites de l'IA
+ - Verbatim : "qui n'est pas non plus fiable à 100%"
+* Code 8 : Nécessité de vérification
+ - Verbatim : "il faut quand même faire l'effort de… Faut pas juste demander à une IA et prendre sa réponse"
+* Code 9 : Autonomie dans l'apprentissage
+ - Verbatim : "il faut quand même avoir de la réflexion derrière pour comprendre"
+* Code 10 : Développement de l'esprit critique
+ - Verbatim : "c'est de bien équilibrer entre te simplifier la vie et juste ne plus rien faire du tout"
+
+**Thème 4 : Fiabilité et limites de Chat GPT**
+
+* Code 1 : Limites de fiabilité
+ - Verbatim : "qui n'est pas non plus fiable à 100%"
+* Code 2 : Contexte d'utilisation où Chat GPT est fiable
+ - Verbatim : "notamment… technique. Quand je dis technique, je pense surtout à genre de la prog ou des trucs comme ça"
+* Code 3 : Erreurs potentielles
+ - Verbatim : "des fois c'est pas complètement fiable"
+* Code 4 : Nécessité de vérification des réponses
+ - Verbatim : "il faut quand même faire l'effort de… Faut pas juste demander à une IA et prendre sa réponse"
+* Code 5 : Importance de la compréhension
+ - Verbatim : "il faut quand même avoir de la réflexion derrière pour comprendre"
+* Code 6 : Limites de la technologie
+ - Verbatim : "il y a plein de modèles différents en fonction de ce que tu veux faire"
+* Code 7 : Dépendance au contexte
+ - Verbatim : "en fonction de ce que tu veux faire"
+* Code 8 : Variabilité de la qualité des réponses
+ - Verbatim : "des fois c'est pas complètement fiable"
+* Code 9 : Exigence de prudence
+ - Verbatim : "il faut quand même faire l'effort de… Faut pas juste demander à une IA et prendre sa réponse"
+* Code 10 : Sensibilisation aux limites
+ - Verbatim : "qui n'est pas non plus fiable à 100%"
+
+**Thème 5 : Méthodologie et conditions de l'entretien**
+
+* Code 1 : Présentation de l'enquête
+ - Verbatim : "aujourd'hui, je fais un entretien avec toi pour un projet de recherche pour un cours en humanité numérique à l'université de Lausanne"
+* Code 2 : Objet de l'enquête
+ - Verbatim : "l'impact de Chat GPT sur le travail et l'apprentissage"
+* Code 3 : Confidentialité des réponses
+ - Verbatim : "les réponses, elles seront confidentielles"
+* Code 4 : Anonymat des participants
+ - Verbatim : "il n'y aura pas de... n'hésite pas à me dire si tu as des besoins après coup, de whatever, anonymiser"
+* Code 5 : Absence de jugement
+ - Verbatim : "il n'y aura pas de mauvaises réponses"
+* Code 6 : Liberté de réponse
+ - Verbatim : "c'est vraiment juste... Enfin, tu ne dois pas être en mode genre..."
+* Code 7 : Enregistrement de l'entretien
+ - Verbatim : "est-ce que du coup tu es d'accord avec le fait que je t'enregistre"
+* Code 8 : Utilisation des données
+ - Verbatim : "notre entretien sera retranscrit et utilisé pour cette enquête"
+* Code 9 : Consentement éclairé
+ - Verbatim : "est-ce que du coup tu es d'accord avec le fait que je t'enregistre et que, en gros, notre entretien sera retranscrit et utilisé pour cette enquête ?"
+* Code 10 : Information sur le déroulement de l'entretien
+ - Verbatim : "on ne va pas les partager avec n'importe qui, c'est juste dans le cadre de ce cours"

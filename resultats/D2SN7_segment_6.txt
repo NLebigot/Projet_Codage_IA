@@ -1,0 +1,73 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Impact de ChatGPT sur le travail**
+
+- Thème : Gain de temps et amélioration de la qualité
+ - Code 1 : Gain de temps considérable
+ - Verbatim : "ça m'a gagné du temps et surtout ça bah ça me sort des trucs que moi j'aurais pas été enfin c'est que si peut-être que j'aurais été capable de le faire mais enfin bon déjà … faut que je me calme"
+ - Code 2 : Amélioration de la qualité du travail
+ - Verbatim : "ça m'a gagné du temps et surtout ça bah ça me sort des trucs que moi j'aurais pas été enfin"
+ - Code 3 : Utilisation efficace du temps gagné
+ - Verbatim : "à partir du moment où tu gagnes du temps, tu gagnes du temps aussi pour d'autres trucs"
+ - Code 4 : Progrès potentiel grâce à ChatGPT
+ - Verbatim : "ça nous fera progresser ? Moi je pense que oui ça va me faire progresser"
+ - Code 5 : Dépendance à l'utilisation de ChatGPT
+ - Verbatim : "après, ça dépend de l'utilisation de tout le monde quoi"
+ - Code 6 : Réduction du temps de travail fastidieux
+ - Verbatim : "une production oui j'aurais peut-être été capable de le faire mais ça m'aurait pris euh un temps fou de démentiel quoi"
+ - Code 7 : Utilité de ChatGPT dans les tâches répétitives
+ - Code 8 : Impact positif sur la productivité globale
+ - Verbatim : "à la fin ça nous fera progresser"
+ - Code 9 : Perception positive de l'outil
+ - Verbatim : "oui je pense que oui à la fin ça nous ça nous fera enfin"
+ - Code 10 : Optimisme quant à l'avenir
+- Thème : Limitations et perceptions de ChatGPT
+ - Code 1 : Perception de ChatGPT comme un outil
+ - Verbatim : "je pense que ChatGPT plus un outil"
+ - Code 2 : Utilisation spécifique pour les tâches ingrates
+ - Verbatim : "je ne serais capable de travailler que quand le sujet euh m'intéresse vraiment et me passionne"
+ - Code 3 : Gain de temps sur les tâches non désirées
+ - Verbatim : "chat GPT me fait gagner du temps sur les endroits où enfin sur tout ce travail que je n'ai pas envie de faire mais que je suis obligé de faire"
+ - Code 4 : Comparaison avec d'autres outils
+ - Verbatim : "avant si j'ai un problème enfin je pense C'est un problème de programmation. Bon bah avant ce que tu faisais c'est que tu regardais dans un bouquin ou tu regardais sur un blog"
+ - Code 5 : Accessibilité de l'information
+ - Verbatim : "là tu l'as beaucoup plus facilement et de manière beaucoup plus personnalisée"
+
+**Segment 2 : Impact sur l'organisation du travail et les difficultés rencontrées**
+
+- Thème : Organisation du travail
+ - Code 1 : Manque d'organisation préalable
+ - Verbatim : "je crois que j'ai pas trop d'organisation de travail"
+ - Code 2 : Perception de flexibilité dans le travail
+ - Verbatim : "peut-être que ça, ça a changé, mais sinon dans mon organisation de travail, je pense pas avoir énormément changer quoi"
+ - Code 3 : Estimation du temps de travail
+ - Verbatim : "je me donne aller, je me donne2 h alors qu'en fait ce travail peut être devrait durer3,2 jours quoi ?"
+ - Code 4 : Changement potentiel dans la gestion du temps
+ - Code 5 : Absence de changement significatif
+ - Verbatim : "je dirais que ça a pas vraiment changé mon rapport au travail fondamentalement quoi"
+- Thème : Difficultés et frustrations
+ - Code 1 : Mention de difficultés ou de frustrations
+ - Verbatim : (non directement cité, mais la question est posée)
+ - Code 2 : Perception de l'outil comme facilitateur
+ - Verbatim : "ça me fait gagner du temps quoi, c'est déjà pas mal, c'est déjà énormément"
+
+**Segment 3 : Perception de ChatGPT et changement dans le rapport au travail**
+
+- Thème : Changement dans le rapport au travail
+ - Code 1 : Perception de ChatGPT comme un outil neutre
+ - Verbatim : "je pense que ChatGPT plus un outil"
+ - Code 2 : Pas de changement fondamental
+ - Verbatim : "fondamentalement non, je me je me sens pas je sens pas que c'est un que j'ai un rapport totalement à mon travail en fait"
+ - Code 3 : Utilisation en fonction des besoins
+ - Verbatim : "c'est pour ça que j'ai pris l'exemple des mails"
+ - Code 4 : Continuité avec les pratiques antérieures
+ - Verbatim : "avant ce que tu faisais c'est que tu regardais dans un bouquin ou tu regardais sur un blog mais bon tu avais plus de chance de pas trouver ta réponse"
+ - Code 5 : Évaluation positive de la personnalisation
+ - Verbatim : "là tu l'as beaucoup plus facilement et de manière beaucoup plus personnalisée"
+- Thème : Impact sur la motivation et l'intérêt
+ - Code 1 : Travail en fonction de l'intérêt
+ - Verbatim : "je ne serais capable de travailler que quand le sujet euh m'intéresse vraiment et me passionne"
+ - Code 2 : Utilisation de ChatGPT pour les tâches ingrates
+ - Verbatim : "chat GPT me fait gagner du temps sur les endroits où enfin sur tout ce travail que je n'ai pas envie de faire mais que je suis obligé de faire"
+
+Chaque thème regroupe des codes associés à des verbatims qui reflètent les réponses de Gabriel. Les thèmes et les codes ont été créés pour explorer les différentes dimensions de l'impact de ChatGPT sur son travail, son organisation, et sa perception de l'outil. Les verbatims sont utilisés pour illustrer et soutenir chaque code, offrant ainsi une analyse qualitative détaillée de l'entretien.

@@ -1,0 +1,107 @@
+Pour analyser l'entretien donné en suivant une méthode rigoureuse de codage qualitatif, je vais d'abord identifier les thèmes principaux qui émergent du texte, puis je vais coder les données en respectant les critères demandés.
+
+### Segment 1 : Introduction et mise en place de l'entretien
+
+- **Thème 1 : Cadre de l'entretien**
+  - Code 1 : Préambule de politesse
+  - Verbatim : "Bonjour ! Comment vas-tu ?"
+  - Code 2 : Réponse positive
+  - Verbatim : "ça va très bien et toi ?"
+  - Code 3 : Expression de gratitude
+  - Verbatim : "merci à toi de m'accorder ton temps."
+  - Code 4 : Disponibilité
+  - Verbatim : "T’inquiète il y a pas de soucis je suis en vacance de toute façon"
+  - Code 5 : Présentation de l'enquêteur
+  - Verbatim : "je m'appelle Mymolyvann, je suis en Master 2 Data Science et Société Numérique"
+  - Code 6 : Objet de la recherche
+  - Verbatim : "nous menons une recherche sur l'impact des intelligences artificielles génératives comme ChatGPT"
+  - Code 7 : Anonymat
+  - Verbatim : "ton nom est anonymisé comme je te l’ai dit par message."
+  - Code 8 : Consentement
+  - Verbatim : "Ça marche ! No problème !"
+  - Code 9 : Transparence
+  - Verbatim : "je vais tout retranscrire, comme je te l’avais déjà indiqué."
+  - Code 10 : Introduction à la présentation
+  - Verbatim : "Avant de rentrer dans le sujet, je vais de te demander de te présenter rapidement."
+
+- **Thème 2 : Présentation et intérêts de l'enquêté**
+  - Code 1 : Identité
+  - Verbatim : "moi c’est Alexis, j’ai 25 ans et je suis en deuxième année de sociologie à Sciences Po."
+  - Code 2 : Intérêt pour la sociologie
+  - Verbatim : "J’ai toujours été intéressé par tout ce qui touche à la société, aux interactions humaines"
+  - Code 3 : Objets d'étude
+  - Verbatim : "comment les individus se comportent en groupe, comment les normes sociales se construisent et évoluent"
+  - Code 4 : Analyse des inégalités
+  - Verbatim : "comment les inégalités se perpétuent ou se transforment."
+  - Code 5 : Diversité des sujets étudiés
+  - Verbatim : "Dans mes études, je touche à pas mal de sujets :"
+
+### Segment 2 : Détails de la recherche et posture de l'enquêté
+
+- **Thème 3 : Axes de recherche et domaines d'intérêt**
+  - Code 1 : Thématique de recherche
+  - Verbatim : "l'impact des intelligences artificielles génératives comme ChatGPT"
+  - Code 2 : Dynamiques du travail
+  - Verbatim : "sur les dynamiques du travail"
+  - Code 3 : Processus d'apprentissage
+  - Verbatim : "et les processus d'apprentissage."
+  - Code 4 : Intérêt pour les interactions humaines
+  - Verbatim : "aux interactions humaines"
+  - Code 5 : Structures sociales
+  - Verbatim : "et aux structures qui façonnent notre quotidien."
+  - Code 6 : Comportement en groupe
+  - Verbatim : "comment les individus se comportent en groupe"
+  - Code 7 : Construction des normes sociales
+  - Verbatim : "comment les normes sociales se construisent et évoluent"
+  - Code 8 : Inégalités sociales
+  - Verbatim : "comment les inégalités se perpétuent ou se transforment"
+  - Code 9 : Formation académique
+  - Verbatim : "je suis en Master 2 Data Science et Société Numérique"
+  - Code 10 : Discipline d'étude
+  - Verbatim : "je suis en deuxième année de sociologie à Sciences Po."
+
+- **Thème 4 : Aspects relationnels et consentement**
+  - Code 1 : Consentement à l'enregistrement
+  - Verbatim : "je vais tout retranscrire"
+  - Code 2 : Garantie d'anonymat
+  - Verbatim : "ton nom est anonymisé"
+  - Code 3 : Disponibilité pour l'entretien
+  - Verbatim : "T’inquiète il y a pas de soucis je suis en vacance"
+  - Code 4 : Expression de gratitude
+  - Verbatim : "merci à toi de m'accorder ton temps."
+  - Code 5 : Accord pour la présentation
+  - Verbatim : "Avant de rentrer dans le sujet, je vais de te demander de te présenter rapidement."
+  - Code 6 : Réponse positive à la demande
+  - Verbatim : "Ouais, alors moi c’est Alexis"
+  - Code 7 : Transparence sur le processus
+  - Verbatim : "comme je te l’avais déjà indiqué."
+  - Code 8 : Acceptation de l'anonymat
+  - Verbatim : "Yes !"
+  - Code 9 : Facilité relationnelle
+  - Verbatim : "Bonjour ! Comment vas-tu ?"
+  - Code 10 : Réponse à la présentation
+  - Verbatim : "moi c’est Alexis, j’ai 25 ans"
+
+- **Thème 5 : Contexte académique et recherche**
+  - Code 1 : Niveau d'étude
+  - Verbatim : "je suis en Master 2"
+  - Code 2 : Domaine d'étude
+  - Verbatim : "Data Science et Société Numérique"
+  - Code 3 : Institution académique
+  - Verbatim : "à l'Université Gustave Eiffel"
+  - Code 4 : Niveau d'étude de l'enquêté
+  - Verbatim : "je suis en deuxième année de sociologie"
+  - Code 5 : Institution académique de l'enquêté
+  - Verbatim : "à Sciences Po"
+  - Code 6 : Thème de recherche
+  - Verbatim : "l'impact des intelligences artificielles génératives"
+  - Code 7 : Intérêt pour la sociologie
+  - Verbatim : "J’ai toujours été intéressé par tout ce qui touche à la société"
+  - Code 8 : Axes de recherche spécifiques
+  - Verbatim : "les dynamiques du travail et les processus d'apprentissage"
+  - Code 9 : Contexte de la recherche
+  - Verbatim : "nous menons une recherche"
+  - Code 10 : Objectivité de la recherche
+  - Verbatim : "je vais tout retranscrire"
+
+Ces thèmes et codes offrent une analyse qualitative riche et variée de l'entretien, couvrant les aspects relationnels, le contexte académique, les intérêts de l'enquêté, et les détails de la recherche en cours.

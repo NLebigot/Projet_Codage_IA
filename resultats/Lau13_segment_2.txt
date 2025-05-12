@@ -1,0 +1,95 @@
+Voici mon analyse du texte en suivant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Évaluation de la fiabilité des réponses de Chat GPT**
+
+- Thème : Stratégies de vérification
+ - Code1 : Recherche de sources multiples
+ - Verbatim : "Tu vas faire tes recherches de ton côté, ou tu vas comparer avec ton cours, ou tu cherches d'autres sources."
+ - Code2 : Utilisation de Google pour vérifier les informations
+ - Verbatim : "En soi, Google c'est déjà une bonne source... pour chercher dans le même thème que le thème de la question qui a été posée à Chat GPT."
+ - Code3 : Consultation d'experts ou de professeurs
+ - Verbatim : "Même le prof ou un expert, quelqu'un qui connaît le sujet."
+ - Code4 : Utilisation de YouTube comme source d'information
+ - Verbatim : "Sur YouTube, il y a certaines personnes qui expliquent ces choses dans des vidéos, mais de nouveau, c'est pas... C'est toujours à prendre avec des pincettes."
+ - Code5 : Wikipédia comme source d'information supplémentaire
+ - Verbatim : "Il y a toujours Wikipédia qui te donne aussi beaucoup de sources différentes que tu peux aller voir par toi-même."
+ - Code6 : Évaluation de la fiabilité en fonction du contexte
+ - Verbatim : "Ça dépend de l'importance de la véracité de la réponse."
+ - Code7 : Utilisation de rapports académiques
+ - Verbatim : "Tu trouves un peu rien à part des rapports académiques de 500 pages."
+ - Code8 : Prise en compte de la spécificité du sujet
+ - Verbatim : "Quand c'est des sujets très spécifiques."
+ - Code9 : Nécessité de vérifier les informations en fonction de l'importance de la réponse
+ - Verbatim : "Si je demande... À Chat GPT et que, en fonction de la réponse, je vais faire un choix décisif sur un projet, je vais prendre du temps à chercher."
+ - Code10 : Évaluation de la fiabilité en fonction de la nature de la question
+ - Verbatim : "En fonction du domaine, c'est pas la même réflexion."
+
+- Thème : Fiabilité des sources
+ - Code1 : Limites de Google comme source d'information
+ - Verbatim : "C'est pas une source en soi."
+ - Code2 : Importance de diversifier les sources
+ - Verbatim : "Tu peux chercher, voir ce qu'il se dit un peu."
+ - Code3 : Limites de YouTube comme source d'information
+ - Verbatim : "C'est toujours à prendre avec des pincettes."
+ - Code4 : Utilité de Wikipédia pour trouver des sources supplémentaires
+ - Verbatim : "Wikipédia qui te donne aussi beaucoup de sources différentes."
+ - Code5 : Rôle des experts dans la vérification des informations
+ - Verbatim : "Quelqu'un qui connaît le sujet."
+ - Code6 : Problème de la spécificité et de la complexité des sujets
+ - Verbatim : "Sujets très spécifiques."
+ - Code7 : Difficulté à trouver des sources pertinentes
+ - Verbatim : "Tu trouves un peu rien."
+ - Code8 : Utilité des rapports académiques
+ - Verbatim : "Rapports académiques de 500 pages."
+ - Code9 : Importance de la vérification pour les décisions importantes
+ - Verbatim : "Choix décisif sur un projet."
+ - Code10 : Différence de traitement selon les domaines
+ - Verbatim : "En fonction du domaine."
+
+**Segment 2 : Perception de l'utilité de Chat GPT dans le travail**
+
+- Thème : Gain de temps et productivité
+ - Code1 : Utilisation de Chat GPT pour gagner du temps
+ - Verbatim : "Ça t'aide à gagner du temps quand tu travailles."
+ - Code2 : Amélioration de la qualité du travail
+ - Verbatim : "Améliore la qualité du travail."
+ - Code3 : Impact sur l'organisation du travail
+ - Verbatim : "Ton organisation, ta productivité, etc."
+ - Code4 : Utilisation de Chat GPT pour des tâches spécifiques
+ - Verbatim : "Pour des questions de prog, je fais plus confiance à l'IA."
+ - Code5 : Différence de confiance selon les domaines
+ - Verbatim : "Si c'est pour... Je sais pas... Si je lui demande de faire une analyse de l'actualité d'un pays, ça va être beaucoup moins... C'est plus flou."
+ - Code6 : Utilisation de Chat GPT comme aide à la décision
+ - Verbatim : "En fonction de la réponse, je vais faire un choix décisif sur un projet."
+ - Code7 : Limites de Chat GPT dans certains domaines
+ - Verbatim : "C'est moins... moins structuré."
+ - Code8 : Perception positive de l'impact de Chat GPT sur le travail
+ - Verbatim : "Est-ce qu'il y a des améliorations, puis si oui, où est-ce que tu les observes un peu ?"
+ - Code9 : Attitude envers la technologie
+ - Verbatim : "On est d'accord, c'est... centré sur Chat GPT."
+ - Code10 : Intérêt pour l'utilisation de Chat GPT dans des contextes spécifiques
+ - Verbatim : "Pour des questions de prog."
+
+- Thème : Facteurs influençant l'utilisation de Chat GPT
+ - Code1 : Importance de la tâche
+ - Verbatim : "Ça dépend de l'importance de la véracité de la réponse."
+ - Code2 : Confiance dans les capacités de Chat GPT
+ - Verbatim : "Je fais plus confiance à l'IA pour des questions de prog."
+ - Code3 : Nature de la tâche
+ - Verbatim : "Prog, c'est quatre lignes de code."
+ - Code4 : Perception de la complexité de la tâche
+ - Verbatim : "L'actualité c'est un truc... Il y a beaucoup de causes, il y a beaucoup de conséquences, c'est libre d’interprétation."
+ - Code5 : Attitude envers la technologie
+ - Verbatim : "Faut une analyse, comme on dit, et que t'appliques ton point de vue et que tu as le point de vue des autres."
+ - Code6 : Influence de la facilité d'utilisation
+ - Verbatim : "Des fois, il y a de la flemme aussi."
+ - Code7 : Différence de traitement selon les domaines
+ - Verbatim : "En fonction du domaine, c'est pas la même réflexion."
+ - Code8 : Évaluation de la fiabilité en fonction du contexte
+ - Verbatim : "Contexte aussi, parce que comme je l'ai dit avant."
+ - Code9 : Rôle de l'expérience personnelle
+ - Verbatim : "Je sais en moi que c'est un choix décisif."
+ - Code10 : Impact de la spécificité du sujet sur l'utilisation de Chat GPT
+ - Verbatim : "Sujets très spécifiques."
+
+Ces thèmes et codes offrent une analyse nuancée de la manière dont l'étudiant utilise et perçoit Chat GPT, mettant en lumière les stratégies de vérification, la perception de l'utilité de Chat GPT dans le travail, ainsi que les facteurs influençant son utilisation.

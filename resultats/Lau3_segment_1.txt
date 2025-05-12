@@ -1,0 +1,115 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats de l'analyse :
+
+**Segment 1 : Préparation de cours et utilisation de Chatchepété**
+
+- Thème : Intégration des outils numériques dans la préparation de cours
+ - Code1 : Utilisation de Chatchepété pour la création d'exercices
+ - Verbatim : "Je vais lui demander, OK, fais-moi des exercices que pourraient faire les élèves."
+ - Code2 : Contrôle des contenus générés par l'outil
+ - Verbatim : "Après je contrôle tout."
+ - Code3 : Adaptation des ressources pour les besoins spécifiques
+ - Verbatim : "Je les enlève si les exercices sont trop compliqués."
+ - Code4 : Planification des cours
+ - Verbatim : "On prépare nos cours, on prépare nos exercices, on prépare nos thématiques, etc."
+ - Code5 : Rôle de l'outil dans la préparation
+ - Verbatim : "C'est pour m'aider, une fois que ma planification est faite..."
+ - Code6 : Évolution de la conversation avec l'outil
+ - Verbatim : "Cette conversation, elle évolue, là je pense que t'as une partie qui est terminée, ça s'actualise plus je crois."
+ - Code7 : Organisation des conversations avec l'outil
+ - Verbatim : "J'ai plusieurs conversations et je les trie pour être sûr d'avoir une conversation sur tel sujet, etc."
+ - Code8 : Utilisation ciblée de l'outil pour des tâches spécifiques
+ - Verbatim : "Je parle pas tout sur la même conversation."
+ - Code9 : Vérification de la qualité des exercices générés
+ - Verbatim : "Pour vérifier qu'il a bien fait les exercices que je voulais, dans l'ordre que je voulais."
+ - Code10 : Intégration de l'outil dans la pratique enseignante
+ - Verbatim : "C'est en lien avec mon stage en première année à l'HEP."
+
+- Thème : Formation et expérience universitaire antérieure
+ - Code1 : Choix de la formation antérieure
+ - Verbatim : "J'avais français et ciné."
+ - Code2 : Appréciation des cours suivis
+ - Verbatim : "C'était vraiment ce que j'ai préféré faire à l'uni."
+ - Code3 : Évaluation positive de l'expérience en cinéma
+ - Verbatim : "J'aimais beaucoup."
+ - Code4 : Perception de la difficulté des matières
+ - Verbatim : "Français, tu cravaches un peu plus."
+ - Code5 : Intérêt pour les matières suivies
+ - Verbatim : "Cinéma, c'est très intéressant."
+ - Code6 : Évolution de l'appréciation des cours au fil du temps
+ - Verbatim : "T'apprends à apprécier le cours... Enfin, l'uni, au fur et à mesure."
+ - Code7 : Souhait initial de rejoindre l'HEP
+ - Verbatim : "C'est ce que je voulais faire de base."
+ - Code8 : Décision précoce de poursuivre une carrière dans l'enseignement
+ - Verbatim : "Avant même d'entrer à l'uni, je savais que je voulais aller à l'HEP."
+ - Code9 : Continuité entre les études antérieures et la formation à l'HEP
+ - Verbatim : "C'est ce que je voulais faire de base."
+ - Code10 : Orientation vers l'HEP comme un choix mûrement réfléchi
+ - Verbatim : "Pourquoi ? C'est... Avant même d'entrer à l'uni..."
+
+- Thème : Rôle de la technologie dans les études et l'enseignement
+ - Code1 : Utilisation de Chatchepété pour la génération d'exercices
+ - Verbatim : "Fais-moi des exercices que pourraient faire les élèves."
+ - Code2 : Impact de la technologie sur la préparation des cours
+ - Verbatim : "Ça nous demande de faire des planifications."
+ - Code3 : Contrôle et adaptation des contenus générés
+ - Verbatim : "Je contrôle tout pour vérifier qu'il a bien fait les exercices."
+ - Code4 : Expérience avec les outils numériques durant les études
+ - Verbatim : "Pas spécifiquement avec CHGPT ou simplement... De manière générale."
+ - Code5 : Intégration de la technologie dans la pratique enseignante
+ - Verbatim : "C'est pour m'aider, une fois que ma planification est faite..."
+ - Code6 : Évaluation de l'utilité de l'outil pour les tâches d'enseignement
+ - Verbatim : "Je lui demande de faire des exercices en tirant en bas pour laisser la place pour les réponses."
+ - Code7 : Gestion des contenus et conversations avec l'outil
+ - Verbatim : "J'ai plusieurs conversations et je les trie."
+ - Code8 : Perception de la technologie comme un outil d'assistance
+ - Verbatim : "C'est pour m'aider."
+ - Code9 : Utilisation ciblée de l'outil
+ - Verbatim : "Je parle pas tout sur la même conversation."
+ - Code10 : Évaluation globale de l'apport de la technologie dans l'enseignement
+ - Verbatim : "Ça s'actualise plus je crois, parce que moi je la continue cette conversation depuis que je l'ai envoyée."
+
+- Thème : Parcours de formation et projet professionnel
+ - Code1 : Souhait initial de rejoindre l'HEP
+ - Verbatim : "C'est ce que je voulais faire de base."
+ - Code2 : Choix de la filière d'études
+ - Verbatim : "J'avais français et ciné."
+ - Code3 : Évaluation positive de l'expérience universitaire
+ - Verbatim : "C'était vraiment ce que j'ai préféré faire à l'uni."
+ - Code4 : Lien entre les études antérieures et la formation à l'HEP
+ - Verbatim : "Avant même d'entrer à l'uni, je savais que je voulais aller à l'HEP."
+ - Code5 : Perception de la formation à l'HEP comme une continuité
+ - Verbatim : "C'est ce que je voulais faire de base."
+ - Code6 : Orientation vers l'enseignement comme choix de carrière
+ - Verbatim : "Je savais que je voulais aller à l'HEP."
+ - Code7 : Formation et expérience en lien avec l'enseignement
+ - Verbatim : "En stage en première année à l'HEP."
+ - Code8 : Implication dans la préparation des cours
+ - Verbatim : "On prépare nos cours, on prépare nos exercices."
+ - Code9 : Intégration de la formation théorique et pratique
+ - Verbatim : "J'ai vu la théorie, je vais lui demander, OK, fais-moi des exercices."
+ - Code10 : Rôle de la formation à l'HEP dans la construction du projet professionnel
+ - Verbatim : "C'est en lien avec mon stage en première année à l'HEP."
+
+- Thème : Méthodologie de travail et organisation
+ - Code1 : Planification et préparation des cours
+ - Verbatim : "On prépare nos cours, on prépare nos exercices, on prépare nos thématiques, etc."
+ - Code2 : Organisation des conversations avec l'outil numérique
+ - Verbatim : "J'ai plusieurs conversations et je les trie pour être sûr d'avoir une conversation sur tel sujet, etc."
+ - Code3 : Contrôle et adaptation des contenus générés
+ - Verbatim : "Après je contrôle tout."
+ - Code4 : Critères de validation des exercices générés
+ - Verbatim : "Pour vérifier qu'il a bien fait les exercices que je voulais, dans l'ordre que je voulais."
+ - Code5 : Sélection et adaptation des ressources
+ - Verbatim : "Je les enlève si les exercices sont trop compliqués."
+ - Code6 : Utilisation ciblée de l'outil pour des tâches spécifiques
+ - Verbatim : "Je parle pas tout sur la même conversation."
+ - Code7 : Gestion de la qualité des contenus
+ - Verbatim : "Je contrôle tout pour vérifier qu'il a bien fait les exercices."
+ - Code8 : Intégration de la technologie dans le processus de travail
+ - Verbatim : "C'est pour m'aider, une fois que ma planification est faite..."
+ - Code9 : Évaluation de l'efficacité de la méthodologie
+ - Verbatim : "Ça nous demande de faire des planifications."
+ - Code10 : Souplesse dans l'organisation du travail
+ - Verbatim : "J'ai plusieurs conversations et je les trie."
+
+Ces thèmes et codes offrent une vue d'ensemble des éléments clés de l'entretien, couvrant l'intégration des outils numériques dans la préparation de cours, le parcours de formation et le projet professionnel de l'interviewé, ainsi que sa méthodologie de travail.

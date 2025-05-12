@@ -1,0 +1,63 @@
+Pour analyser l'entretien donné en suivant une méthode rigoureuse de codage qualitatif, je vais dégager plusieurs thèmes avec leurs codes et verbatims associés. L'objectif est de comprendre comment l'utilisation de ChatGPT impacte la manière de travailler de Romain, notamment dans le contexte de la programmation et de la recherche d'informations.
+
+### Thème 1 : Changement dans la méthode de travail
+- Code 1 : Modification de l'approche de programmation
+- Verbatim : "ça a complètement changé ma manière de travailler à ce niveau-là parce que je demande d'abord à chat GPT"
+- Code 2 : Utilisation de ChatGPT pour initier le travail
+- Verbatim : "je demande d'abord à chat GPT ça me donne une vague idée de ce que je dois faire"
+- Code 3 : Adaptation suite aux réponses de ChatGPT
+- Verbatim : "et ensuite j'adapte en fonction"
+- Code 4 : Comparaison avec l'ancienne méthode de travail
+- Verbatim : "alors qu'avant ma manière de travailler était plutôt genre “ben je vais tenter quelque chose et je vais voir où ça crash”"
+- Code 5 : Évolution dans la résolution de problèmes
+- Verbatim : "maintenant je sais aussi ce qu'il faut demander à chatGPT et comment le demander pour obtenir une réponse"
+
+### Thème 2 : Impact de ChatGPT sur la réflexion et la critique
+- Code 1 : Découverte de nouvelles informations
+- Verbatim : "ça peut donner des réponses qui sont pas ce qu'on attendait mais qui sont tout de même juste"
+- Code 2 : Vérification des informations fournies par ChatGPT
+- Verbatim : "ça nous force du coup à aller chercher sur internet si c'est comme ça pour de vrai"
+- Code 3 : Développement de l'esprit critique
+- Verbatim : "ça permet de découvrir parfois de nouvelles choses et en particulier sur des domaines sur lesquels on était vraiment très sûr de soi"
+- Code 4 : Ouverture à de nouvelles perspectives
+- Verbatim : "ChatGPT t’a poussé à voir les choses sous un autre angle ou à être plus critique dans ta réflexion ? Totalement"
+- Code 5 : Utilisation de ChatGPT pour remettre en question ses connaissances
+- Verbatim : "j'obtiens une réponse complètement différente parce que en réalité bah je savais pas du tout"
+
+### Thème 3 : Rôle de ChatGPT comme assistant
+- Code 1 : Disponibilité et rapidité
+- Verbatim : "le fait que c’est dispo tout le temps, ça te change des autres ressources que tu utilises ? Oui littéralement"
+- Code 2 : Utilisation quotidienne de ChatGPT
+- Verbatim : "ça devient un assistant quand on l'utilise quotidiennement"
+- Code 3 : Utilité dans la recherche d'informations
+- Verbatim : "c'est comme si on avait quelqu'un qui savait tout juste à côté de nous"
+- Code 4 : Limite de ChatGPT
+- Verbatim : "le seul truc c'est qu'on n'est pas certain qu'il nous disent tout le temps la vérité"
+- Code 5 : Gain de productivité
+- Verbatim : "c'est vraiment quelque chose qui va être extrêmement pratique"
+
+### Thème 4 : Avantage comparatif dans le travail académique
+- Code 1 : Perception d'un avantage par rapport aux autres étudiants
+- Verbatim : "Et tu penses que ChatGPT te donne un petit plus par rapport aux autres étudiants ?"
+- Code 2 : Impact sur le travail académique
+- Verbatim : "c'est un outil extrêmement puissant dans le sens où… Enfin comme je le disais avant il y a cette manière d'avoir des réponses aux questions"
+- Code 3 : Utilisation stratégique de ChatGPT
+- Verbatim : "maintenant je sais aussi ce qu'il faut demander à chatGPT et comment le demander pour obtenir une réponse"
+- Code 4 : Gain en termes de connaissances
+- Verbatim : "ça permet de découvrir parfois de nouvelles choses"
+- Code 5 : Facilitation du travail
+- Verbatim : "c'est vraiment quelque chose qui va être extrêmement pratique"
+
+### Thème 5 : Interaction avec ChatGPT et évolution de l'utilisateur
+- Code 1 : Apprentissage de l'utilisation de ChatGPT
+- Verbatim : "maintenant je sais aussi ce qu'il faut demander à chatGPT et comment le demander"
+- Code 2 : Adaptation aux réponses de ChatGPT
+- Verbatim : "j'adapte en fonction"
+- Code 3 : Développement d'une stratégie d'utilisation
+- Verbatim : "je demande d'abord à chat GPT ça me donne une vague idée de ce que je dois faire"
+- Code 4 : Évolution de la confiance dans les réponses de ChatGPT
+- Verbatim : "on n'est pas certain qu'il nous disent tout le temps la vérité"
+- Code 5 : Intégration de ChatGPT dans le flux de travail
+- Verbatim : "ça devient un assistant quand on l'utilise quotidiennement"
+
+Ces thèmes et codes illustrent comment ChatGPT est intégré dans le travail de Romain, influençant sa méthode de travail, sa réflexion critique, et sa productivité. L'analyse met en évidence les avantages et les limites de l'utilisation de ChatGPT, ainsi que son impact sur le travail académique et la manière dont les utilisateurs interagissent avec cet outil.

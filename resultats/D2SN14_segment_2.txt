@@ -1,0 +1,56 @@
+Je vais analyser l'entretien suivant en respectant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Les centres d'intérêt et la perception de la sociologie**
+
+- Thème 1 : Les centres d'intérêt d'Alexis
+ - Code 1 : Intérêt pour la sociologie
+ - Verbatim : "sociologie des organisations, sociologie politique, sociologie du numérique…"
+ - Code 2 : Goût pour la théorie et le terrain
+ - Verbatim : "J’aime bien quand on mélange théorie et terrain, surtout quand il y a des enquêtes, des observations ou des entretiens à mener"
+ - Code 3 : Curiosité et intérêt pour les médias et l'information
+ - Verbatim : "J’ai aussi un gros intérêt pour les médias et la manière dont l’information circule aujourd’hui."
+ - Code 4 : Habitudes de lecture et de documentation
+ - Verbatim : "j’aime bien lire, regarder des documentaires et discuter de sujets de société."
+ - Code 5 : Analyse critique
+ - Verbatim : "J’aime bien creuser les choses, remettre en question ce qu’on prend pour acquis, et essayer de comprendre le monde sous différents angles."
+
+**Segment 2 : La perception et l'utilisation de ChatGPT**
+
+- Thème 2 : Définition et perception initiale de ChatGPT
+ - Code 1 : Définition de ChatGPT
+ - Verbatim : "Pour moi, ChatGPT, l'intelligence artificielle en général, c'est un outil qui permet de t'aider dans ton travail"
+ - Code 2 : Association à la triche
+ - Verbatim : "quand on me parle de ChatGPT, ça revient directement à la triche, c'est la facilité, c'est la paresse"
+ - Code 3 : Utilisation pour les devoirs
+ - Verbatim : "tu peux t'aider avec ChatGPT, au lieu de par exemple tricher, tu vois, tu peux avec ce devoir demander à GPT"
+ - Code 4 : Révision et aide aux études
+ - Verbatim : "il y a également le fait que tu peux t'aider à réviser avec, j'en connais plein qui font ça."
+ - Code 5 : Évolution de la perception
+
+- Thème 3 : Expérience et fréquence d'utilisation de ChatGPT
+ - Code 1 : Découverte de ChatGPT
+ - Verbatim : "cet outil-là je l'ai découvert avec un ami, il m'en avait parlé"
+ - Code 2 : Fréquence d'utilisation
+ - Verbatim : "je pense au quotidien, peut-être que je peux l'utiliser une ou deux fois par semaine grand max."
+ - Code 3 : Utilisation initiale vs utilisation actuelle
+ - Verbatim : "au début je l'ai pas vraiment utilisé parce que à ce moment-là de ma vie, j'étais salarié... dès que j'ai repris les cours, j'ai tenté et du coup oui, je l'ai utilisé pour m'aider"
+
+**Segment 3 : Relation avec la technologie et impact sur les études**
+
+- Thème 4 : Relation avec la technologie
+ - Code 1 : Évolution de la relation avec la technologie
+ - Verbatim : "ma relation avec la technologie a évolué avec le temps"
+ - Code 2 : Utilisation initiale de la technologie
+ - Verbatim : "avant, j’étais dans un mode où la technologie, c’était juste un outil pour aller plus vite, pour me faciliter la vie sans trop réfléchir aux conséquences."
+ - Code 3 : Prise de conscience de l'importance de l'utilisation intelligente
+ - Verbatim : "je me rends compte que la technologie, ça peut être un super atout, mais seulement si tu sais t’en servir intelligemment."
+ - Code 4 : Changement dans la manière d'utiliser ChatGPT
+ - Verbatim : "au lieu de juste demander une réponse et la recopier, je vais plutôt l’utiliser pour structurer mes idées, pour comprendre des trucs que j’ai du mal à capter par moi-même."
+
+- Thème 5 : Impact de ChatGPT sur les études de sociologie
+ - Code 1 : Utilisation de ChatGPT dans les études
+ - Verbatim : "j'en ai quand même besoin, par exemple, pour faire des résumés de livres"
+ - Code 2 : Activités universitaires où ChatGPT est utilisé
+ - Verbatim : "là, en ce moment, je l'utilise surtout pour m'aider à trouver des informations"
+ - Code 3 : Exemples d'utilisation
+ - Verbatim : "la semaine dernière, j'avais un PowerPoint à présenter, je demandais à ChatGPT comment je pourrais présenter ce PowerPoint, comment je peux le rendre attractif."

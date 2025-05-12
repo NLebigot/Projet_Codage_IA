@@ -1,0 +1,112 @@
+Voici l'analyse de l'entretien en respectant la méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Fiabilité et Limites de ChatGPT**
+
+- Code 1 : Perception de la fiabilité
+ - Verbatim : "Euh, pas trop fiable, comme j'ai dit."
+- Code 2 : Hallucinations et erreurs
+ - Verbatim : "Des fois, il fait des hallucinations"
+- Code 3 : Dépendance au modèle
+ - Verbatim : "ça dépend surtout du modèle. Là, le ChatGPT-4 est beaucoup plus efficace que l'ancienne version"
+- Code 4 : Sortir du contexte
+ - Verbatim : "souvent, il sort du contexte"
+- Code 5 : Paresse perçue
+ - Verbatim : "des fois, on a l'impression qu'il est paresseux lui-même"
+- Code 6 : Nécessité de surveillance
+ - Verbatim : "Il faut toujours surveiller ce qu'il est en train de générer"
+- Code 7 : Requêtes précises nécessaires
+ - Verbatim : "et toujours le remettre dans la ligne en insérant des consignes plus précises"
+- Code 8 : Déviation du sujet
+ - Verbatim : "il dévie du sujet"
+- Code 9 : Difficulté à obtenir les résultats escomptés
+ - Verbatim : "Des fois, j'ai l'impression que je n'arrive pas à obtenir ce que je voulais avec ChatGPT"
+- Code 10 : Vérification nécessaire
+ - Verbatim : "je vérifie toujours sur Google"
+
+**Thème 2 : Stratégies d'Interaction et de Vérification**
+
+- Code 1 : Vérification des ressources
+ - Verbatim : "je dois vérifier les ressources"
+- Code 2 : Utilisation de Google pour vérifier
+ - Verbatim : "je vérifie toujours sur Google"
+- Code 3 : Esprit critique nécessaire
+ - Verbatim : "il faut bien qu'il nous épargne la tâche de réfléchir et de critiquer"
+- Code 4 : Supervision active
+ - Verbatim : "Il faut toujours surveiller ce qu'il dit et superviser avec un esprit critique"
+- Code 5 : Stratégie spécifique pour la version payante
+ - Verbatim : "je trouve que cette stratégie est efficace seulement dans la version payante de ChatGPT"
+- Code 6 : Personnalisation des requêtes
+ - Verbatim : "des fois, je lui donne trop de requêtes pour personnaliser"
+- Code 7 : Style robotique perçu
+ - Verbatim : "il génère souvent des textes avec ce style robotique qui est très connu"
+- Code 8 : Tentatives d'humanisation
+ - Verbatim : "pour insérer un peu d'humanisation dans le texte, pour faire un storytelling"
+- Code 9 : Limites de la personnalisation
+ - Verbatim : "des fois, ça marche, des fois, ça ne marche pas"
+- Code 10 : Blocage dans le style robotique
+ - Verbatim : "Il est toujours bloqué dans ce style robotique"
+
+**Thème 3 : Utilisation et Modification des Réponses de ChatGPT**
+
+- Code 1 : Modification des réponses
+ - Verbatim : "Non, je les modifie"
+- Code 2 : Style répétitif perçu
+ - Verbatim : "je vois que souvent il a un style répétitif"
+- Code 3 : Expressions très répétitives
+ - Verbatim : "on constate donc des expressions très répétitives"
+- Code 4 : Nécessité de supervision
+ - Verbatim : "Il faut donc toujours superviser ce que ChatGPT est en train de générer"
+- Code 5 : Esprit critique pour la révision
+ - Verbatim : "et toujours revoir le travail avec un esprit critique"
+- Code 6 : Fiabilité non totale
+ - Verbatim : "parce que ChatGPT n'est pas encore un outil 100 % fiable"
+- Code 7 : Utilisation pour les lettres de motivation
+ - Verbatim : "quand je postule à des stages"
+- Code 8 : Critique des réponses générées
+ - Verbatim : "remettre tout en question"
+- Code 9 : Adaptation des réponses
+ - Verbatim : "je modifie"
+- Code 10 : Prise en compte des limites
+
+**Thème 4 : Impact sur la Réflexion et l'Esprit Critique**
+
+- Code 1 : Élargissement du champ de réflexion
+ - Verbatim : "il nous élargit notre champ de réflexion et nous incite à voir les problématiques et à les aborder d'une façon différente"
+- Code 2 : Nouvelles idées et solutions
+ - Verbatim : "Il nous propose d'autres solutions, d'autres idées"
+- Code 3 : Influence sur la pensée
+ - Verbatim : "Je ne dirais pas qu'il a changé ma façon de penser de manière radicale, mais il pousse à revoir les choses sous un autre angle"
+- Code 4 : Perception d'une perspective humaine
+ - Verbatim : "comme si une personne humaine partageait sa perception avec nous"
+- Code 5 : Fascinations par les idées innovantes
+ - Verbatim : "on est un peu fasciné, impressionné par les idées innovantes et créatives que ChatGPT nous propose"
+- Code 6 : Suivi de l'exemple de ChatGPT
+ - Verbatim : "En même temps, on suit son exemple"
+- Code 7 : Impact sur la pensée critique
+ - Verbatim : "il pousse à revoir les choses sous un autre angle"
+- Code 8 : Perception de l'utilité de ChatGPT
+ - Verbatim : "il nous propose d'autres solutions, d'autres idées"
+- Code 9 : Utilisation pour élargir les perspectives
+- Code 10 : Valeur ajoutée de ChatGPT dans la réflexion
+
+**Thème 5 : Rôle d'Accompagnement et Avantage**
+
+- Code 1 : Disponibilité de ChatGPT
+ - Verbatim : "ChatGPT est toujours disponible"
+- Code 2 : Réactivité de ChatGPT
+ - Verbatim : "Il est prêt à répondre à n'importe quelle question"
+- Code 3 : Accessibilité constante
+ - Verbatim : "ce qui est rare chez une personne humaine"
+- Code 4 : Limites de la comparaison avec un humain
+ - Verbatim : "Il ne peut même pas être comparé à un humain sur ce point"
+- Code 5 : Avantage perçu
+ - Verbatim : "Oui. D'une part, ChatGPT est toujours disponible"
+- Code 6 : Rôle d'accompagnement
+ - Verbatim : "il est très réactif et prêt à aider sur tous types de sujets"
+- Code 7 : Perception de l'aide fournie
+ - Verbatim : "il est prêt à répondre à n'importe quelle question"
+- Code 8 : Utilité pour les étudiants
+- Code 9 : Gain de productivité
+- Code 10 : Utilité dans les études
+
+Ces thèmes et codes offrent une analyse approfondie de l'entretien, mettant en lumière les perceptions, les stratégies et les impacts liés à l'utilisation de ChatGPT.

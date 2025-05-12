@@ -1,0 +1,111 @@
+Voici l'analyse du verbatim en 5 thèmes distincts avec environ 10 codes chacun :
+
+**Thème 1 : Rôle de l'intelligence artificielle**
+- Code 1 : Utilisation comme outil
+  - Verbatim : "En fait, je souhaiterais qu'en général, l'intelligence artificielle soit un outil pour l'humain pour qu'il améliore ses pratiques"
+- Code 2 : Risque de substitution
+  - Verbatim : "mais qu'il ne devienne pas la réponse à tout, qu'il ne devienne pas la solution et la finalité du travail."
+- Code 3 : Limite dans la créativité
+  - Verbatim : "Si la finalité d'un travail est quelconque, que ce soit un travail écrit, oral, etc., etc., ça va pas, parce que c'est plus l'humain."
+- Code 4 : Authenticité du travail
+  - Verbatim : "Moi, je verrais mal le fait de mettre mon prénom sur un travail fait par IA."
+- Code 5 : Distinction humain/machine
+  - Verbatim : "Et je... Pour moi, c'est un vrai souci, un vrai problème, parce que maintenant, faire la différence, ça devient difficile."
+- Code 6 : Assistance
+  - Verbatim : "c'est un peu un assistant, c'est un peu un... Il vérifie tes trucs, toi tu produis, tu lui fais, ok tu me regardes ça pendant que moi je fais la suite."
+- Code 7 : Contrôle humain
+  - Verbatim : "Et c'est... En fait c'est ça que je veux, c'est qu'il donne des pistes et non pas qu'il donne la réponse."
+- Code 8 : Préoccupation éthique
+  - Verbatim : "Et justement, s'il te donne les réponses, même si tu sais que c'est une intelligence artificielle et qu'il peut avoir accès à des milliards de bases de données ou je sais pas quoi, comment tu t'assures qu'il dit quelque chose de juste ?"
+- Code 9 : Responsabilité
+  - Verbatim : "Donc autant que ce soit toi qui donne la réponse, Quitte à être faux, c'est toi."
+- Code 10 : Préférence pour l'erreur humaine
+  - Verbatim : "Quitte à être faux, c'est toi. Enfin, moi, je le vois comme ça."
+
+**Thème 2 : Interaction avec l'intelligence artificielle**
+- Code 1 : Utilisation pour la correction
+  - Verbatim : "Souvent je lui demande de corriger mon orthographe par exemple."
+- Code 2 : Limitations de la version gratuite
+  - Verbatim : "les sites pour corriger l'orthographe sont souvent payants et c'est souvent des applis payantes"
+- Code 3 : Utilisation de la version gratuite
+  - Verbatim : "je n'ai pas la version payante de JGPT, j'ai la version gratuite pour préciser."
+- Code 4 : Critique des suggestions de l'IA
+  - Verbatim : "souvent il tourne ma phrase moins bien que ce que j'avais fait de base."
+- Code 5 : Vérification par l'utilisateur
+  - Verbatim : "c'est souvent pour vérifier, encore une fois, c'est pour vérifier ce que je fais et non pas me donner comment je fais."
+- Code 6 : Rôle de l'utilisateur
+  - Verbatim : "Toujours."
+- Code 7 : Demande d'amélioration
+  - Verbatim : "Ou alors je lui demande quelle phrase est mal tournée par exemple."
+- Code 8 : Feedback de l'IA
+  - Verbatim : "Et juste il me dit, ah cette phrase aurait pu être tournée différemment."
+- Code 9 : Interaction comme un dialogue
+  - Verbatim : "Il vérifie tes trucs, toi tu produis, tu lui fais, ok tu me regardes ça pendant que moi je fais la suite."
+- Code 10 : Contrôle des réponses de l'IA
+  - Verbatim : "Et après il te donne la réponse en mode, ah ça c'est bien, ça c'est bien, ça pourrait être amélioré ça."
+
+**Thème 3 : Perception de l'intelligence artificielle**
+- Code 1 : Perception comme un outil
+  - Verbatim : "l'intelligence artificielle soit un outil pour l'humain"
+- Code 2 : Préoccupation concernant la fiabilité
+  - Verbatim : "comment tu t'assures qu'il dit quelque chose de juste ?"
+- Code 3 : Inquiétude face à la substitution
+  - Verbatim : "le fait de mettre mon prénom sur un travail fait par IA."
+- Code 4 : Valeur accordée à l'authenticité
+  - Verbatim : "c'est plus l'humain."
+- Code 5 : Appréciation de l'assistance
+  - Verbatim : "c'est un peu un assistant"
+- Code 6 : Limitations reconnues
+  - Verbatim : "il donne des réponses, même si tu sais que c'est une intelligence artificielle et qu'il peut avoir accès à des milliards de bases de données ou je sais pas quoi"
+- Code 7 : Doute sur la qualité des réponses
+  - Verbatim : "comment tu t'assures qu'il dit quelque chose de juste ?"
+- Code 8 : Préférence pour une interaction limitée
+  - Verbatim : "c'est qu'il donne des pistes et non pas qu'il donne la réponse."
+- Code 9 : Distinction entre aide et remplacement
+  - Verbatim : "vérifier ce que je fais et non pas me donner comment je fais."
+- Code 10 : Acceptation de la responsabilité
+  - Verbatim : "Quitte à être faux, c'est toi."
+
+**Thème 4 : Utilisation pratique de l'intelligence artificielle**
+- Code 1 : Utilisation pour la correction orthographique
+  - Verbatim : "corriger mon orthographe par exemple."
+- Code 2 : Utilisation pour améliorer la formulation
+  - Verbatim : "quelle phrase est mal tournée par exemple."
+- Code 3 : Appréciation des suggestions
+  - Verbatim : "Il me dit, ah cette phrase aurait pu être tournée différemment."
+- Code 4 : Critique des suggestions
+  - Verbatim : "souvent il tourne ma phrase moins bien que ce que j'avais fait de base."
+- Code 5 : Utilisation complémentaire
+  - Verbatim : "c'est pour vérifier ce que je fais"
+- Code 6 : Rôle de vérification
+  - Verbatim : "Toujours."
+- Code 7 : Interaction avec l'IA
+  - Verbatim : "Il vérifie tes trucs, toi tu produis"
+- Code 8 : Nature de l'interaction
+  - Verbatim : "c'est un peu un assistant"
+- Code 9 : But de l'utilisation
+  - Verbatim : "c'est pour vérifier ce que je fais et non pas me donner comment je fais."
+- Code 10 : Contrôle de l'utilisateur
+  - Verbatim : "Toujours."
+
+**Thème 5 : Préoccupations concernant l'impact de l'intelligence artificielle**
+- Code 1 : Impact sur l'authenticité
+  - Verbatim : "Si la finalité d'un travail est quelconque... c'est plus l'humain."
+- Code 2 : Risque de dépendance
+  - Verbatim : "qu'il ne devienne pas la réponse à tout"
+- Code 3 : Préoccupation éthique
+  - Verbatim : "faire la différence, ça devient difficile."
+- Code 4 : Inquiétude concernant la responsabilité
+  - Verbatim : "comment tu t'assures qu'il dit quelque chose de juste ?"
+- Code 5 : Valeur accordée à la créativité humaine
+  - Verbatim : "c'est plus l'humain."
+- Code 6 : Appréhension face à la substitution
+  - Verbatim : "Moi, je verrais mal le fait de mettre mon prénom sur un travail fait par IA."
+- Code 7 : Doute sur la capacité de discernement
+  - Verbatim : "faire la différence, ça devient difficile."
+- Code 8 : Importance de la vérification humaine
+  - Verbatim : "c'est pour vérifier ce que je fais"
+- Code 9 : Acceptation de la responsabilité
+  - Verbatim : "Quitte à être faux, c'est toi."
+- Code 10 : Préoccupation pour l'avenir
+  - Verbatim : "ça doit rester un outil qui peut aiguiller, qui peut donner des réponses ponctuelles"

@@ -1,0 +1,63 @@
+Je vais procéder à l'analyse de l'entretien en respectant la méthode de codage qualitatif demandée. Voici les résultats :
+
+### Thème 1 : Perception et utilisation de ChatGPT
+- Code 1 : Utilisation réfléchie
+  - Verbatim : "ça me fait aussi réfléchir à ma propre utilisation"
+- Code 2 : Prise de conscience de la dépendance
+  - Verbatim : "surtout quand tu as parlé de dépendance je pense que c'est pas... je le percevais pas forcément comme ça"
+- Code 3 : Utilisation pour la rédaction et la réflexion académique
+  - Verbatim : "comme une manière de présenter ChatGPT comme un outil, savoir ce qui peut être utile pour accompagner un processus de rédaction ou de réflexion académique"
+- Code 4 : Réflexion sur l'approche personnelle
+  - Verbatim : "Je pense que ça m'amène aussi un peu à préciser mon approche et à mieux définir ce que j'en fais"
+- Code 5 : Discussion avec le directeur de recherche
+  - Verbatim : "ou dans le cas où je devrais par exemple en discuter avec mon directeur de recherche"
+
+### Thème 2 : Intégration de ChatGPT dans le milieu académique
+- Code 1 : Nécessité de formation
+  - Verbatim : "Peut-être que des formations ou des..."
+- Code 2 : Discussions dans les cours
+  - Verbatim : "tout simplement d'en parler dans les cours dispensés à l'université par les enseignants eux-mêmes"
+- Code 3 : Positionnement des enseignants
+  - Verbatim : "si chaque enseignant ou enseignante donne sa position vis-à-vis de ChatGPT"
+- Code 4 : Utilité pour les étudiants
+  - Verbatim : "Ça peut être utile, je pense, pour les étudiantes et les étudiants"
+- Code 5 : Perception des enseignants sur l'utilisation de ChatGPT
+  - Verbatim : "des enseignants qui ont aussi eux une idée un peu... de ce que peuvent en faire leurs étudiantes et étudiants"
+
+### Thème 3 : Tabou et perception négative de ChatGPT
+- Code 1 : Diabolisation de ChatGPT
+  - Verbatim : "ce tabou tend à un petit peu diaboliser presque plus que de raison ce genre d'outils"
+- Code 2 : Perception négative des enseignants
+  - Verbatim : "les personnes qui ne l'utilisent pas, donc quand j'ai des personnes plutôt dans un corps enseignant, ces personnes-là ont peut-être un avis défavorable"
+- Code 3 : Contribution au tabou
+  - Verbatim : "ça participe au tabou"
+- Code 4 : Image faussée de l'utilisation de ChatGPT
+  - Verbatim : "les profs se font presque une image faussée de comment on l'utilise"
+- Code 5 : Nécessité d'ouvrir le dialogue
+  - Verbatim : "Donc il faudrait ouvrir le dialogue, selon moi, en gros"
+
+### Thème 4 : Discours et positionnement sur ChatGPT
+- Code 1 : Discours orientés des professeurs
+  - Verbatim : "on aurait aussi des discours un petit peu orientés ?"
+- Code 2 : Influence de la discipline sur la perception
+  - Verbatim : "Si c'est un professeur qui est en informatique comme ça, il aurait peut-être plus de facilité à considérer ces nouveaux objets, disons"
+- Code 3 : Mentionner le positionnement
+  - Verbatim : "Peut-être juste mentionner le positionnement du prof vis-à-vis de ça"
+- Code 4 : Variabilité dans l'utilisation
+  - Verbatim : "il y en a certainement dans le tas des étudiants qui utilisent ChatGPT, peut-être de manière abusive... mais il y en a peut-être beaucoup aussi qui l'utilisent de manière... plus occasionnelle"
+- Code 5 : Utilisation modérée
+  - Verbatim : "pas besoin d'en faire beaucoup, mais..."
+
+### Thème 5 : Impact sur la pratique académique
+- Code 1 : Impact sur la manière de travailler
+  - Verbatim : "concernant ChatGPT et sur ce que ça a eu comme impact sur ta manière de travailler et d'étudier"
+- Code 2 : Réflexion sur l'utilisation personnelle
+  - Verbatim : "ça me fait aussi réfléchir à ma propre utilisation"
+- Code 3 : Utilisation pour la reformulation
+  - Verbatim : "comme toi, avec les reformulations"
+- Code 4 : Changement de perspective
+  - Verbatim : "ça amène aussi à d'autres réflexions"
+- Code 5 : Précision de l'approche
+  - Verbatim : "Je pense que ça m'amène aussi un peu à préciser mon approche et à mieux définir ce que j'en fais"
+
+Chaque thème regroupe des codes qui reflètent les idées et les verbatims associés extraits de l'entretien. Les thèmes et les codes offrent une analyse détaillée de la perception et de l'utilisation de ChatGPT, ainsi que de son intégration dans le milieu académique.

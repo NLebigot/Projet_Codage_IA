@@ -1,0 +1,73 @@
+Voici l'analyse de l'entretien en respectant la méthode de codage qualitatif :
+
+**Segment 1 : Utilisation de la technologie digitale**
+
+- **Thème 1 : Évolution de l'utilisation de la plateforme**
+ - Code 1 : Augmentation de l'utilisation
+ - Verbatim : "Je pense que je l'utilise un peu plus longtemps peut-être."
+ - Code 2 : Changement dans la manière d'utiliser
+ - Verbatim : "Avant, c'était une question de préciser tout."
+ - Code 3 : Utilisation plus fréquente
+ - Verbatim : "Je l'utilisais peut-être de temps en temps."
+ - ... 
+ - Code 10 : Utilisation prolongée
+ - Verbatim : "Quand je vais sur la plateforme, j'utilise plus longtemps."
+
+- **Thème 2 : Confiance et aisance avec la technologie**
+ - Code 1 : Confiance avec la technologie digitale
+ - Verbatim : "Je me sens en confiance avec."
+ - Code 2 : Utilisation quotidienne
+ - Verbatim : "J'utilise quasiment... Enfin, quotidiennement, toutes les heures."
+ - Code 3 : Aisance avec les outils numériques
+ - Verbatim : "Je suis assez à l'aise avec, je trouve."
+ - ... 
+ - Code 10 : Capacité à aider les autres
+ - Verbatim : "J'aide souvent aussi d'autres personnes qui bug."
+
+**Segment 2 : Perception de la technologie et de son évolution**
+
+- **Thème 3 : Perception de la technologie**
+ - Code 1 : Fascination pour la technologie
+ - Verbatim : "Je crois que je suis un peu fascinée."
+ - Code 2 : Vision de la technologie comme un progrès
+ - Verbatim : "C'est vraiment la technologie, ça avance, c'est le progrès."
+ - Code 3 : Préoccupation concernant la régulation
+ - Verbatim : "Il faut les utiliser, mais c'est vrai qu'il y a encore un manque peut-être de réglementation."
+ - ... 
+ - Code 10 : Questionnement sur le contrôle de la technologie
+ - Verbatim : "Est-ce que vraiment il faut absolument pousser la technologie à un point où on n'arrive plus à la contrôler ?"
+
+- **Thème 4 : Impact du master sur la perception de la technologie**
+ - Code 1 : Influence du master sur la perception
+ - Verbatim : "Maintenant que je fais mon master, j'ai un peu plus de, comment dire, de recul."
+ - Code 2 : Sensibilisation aux enjeux
+ - Verbatim : "Je me dis, est-ce que vraiment il faut absolument pousser la technologie à un point où on n'arrive plus à la contrôler ?"
+ - Code 3 : Prise de conscience des limites
+ - Verbatim : "Est-ce qu'on sait vraiment ce qu'ils peuvent faire ?"
+ - ... 
+ - Code 10 : Nouveau regard sur la technologie
+ - Verbatim : "C'est nouveau dans ma tête, ça, du coup, grâce au master."
+
+**Segment 3 : Utilisation de Chat GPT et préoccupations**
+
+- **Thème 5 : Utilisation de Chat GPT pour les activités universitaires**
+ - Code 1 : Utilisation pour la réflexion
+ - Verbatim : "C'était plutôt m'aider à réfléchir sur des thèmes."
+ - Code 2 : Utilisation pour la recherche d'informations
+ - Verbatim : "Trouver est-ce que les thèmes sont pertinents."
+ - Code 3 : Utilisation pour résumer des articles
+ - Verbatim : "De résumer des articles aussi, c'est pas mal."
+ - ... 
+ - Code 10 : Limite dans l'utilisation
+ - Verbatim : "J'essaie de pas trop mettre de contenu sur ça."
+
+- **Thème 6 : Préoccupations liées à l'utilisation de Chat GPT**
+ - Code 1 : Risque de fausses utilisations
+ - Verbatim : "Il y a des risques de... Je sais pas, de... De fausses utilisations."
+ - Code 2 : Préoccupation concernant le droit d'auteur
+ - Verbatim : "J'avais entendu dire que- Enfin, il se nourrit aussi de ce qu'on met, en fait."
+ - Code 3 : Crainte de perte de contrôle sur les données
+ - Verbatim : "Les filles en fait ça se trouve perdu sur les données des grandes bases de données, des images."
+ - ... 
+ - Code 10 : Prudence dans l'utilisation
+ - Verbatim : "Faire attention avec ça quoi."

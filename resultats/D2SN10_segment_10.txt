@@ -1,0 +1,119 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Interaction avec l'IA**
+
+- Thème : **Limites de l'IA**
+ - Code 1 : Limitations des données
+ - Verbatim : "ma base de données s'arrête, je crois, le 31 décembre 2021 donc je ne peux pas te donner d’information qui dépasse cette chronologie."
+ - Code 2 : Erreur d'information
+ - Verbatim : "quand j'ai demandé quand il était mort en mars, quelques mois après, le truc m'a dit, bah écoute, pour moi il est vivant."
+ - Code 3 : Nécessité de vérification
+ - Verbatim : "tu vérifies les informations que te fournit Lya parce que on ne sait jamais."
+ - Code 4 : Dépendance aux données
+ - Verbatim : "les informations que les IA vont te donner... ma base de données s'arrête"
+ - Code 5 : Limite de la chronologie
+ - Verbatim : "je ne peux pas te donner d’information qui dépasse cette chronologie."
+ - Code 6 : Actualisation nécessaire
+ - Verbatim : "il faut que derrière les devs mettent à jours la base de données."
+ - Code 7 : Risque d'inexactitude
+ - Verbatim : "on ne sait jamais les choses, c'est pas toutes les choses"
+ - Code 8 : Importance du regard critique
+ - Verbatim : "tu as quand même un regard critique et tu vérifies les informations"
+ - Code 9 : Limite de la connaissance
+ - Verbatim : "je ne sais pas si c'est juste ou pas"
+ - Code 10 : Mise à jour nécessaire
+ - Verbatim : "les devs mettent à jours la base de données"
+
+- Thème : **Demande d'information**
+ - Code 1 : Demande de détail
+ - Verbatim : "je lui demande de plus me détailler sa démarche."
+ - Code 2 : Recherche d'information
+ - Verbatim : "je demandais qui était au pouvoir en France et en Angleterre lors de la crise des Sudètes"
+ - Code 3 : Information complémentaire
+ - Verbatim : "donne moi par exemple qui était, enfin... aux USA et ainsi de suite."
+ - Code 4 : Réponse insatisfaisante
+ - Verbatim : "si jamais la réponse me convient pas, je lui demande de détailler"
+ - Code 5 : Demande de clarification
+ - Verbatim : "je reforume de sorte, à ce que ce soit plus clair."
+ - Code 6 : Utilisation de l'IA
+ - Verbatim : "j'en fais moi le moins possible."
+ - Code 7 : Alternative à l'IA
+ - Verbatim : "je vais voir sur d’autres sources, d’autres sites."
+ - Code 8 : Gain de temps
+ - Verbatim : "l’IA dans l’usage que j'en fais, c'est un gain de temps"
+ - Code 9 : Facilité d'utilisation
+ - Verbatim : "je pose une question simple comme explique moi ceci ou cela et c'est tout."
+ - Code 10 : Satisfaction de la réponse
+ - Verbatim : "si c'est sa réponse qui me convient, bah tant mieux"
+
+**Segment 2 : Perception de l'IA**
+
+- Thème : **Biais et Neutralité**
+ - Code 1 : Biais des développeurs
+ - Verbatim : "il y a un côté de qui a fait l’IA et quel but ?"
+ - Code 2 : Influence des créateurs
+ - Verbatim : "les développeurs peuvent avoir mis certains point de vue, de volonté dedans."
+ - Code 3 : Neutralité de l'IA
+ - Verbatim : "je pense pas qu’il y ait une notion de neutralité"
+ - Code 4 : Comparaison avec Wikipédia
+ - Verbatim : "un peu comme wikipédia dans un sens"
+ - Code 5 : Exemple de biais
+ - Verbatim : "Taiwan est un pays ou pas."
+ - Code 6 : Différence entre les IA
+ - Verbatim : "Deepseek sera beaucoup moins encline à me dire que Taiwan est un pays."
+ - Code 7 : Objectivité
+ - Verbatim : "pas de notion de neutralité"
+ - Code 8 : Perception du biais
+ - Verbatim : "je pense que Deepseek sera beaucoup moins encline"
+ - Code 9 : Impact du biais
+ - Verbatim : "les développeurs peuvent avoir mis certains point de vue"
+ - Code 10 : Conscience du biais
+ - Verbatim : "je suis conscient que les développeurs peuvent avoir des points de vue"
+
+- Thème : **Utilisation de l'IA**
+ - Code 1 : Gain de temps
+ - Verbatim : "l’IA dans l’usage que j'en fais, c'est un gain de temps"
+ - Code 2 : Utilisation pratique
+ - Verbatim : "je pose une question simple comme explique moi ceci ou cela"
+ - Code 3 : Traduction et compréhension
+ - Verbatim : "pour la traduction ou la compréhension de langue est très utile."
+ - Code 4 : Demande de simplification
+ - Verbatim : "explique moi la théorie marginaliste simplement"
+ - Code 5 : Utilisation complémentaire
+ - Verbatim : "je vais lui demander au pire de me réexpliquer"
+ - Code 6 : Alternative à d'autres outils
+ - Verbatim : "au lieu d'ouvrir un Google Trad ou un reverso"
+ - Code 7 : Facilité d'utilisation
+ - Verbatim : "je demande directement à elle"
+ - Code 8 : Utilisation ciblée
+ - Verbatim : "pour la traduction ou la compréhension de langue"
+ - Code 9 : Gain de productivité
+ - Verbatim : "c'est un gain de temps"
+ - Code 10 : Simplification
+ - Verbatim : "explique moi ceci ou cela simplement"
+
+**Segment 3 : Impact de l'IA sur le travail**
+
+- Thème : **Changement de méthode de travail**
+ - Code 1 : Pas de changement
+ - Verbatim : "honnêtement non, dans le sens où je prends l'IA pour ce qu'elle est"
+ - Code 2 : Utilisation limitée
+ - Verbatim : "je prends ce qu'elle me dira pour [?]"
+ - Code 3 : Complémentarité
+ - Verbatim : "je vais demander de m'expliquer un truc rapidement."
+ - Code 4 : Pas d'impact sur la méthode
+ - Verbatim : "je prends l'IA pour ce qu'elle est, à savoir un gain de temps"
+ - Code 5 : Utilisation ponctuelle
+ - Verbatim : "si je veux détailler, je le regarde dans mon cours, ou alors sur Internet"
+ - Code 6 : Recherche d'information
+ - Verbatim : "je vais voir sur d’autres sources, d’autres sites."
+ - Code 7 : Pas de modification
+ - Verbatim : "honnêtement non"
+ - Code 8 : Utilisation comme outil
+ - Verbatim : "l’IA, c'est un gain de temps"
+ - Code 9 : Limite de l'IA
+ - Verbatim : "je ne vais pas compter sur elle pour tout"
+ - Code 10 : Autonomie
+ - Verbatim : "je vais voir sur d’autres sources"
+
+Ces thèmes et codes offrent une analyse qualitative de l'entretien, mettant en évidence les limites de l'IA, son utilisation pratique, les biais potentiels et son impact sur la méthode de travail de l'enquêté.

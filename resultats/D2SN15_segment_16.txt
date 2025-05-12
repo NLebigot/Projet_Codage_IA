@@ -1,0 +1,113 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici les résultats :
+
+**Segment 1 : Perception de l'IA comme outil**
+
+- Thème : Intégration de l'IA dans les sciences sociales
+ - Code 1 : Perception de l'IA comme un outil
+ - Verbatim : "le voir vraiment comme un outil"
+ - Code 2 : Nécessité d'adopter cette perspective
+ - Verbatim : "les sciences humaines doivent aussi le prendre comme tel"
+ - Code 3 : Référence aux autres disciplines
+ - Verbatim : "c’est déjà bien vu au sein d’autres disciplines, on va dire, des sciences dures"
+ - Code 4 : Importance de la définition de l'IA comme outil
+ - Verbatim : "définir à quel point ça peut aider les sciences sociales, et justement, à quel point c’est un outil"
+ - Code 5 : Utilisation appropriée de l'IA
+ - Verbatim : "savoir comment l’utiliser en tant qu’outil"
+ - Code 6 : Avantages de cette approche
+ - Verbatim : "ça permettrait aussi de prendre ce qu’il y a de bon, tout en… sans perdre ce qu’elles ont en soi"
+ - Code 7 : Préoccupations éthiques
+ - Verbatim : "la question d’éthique était quand même très présente"
+ - Code 8 : Nécessité de surmonter les réticences
+ - Verbatim : "pas avoir cette réticence aussi forte, et juste le prendre, le prendre aussi"
+ - Code 9 : Exploration des possibilités
+ - Verbatim : "voir comment ça…"
+ - Code 10 : Utilisation en parallèle
+ - Verbatim : "l’utiliser un peu en parallèle, en culture, entre guillemets"
+
+- Thème : Impact sur l'identité disciplinaire
+ - Code 1 : Crise d'identité des sciences sociales
+ - Verbatim : "on a beaucoup de mal, en sciences sociales, à se définir comme science"
+ - Code 2 : Disciplines concernées
+ - Verbatim : "que ce soit la sociologie, l’histoire ou l’économie"
+ - Code 3 : Perception de l'IA comme une menace
+ - Verbatim : "amener une IA, ça peut mettre en danger ça"
+ - Code 4 : Question de légitimité
+ - Verbatim : "à quoi bon se définir encore comme une science, alors qu’elle peut le faire ?"
+ - Code 5 : Peur associée à l'IA
+ - Verbatim : "il y a une très grosse peur de ça"
+ - Code 6 : Légitimité de la peur
+ - Verbatim : "qui peut être légitime"
+ - Code 7 : Nécessité de dépasser cette peur
+ - Verbatim : "mais c’est justement prendre le dessus là-dessus"
+ - Code 8 : Utilisation appropriée de l'IA
+ - Verbatim : "voir sur quoi ça nous aide, et après, pouvoir l’utiliser"
+ - Code 9 : Enjeu disciplinaire
+ - Verbatim : "c’est un enjeu… enfin, à la base, c’est une question de discipline"
+ - Code 10 : Répercussions sur l'université
+ - Verbatim : "qui a de grosses répercussions sur la manière de la prendre, et donc, sur l’université"
+
+- Thème : Répercussions sur la pratique universitaire
+ - Code 1 : Impact sur les chercheurs
+ - Verbatim : "une fois que des chercheurs, ça… c’est un peu pris en compte"
+ - Code 2 : Redéfinition des enjeux
+ - Verbatim : "et on redéfinit un peu les enjeux de ça"
+ - Code 3 : Enjeux pratiques
+ - Verbatim : "je pense que c’est des gros enjeux qu’il y a à faire dans la pratique universitaire"
+ - Code 4 : Importance de l'adoption de l'IA
+ - Verbatim : "ça servirait vraiment aux sciences sociales"
+ - Code 5 : Préservation de l'identité
+ - Verbatim : "sans perdre ce qu’elles ont en soi"
+ - Code 6 : Capacité à utiliser l'IA
+ - Verbatim : "savoir comment l’utiliser en tant qu’outil"
+ - Code 7 : Développement de la culture de l'IA
+ - Verbatim : "l’utiliser un peu en parallèle, en culture, entre guillemets"
+ - Code 8 : Exploration des bénéfices
+ - Verbatim : "voir sur quoi ça nous aide"
+ - Code 9 : Intégration dans les disciplines
+ - Verbatim : "les sciences humaines doivent aussi le prendre comme tel"
+ - Code 10 : Changement dans la pratique
+ - Verbatim : "gros répercussions sur la manière de la prendre"
+
+- Thème : Perception de l'IA et de son utilisation
+ - Code 1 : L'IA comme un outil potentiel
+ - Verbatim : "le voir vraiment comme un outil"
+ - Code 2 : Utilisation en tant qu'outil
+ - Verbatim : "savoir comment l’utiliser en tant qu’outil"
+ - Code 3 : Intégration dans la culture
+ - Verbatim : "l’utiliser un peu en parallèle, en culture, entre guillemets"
+ - Code 4 : Impact sur l'identité
+ - Verbatim : "ça peut mettre en danger ça"
+ - Code 5 : Peur de la perte d'identité
+ - Verbatim : "il y a une très grosse peur de ça"
+ - Code 6 : Nécessité de dépasser les réticences
+ - Verbatim : "pas avoir cette réticence aussi forte"
+ - Code 7 : Exploration des possibilités
+ - Verbatim : "voir comment ça…"
+ - Code 8 : L'IA comme une aide
+ - Verbatim : "voir sur quoi ça nous aide"
+ - Code 9 : Utilisation bénéfique
+ - Verbatim : "ça permettrait aussi de prendre ce qu’il y a de bon"
+ - Code 10 : Préservation de l'essence des sciences sociales
+ - Verbatim : "sans perdre ce qu’elles ont en soi"
+
+- Thème : Défi pour les sciences sociales
+ - Code 1 : Crise d'identité
+ - Verbatim : "on a beaucoup de mal, en sciences sociales, à se définir comme science"
+ - Code 2 : Rôle de l'IA
+ - Verbatim : "amener une IA, ça peut mettre en danger ça"
+ - Code 3 : Perception de l'IA
+ - Verbatim : "le voir vraiment comme un outil"
+ - Code 4 : Impact sur la discipline
+ - Verbatim : "c’est un enjeu… enfin, à la base, c’est une question de discipline"
+ - Code 5 : Répercussions sur l'université
+ - Verbatim : "qui a de grosses répercussions sur la manière de la prendre, et donc, sur l’université"
+ - Code 6 : Nécessité d'adopter l'IA
+ - Verbatim : "les sciences humaines doivent aussi le prendre comme tel"
+ - Code 7 : Utilisation appropriée
+ - Verbatim : "savoir comment l’utiliser en tant qu’outil"
+ - Code 8 : L'IA comme un défi
+ - Verbatim : "je pense que c’est des gros enjeux qu’il y a à faire dans la pratique universitaire"
+ - Code 9 : Préoccupation éthique
+ - Verbatim : "la question d’éthique était quand même très présente"
+ - Code 10 : Potentiel pour les sciences sociales
+ - Verbatim : "ça servirait vraiment aux sciences sociales"

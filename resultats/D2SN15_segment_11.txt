@@ -1,0 +1,118 @@
+Voici l'analyse du texte en suivant la méthode de codage qualitatif :
+
+**Thème 1 : Perception de l'impact de ChatGPT sur les performances académiques**
+
+- Code 1 : Perception négative de l'impact de ChatGPT
+  - Verbatim : "je pense que ça trie des profils parce que des gens deviennent même moins bons"
+- Code 2 : Perte de singularité due à ChatGPT
+  - Verbatim : "ça standardise et compromet un peu tout le monde"
+- Code 3 : Utilisation excessive de ChatGPT
+  - Verbatim : "ceux qui auraient pu faire un travail très bien d'eux-mêmes, vont se complaire à utiliser ChatGPT"
+- Code 4 : Changement dans le rapport aux autres
+  - Verbatim : "ça change le rapport aux autres"
+- Code 5 : Différence entre les étudiants
+  - Verbatim : "ça trie des profils"
+- Code 6 : Conséquence sur la qualité du travail
+  - Verbatim : "on est moins bons que ce qu’on aurait pu être"
+- Code 7 : Perception de l'égalité d'accès
+  - Verbatim : "on a tous accès un peu à ça"
+- Code 8 : Effet sur la motivation
+  - Verbatim : "ça peut créer une différence"
+- Code 9 : Attitude envers l'utilisation de ChatGPT
+  - Verbatim : "je trouve que c’est impertinent"
+- Code 10 : Impact sur l'originalité
+  - Verbatim : "on aurait tous fait un truc un peu différent"
+
+**Thème 2 : Dépendance à ChatGPT et son impact sur les tâches académiques**
+
+- Code 1 : Dépendance pour les tâches de correction
+  - Verbatim : "je ne peux pas faire autrement maintenant"
+- Code 2 : Utilisation pour les tâches de traduction
+  - Verbatim : "tout ce qui est traduction de notre langue, c’est quand même très pratique"
+- Code 3 : Distinction entre dépendance et appétence
+  - Verbatim : "c’est pas une dépendance, c’est plus une appétence"
+- Code 4 : Dépendance antérieure aux correcteurs d'orthographe
+  - Verbatim : "j’étais déjà dépendante avant sur des correcteurs d’orthographe"
+- Code 5 : Limite de la relecture manuelle
+  - Verbatim : "c’est beaucoup, beaucoup de pages, donc juste, enfin…"
+- Code 6 : Aide pour les activités académiques
+  - Verbatim : "ça dépend"
+- Code 7 : Perception de l'utilité de ChatGPT
+  - Verbatim : "je pense que je ne peux pas faire autrement maintenant"
+- Code 8 : Changement dans les habitudes de travail
+  - Verbatim : "j’étais déjà dépendante avant"
+- Code 9 : Effet sur la confiance en soi
+  - Non représenté directement mais sous-entendu dans plusieurs verbatims.
+- Code 10 : Évaluation de l'aide apportée par ChatGPT
+  - Verbatim : "c’est quand même très pratique"
+
+**Thème 3 : Stress et pression académique**
+
+- Code 1 : Pression pour réussir
+  - Verbatim : "on est là pour réussir et avoir une bonne note"
+- Code 2 : Logique de réussite
+  - Verbatim : "il y a la logique de… on est là pour réussir"
+- Code 3 : Impact de ChatGPT sur le stress
+  - Verbatim : Non directement représenté mais fera l'objet du thème suivant.
+- Code 4 : Attitude envers les consignes académiques
+  - Verbatim : "on devrait rendre un peu ce qu’on veut sur la consigne"
+- Code 5 : Conformisme dans les rendus académiques
+  - Verbatim : "on va tous rendre quelque chose qui respecte la consigne"
+- Code 6 : Perception de l'évaluation
+  - Verbatim : "il y a un peu la logique de… on est là pour réussir et avoir une bonne note"
+- Code 7 : Sentiment de contrainte
+  - Verbatim : "on est là pour avoir une bonne note"
+- Code 8 : Utilisation de ChatGPT pour la conformité
+  - Verbatim : "ça m’arrive aussi à moi de l’utiliser juste pour remplir la consigne"
+- Code 9 : Valeur accordée à l'originalité
+  - Verbatim : "ça aurait amené un peu de singularité, de différence"
+- Code 10 : Critique de la standardisation
+  - Verbatim : "ça standardise et compromet un peu tout le monde"
+
+**Thème 4 : Utilisation de ChatGPT pour gérer le stress et la pression**
+
+- Code 1 : Utilisation de ChatGPT en situation de stress
+  - Verbatim : "ça m’aide à le réduire dans ces situations" (à compléter avec la réponse d'Oriane qui n'est pas fournie)
+- Code 2 : Perception de l'aide apportée par ChatGPT
+  - Verbatim : (à compléter)
+- Code 3 : Effet sur la gestion du temps
+  - Verbatim : (à compléter)
+- Code 4 : Impact sur la qualité du travail sous pression
+  - Verbatim : (à compléter)
+- Code 5 : Stratégie de coping
+  - Verbatim : (à compléter)
+- Code 6 : Attitude envers l'utilisation de ChatGPT en situation de stress
+  - Verbatim : (à compléter)
+- Code 7 : Effet sur l'anxiété liée aux rendus académiques
+  - Verbatim : (à compléter)
+- Code 8 : Changement dans la perception du stress
+  - Verbatim : (à compléter)
+- Code 9 : Perception de la nécessité de ChatGPT
+  - Verbatim : (à compléter)
+- Code 10 : Impact à long terme sur la gestion du stress
+  - Verbatim : (à compléter)
+
+**Thème 5 : Variations dans l'utilisation et la perception de ChatGPT**
+
+- Code 1 : Variation dans l'utilisation selon les tâches
+  - Verbatim : "ça dépend"
+- Code 2 : Différence d'approche entre les étudiants
+  - Verbatim : "ça trie des profils"
+- Code 3 : Changement dans les pratiques académiques
+  - Verbatim : "on aurait tous fait un truc un peu différent"
+- Code 4 : Impact sur la créativité
+  - Verbatim : "ça aurait amené un peu de singularité, de différence"
+- Code 5 : Perception de l'innovation apportée par ChatGPT
+  - Verbatim : "c’est quand même très pratique"
+- Code 6 : Attitude envers l'intégration de ChatGPT dans les études
+  - Verbatim : "je trouve que c’est impertinent"
+- Code 7 : Variation dans la dépendance à ChatGPT
+  - Verbatim : "j’étais déjà dépendante avant"
+- Code 8 : Effet sur l'identité académique
+  - Verbatim : "on est moins bons que ce qu’on aurait pu être"
+- Code 9 : Perception de la valeur ajoutée de ChatGPT
+  - Verbatim : "c’est quand même très pratique"
+- Code 10 : Impact sur l'expérience académique globale
+  - Verbatim : "ça change le rapport aux autres"
+
+Notez que le thème 4 n'est pas entièrement représenté car la réponse d'Oriane à la dernière question n'est pas fournie.

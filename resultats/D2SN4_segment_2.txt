@@ -1,0 +1,63 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif. Voici mes résultats :
+
+**Segment 1 : Perception de chatGPT**
+
+- Thème : Utilité et simplicité
+ - Code 1 : Utilité générale
+ - Verbatim : "c'est un formidable outil pour communiquer avec Internet"
+ - Code 2 : Accès simplifié à l'information
+ - Verbatim : "simplifier l'accès à toutes les informations qui sont devant nous"
+ - Code 3 : Facilité d'utilisation
+ - Verbatim : "l'information nous est donnée directement sous une forme simplifiée et rédigée"
+ - Code 4 : Gain de temps
+ - Verbatim : "on n'a plus besoin de savoir où trouver l'information"
+ - Code 5 : Remplacement des méthodes traditionnelles
+ - Verbatim : "on n'a plus besoin de savoir faire ça, chat GPT le fait pour nous"
+
+- Thème : Impact environnemental
+ - Code 1 : Consommation énergétique
+ - Verbatim : "il consomme énormément d'énergie"
+ - Code 2 : Préoccupation pour l'environnement
+ - Verbatim : "ça va être une des principales causes de réchauffement climatique"
+ - Code 3 : Nécessité de solutions alternatives
+ - Verbatim : "il faudra mieux aller voir ailleurs et chercher des solutions alternatives"
+ - Code 4 : Exemples de solutions alternatives
+ - Verbatim : "on peut penser à DeepSeek aujourd'hui par exemple qui fait ça un peu mieux déjà"
+ - Code 5 : Impact potentiel
+ - Verbatim : "dans quelques années ça va être une des principales causes de destruction de l'environnement"
+
+- Thème : Expérience personnelle avec chatGPT
+ - Code 1 : Moment de découverte
+ - Verbatim : "je l'ai découvert au moment de l'engouement, vers novembre 2023"
+ - Code 2 : Connaissances préalables
+ - Verbatim : "j'avais des notions de machine learning et de la manière dont c'était fabriqué"
+ - Code 3 : Utilisation régulière
+ - Verbatim : "j'utilise chatGPT très régulièrement, on peut même dire quotidiennement"
+ - Code 4 : Utilisation dans les études
+ - Verbatim : "dans le cadre de mes études j'utilise chatGPT pour résoudre des doutes"
+ - Code 5 : Utilisation dans la vie quotidienne
+ - Verbatim : "j'utilise chatGPT dans mon quotidien pour des questions personnelles"
+
+- Thème : Evolution dans l'utilisation de l'information
+ - Code 1 : Changement de paradigme
+ - Verbatim : "avant on avait des recherches qu’on connaissait par cœur, on savait où trouver l'information"
+ - Code 2 : Perte de compétence
+ - Verbatim : "on n'a plus besoin de savoir où trouver l'information"
+ - Code 3 : Nouveau mode d'apprentissage
+ - Verbatim : "c'est ce qui est intéressant, c'est que sur une recherche Google, la manière dont on a utilisé avant"
+ - Code 4 : Dépendance à la technologie
+ - Verbatim : "chat GPT le fait pour nous donc c'est formidable"
+ - Code 5 : Impact sur les compétences informationnelles
+ - Verbatim : "on n'a plus besoin de savoir où trouver la formation"
+
+- Thème : Relation avec la technologie
+ - Code 1 : Aisance avec la technologie
+ - Verbatim : "j’imagine que tu dirais que t’es assez à l’aise avec"
+ - Code 2 : Utilisation de logiciels spécifiques
+ - Verbatim : "est-ce que vous utilisez souvent des logiciels ou des outils spécifiques"
+ - Code 3 : Intégration dans les études
+ - Verbatim : "dans le cadre de mes études"
+ - Code 4 : Adoption de nouvelles technologies
+ - Verbatim : "quand il y a eu cette… En fait chatGPT 3 quand le GPT-3 est sorti c’est là que je me suis mis dessus"
+ - Code 5 : Formation continue
+ - Verbatim : "j'avais des notions de machine learning"

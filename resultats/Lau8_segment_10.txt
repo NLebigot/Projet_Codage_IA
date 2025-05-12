@@ -1,0 +1,110 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Perception de la fiabilité de ChatGPT**
+ - Code 1 : Doute sur la véracité des réponses
+ - Verbatim : "j'ai l'impression que ses réponses sont biaisées par ma perception liée à ma question"
+ - Code 2 : Manque de fiabilité
+ - Verbatim : "des fois, j'ai l'impression qu'il dit ça, mais en fait, finalement, t'avais pas forcément juste"
+ - Code 3 : Confiance limitée
+ - Verbatim : "j'lui fais quand même pas mal confiance, malheureusement"
+ - Code 4 : Vérification nécessaire
+ - Verbatim : "je le vérifie pas directement, je le vois par après en fait, ouais"
+ - Code 5 : Incertitude
+ - Verbatim : "je sais pas… Ça me laisse un doute, tu vois"
+ - Code 6 : Réponses biaisées
+ - Verbatim : "j'ai l'impression qu'il reprend ce que je dis moi dans ses réponses"
+ - Code 7 : Manque de critique
+ - Verbatim : "il va jamais te rabaisser"
+ - Code 8 : Différence avec un humain
+ - Verbatim : "c’est pas une personne, tu vois, c’est pas quelqu’un en face de toi"
+ - Code 9 : Limite de la machine
+ - Verbatim : "ça se voit que c'est pas encore totalement parfait, quoi"
+ - Code 10 : Réflexion critique nécessaire
+ - Verbatim : "j'essaie de réfléchir à ça"
+
+**Thème 2 : Stratégies pour améliorer la qualité des réponses**
+ - Code 1 : Formulation des questions
+ - Verbatim : "comment est-ce que je peux poser mes questions pour pas qu'il... qu'il entre dans ce jeu de me dire, oui, c'est ça"
+ - Code 2 : Questions neutres
+ - Verbatim : "j'utilise juste des questions qui paraissent innocentes"
+ - Code 3 : Éviter les réponses induites
+ - Verbatim : "plutôt que de proposer une réponse dans ma question"
+ - Code 4 : Réflexion sur la formulation
+ - Verbatim : "je me dis, mais comment est-ce que je peux poser mes questions"
+ - Code 5 : Utilisation de questions ouvertes
+ - Verbatim : "qu'est-ce que une tâche structureuse ? Ou à quoi sert ça ?"
+ - Code 6 : Comparaison avec les connaissances existantes
+ - Verbatim : "je retombe sur des infos sur ce site ou sur autre chose, pis il me dit « Ah oui ça c'est vrai !"
+ - Code 7 : Validation par recoupement
+ - Verbatim : "du coup je me dis, ah bah c'est vrai, du coup ce qu'il m'a dit"
+ - Code 8 : Prudence dans l'interprétation
+ - Verbatim : "j'lui fais confiance, mais du coup j'ai quand même ce site-là"
+ - Code 9 : Recherche de confirmation
+ - Verbatim : "j'ai fait tout un tchat de côté, on avait parlé, pis du coup je..."
+ - Code 10 : Apprentissage par l'expérience
+ - Verbatim : "j'arrive pas encore à savoir comment est-ce que je peux vérifier ça"
+
+**Thème 3 : Utilisation de ChatGPT dans les travaux**
+ - Code 1 : Utilisation comme support de révision
+ - Verbatim : "c'était plus un support de révision"
+ - Code 2 : Pas d'intégration directe
+ - Verbatim : "en informatique, le contenu n'était pas intégré"
+ - Code 3 : Limite des connaissances
+ - Verbatim : "j'y connais tellement rien"
+ - Code 4 : Utilisation pour obtenir des informations
+ - Verbatim : "je lui fais confiance"
+ - Code 5 : Vérification a posteriori
+ - Verbatim : "je le vois par après en fait, ouais"
+ - Code 6 : Manque de connaissances pour évaluer
+ - Verbatim : "j'arrive pas encore à savoir comment est-ce que je peux vérifier ça"
+ - Code 7 : Utilisation pour guider la réflexion
+ - Verbatim : "qu'est-ce que une tâche structureuse ? Ou à quoi sert ça ?"
+ - Code 8 : Apprentissage par l'interaction
+ - Verbatim : "j'ai fait tout un tchat de côté, on avait parlé"
+ - Code 9 : Recoupement avec d'autres sources
+ - Verbatim : "je retombe sur des infos sur ce site ou sur autre chose"
+ - Code 10 : Évaluation de la fiabilité
+ - Verbatim : "je le vérifie pas directement"
+
+**Thème 4 : Comparaison avec des interlocuteurs humains**
+ - Code 1 : Différence de nature
+ - Verbatim : "c’est pas une personne, tu vois, c’est pas quelqu’un en face de toi"
+ - Code 2 : Manque de critique constructive
+ - Verbatim : "il va jamais te rabaisser"
+ - Code 3 : Réactions différentes
+ - Verbatim : "comme certains profs qui te soutiennent en disant : 'Oui, c’est une bonne question, y’a des idées intéressantes là-dedans, mais j’aurais pas fait comme ça'"
+ - Code 4 : Perception de la sincérité
+ - Verbatim : "j'ai l'impression qu'il dit ça, mais en fait, finalement, t'avais pas forcément juste"
+ - Code 5 : Attentes différentes
+ - Verbatim : "je me dis, mais comment est-ce que je peux poser mes questions pour pas qu'il... qu'il entre dans ce jeu de me dire, oui, c'est ça"
+ - Code 6 : Valeur de la relation
+ - Verbatim : "c’est bien, je trouve, mais en même temps, des fois, j’ai l’impression que ça peut biaiser un peu"
+ - Code 7 : Authenticité de la réponse
+ - Verbatim : "est-ce que c’est vraiment juste ce qu’il raconte, ou est-ce qu’il est juste en train de me conforter dans ma vision des choses ?"
+ - Code 8 : Interaction limitée
+ - Verbatim : "je sais pas… Ça me laisse un doute, tu vois"
+ - Code 9 : Comparaison avec un professeur
+ - Verbatim : "comme certains profs qui te soutiennent"
+ - Code 10 : Impact sur la perception
+
+**Thème 5 : Limites et potentialités de ChatGPT**
+ - Code 1 : Limite de la fiabilité
+ - Verbatim : "des fois, j'ai l'impression qu'il dit ça, mais en fait, finalement, t'avais pas forcément juste"
+ - Code 2 : Manque de connaissances
+ - Verbatim : "j'y connais tellement rien"
+ - Code 3 : Potentiel pour la révision
+ - Verbatim : "c'était plus un support de révision"
+ - Code 4 : Limite de la compréhension
+ - Verbatim : "j'arrive pas encore à savoir comment est-ce que je peux vérifier ça"
+ - Code 5 : Biais dans les réponses
+ - Verbatim : "j'ai l'impression que ses réponses sont biaisées par ma perception liée à ma question"
+ - Code 6 : Importance de la formulation
+ - Verbatim : "comment est-ce que je peux poser mes questions pour pas qu'il... qu'il entre dans ce jeu de me dire, oui, c'est ça"
+ - Code 7 : Utilisation pour guider la réflexion
+ - Verbatim : "qu'est-ce que une tâche structureuse ? Ou à quoi sert ça ?"
+ - Code 8 : Limite de la machine
+ - Verbatim : "ça se voit que c'est pas encore totalement parfait, quoi"
+ - Code 9 : Nécessité de vérification
+ - Verbatim : "je le vérifie pas directement, je le vois par après en fait, ouais"
+ - Code 10 : Potentiel pour l'apprentissage
+ - Verbatim : "j'ai fait tout un tchat de côté, on avait parlé"

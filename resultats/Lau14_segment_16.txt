@@ -1,0 +1,111 @@
+Après avoir analysé l'entretien, j'ai identifié plusieurs thèmes avec leurs codes et verbatim associés. Voici les résultats :
+
+**Thème 1 : Perception de l'IA et de son utilisation**
+- Code 1 : Perception de l'IA comme un outil
+  - Verbatim : "c'est un outil mis à disposition par une entreprise"
+- Code 2 : Conscience des implications de l'utilisation de l'IA
+  - Verbatim : "si c'est gratuit, c'est que c'est toi le produit"
+- Code 3 : Préoccupation concernant la confidentialité
+  - Verbatim : "il y a des infos sur toi qui sont connectées"
+- Code 4 : Danger potentiel de l'IA
+  - Verbatim : "ça peut être extrêmement dangereux"
+- Code 5 : Nécessité de régulation
+  - Verbatim : "ça ne doit pas être régulé" (contradiction avec d'autres propos)
+- Code 6 : Expérience personnelle avec l'IA
+  - Verbatim : "elle sait que j'habite sur un bateau, elle sait mon âge"
+- Code 7 : Impact de l'IA sur la société
+  - Verbatim : "il y a des IA qui ont déjà poussé des gens à la mort"
+- Code 8 : Responsabilité de l'utilisateur
+  - Verbatim : "c'est la faute du gars qui l'utilisait n'était pas instruit"
+- Code 9 : Utilisation consciente de l'IA
+  - Verbatim : "j'ai consciemment appris à utiliser l'IA"
+- Code 10 : Comparaison avec d'autres outils
+  - Verbatim : "c'est comme l'usage de Google"
+
+**Thème 2 : Éducation et utilisation responsable de l'IA**
+- Code 1 : Nécessité d'une éducation à l'utilisation de l'IA
+  - Verbatim : "faire des lignes directives de son usage"
+- Code 2 : Intégration de l'IA dans l'éducation
+  - Verbatim : "un cours de débat, pour apprendre à débattre"
+- Code 3 : Utilisation critique de l'IA
+  - Verbatim : "trouver un avis critique, c'est excellent"
+- Code 4 : Développement de compétences
+  - Verbatim : "apprendre à utiliser ChatGPT de manière critique"
+- Code 5 : Prévention du plagiat
+  - Verbatim : "les gens se faisaient chopper pour du plagiat"
+- Code 6 : Clarification des règles d'utilisation
+  - Verbatim : "documenter, c'est bien"
+- Code 7 : Rôle de l'enseignant
+  - Verbatim : "le prof dit, vous pouvez utiliser le ChatGPT"
+- Code 8 : Développement de l'esprit critique
+  - Verbatim : "dire pourquoi les arguments de ChatGPT sont bons ou pas bons"
+- Code 9 : Diversité des IA et de leurs applications
+  - Verbatim : "il y a d'autres IA qui rentrent en compte"
+- Code 10 : Évolution des usages et nécessité d'adaptation
+  - Verbatim : "c'est un truc qui commence à devenir viral"
+
+**Thème 3 : Implications éthiques et sociales de l'IA**
+- Code 1 : Préoccupations éthiques
+  - Verbatim : "ça peut être extrêmement dangereux"
+- Code 2 : Impact sur la vie privée
+  - Verbatim : "des données personnelles que tu fais leak inconsciemment"
+- Code 3 : Risques associés à l'utilisation de l'IA
+  - Verbatim : "il y a des IA qui ont déjà poussé des gens à la mort"
+- Code 4 : Responsabilité des développeurs et des utilisateurs
+  - Verbatim : "c'est la faute du gars qui l'utilisait"
+- Code 5 : Nécessité d'une régulation
+  - Verbatim : "ça devrait être régulé"
+- Code 6 : Perception de la confidentialité
+  - Verbatim : "tout ce qu'ils peuvent dire à une IA c'est confidentiel et je suis sûr que non"
+- Code 7 : Considérations sur la sélection naturelle
+  - Verbatim : "tu mentionnais que tu étais pour la sélection naturelle"
+- Code 8 : Débat sur l'intégration de l'IA dans la société
+  - Verbatim : "améliorer un petit peu l'intégration"
+- Code 9 : Question de la citation des sources
+  - Verbatim : "est-ce que tu cites vraiment comme source ChatGPT ?"
+- Code 10 : Créativité et originalité avec l'IA
+  - Verbatim : "tu peux demander de créer une histoire"
+
+**Thème 4 : Utilisation pratique et limites de l'IA**
+- Code 1 : Utilisation de l'IA comme outil
+  - Verbatim : "j'ai utilisé l'IA comme un outil que je devais prendre en main"
+- Code 2 : Limites de la créativité de l'IA
+  - Verbatim : "ChatGPT, il n'invente rien, pas grand-chose"
+- Code 3 : Capacités de l'IA
+  - Verbatim : "il a inventé une phrase, mais la base sont les données qui sont déjà dans sa base de données"
+- Code 4 : Utilisation pour des tâches spécifiques
+  - Verbatim : "pour des graphiques et designers, il y a des IA qui génèrent des images"
+- Code 5 : Comparaison avec d'autres outils
+  - Verbatim : "c'est comme quand on faisait des travaux en copiant Wikipédia"
+- Code 6 : Détection de l'utilisation abusive
+  - Verbatim : "un mauvais usage de l'IA, ça sera toujours spoté"
+- Code 7 : Expérience avec l'IA
+  - Verbatim : "j'ai commencé à utiliser l'IA parce que je regardais des gens qui t'informaient"
+- Code 8 : Perception de l'originalité
+  - Verbatim : "les enfants à l'école qui me font des travaux par l'IA, bah oui mais non"
+- Code 9 : Utilisation dans différents contextes
+  - Verbatim : "dans des conversations privées"
+- Code 10 : Reconnaissance des potentialités et des limites
+  - Verbatim : "tu peux demander de créer une histoire"
+
+**Thème 5 : Régulation et documentation de l'IA**
+- Code 1 : Nécessité de régulation
+  - Verbatim : "ça devrait être régulé"
+- Code 2 : Rôle de la documentation
+  - Verbatim : "documenter, c'est bien"
+- Code 3 : Clarification des règles d'utilisation
+  - Verbatim : "faire des lignes directives de son usage"
+- Code 4 : Question de la citation des sources
+  - Verbatim : "est-ce que tu cites vraiment comme source ChatGPT ?"
+- Code 5 : Perception de la nécessité de guidelines
+  - Verbatim : "oui, bien sûr, t'as un cours de débat"
+- Code 6 : Développement de bonnes pratiques
+  - Verbatim : "trouver un avis critique, c'est excellent"
+- Code 7 : Incertitude sur la régulation
+  - Verbatim : "ce serait illégal de le penser"
+- Code 8 : Évolution des besoins en matière de régulation
+  - Verbatim : "jusqu'à il n'y a pas longtemps, on se situait dans plein de zones grises"
+- Code 9 : Discussion autour de la responsabilité
+  - Verbatim : "c'est la faute du gars qui l'utilisait"
+- Code 10 : Adaptation aux changements
+  - Verbatim : "c'est un truc qui commence à devenir viral"

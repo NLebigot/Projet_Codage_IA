@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Utilisation de ChatGPT pour la programmation**
+- Code 1 : Utilité pour la programmation
+  - Verbatim : "C'est vraiment un prof à domicile quoi. C'est vraiment assez dingue."
+- Code 2 : Fréquence d'utilisation pour la programmation
+  - Verbatim : "Moi j'utilise surtout pour la programmation."
+- Code 3 : Marque positive de l'expérience
+  - Verbatim : "Ça m'a marqué quoi."
+- Code 4 : Aide ponctuelle
+  - Verbatim : "De temps à autre ça peut t'aider"
+- Code 5 : Limite de la mémoire
+  - Verbatim : "Je sais plus quelle était la manière et je sais plus ce que c'était"
+- Code 6 : Appréciation générale
+  - Verbatim : "C'est tellement fort pour la programmation"
+- Code 7 : Utilisation comme un outil d'appoint
+  - Verbatim : "Ça peut t'aider mais moi j'utilise surtout pour la programmation."
+- Code 8 : Expérience spécifique positive
+  - Verbatim : "Ah putain mais ça c'est une superbe manière de le dire quoi"
+- Code 9 : Utilité dans le cursus
+  - Verbatim : "Cette partie mon cursus, quoi."
+- Code 10 : Aide à la formulation
+  - Verbatim : "Ça avait reformulé quelque chose d'une certaine manière"
+
+**Thème 2 : Stratégies de recherche d'information avec ChatGPT**
+- Code 1 : Utilisation de ChatGPT pour des recherches spécifiques
+  - Verbatim : "Je voulais un peu savoir qui travaillent sur ces sujets à l'étranger."
+- Code 2 : Difficulté à trouver l'information
+  - Verbatim : "J'étais complètement perdu, même pour savoir quelles universités"
+- Code 3 : Précision dans la formulation de la requête
+  - Verbatim : "Il faut donner un truc assez quand même spécifique"
+- Code 4 : Interaction avec ChatGPT pour affiner les résultats
+  - Verbatim : "J'ai commencé à lui donner des sélections"
+- Code 5 : Nécessité de cadrer la recherche
+  - Verbatim : "En le cadrant hyper bien"
+- Code 6 : Résultats pertinents après cadrage
+  - Verbatim : "Il m'a donné plein de liens et j'étais hyper pertinent"
+- Code 7 : Évaluation positive de la capacité de recherche de ChatGPT
+  - Verbatim : "Ça m'a surpris quoi ? Parce que je savais pas que en même en recherche ça, il était si fort"
+- Code 8 : Exigence de sources fiables
+  - Verbatim : "Donne-moi la source donne-moi le lien"
+- Code 9 : Limites constatées dans d'autres utilisations
+  - Verbatim : "Il falsifie la référence. Il donne une fausse référence"
+- Code 10 : Satisfaction globale de l'expérience de recherche
+  - Verbatim : "Ça vraiment, ça m'a enfin ça m'a surpris quoi ?"
+
+**Thème 3 : Comparaison entre ChatGPT et les méthodes traditionnelles de recherche**
+- Code 1 : Préférence pour Google pour les recherches générales
+  - Verbatim : "Ouais Ben en fait oui, ouais oui surtout oui. Moi, j'ai enfin pour la dernière fois que j'ai fait des recherches à travers Google"
+- Code 2 : Connaissance des sources traditionnelles
+  - Verbatim : "Je sais un peu où chercher, tu vois ? Quelles sont leurs intérêts de cherches ? Bon, tu vas sur Cairn, tu vas sur thèse.fr"
+- Code 3 : Utilisation de ChatGPT pour des besoins spécifiques non couverts par les sources traditionnelles
+  - Verbatim : "J'étais complètement perdu, même pour savoir bon. Quelles universités ?"
+- Code 4 : Complémentarité entre ChatGPT et les sources traditionnelles
+  - Verbatim : "J'avais préalablement choisi en faisant cette fois-ci des recherches"
+- Code 5 : Évaluation de la pertinence des résultats de ChatGPT
+  - Verbatim : "J'ai l'impression qu'il a choisi au hasard tu vois ?"
+- Code 6 : Nécessité d'interagir avec ChatGPT pour améliorer les résultats
+  - Verbatim : "J'ai commencé à lui donner des sélections"
+- Code 7 : Satisfaction par rapport à la rapidité et la pertinence
+  - Verbatim : "Ça m'a surpris quoi ? Parce que je savais pas que en même en recherche ça, il était si fort"
+- Code 8 : Critique des limites de ChatGPT
+  - Verbatim : "Il donne une fausse référence et c'est comme ça qu'après ton prof te crame quoi"
+- Code 9 : Importance de la formulation de la requête
+  - Verbatim : "Il faut donner un truc assez quand même spécifique parce que sinon il arrive à tout relier quoi"
+- Code 10 : Expérience de recherche réussie avec ChatGPT
+  - Verbatim : "En le cadrant hyper bien j'ai mis m'a donné plein de liens et j'étais hyper pertinent"
+
+**Thème 4 : Interaction avec ChatGPT et formulation des requêtes**
+- Code 1 : Importance de la formulation de la requête
+  - Verbatim : "Il faut donner un truc assez quand même spécifique"
+- Code 2 : Interaction pour affiner les résultats
+  - Verbatim : "J'ai commencé à lui donner des sélections"
+- Code 3 : Nécessité de préciser les critères de recherche
+  - Verbatim : "Donne-moi chaque fois maximum 5 noms"
+- Code 4 : Adaptation de la requête en fonction des résultats
+  - Verbatim : "J'ai dit 'OK, cherche à chaque fois bon donne-moi chaque fois maximum 5 noms'"
+- Code 5 : Exigence de sources et de liens
+  - Verbatim : "Donne-moi la source donne-moi le lien"
+- Code 6 : Évaluation de la qualité de la réponse
+  - Verbatim : "J'étais hyper pertinent et ça vraiment, ça m'a enfin ça m'a surpris quoi ?"
+- Code 7 : Itération pour améliorer les résultats
+  - Verbatim : "J'ai commencé à lui donner des, des sélections, je le dis 'OK, Cherche-moi 5 genre pour chacune de ces universités'"
+- Code 8 : Satisfaction de l'expérience d'interaction
+  - Verbatim : "Ça m'a surpris quoi ? Parce que je savais pas que en même en recherche ça, il était si fort"
+- Code 9 : Limite constatée dans la fiabilité des informations
+  - Verbatim : "Il falsifie la référence. Il donne une fausse référence"
+- Code 10 : Réflexion sur l'utilisation future
+  - Verbatim : "Moi j'avais un peu ce truc là, mais en fait en travaillant un peu en amont là-dessus"
+
+**Thème 5 : Appréciation globale de ChatGPT**
+- Code 1 : Utilité générale de ChatGPT
+  - Verbatim : "C'est vraiment un prof à domicile quoi. C'est vraiment assez dingue."
+- Code 2 : Appréciation pour la programmation
+  - Verbatim : "C'est tellement fort pour la programmation"
+- Code 3 : Expérience positive de recherche
+  - Verbatim : "Ça m'a surpris quoi ? Parce que je savais pas que en même en recherche ça, il était si fort"
+- Code 4 : Reconnaissance des limites
+  - Verbatim : "Il donne une fausse référence et c'est comme ça qu'après ton prof te crame quoi"
+- Code 5 : Satisfaction globale
+  - Verbatim : "Ça vraiment, ça m'a enfin ça m'a surpris quoi ?"
+- Code 6 : Nécessité de travailler en amont
+  - Verbatim : "En travaillant un peu en amont là-dessus"
+- Code 7 : Utilisation future envisagée
+  - Verbatim : "De temps à autre ça peut t'aider"
+- Code 8 : Complémentarité avec d'autres outils
+  - Verbatim : "Moi j'utilise surtout pour la programmation."
+- Code 9 : Valeur ajoutée de ChatGPT
+  - Verbatim : "C'est vraiment un prof à domicile quoi."
+- Code 10 : Réflexion sur les potentialités de ChatGPT
+  - Verbatim : "Ça m'a marqué quoi."

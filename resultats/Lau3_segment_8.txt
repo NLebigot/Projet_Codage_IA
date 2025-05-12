@@ -1,0 +1,111 @@
+Voici le résultat de l'analyse thématique de l'entretien :
+
+**Thème 1 : Stratégie d'utilisation de JJPT**
+- Code 1 : Utilisation en second lieu
+- Verbatim : "Moi, je vais d'abord vers lui, on va dire en première... La première chose que je fais, c'est construire mon cours, avec mes règles, avec ce que je sais, avec ce que je vois dans le livre."
+- Code 2 : Vérification des informations
+- Verbatim : "Et après, je vérifie toujours l'autoricité de ce qu'il a dit, en fait, de ses propos."
+- Code 3 : Complémentarité avec ses propres connaissances
+- Verbatim : "Et s'il me donne d'autres idées ou des trucs très pertinents, ce qui peut arriver, il donne souvent des propositions de comment donner son cours de façon très pertinente."
+- Code 4 : Réajustement de son approche
+- Verbatim : "Et en pensant à la chose, tu te dis, ah, ça pourrait être une bonne idée."
+- Code 5 : Dynamique d'apprentissage
+- Verbatim : "Je vais souvent me répéter, mais c'est jamais un outil primaire."
+- Code 6 : Utilisation pour ordonner ses idées
+- Verbatim : "C'est toujours quelque chose qui m'aide à soit vérifier, soit ordonner des choses que j'ai déjà vu ou qui sont un peu confus."
+- Code 7 : Création d'une planification
+- Verbatim : "des choses que j'ai déjà vu ou qui sont un peu confus et que je lui ai dit ok tu peux me redonner ça je sais j'ai cette règle, cette règle, cette règle, ces exercices là est-ce que tu peux me créer une planif à partir de là"
+- Code 8 : Réécriture personnelle
+- Verbatim : "et puis après moi je réécris à côté avec mes mots et tout."
+- Code 9 : Vérification et validation
+- Verbatim : "Ensuite il y a un troisième temps de vérification et d'écriture."
+- Code 10 : Évolution dans l'utilisation
+- Verbatim : "Maintenant, je ne l'utilise pratiquement plus parce que j'ai développé une aisance dans la création de mes cours."
+
+**Thème 2 : Rôle de JJPT dans l'enseignement**
+- Code 1 : Source d'idées pour l'enseignement
+- Verbatim : "il donne souvent des propositions de comment donner son cours de façon très pertinente."
+- Code 2 : Aide à la préparation de cours
+- Verbatim : "il m'aide à trouver des façons d'avoir des exercices ou des façons de le donner, ce sujet."
+- Code 3 : Suggestions de méthodes pédagogiques
+- Verbatim : "il me dit... Ah, tu pourrais, par exemple, leur demander, je sais pas, t'écris une règle au tableau, tu la caches et tu leur demandes de répéter la règle."
+- Code 4 : Innovation dans l'enseignement
+- Verbatim : "il pourrait te donner une façon de donner le cours que toi, t'avais pas prévu."
+- Code 5 : Utilisation pour clarifier les règles
+- Verbatim : "je suis au clair avec toutes les règles, les élèves sont au clair avec toutes leurs règles"
+- Code 6 : Support pour les enseignants
+- Verbatim : "Il m'aide à être au clair avec ce que je dis, simplement."
+- Code 7 : Outil de vérification
+- Verbatim : "pour vérifier, soit ordonner des choses que j'ai déjà vu ou qui sont un peu confus."
+- Code 8 : Nécessité de validation
+- Verbatim : "je vérifie toujours l'autoricité de ce qu'il a dit, en fait, de ses propos."
+- Code 9 : Limite de l'outil
+- Verbatim : "c'est jamais un outil primaire."
+- Code 10 : Complément à l'expertise personnelle
+- Verbatim : "le sujet je l'avais déjà."
+
+**Thème 3 : Processus d'apprentissage et d'enseignement**
+- Code 1 : Construction du cours
+- Verbatim : "La première chose que je fais, c'est construire mon cours, avec mes règles, avec ce que je sais, avec ce que je vois dans le livre."
+- Code 2 : Utilisation de JJPT pour la vérification
+- Verbatim : "Et après, je vérifie toujours l'autoricité de ce qu'il a dit, en fait, de ses propos."
+- Code 3 : Réflexion et ajustement
+- Verbatim : "Et en pensant à la chose, tu te dis, ah, ça pourrait être une bonne idée."
+- Code 4 : Évaluation et validation
+- Verbatim : "Ensuite il y a un troisième temps de vérification et d'écriture."
+- Code 5 : Développement de l'aisance
+- Verbatim : "j'ai développé une aisance dans la création de mes cours."
+- Code 6 : Évolution de l'utilisation de JJPT
+- Verbatim : "Maintenant, je ne l'utilise pratiquement plus."
+- Code 7 : Acquisition de connaissances
+- Verbatim : "la matière je l'ai acquise."
+- Code 8 : Clarification des règles pour les élèves
+- Verbatim : "les élèves sont au clair avec toutes leurs règles"
+- Code 9 : Autonomie dans l'enseignement
+- Verbatim : "je suis plus en impro."
+- Code 10 : Expertise personnelle
+- Verbatim : "le sujet je l'avais déjà."
+
+**Thème 4 : Confiance et autonomie dans l'enseignement**
+- Code 1 : Développement de l'autonomie
+- Verbatim : "j'ai développé une aisance dans la création de mes cours."
+- Code 2 : Confiance dans son enseignement
+- Verbatim : "je suis au clair avec toutes les règles"
+- Code 3 : Réduction de l'utilisation de JJPT
+- Verbatim : "Maintenant, je ne l'utilise pratiquement plus."
+- Code 4 : Prise en main de l'enseignement
+- Verbatim : "je suis plus en impro."
+- Code 5 : Expertise dans le sujet
+- Verbatim : "la matière je l'ai acquise."
+- Code 6 : Assurance dans la transmission des connaissances
+- Verbatim : "les élèves sont au clair avec toutes leurs règles"
+- Code 7 : Capacité à gérer les imprévus
+- Verbatim : "je sais comment donner mon cours"
+- Code 8 : Moindre dépendance à l'outil
+- Verbatim : "c'est jamais un outil primaire."
+- Code 9 : Valorisation de la préparation personnelle
+- Verbatim : "La première chose que je fais, c'est construire mon cours"
+- Code 10 : Satisfaction dans l'enseignement
+- Verbatim : "Il m'aide à être au clair avec ce que je dis, simplement."
+
+**Thème 5 : Interaction avec JJPT et ses limites**
+- Code 1 : Interaction pour obtenir des éclaircissements
+- Verbatim : "Je lui redemande, je lui repose des questions, tu peux m'expliquer ça, et tout."
+- Code 2 : Vérification systématique
+- Verbatim : "je vérifie toujours l'autoricité de ce qu'il a dit, en fait, de ses propos."
+- Code 3 : Utilisation pour des suggestions
+- Verbatim : "il donne souvent des propositions de comment donner son cours de façon très pertinente."
+- Code 4 : Limite dans l'utilisation de JJPT
+- Verbatim : "c'est jamais un outil primaire."
+- Code 5 : Comparaison avec ses propres méthodes
+- Verbatim : "Je compare ce que j'ai fait et ce que lui, il fait."
+- Code 6 : Réajustement de son approche
+- Verbatim : "Et en pensant à la chose, tu te dis, ah, ça pourrait être une bonne idée."
+- Code 7 : Dynamique d'apprentissage mutuel
+- Verbatim : "il pourrait te donner une façon de donner le cours que toi, t'avais pas prévu."
+- Code 8 : Nécessité de validation
+- Verbatim : "Ensuite il y a un troisième temps de vérification et d'écriture."
+- Code 9 : Limite de JJPT
+- Verbatim : "c'est un mauvais exemple, parce que ça, c'est une idée que moi, j'ai eue."
+- Code 10 : Évolution vers l'autonomie
+- Verbatim : "Maintenant, je ne l'utilise pratiquement plus parce que j'ai développé une aisance dans la création de mes cours."

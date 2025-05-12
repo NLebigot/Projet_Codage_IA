@@ -1,0 +1,118 @@
+Analysons l'entretien en suivant une méthode rigoureuse de codage qualitatif.
+
+### Thème 1 : Perception de soi et légitimité dans le travail académique
+
+- Code 1 : Sentiment d'illégitimité
+  - Verbatim : "je pense que c'est aussi vis-à-vis de moi-même pour me sentir légitime en rendant un travail."
+- Code 2 : Préférence pour l'originalité
+  - Verbatim : "je pense que je préfère être sûre que toutes les idées viennent de moi"
+- Code 3 : Crainte de la détection du manque d'originalité
+  - Verbatim : "et que ça ne se voit pas en fait."
+- Code 4 : Impact sur la confiance en soi
+  - Verbatim : "pour me sentir légitime en rendant un travail."
+- Code 5 : Auto-exigence d'authenticité
+  - Verbatim : "je préfère être sûre que toutes les idées viennent de moi"
+- Code 6 : Relation entre originalité et sentiment de compétence
+  - Verbatim : "pour me sentir légitime"
+- Code 7 : Tabou personnel lié à l'utilisation d'outils externes
+  - Verbatim : "c'est aussi vis-à-vis de moi-même"
+- Code 8 : Effort pour cacher l'utilisation d'aides externes
+  - Verbatim : "que ça ne se voit pas en fait."
+- Code 9 : Normes internes de production intellectuelle
+  - Verbatim : "toutes les idées viennent de moi"
+- Code 10 : Perception de la nécessité de justifier son travail
+  - Verbatim : "me sentir légitime en rendant un travail."
+
+### Thème 2 : Utilisation de ChatGPT dans le processus de recherche
+
+- Code 1 : Utilisation pour des reformulations
+  - Verbatim : "c'était souvent des reformulations"
+- Code 2 : Utilisation pour des calculs spécifiques
+  - Verbatim : "j'ai posé une question un peu de vérification... pour calculer le taux de mortalité"
+- Code 3 : Utilisation comme outil de vérification
+  - Verbatim : "je voulais calculer le taux de mortalité pour 100.000 personnes"
+- Code 4 : Remplacement d'autres formes d'assistance
+  - Verbatim : "ChatGPT vient un petit peu remplacer l'aide que tu pourrais avoir avec d'autres assistants"
+- Code 5 : Pratique et commodité
+  - Verbatim : "c'était peut-être plus pratique en ayant ChatGPT devant moi"
+- Code 6 : Traitement des suggestions de ChatGPT
+  - Verbatim : "je prends ça comme des propositions et elles me conviennent pas toujours"
+- Code 7 : Utilisation sélective des résultats
+  - Verbatim : "je vais garder qu'un seul synonyme auquel j'avais pas pensé par exemple"
+- Code 8 : Processus itératif d'utilisation
+  - Verbatim : "je demande de me proposer d'autres possibilités par exemple"
+- Code 9 : Évaluation critique des résultats
+  - Verbatim : "je les compare mais ça veut pas dire forcément que je vais en garder une"
+- Code 10 : Décision d'abandonner ou de poursuivre
+  - Verbatim : "parfois j'abandonne"
+
+### Thème 3 : Contexte et objet de la recherche
+
+- Code 1 : Thématique de recherche principale
+  - Verbatim : "mon mémoire de recherche de master... axé sur l'évolution de la considération des féminicides en Europe"
+- Code 2 : Continuité entre le mémoire et la thèse
+  - Verbatim : "la thématique est un peu similaire à celle de ma thèse"
+- Code 3 : Stade actuel de la recherche doctorale
+  - Verbatim : "comme au stade actuel de mon doctorat je n'ai pas encore commencé ma rédaction"
+- Code 4 : Utilisation d'exemples issus du mémoire pour l'entretien
+  - Verbatim : "c'était sûrement plus intéressant de te donner des exemples pour mon mémoire"
+- Code 5 : Relation entre le contenu des exemples et la thématique de recherche
+  - Verbatim : "liens avec les féminicides"
+- Code 6 : Utilisation de ChatGPT dans différents contextes de recherche
+  - Verbatim : "pour mon mémoire de recherche de master"
+- Code 7 : Pertinence des exemples choisis
+  - Verbatim : "c'était sûrement plus intéressant de te donner des exemples"
+- Code 8 : Incertitude sur la distinction entre exemples du mémoire et de la thèse
+  - Verbatim : "honnêtement, je ne suis plus tellement sûre"
+- Code 9 : Continuité thématique entre les travaux de recherche
+  - Verbatim : "la thématique est un peu similaire"
+- Code 10 : Étape de la recherche en cours
+  - Verbatim : "je n'ai pas encore commencé ma rédaction"
+
+### Thème 4 : Évaluation et interaction avec les outils d'assistance
+
+- Code 1 : Critère d'évaluation des suggestions
+  - Verbatim : "elles me conviennent pas toujours"
+- Code 2 : Processus de comparaison des options
+  - Verbatim : "je les compare"
+- Code 3 : Décision finale concernant l'utilisation des suggestions
+  - Verbatim : "peut-être qu'aucune ne va me convenir"
+- Code 4 : Possibilité de relancer l'outil pour de nouvelles suggestions
+  - Verbatim : "je demande de me proposer d'autres possibilités par exemple"
+- Code 5 : Satisfaction ou insatisfaction envers les résultats
+  - Verbatim : "elles me conviennent pas toujours"
+- Code 6 : Sélection et adaptation des résultats
+  - Verbatim : "je vais garder qu'un seul synonyme"
+- Code 7 : Autonomie dans l'évaluation
+  - Verbatim : "je les compare mais... je vais en garder une"
+- Code 8 : Tolérance à l'égard des limites de l'outil
+  - Verbatim : "parfois j'abandonne"
+- Code 9 : Utilisation flexible de l'outil
+  - Verbatim : "ça arrive que je demande de me proposer d'autres possibilités"
+- Code 10 : Capacité à juger la pertinence des suggestions
+  - Verbatim : "je prends ça comme des propositions"
+
+### Thème 5 : Dynamique d'interaction avec ChatGPT
+
+- Code 1 : Fréquence d'utilisation de ChatGPT pour une même tâche
+  - Verbatim : "ça arrive que je demande de me proposer d'autres possibilités par exemple"
+- Code 2 : Manière d'interagir avec les réponses de ChatGPT
+  - Verbatim : "je les compare"
+- Code 3 : Attitude face aux limites de ChatGPT
+  - Verbatim : "parfois j'abandonne"
+- Code 4 : Niveau d'exigence envers les résultats fournis
+  - Verbatim : "elles me conviennent pas toujours"
+- Code 5 : Perception de la praticité de ChatGPT
+  - Verbatim : "c'était peut-être plus pratique en ayant ChatGPT devant moi"
+- Code 6 : Utilisation comme substitut à d'autres formes d'assistance
+  - Verbatim : "ChatGPT vient un petit peu remplacer l'aide que tu pourrais avoir avec d'autres assistants"
+- Code 7 : Degré de satisfaction envers les interactions
+  - Verbatim : "elles me conviennent pas toujours"
+- Code 8 : Capacité à adapter ou modifier les suggestions
+  - Verbatim : "je vais garder qu'un seul synonyme auquel j'avais pas pensé"
+- Code 9 : Impact de l'utilisation sur le processus de recherche
+  - Verbatim : "ça peut arriver que je pose une question un peu de vérification"
+- Code 10 : Évaluation globale de l'utilité de ChatGPT
+  - Verbatim : "c'était peut-être plus pratique"
+
+Ces thèmes offrent une analyse multidimensionnelle de l'entretien, couvrant les perceptions de soi, l'utilisation de ChatGPT, le contexte de la recherche, l'évaluation des outils d'assistance, et la dynamique d'interaction avec ces outils. Chaque thème est richement documenté avec des codes et des verbatims qui offrent une compréhension nuancée des points de vue et des expériences de l'enquêtée.

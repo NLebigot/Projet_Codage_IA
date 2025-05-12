@@ -1,0 +1,93 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Introduction et question initiale**
+
+* Thème : Perception de l'apprentissage avec ChatGPT
+ - Code 1 : Question sur l'efficacité de l'apprentissage
+ - Verbatim : "est-ce qu’on apprend toujours autant, ou est-ce qu’on devient juste plus efficaces sans forcément intégrer autant de choses ?"
+ - Code 2 : Rôle de ChatGPT dans la gestion du stress
+ - Verbatim : "y’a aussi le truc du stress... ChatGPT, c’est un vrai filet de sécurité"
+ - Code 3 : Dépendance à ChatGPT
+ - Verbatim : "est-ce que ça nous rend juste plus dépendants ?"
+ - Code 4 : Changement dans la manière d'apprendre
+ - Verbatim : "ça change complètement la manière dont on voit l’apprentissage"
+ - Code 5 : Impact sur l'organisation et la gestion du temps
+ - Verbatim : "est-ce que ça nous aide vraiment à gérer notre temps et notre organisation"
+ - Code 6 : Utilisation de ChatGPT comme outil de dernière minute
+ - Verbatim : "au pire, j’aurai ChatGPT pour m’aider à la dernière minute"
+ - Code 7 : Changement de comportement face au travail
+ - Verbatim : "tu passes d’un mode où tu prépares ton travail en amont à un mode où tu optimises à la dernière minute"
+ - Code 8 : Réflexion sur l'autorité intellectuelle
+ - Verbatim : "est-ce que ça change pas notre rapport à l’autorité intellectuelle ?"
+ - Code 9 : Crédibilité de ChatGPT par rapport aux enseignants
+ - Verbatim : "si un prof te dit un truc et que ChatGPT te dit l’inverse, qui tu crois ?"
+ - Code 10 : Préoccupation quant à la fiabilité de ChatGPT
+ - Verbatim : "on commence à voir ChatGPT comme une source fiable, alors que parfois, il se plante complètement"
+
+* Thème : Impact de ChatGPT sur les pratiques académiques
+ - Code 1 : Changement dans la manière d'étudier
+ - Verbatim : "ça change notre façon d’apprendre"
+ - Code 2 : Gestion du stress avec ChatGPT
+ - Verbatim : "ChatGPT, c’est un vrai filet de sécurité"
+ - Code 3 : Risque de dépendance
+ - Verbatim : "est-ce que ça nous rend juste plus dépendants ?"
+ - Code 4 : Effet sur l'organisation du travail
+ - Verbatim : "ça nous aide vraiment à gérer notre temps et notre organisation"
+ - Code 5 : Modification des habitudes de travail
+ - Verbatim : "tu passes d’un mode où tu prépares ton travail en amont à un mode où tu optimises à la dernière minute"
+ - Code 6 : Réflexion sur la fiabilité des sources
+ - Verbatim : "qui tu crois ?"
+ - Code 7 : Préoccupation concernant l'autorité intellectuelle
+ - Verbatim : "est-ce que ça change pas notre rapport à l’autorité intellectuelle ?"
+ - Code 8 : Besoin de réflexion sur l'intégration de ChatGPT
+ - Verbatim : "c’est un sujet qu’on devrait vraiment creuser"
+ - Code 9 : Risque de diminution de la réflexion critique
+ - Verbatim : "on risque juste de devenir des étudiants hyper efficaces mais qui réfléchissent moins"
+ - Code 10 : Nécessité d'une utilisation appropriée
+ - Verbatim : "si on l’utilise mal"
+
+**Segment 2 : Discussion sur l'intégration de ChatGPT dans l'éducation**
+
+* Thème : Éducation à l'utilisation de l'IA
+ - Code 1 : Nécessité d'une éducation à l'IA dès le collège
+ - Verbatim : "je pense qu’il faudrait avoir une éducation à savoir comment bien utiliser l’IA et ça depuis le collège"
+ - Code 2 : Comparaison avec l'éducation sexuelle
+ - Verbatim : "quand on était on avait des minis cours d'éducation sexuelle car c’est important de se protéger"
+ - Code 3 : Importance de l'éducation numérique
+ - Verbatim : "c’est pareil et surtout qu’on est entouré de plus en plus avec les technologies"
+ - Code 4 : Risque d'utilisation abusive de ChatGPT par les élèves
+ - Verbatim : "y’aurait un risque que certains l’utilisent juste pour aller plus vite et éviter de bosser"
+ - Code 5 : Développement de bonnes habitudes dès le départ
+ - Verbatim : "si on apprend aux élèves à s’en servir comme un outil et pas juste comme un raccourci, ils développeraient des bonnes habitudes dès le départ"
+ - Code 6 : Intégration de l'éducation à l'IA à différents niveaux
+ - Verbatim : "plutôt que d’attendre qu’ils arrivent en études supérieures pour leur dire “Ah au fait, y’a un truc qui s’appelle l’IA”"
+ - Code 7 : Nécessité d'une éducation précoce
+ - Verbatim : "c’est trop tard, ils auront déjà pris l’habitude de l’utiliser n’importe comment"
+ - Code 8 : Utilisation de ChatGPT comme support pédagogique
+ - Verbatim : "ils pourraient l’utiliser comme un support pédagogique"
+ - Code 9 : Exemple d'utilisation en sociologie
+ - Verbatim : "en sociologie, moi je vois bien un prof qui dit"
+ - Code 10 : Intégration dans les cours
+ - Verbatim : "les profs devraient aussi l’intégrer dans leurs cours"
+
+* Thème : Utilisation responsable de ChatGPT dans l'enseignement
+ - Code 1 : Encourager l'utilisation de ChatGPT comme outil
+ - Verbatim : "plutôt que de juste dire “N’utilisez pas ChatGPT”"
+ - Code 2 : Risque d'utilisation abusive
+ - Verbatim : "y’aurait un risque que certains l’utilisent juste pour aller plus vite"
+ - Code 3 : Nécessité d'une éducation adaptée
+ - Verbatim : "si on apprend aux élèves à s’en servir comme un outil"
+ - Code 4 : Intégration dans les pratiques pédagogiques
+ - Verbatim : "les profs devraient aussi l’intégrer dans leurs cours"
+ - Code 5 : Développement de bonnes pratiques
+ - Verbatim : "ils développeraient des bonnes habitudes dès le départ"
+ - Code 6 : Prévention de l'utilisation abusive
+ - Verbatim : "pour éviter qu’ils l’utilisent n’importe comment"
+ - Code 7 : Utilisation comme support pédagogique
+ - Verbatim : "l’utiliser comme un support pédagogique"
+ - Code 8 : Adaptation des enseignants
+ - Verbatim : "les profs devraient aussi l’intégrer dans leurs cours"
+ - Code 9 : Exemples d'intégration
+ - Verbatim : "en sociologie, moi je vois bien un prof"
+ - Code 10 : Nécessité d'une réflexion sur les pratiques éducatives
+ - Verbatim : "c’est un sujet qu’on devrait vraiment creuser"

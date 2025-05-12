@@ -1,0 +1,111 @@
+Suite à l'analyse de l'entretien, j'ai identifié plusieurs thèmes pertinents qui reflètent les opinions et les expériences de l'enquêté concernant l'utilisation de ChatGPT. Voici les thèmes et les codes associés avec leurs verbatims respectifs :
+
+### Thème 1 : Utilité et Perception de ChatGPT
+- Code 1 : Utilisation pour la révision et l'apprentissage
+  - Verbatim : "C'est un peu grâce à elle qu'on a eu l'idée de l'utiliser pour des choses en informatique."
+- Code 2 : Limitations dans les tâches réflexives
+  - Verbatim : "La socio, c'est très réflexif. Tu dois vraiment réfléchir et produire des idées, donc je dirais pas que ça me fait avancer tant que ça."
+- Code 3 : Perception de l'utilité générale
+  - Verbatim : "Je pense que c'est utile, franchement c'est plutôt utile."
+- Code 4 : Utilisation par les pairs et les professeurs
+  - Verbatim : "Je pense que tout le monde s'en sert. Oui, même les profs."
+- Code 5 : Réduction de l'effort
+  - Verbatim : "J'avais la flemme de lire. Du coup, je lui ai refait écrire le texte pour pouvoir... pour que je puisse le mettre en vidéo."
+- Code 6 : Manque de clarté sur les avantages
+  - Verbatim : "Je sais pas si c'est vraiment un avantage. Peut-être que ça permet d'avoir une vision plus large."
+- Code 7 : Subjectivité dans les réponses
+  - Verbatim : "C'est subjectif, donc oui, tu peux l'utiliser, mais t’aurais pu le tourner différemment aussi."
+- Code 8 : Comparaison avec d'autres outils ou méthodes
+  - Verbatim : "Je me tournerais plus vers les autres. Le monde extérieur, tu vois ?"
+- Code 9 : Utilisation dans différents contextes
+  - Verbatim : "On a eu l'idée de l'utiliser pour des choses en informatique."
+- Code 10 : Hésitation sur la dépendance
+  - Verbatim : "Des fois c'est un peu le raccourci de la flemme. Est-ce que je suis dépendante ? Je pense pas."
+
+### Thème 2 : Impact sur le Travail Académique
+- Code 1 : Gain de temps
+  - Verbatim : "Je sais pas si ça m'économise du temps."
+- Code 2 : Alternative en cas de disparition de ChatGPT
+  - Verbatim : "Je pense que je me tournerais plus vers les autres."
+- Code 3 : Influence sur la qualité du travail
+  - Verbatim : "C'est compliqué, parce que la socio, c'est très réflexif."
+- Code 4 : Perception de la légitimité
+  - Verbatim : "Légitime ? Je sais pas."
+- Code 5 : Utilisation pour la synthèse d'informations
+  - Verbatim : "Je lui ai refait écrire le texte pour que je puisse le mettre en vidéo."
+- Code 6 : Substitut à la lecture ou à la recherche personnelle
+  - Verbatim : "J'avais la flemme de lire."
+- Code 7 : Impact sur la réflexion personnelle
+  - Verbatim : "C'est subjectif, donc oui, tu peux l'utiliser, mais t’aurais pu le tourner différemment aussi."
+- Code 8 : Fréquence d'utilisation
+  - Verbatim : "Je l'utilise pas trop pour ça."
+- Code 9 : Utilisation dans différentes disciplines
+  - Verbatim : "C'est un peu grâce à elle qu'on a eu l'idée de l'utiliser pour des choses en informatique."
+- Code 10 : Questionnement éthique
+  - Verbatim : "Est-ce que c'est une bonne chose de faire comme ça ?"
+
+### Thème 3 : Perception de la Technologie et de ses Limites
+- Code 1 : Expérience avec la fonctionnalité audio
+  - Verbatim : "Il mettait vraiment un côté aventure dans l'article. Pas du tout d'aventure, c'était trop chelou, c'était drôle."
+- Code 2 : Attentes envers la technologie
+  - Verbatim : "Au début, je voulais qu'il me les lise en audio. Mais en fait, ça marche pas comme ça."
+- Code 3 : Facilité d'utilisation
+  - Verbatim : "C'est pas forcément des questions où je me dis je vais vraiment demander ça à quelqu’un."
+- Code 4 : Curiosité et exploration
+  - Verbatim : "Je pouvais lui demander, il disait que je pouvais demander si je voulais une autre voix."
+- Code 5 : Réactions émotionnelles
+  - Verbatim : "C'était très bizarre."
+- Code 6 : Découverte des fonctionnalités
+  - Verbatim : "J'ai cliqué sur le petit logo audio."
+- Code 7 : Adaptabilité
+  - Verbatim : "Je me tournerais plus vers les autres."
+- Code 8 : Exploration des limites
+  - Verbatim : "Il te lit pas directement le document."
+- Code 9 : Surprise et amusement
+  - Verbatim : "C'était trop chelou, c'était drôle."
+- Code 10 : Adaptation aux résultats
+  - Verbatim : "Bon pourquoi pas."
+
+### Thème 4 : Dépendance et Alternatives
+- Code 1 : Perception de la dépendance
+  - Verbatim : "Est-ce que je suis dépendante ? Je pense pas."
+- Code 2 : Alternatives en cas de besoin
+  - Verbatim : "Je me tournerais plus vers les autres."
+- Code 3 : Retour à des méthodes traditionnelles
+  - Verbatim : "Je perds mon temps. Je pense que ouais, c'est ça."
+- Code 4 : Évaluation de la nécessité
+  - Verbatim : "Est-ce que je le ferais quand même ?"
+- Code 5 : Fréquence d'utilisation et habitude
+  - Verbatim : "Des fois c'est un peu le raccourci de la flemme."
+- Code 6 : Disponibilité d'alternatives
+  - Verbatim : "Le monde extérieur, tu vois ?"
+- Code 7 : Stratégies de contournement
+  - Verbatim : "Essayer de réfléchir avec les autres."
+- Code 8 : Gestion du temps
+  - Verbatim : "Ça me prendrait sûrement plus de temps."
+- Code 9 : Évaluation de l'effort
+  - Verbatim : "Faut quand même... Ouais, ça prend quand même du temps."
+- Code 10 : Anticipation des conséquences
+  - Verbatim : "Si ChatGPT venait à disparaître imaginons, tu dirais que tu t'en sors, ça va aller ?"
+
+### Thème 5 : Questionnements Éthiques et Légitimité
+- Code 1 : Légitimité de l'utilisation
+  - Verbatim : "Légitime ? Je sais pas."
+- Code 2 : Utilisation par les professeurs
+  - Verbatim : "Même les profs. Je pense que tout le monde s'en sert."
+- Code 3 : Questionnement éthique
+  - Verbatim : "Est-ce que c'est une bonne chose de faire comme ça ?"
+- Code 4 : Perception de l'acceptabilité
+  - Verbatim : "Je pense que c'est utile, franchement c'est plutôt utile."
+- Code 5 : Réflexion sur les enjeux
+  - Verbatim : "Par rapport aux enjeux éthiques, peut-être ?"
+- Code 6 : Hésitation sur la justification
+  - Verbatim : "Je sais pas."
+- Code 7 : Perception de la normalité
+  - Verbatim : "Je pense que tout le monde s'en sert."
+- Code 8 : Évaluation de l'impact
+  - Verbatim : "C'est compliqué, parce que la socio, c'est très réflexif."
+- Code 9 : Conscience des implications
+  - Verbatim : "Est-ce que c'est une bonne chose de faire comme ça ?"
+- Code 10 : Incertitude
+  - Verbatim : "Je sais pas."

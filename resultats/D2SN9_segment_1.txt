@@ -1,0 +1,121 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment : Présentation de l'enquêté**
+
+- Thème : Identité et parcours de l'enquêté
+ - Code 1 : Origine géographique
+ - Verbatim : "J'ai grandi à Paris."
+ - Code 2 : Niveau d'étude
+ - Verbatim : "J'ai intégré Sciences Po directement après l'obtention de mon baccalauréat"
+ - Code 3 : Milieu socio-économique
+ - Verbatim : "Je viens d'un milieu plutôt aisé."
+ - Code 4 : Profession des parents
+ - Verbatim : "Mon père occupe le poste de directeur dans un établissement scolaire"
+ - Code 5 : Situation familiale
+ - Verbatim : "Je suis fils unique également."
+ - Code 6 : Age
+ - Verbatim : "Je suis né en 2002"
+ - Code 7 : Formation initiale
+ - Verbatim : "J'ai intégré Sciences Po directement après l'obtention de mon baccalauréat avec les spécialités en lien avec science po"
+ - Code 8 : Facilité d'accès à l'enseignement supérieur
+ - Verbatim : "ce qui a facilité mon accès."
+ - Code 9 : Statut de la mère
+ - Verbatim : "ma mère elle ne travaille pas vraiment"
+ - Code 10 : Identité
+ - Verbatim : "Je m'appelle donc Alexandre Durand."
+
+**Segment : Perception de ChatGPT et de l'intelligence artificielle**
+
+- Thème : Utilité et perception de ChatGPT
+ - Code 1 : Utilité dans la vie quotidienne
+ - Verbatim : "Ça m'aide beaucoup pour lire pour rédiger, faire des bullets points"
+ - Code 2 : Utilité dans les études
+ - Verbatim : "surtout dans le cadre de recherche pour se faciliter la vie"
+ - Code 3 : Perception de ChatGPT
+ - Verbatim : "ChatGPT c'est plutôt un outil sympathique."
+ - Code 4 : Développement de la pensée
+ - Verbatim : "et aussi essayer de pousser un peu plus loin ma pensée en général."
+ - Code 5 : Automatisation
+ - Verbatim : "il automatise"
+ - Code 6 : Simplification des actions
+ - Verbatim : "Ça permet d'automatiser pas mal de choses de simplifier les actions de tous les jours"
+ - Code 7 : Préoccupation pour l'avenir
+ - Verbatim : "mais à voir dans le long terme si ça ne va pas être une nuisance"
+ - Code 8 : Définition de l'intelligence artificielle
+ - Verbatim : "C’est une sorte d’algorithme simplement."
+ - Code 9 : Utilisation de ChatGPT
+ - Verbatim : "j'y vais j'essaie de trouver la solution s'il ne la pas ce n’est pas grave."
+ - Code 10 : Perception de l'intelligence artificielle
+ - Verbatim : "Je pense que ça doit être encadré."
+
+**Segment : Découverte et utilisation de ChatGPT**
+
+- Thème : Découverte et évolution de l'utilisation de ChatGPT
+ - Code 1 : Moyen de découverte
+ - Verbatim : "j'ai découvert avec du bouche à oreille pendant mes années d’études"
+ - Code 2 : Première impression
+ - Verbatim : "je n’avais pas d’avis éclairer sur la question."
+ - Code 3 : Évolution de l'utilisation
+ - Verbatim : "Quand j’ai commencé à l’utiliser sérieusement quelques mois après que ça avait fait parler de soi."
+ - Code 4 : Fréquence d'utilisation initiale
+ - Verbatim : "Par jour c'était je pense deux trois requêtes histoire de découvrir chat GPT"
+ - Code 5 : Fréquence d'utilisation actuelle
+ - Verbatim : "maintenant c'est assez quotidiennement"
+ - Code 6 : Contexte d'utilisation
+ - Verbatim : "maintenant c’est quasiment exclusivement dans un cadre de cours."
+ - Code 7 : Utilisation initiale
+ - Verbatim : "j'ai mis un peu de temps à l'utiliser parce que je ne voyais pas trop l'utilité."
+ - Code 8 : Changement de perception
+ - Verbatim : "Au début c’était mélanger en termes de fréquences"
+ - Code 9 : Utilisation actuelle
+ - Verbatim : "quand j'ai un petit problème je peux y accéder assez facilement"
+ - Code 10 : Évolution de la relation avec ChatGPT
+ - Verbatim : "j'essaie de trouver la solution s'il ne la pas ce n’est pas grave."
+
+**Segment : Relation avec la technologie et ChatGPT dans la filière d'études**
+
+- Thème : Relation avec la technologie et règles d'utilisation de ChatGPT dans les études
+ - Code 1 : Niveau de technophilie
+ - Verbatim : "Je ne m’y connais pas sur le bout des doigts, je n’ai pas une passion débordante"
+ - Code 2 : Nécessité de se tenir informé
+ - Verbatim : "je suis obligé de me tenir renseigner, encore plus avec l’ampleur que cela prend de nos jours."
+ - Code 3 : Règles d'utilisation de ChatGPT
+ - Verbatim : "Il n’y a pas de besoin mais on peut l’utiliser, enfin ce n’est pas interdit."
+ - Code 4 : Liberté d'utilisation
+ - Verbatim : "Voilà, je ne sais pas trop quoi dire de plus."
+ - Code 5 : Dépendance aux professeurs
+ - Verbatim : "cela dépend des professeurs également peu importe des règles établie dans les conseils qu’ils nous donnent."
+ - Code 6 : Perception de la technologie
+ - Verbatim : "surtout avec mes études je suis obligé de me tenir renseigner"
+ - Code 7 : Utilisation dans la filière
+ - Verbatim : "on peut l’utiliser"
+ - Code 8 : Absence de règles strictes
+ - Verbatim : "Il n’y a pas de besoin"
+ - Code 9 : Rôle des professeurs
+ - Verbatim : "cela dépend des professeurs également"
+ - Code 10 : Flexibilité dans l'utilisation
+ - Verbatim : "peu importe des règles établie dans les conseils qu’ils nous donnent."
+
+**Segment : Évolution et impact de ChatGPT**
+
+- Thème : Impact et évolution de ChatGPT
+ - Code 1 : Impact sur les études
+ - Verbatim : "Ça m'aide beaucoup pour lire pour rédiger, faire des bullets points"
+ - Code 2 : Évolution de l'utilisation
+ - Verbatim : "maintenant c'est assez quotidiennement"
+ - Code 3 : Préoccupations
+ - Verbatim : "mais à voir dans le long terme si ça ne va pas être une nuisance"
+ - Code 4 : Perception de l'intelligence artificielle
+ - Verbatim : "Je pense que ça doit être encadré."
+ - Code 5 : Changement dans les habitudes
+ - Verbatim : "j'ai mis un peu de temps à l'utiliser parce que je ne voyais pas trop l'utilité."
+ - Code 6 : Intégration dans la routine
+ - Verbatim : "quand j'ai un petit problème je peux y accéder assez facilement"
+ - Code 7 : Évolution future
+ - Verbatim : "à voir dans le long terme"
+ - Code 8 : Impact sur la pensée
+ - Verbatim : "et aussi essayer de pousser un peu plus loin ma pensée en général."
+ - Code 9 : Utilité générale
+ - Verbatim : "Ça permet d'automatiser pas mal de choses de simplifier les actions de tous les jours"
+ - Code 10 : Équilibre dans l'utilisation
+ - Verbatim : "j'essaie de trouver la solution s'il ne la pas ce n’est pas grave."

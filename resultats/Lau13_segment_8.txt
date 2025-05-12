@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse de l'entretien en suivant une méthode rigoureuse de codage qualitatif. J'ai identifié plusieurs thèmes avec leurs codes associés et verbatims représentatifs.
+
+**Thème 1 : Perception de l'utilisation de Chat GPT dans les relations humaines**
+- Code 1 : Utilisation inappropriée dans les relations personnelles
+- Verbatim : "Si t'es en embrouille avec ta meuf ou ton gars, et que là il intervient, genre, je suis en mode, mais quoi ? Ça n'a... non."
+- Code 2 : Distinction entre les contextes personnel et académique
+- Verbatim : "Si c'est un projet de groupe sur du machine learning, allons-y, tu vois."
+- Code 3 : Préoccupation pour l'aspect humain
+- Verbatim : "Je pense que c'est quand même le contexte humain. L'aspect humain qui fait que s'il intervient là, c'est pas là où il devrait être."
+- Code 4 : Liberté d'utilisation
+- Verbatim : "Les gens font ce qu'ils veulent avec, tu vois."
+- Code 5 : Perception négative de l'utilisation dans les conflits personnels
+- Verbatim : "Ça n'a... non."
+- Code 6 : Acceptation de l'utilisation dans les projets de groupe
+- Verbatim : "Si c'est un projet de groupe sur du machine learning, allons-y, tu vois."
+- Code 7 : Sensibilité au contexte
+- Verbatim : "Je pense que c'est quand même le contexte humain."
+- Code 8 : Réserve quant à l'implication de Chat GPT
+- Verbatim : "Il y a quand même des cas où c'est bizarre."
+- Code 9 : Utilisation dépendant de la situation
+- Verbatim : "Dans le sens où... Enfin, je sais pas si... Enfin déjà, les gens font ce qu'ils veulent avec, tu vois."
+- Code 10 : Distinction entre l'usage personnel et professionnel/académique
+- Verbatim : "Mais si c'est un projet de groupe sur du machine learning, allons-y, tu vois. Mais si, je sais pas, t'es en embrouille avec... avec ta meuf ou ton gars..."
+
+**Thème 2 : Expérience de l'utilisation de Chat GPT dans le cadre académique**
+- Code 1 : Utilisation de Chat GPT pour résoudre des problèmes académiques
+- Verbatim : "Typiquement, limite pendant mon examen de C++, le moment où on a commencé l'examen et que je lui ai donné la première question et qu'il t'a résolu 25% d'un examen en 15 secondes…"
+- Code 2 : Sentiment face à l'utilisation de Chat GPT lors d'un examen
+- Verbatim : "Je me suis dit que c’est abusé."
+- Code 3 : Perception de la légitimité d'utiliser Chat GPT
+- Verbatim : "On avait le droit."
+- Code 4 : Manque d'intérêt pour certaines matières
+- Verbatim : "Le C++ ne m'intéressait pas de fou."
+- Code 5 : Sentiment de facilité
+- Verbatim : "Ça fait du bien. Genre t'es content d'avoir fait cette connerie."
+- Code 6 : Réflexion sur l'effort personnel
+- Verbatim : "J'aurais pas fait l'effort moi."
+- Code 7 : Distinction entre intérêt personnel et utilisation de Chat GPT
+- Verbatim : "Si c'était un cours où j'avais beaucoup d'intérêt et que j'avais fait ça, je me serais dit, ah ouais, je suis un peu une merde quand même."
+- Code 8 : Acceptation de l'usage malgré les sentiments mitigés
+- Verbatim : "Je vais pas me brider."
+- Code 9 : Comparaison avec des comportements passés
+- Verbatim : "T'sais un peu comme quand t'es enfant."
+- Code 10 : Satisfaction malgré la conscience de ne pas avoir fait l'effort
+- Verbatim : "Mais ça fait du bien. Genre t'es content d'avoir fait cette connerie."
+
+**Thème 3 : Sentiments et réflexions sur l'utilisation de Chat GPT**
+- Code 1 : Sentiment de culpabilité ou de malaise
+- Verbatim : "Je me serais dit, ah ouais, je suis un peu une merde quand même."
+- Code 2 : Réflexion sur la valeur de l'effort personnel
+- Verbatim : "Parce que j'aurais pas fait l'effort moi."
+- Code 3 : Plaisir de contourner les règles ou les difficultés
+- Verbatim : "Ça fait du bien. Genre t'es content d'avoir fait cette connerie."
+- Code 4 : Comparaison avec des comportements juvéniles
+- Verbatim : "T'sais un peu comme quand t'es enfant. Je sais pas si tu vois."
+- Code 5 : Incertitude quant à la répétition du comportement
+- Verbatim : "Est-ce que je le referais, je sais pas."
+- Code 6 : Sentiment de satisfaction
+- Verbatim : "T'as un peu ce mélange de c'est trop bien et t'es en mode... On a quand même fait ça, tu vois."
+- Code 7 : Réflexion sur la légitimité et la morale
+- Verbatim : "Mais genre on avait le droit."
+- Code 8 : Évaluation de l'expérience
+- Verbatim : "Je me suis dit que c’est abusé."
+- Code 9 : Conscientisation de ses sentiments
+- Verbatim : "T'as un peu ce mélange de c'est trop bien et... On a quand même fait ça, tu vois."
+- Code 10 : Dilemme entre satisfaction et culpabilité
+- Verbatim : "T'es content d'avoir fait cette connerie."
+
+**Thème 4 : Contextualisation de l'utilisation de Chat GPT**
+- Code 1 : Dépendance au contexte d'utilisation
+- Verbatim : "Dans le sens où... Enfin, je sais pas si... Enfin déjà, les gens font ce qu'ils veulent avec, tu vois."
+- Code 2 : Distinction entre les contextes d'utilisation
+- Verbatim : "Si c'est un projet de groupe sur du machine learning, allons-y, tu vois. Mais si, je sais pas, t'es en embrouille avec... avec ta meuf ou ton gars..."
+- Code 3 : Importance de l'aspect humain
+- Verbatim : "L'aspect humain qui fait que s'il intervient là, c'est pas là où il devrait être."
+- Code 4 : Perception de l'usage dans les relations
+- Verbatim : "Si t'es en embrouille avec ta meuf ou ton gars, et que là il intervient, genre, je suis en mode, mais quoi ?"
+- Code 5 : Neutralité face à l'utilisation
+- Verbatim : "Les gens font ce qu'ils veulent avec, tu vois."
+- Code 6 : Sensibilité au contexte académique
+- Verbatim : "Typiquement, limite pendant mon examen de C++..."
+- Code 7 : Différence de perception entre les matières
+- Verbatim : "Si c'était un cours où j'avais beaucoup d'intérêt et que j'avais fait ça, je me serais dit, ah ouais, je suis un peu une merde quand même."
+- Code 8 : Impact de l'intérêt personnel sur l'utilisation
+- Verbatim : "Le C++ ne m'intéressait pas de fou."
+- Code 9 : Contextualisation de la légitimité
+- Verbatim : "On avait le droit."
+- Code 10 : Variabilité de la perception en fonction du contexte
+- Verbatim : "Je pense que c'est quand même le contexte humain."
+
+**Thème 5 : Évolution et réflexivité de l'utilisateur**
+- Code 1 : Prise de conscience de ses sentiments
+- Verbatim : "T'as un peu ce mélange de c'est trop bien et t'es en mode... On a quand même fait ça, tu vois."
+- Code 2 : Réflexion sur la valeur de l'effort
+- Verbatim : "J'aurais pas fait l'effort moi."
+- Code 3 : Évaluation de l'expérience
+- Verbatim : "Je me suis dit que c’est abusé."
+- Code 4 : Conscience de la différence entre intérêt et utilisation de Chat GPT
+- Verbatim : "Si c'était un cours où j'avais beaucoup d'intérêt et que j'avais fait ça, je me serais dit, ah ouais, je suis un peu une merde quand même."
+- Code 5 : Incertitude sur la répétition du comportement
+- Verbatim : "Est-ce que je le referais, je sais pas."
+- Code 6 : Évolution de la perception sur l'utilisation
+- Verbatim : "Je pense que c'est quand même le contexte humain."
+- Code 7 : Distinction entre la satisfaction et la culpabilité
+- Verbatim : "T'es content d'avoir fait cette connerie."
+- Code 8 : Conscientisation de la complexité des sentiments
+- Verbatim : "T'as un peu ce mélange de c'est trop bien et... On a quand même fait ça, tu vois."
+- Code 9 : Réflexivité sur l'utilisation future
+- Verbatim : "Est-ce que je le referais, je sais pas."
+- Code 10 : Acceptation de la complexité de la situation
+- Verbatim : "Je pense que c'est quand même le contexte humain."

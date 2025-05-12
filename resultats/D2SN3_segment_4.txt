@@ -1,0 +1,65 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Utilisation de ChatGPT et conséquences**
+
+* Thème 1 : Expérience avec ChatGPT
+ - Code 1 : Utilisation pour générer une bibliographie
+ - Verbatim : "j'ai fait usage de ChatGPT pour me générer la bibliographie de mon mémoire"
+ - Code 2 : Problèmes rencontrés
+ - Verbatim : "c'était la faute de ma vie"
+ - Code 3 : Raisons de l'utilisation
+ - Verbatim : "j'étais pressée par un deadline"
+ - Code 4 : Conséquences de l'utilisation
+ - Verbatim : "j'ai été exclue par mon école pour raison de fraude pour usage de ChatGPT"
+ - Code 5 : Durée de la sanction
+ - Verbatim : "je suis exclue pour 18 mois"
+ - Code 6 : Réflexion sur l'expérience
+ - Verbatim : "je suis vraiment l'exemple parfait pour l'illustration des conséquences de l'utilisation de ChatGPT académiquement"
+
+* Thème 2 : Perception de la faute et de la sanction
+ - Code 1 : Perception de la faute
+ - Verbatim : "c'était considéré comme du plagiat alors que moi, j'ai fait du ChatGPT"
+ - Code 2 : Sentiment d'injustice
+ - Verbatim : "je pense qu'elle n'a pas bien cerné les limites de l'utilisation de ChatGPT"
+ - Code 3 : Réflexion sur la réglementation
+ - Verbatim : "ChatGPT est un outil qui a émergé très récemment, et donc il n'est pas vraiment bien encadré"
+ - Code 4 : Rôle de l'école dans la prévention de la fraude
+ - Verbatim : "ils nous ont initié à des outils d'intelligence artificielle pour faire le choix, pour naviguer les recherches et les thèses"
+ - Code 5 : Manque de clarté dans les instructions
+ - Verbatim : "c'était un peu flou, ce n'était pas bien cadré"
+
+* Thème 3 : Réflexion sur l'utilisation de ChatGPT dans le contexte académique
+ - Code 1 : Avantages de ChatGPT
+ - Verbatim : "on était introduit à des sites qui génèrent des thèses et tout pour l'inspiration, pour approfondir nos connaissances"
+ - Code 2 : Risques associés à l'utilisation de ChatGPT
+ - Verbatim : "ChatGPT peut faire la même tâche" que les outils d'intelligence artificielle recommandés
+ - Code 3 : Besoin de clarté dans les instructions
+ - Verbatim : "pourquoi vous nous invitez à utiliser des outils d'intelligence artificielle, euh, sans pour autant interdire ChatGPT ?"
+ - Code 4 : Rôle de l'école dans l'encadrement de l'utilisation de ChatGPT
+ - Verbatim : "ça reste à l'appréciation de l'école"
+ - Code 5 : Importance de la formation sur les outils d'intelligence artificielle
+ - Verbatim : "on a fait des séances de méthodologie de recherche"
+
+* Thème 4 : Impact de l'expérience sur la perception de l'enquêtée
+ - Code 1 : Sentiment de regret
+ - Verbatim : "c'était la faute de ma vie"
+ - Code 2 : Réflexion sur les conséquences à long terme
+ - Verbatim : "je suis exclue pour 18 mois"
+ - Code 3 : Perception de l'utilité de l'expérience
+ - Verbatim : "je suis vraiment l'exemple parfait pour l'illustration des conséquences de l'utilisation de ChatGPT académiquement"
+ - Code 4 : Espoir de retour à l'école
+ - Verbatim : "je vais revenir en janvier 2026"
+ - Code 5 : Réflexion sur la possibilité de refaire l'année
+ - Verbatim : "il me reste une année pour refaire le semestre de mémoire"
+
+* Thème 5 : Contexte et cadre de l'utilisation de ChatGPT
+ - Code 1 : Contexte de l'utilisation
+ - Verbatim : "j'étais pressée par un deadline"
+ - Code 2 : Cadre réglementaire
+ - Verbatim : "ChatGPT est un outil qui a émergé très récemment, et donc il n'est pas vraiment bien encadré"
+ - Code 3 : Rôle de l'école dans l'encadrement
+ - Verbatim : "ça reste à l'appréciation de l'école"
+ - Code 4 : Perception de la tolérance de l'école
+ - Verbatim : "s'ils sont tolérants, s'ils sont, bah, oui, ça reste à l'appréciation du jury"
+ - Code 5 : Importance de la clarté dans les instructions
+ - Verbatim : "c'était un peu flou, ce n'était pas bien cadré"

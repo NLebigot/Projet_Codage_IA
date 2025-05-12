@@ -1,0 +1,67 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée.
+
+**Segment 1 : La découverte de ChatGPT et ses limites**
+
+- Thème : L'expérience initiale avec ChatGPT
+ - Code 1 : Enthousiasme initial
+ - Verbatim : "c'est une technologie presque miraculeuse et qu'elle a réponse à tout"
+ - Code 2 : Découverte des limites
+ - Verbatim : "je me suis déjà retrouvé à perdre presque une demi-journée à chercher un truc"
+ - Code 3 : Réponse incorrecte
+ - Verbatim : "j'ai découvert que ce que ChatGPT m'avait dit était faux"
+ - Code 4 : Correction de ChatGPT
+ - Verbatim : "il m'a répondu 'je suis désolé pour la confusion, effectivement tu as raison'"
+ - Code 5 : Révision de l'utilisation
+ - Verbatim : "c'est à partir de ce moment-là que j'ai revu ma façon de l'utiliser"
+
+- Thème : Les erreurs et les hallucinations de ChatGPT
+ - Code 1 : Exemple d'absurdité
+ - Verbatim : "l'exemple populaire de la question 'qui est le plus grand entre un œuf de vache et un œuf de poule ?'"
+ - Code 2 : Réponse erronée
+ - Verbatim : "il a répondu que c'était l'œuf de vache… avec des arguments en plus !"
+ - Code 3 : Hallucinations
+ - Verbatim : "il m'a fait perdre presque deux jours, en me sortant des hallucinations sur l'intelligence artificielle"
+ - Code 4 : Manque de sources
+ - Verbatim : "il n'arrivait ni à me citer de source ni à expliquer ce qu'il avait écrit"
+
+**Segment 2 : L'utilité de ChatGPT dans les études**
+
+- Thème : L'aide à la compréhension des sujets
+ - Code 1 : Vulgarisation
+ - Verbatim : "quand on lui demande de vulgariser un principe... il arrive à simplifier le concept"
+ - Code 2 : Meilleure compréhension
+ - Verbatim : "ça me permet de mieux comprendre mon cours par la suite"
+ - Code 3 : Utilisation efficace
+ - Verbatim : "je suis passé maître dans l'art du prompt"
+
+- Thème : La gestion du stress académique
+ - Code 1 : Gestion naturelle du stress
+ - Verbatim : "je suis quelqu'un qui gère naturellement bien son stress"
+ - Code 2 : Utilité de ChatGPT
+ - Verbatim : "certaines tâches seront plus rapides à faire avec lui que sans lui"
+
+**Segment 3 : La qualité et la fiabilité de ChatGPT**
+
+- Thème : Évaluation de la qualité des réponses
+ - Code 1 : Deux cas de figure
+ - Verbatim : "il y a deux cas de figure. Quand c'est moi qui lui fournis un premier résultat, il arrive à l'améliorer"
+ - Code 2 : Dérive sur d'autres sujets
+ - Verbatim : "il dérive parfois sur d'autres sujets, parfois trop génériques"
+ - Code 3 : Amélioration avec la recherche
+ - Verbatim : "maintenant qu'on peut lui activer la recherche, même en mode gratuit"
+
+- Thème : La fiabilité et la vérification
+ - Code 1 : Vérification des sources
+ - Verbatim : "je lui demande toujours de citer ses sources et je clique sur le lien pour vérifier"
+ - Code 2 : Critique des informations
+ - Verbatim : "je n'inclus pas son contenu dans mon travail sans avoir vérifié si l’information est fiable ou non"
+
+**Segment 4 : L'interaction avec ChatGPT**
+
+- Thème : La formulation des questions
+ - Code 1 : Évolution de l'utilisation
+ - Verbatim : "au début, je l’utilisais beaucoup plus, mais c’est là que je me suis rendu compte qu’il n’était pas toujours correct"
+ - Code 2 : Stratégie de vérification
+ - Verbatim : "si c'est lui qui me donne une réponse, je lui demande toujours de citer ses sources"
+
+Ces thèmes et codes illustrent les différents aspects de l'utilisation de ChatGPT par Loïc, notamment son expérience initiale, l'utilité de ChatGPT dans ses études, l'évaluation de la qualité et de la fiabilité des réponses, ainsi que sa manière d'interagir avec cet outil.

@@ -1,0 +1,95 @@
+Je vais procéder à l'analyse de l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Préoccupations concernant ChatGPT**
+
+- Thème : Fiabilité de l'information
+ - Code1 : Manque de transparence sur les sources
+ - Verbatim : "sur ChatGPT, tu ne le vois pas."
+ - Code2 : Problème de vérifiabilité
+ - Verbatim : "je trouve ça un peu problématique"
+ - Code3 : Différence entre les sources d'information
+ - Verbatim : "si une info vient de Valeurs Actuelles ou de L’Humanité, pour moi, ce n’est pas la même chose."
+ - Code4 : Préoccupation concernant l'orientation politique
+ - Verbatim : "ce n’est pas une orientation politique qui est volontaire"
+ - Code5 : Mécanisme de l'IA en cause
+ - Verbatim : "c’est plus… euh… juste le mécanisme même de l’IA, de son entraînement et de sa base de données qui génère ça"
+ - Code6 : Inquiétude sur la qualité de l'information
+ - Verbatim : "je me dis que de toute façon on ne pourra pas le supprimer."
+ - Code7 : Besoin de savoir d'où viennent les informations
+ - Verbatim : "savoir euh… de quoi est composée toute la… je ne sais pas comment on appelle ça"
+ - Code8 : Importance de la transparence
+ - Verbatim : "s’il donnait une source directement, peut-être que ça pourrait être…"
+ - Code9 : Limite de la technologie actuelle
+ - Verbatim : "je ne sais pas si ça existe déjà."
+ - Code10 : Inquiétude pour l'avenir
+ - Verbatim : "ça peut un peu m’inquiéter des fois, en vrai."
+
+- Thème : Utilisation et amélioration de ChatGPT
+ - Code1 : Suggestion d'amélioration
+ - Verbatim : "s’il donnait une source directement, peut-être que ça pourrait être…"
+ - Code2 : Besoin de transparence sur la base de données
+ - Verbatim : "savoir euh… de quoi est composée toute la… je ne sais pas comment on appelle ça"
+ - Code3 : Importance de la connaissance de la base de données
+ - Verbatim : "pour savoir de quoi il est, d’où sortent les infos qui nous viennent."
+ - Code4 : Limite de la technologie actuelle
+ - Verbatim : "je ne sais pas si ça existe déjà."
+ - Code5 : Nécessité de réglementations
+ - Verbatim : "Est-ce qu’il y a des réglementations ou..."
+ - Code6 : Acceptation de la technologie
+ - Verbatim : "de toute façon on ne pourra pas le supprimer."
+ - Code7 : Stratégie d'amélioration
+ - Verbatim : "c’est vraiment juste à l’intégration."
+ - Code8 : Inquiétude concernant l'impact
+ - Verbatim : "ça peut un peu m’inquiéter des fois, en vrai."
+ - Code9 : Recherche de solutions
+ - Verbatim : "bonne question… Bonne question ?"
+ - Code10 : Disponibilité à discuter
+ - Verbatim : "y ’a pas de quoi."
+
+**Segment 2 : Informations sur le profil de l'enquêté**
+
+- Thème : Caractéristiques sociodémographiques
+ - Code1 : Âge
+ - Verbatim : "Je suis né en juin 2002."
+ - Code2 : Profession des parents
+ - Verbatim : "Mon père est agriculteur et ma mère cadre territoriale"
+ - Code3 : Niveau d'études des parents
+ - Verbatim : "Ils ont tous les deux un niveau master il me semble."
+ - Code4 : Situation géographique
+ - Verbatim : "Actuellement j’habite dans le 14e arrondissement, à Alésia"
+ - Code5 : Origine géographique
+ - Verbatim : "Je suis originaire d’une petite ville de la banlieue de Nancy"
+ - Code6 : Stabilité résidentielle
+ - Verbatim : "depuis bientôt 2 ans"
+ - Code7 : Statut marital des parents
+ - Verbatim : "ils sont mariés"
+ - Code8 : Description de l'environnement familial
+ - Verbatim : (Non disponible directement, mais peut être déduit de la profession et du niveau d'études des parents)
+ - Code9 : Éléments de contexte personnel
+ - Verbatim : "Je suis né en juin 2002." (peut donner un indice sur l'âge et donc la période de socialisation)
+ - Code10 : Transparence sur les informations personnelles
+ - Verbatim : "Oui pas de problème."
+
+- Thème : Contexte personnel et social
+ - Code1 : Acceptation de fournir des informations personnelles
+ - Verbatim : "Oui pas de problème."
+ - Code2 : Disponibilité pour la recherche
+ - Verbatim : "y ’a pas de quoi."
+ - Code3 : Intérêt pour la recherche
+ - Verbatim : "ils cherchent encore et si tu as des contacts"
+ - Code4 : Dynamique de groupe
+ - Verbatim : "il y avait des gens de ma classe qui demandaient"
+ - Code5 : Réseau social
+ - Verbatim : "je leur dirai de te contacter"
+ - Code6 : Facilité de communication
+ - Verbatim : "Bah, y ’a pas de quoi."
+ - Code7 : Confiance dans la recherche
+ - Verbatim : "t’inquiète, c’est vraiment anonyme."
+ - Code8 : Importance de l'anonymat
+ - Verbatim : "t’inquiète, c’est vraiment anonyme."
+ - Code9 : Coopération avec la recherche
+ - Verbatim : "Oui pas de problème."
+ - Code10 : Fin de l'entretien
+ - Verbatim : "Merci. Fin de l'enregistrement non verbatim mais marquant la fin de l'entretien"
+
+Ces thèmes et codes permettent d'explorer les préoccupations de l'enquêté concernant ChatGPT, ses suggestions pour améliorer la technologie, ainsi que son profil sociodémographique. Les verbatim associés offrent un aperçu direct de ses pensées et sentiments.

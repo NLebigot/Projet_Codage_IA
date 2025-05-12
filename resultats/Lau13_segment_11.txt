@@ -1,0 +1,112 @@
+**Analyse de l'entretien**
+
+L'entretien avec l'étudiant permet d'explorer son expérience avec l'utilisation de Chat GPT dans le cadre de ses études, notamment pour un projet de Machine Learning et un cours intitulé "Jeux vidéo et société". L'analyse de cet entretien sera structurée autour de thèmes qui émergent des verbatims de l'étudiant.
+
+### Thème 1 : Utilisation de Chat GPT pour les tâches académiques
+- **Code 1 : Demande d'aide pour la rédaction**
+ - Verbatim : "j'avais essayé de demander des trucs à Chat GPT, genre qu'il me l'écrive tout lui-même"
+- **Code 2 : Limites de Chat GPT dans la rédaction**
+ - Verbatim : "c'était éclaté au sol"
+- **Code 3 : Utilisation pour le rephrasage**
+ - Verbatim : "là où il a été bon, c'est un peu dans le rephrasage"
+- **Code 4 : Charge de travail réduite grâce à Chat GPT**
+ - Verbatim : "ça a diminué drastiquement la charge que t'aurais eu si t'avais pas eu de Chat GPT du tout"
+- **Code 5 : Utilisation pour générer du code**
+ - Verbatim : "demander du code"
+- **Code 6 : Préparation des données avec Chat GPT**
+ - Verbatim : "la phase de préparation des données, où là c'était plus la correction"
+- **Code 7 : Équilibre entre utilisation de Chat GPT et travail personnel**
+ - Verbatim : "la structure entière du texte, ça devait venir de moi"
+- **Code 8 : Gain de temps**
+ - Verbatim : "tu passes de devoir te taper de la docu sur des neural networks à cliquer sur un bouton"
+- **Code 9 : Stress et pression liés aux deadlines**
+ - Verbatim : "on s'était retrouvés dans la merde parce que l’entièreté de mon groupe était en mode je vais pas pouvoir bosser"
+- **Code 10 : Expérience positive avec Chat GPT pour le projet de Machine Learning**
+ - Verbatim : "c'est un peu des regrets que j'ai, tu vois, parce que c'est typiquement un cours qui m'intéressait"
+
+### Thème 2 : Contexte d'utilisation de Chat GPT
+- **Code 1 : Stress lié au projet**
+ - Verbatim : "j'étais un peu vraiment à 400%"
+- **Code 2 : Investissement personnel dans le projet**
+ - Verbatim : "j'en rêvais la nuit"
+- **Code 3 : État d'esprit lors de l'utilisation de Chat GPT**
+ - Verbatim : "j'étais les deux pieds et les deux épaules dedans"
+- **Code 4 : Contexte de travail sous pression**
+ - Verbatim : "le rendu, il est mardi, on est dimanche soir, on a rien écrit"
+- **Code 5 : Sentiment de surcharge**
+ - Verbatim : "tu penses qu'il reste combien de temps là ?"
+- **Code 6 : Réflexion sur l'expérience**
+ - Verbatim : "c'est vrai que, enfin oui et non"
+- **Code 7 : Importance du projet pour l'étudiant**
+ - Verbatim : "je voulais vraiment tout donner"
+- **Code 8 : Multitâche et gestion du temps**
+ - Verbatim : "il y avait d'autres cours à côté et t'avais pas le temps"
+- **Code 9 : Réduction de la charge de travail grâce à Chat GPT**
+ - Verbatim : "ça a quand même diminué drastiquement la charge"
+- **Code 10 : Comparaison avec l'expérience des autres étudiants**
+ - Verbatim : "l'année d'avant ils avaient pas eu [Chat GPT]"
+
+### Thème 3 : Types de tâches effectuées avec Chat GPT
+- **Code 1 : Génération de code pour le modèle de Machine Learning**
+ - Verbatim : "créer le modèle de Machine Learning, où là c'était vraiment juste demander du code"
+- **Code 2 : Correction et amélioration du code**
+ - Verbatim : "la phase de préparation des données, où là c'était plus la correction"
+- **Code 3 : Équilibre entre différents types de tâches**
+ - Verbatim : "c'était un peu moit-moit"
+- **Code 4 : Utilisation variée de Chat GPT**
+ - Verbatim : "les deux [demander du code et correction]"
+- **Code 5 : Adaptation de Chat GPT aux besoins spécifiques**
+ - Verbatim : "selon la phase du projet"
+- **Code 6 : Reconnaissance des limites de Chat GPT**
+ - Verbatim : "la structure entière du texte, ça devait venir de moi"
+- **Code 7 : Usage pour la rédaction**
+ - Verbatim : "j'avais essayé de demander des trucs à Chat GPT, genre qu'il me l'écrive tout lui-même"
+- **Code 8 : Rephrasage et révision de texte**
+ - Verbatim : "là où il a été bon, c'est un peu dans le rephrasage"
+- **Code 9 : Utilisation dans différents contextes académiques**
+ - Verbatim : "pour le projet de machine learning en tout cas"
+- **Code 10 : Flexibilité dans l'utilisation de Chat GPT**
+
+### Thème 4 : Impact de Chat GPT sur l'apprentissage et le travail académique
+- **Code 1 : Gain de temps significatif**
+ - Verbatim : "ça a diminué drastiquement la charge que t'aurais eu si t'avais pas eu de Chat GPT du tout"
+- **Code 2 : Changement dans la manière de travailler**
+ - Verbatim : "tu passes de devoir te taper de la docu sur des neural networks à cliquer sur un bouton"
+- **Code 3 : Amélioration de l'efficacité**
+ - Verbatim : "t'écrivais le truc mais nickel ça marchait"
+- **Code 4 : Réduction du stress lié au travail**
+ - Verbatim : "j'étais un peu vraiment à 400%"
+- **Code 5 : Impact sur la qualité du travail**
+ - Verbatim : "la structure entière du texte, ça devait venir de moi"
+- **Code 6 : Potentiel de Chat GPT pour les tâches répétitives ou complexes**
+ - Verbatim : "demander du code pour le modèle de Machine Learning"
+- **Code 7 : Limites dans l'utilisation de Chat GPT pour certaines tâches**
+ - Verbatim : "c'était éclaté au sol"
+- **Code 8 : Dépendance à Chat GPT pour certaines tâches**
+ - Verbatim : "t'étais un peu obligé de lui demander"
+- **Code 9 : Réflexion sur l'intégration de Chat GPT dans les études**
+ - Verbatim : "c'est un peu des regrets que j'ai, tu vois"
+- **Code 10 : Évaluation positive de l'expérience avec Chat GPT**
+
+### Thème 5 : Réflexions sur l'expérience avec Chat GPT
+- **Code 1 : Regret d'avoir trop utilisé Chat GPT pour certaines tâches**
+ - Verbatim : "c'est un peu des regrets que j'ai, tu vois"
+- **Code 2 : Satisfaction quant à l'aide apportée par Chat GPT**
+ - Verbatim : "ça a diminué drastiquement la charge"
+- **Code 3 : Réflexion sur l'équilibre entre utilisation de Chat GPT et travail personnel**
+ - Verbatim : "la structure entière du texte, ça devait venir de moi"
+- **Code 4 : Conscience des limites de Chat GPT**
+ - Verbatim : "c'était éclaté au sol"
+- **Code 5 : Appréciation de la flexibilité de Chat GPT**
+ - Verbatim : "selon la phase du projet"
+- **Code 6 : Utilisation future de Chat GPT**
+ - Verbatim : Non directement cité, mais implicitement abordé
+- **Code 7 : Réflexion sur l'intégration de Chat GPT dans les pratiques académiques**
+ - Verbatim : "c'est typiquement un cours qui m'intéressait et genre je l'ai beaucoup utilisé pour le projet"
+- **Code 8 : Évaluation de l'impact de Chat GPT sur la qualité du travail**
+ - Verbatim : "la structure entière du texte, ça devait venir de moi"
+- **Code 9 : Considération sur l'aide que Chat GPT peut apporter**
+ - Verbatim : "demander des trucs à Chat GPT"
+- **Code 10 : Satisfaction globale**
+
+Chaque thème regroupe des codes qui reflètent différents aspects de l'expérience de l'étudiant avec Chat GPT, allant de l'utilisation spécifique de l'outil pour différentes tâches académiques à la réflexion plus large sur son impact sur l'apprentissage et le travail académique.

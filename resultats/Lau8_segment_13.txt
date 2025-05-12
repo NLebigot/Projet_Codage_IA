@@ -1,0 +1,118 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes et verbatim associés. Voici les résultats :
+
+**Thème 1 : Perception de Chat GPT comme source**
+
+* Code 1 : Définition de Chat GPT comme outil de réflexion
+ - Verbatim : "Pour moi, c'est un outil de réflexion."
+* Code 2 : Refus de considérer Chat GPT comme un auteur
+ - Verbatim : "Pour moi, c'est pas quelqu'un à citer."
+* Code 3 : Distinction entre Chat GPT et un auteur humain
+ - Verbatim : "C'est plusieurs personnes, c'est plusieurs trucs mélangés."
+* Code 4 : Problème de légitimité pour citer Chat GPT
+ - Verbatim : "Tu peux pas citer des probabilités."
+* Code 5 : Utilisation de Chat GPT pour des tâches spécifiques
+ - Verbatim : "C'est légitime pour tout ce qui est résumé des articles, traduction, reformulation de phrases, révisions, idées"
+* Code 6 : Incompréhension de la nécessité de citer Chat GPT
+ - Verbatim : "Inutile, non, mais c'est faux."
+* Code 7 : Différence avec les sources humaines
+ - Verbatim : "Quelqu'un qui a écrit un article, qui s'est basé sur une recherche qu'il a faite lui, avec les limites qu'il a, lui, humain."
+* Code 8 : Possibilité de vérification pour les sources humaines
+ - Verbatim : "Tu vas regarder qui c'est qui a écrit le site ?"
+* Code 9 : Importance de la transparence sur l'utilisation de l'IA
+ - Verbatim : "Si c'est quelque chose de généré par une IA, alors il faut le dire"
+* Code 10 : Préoccupation éthique autour de l'utilisation de Chat GPT
+ - Verbatim : "Mais qu'est-ce qu'on en fait ça ?"
+
+**Thème 2 : Pratiques universitaires et usage de Chat GPT**
+
+* Code 1 : Utilisation de Chat GPT pour des tâches académiques
+ - Verbatim : "Pour trouver des idées"
+* Code 2 : Avertissement des enseignants sur l'usage de Chat GPT
+ - Verbatim : "Il y a une prof qui a dit qu’il fallait faire attention"
+* Code 3 : Pas d'interdiction stricte de l'utilisation de Chat GPT
+ - Verbatim : "J'ai pas senti qu’il y avait une interdiction stricte"
+* Code 4 : Nécessité de vérification des sources
+ - Verbatim : "Tu peux toujours chercher d'autres sources pour vérifier"
+* Code 5 : Risque de plagiat avec Chat GPT
+ - Verbatim : "Il vaut mieux éviter de prendre ce qu'il dit mot pour mot et de ne pas faire de copier-coller"
+* Code 6 : Utilisation de Chat GPT comme outil d'aide
+ - Verbatim : "C'est un outil de réflexion"
+* Code 7 : Manque de clarté sur la façon de citer Chat GPT
+ - Verbatim : "Je sais plus" (concernant la manière de citer Chat GPT)
+* Code 8 : Diversité d'opinions parmi les enseignants
+ - Verbatim : "Il y a une prof qui a dit qu’il fallait faire attention" (impliquant qu'il y a d'autres opinions)
+* Code 9 : Confidentialité autour de l'usage de Chat GPT
+ - Verbatim : "Tu vas jamais dire que cette idée tu l'as eue de chat gpt"
+* Code 10 : Perception de Chat GPT comme un outil commun
+ - Verbatim : "Beaucoup de monde l’utilise"
+
+**Thème 3 : Impact environnemental de Chat GPT**
+
+* Code 1 : Connaissance de l'impact environnemental
+ - Verbatim : "Oui je sais que chaque recherche que je fais ça a des impacts"
+* Code 2 : Comparaison avec d'autres outils numériques
+ - Verbatim : "C'est comme Google hein, enfin c'est comme tout"
+* Code 3 : Perception de l'omniprésence de l'impact numérique
+ - Verbatim : "C'est compliqué"
+* Code 4 : Sentiment d'impuissance face à l'impact environnemental
+ - Verbatim : "Je sais pas quoi faire avec quoi"
+* Code 5 : Acceptation de l'existence de Chat GPT malgré son impact
+ - Verbatim : "Tu peux pas ne pas considérer que ça n'existe pas"
+* Code 6 : Souhait de disparition de Chat GPT pour des raisons environnementales
+ - Verbatim : "Ce serait bien que ça n'existe plus"
+* Code 7 : Reconnaissance de l'utilité de Chat GPT
+ - Verbatim : "C'est un outil de réflexion"
+* Code 8 : Manque de solutions pour l'impact environnemental
+ - Verbatim : "Mais qu'est-ce qu'on en fait ça ?"
+* Code 9 : Prise de conscience de l'impact des recherches en ligne
+ - Verbatim : "Oui je sais que chaque recherche que je fais ça a des impacts"
+* Code 10 : Fatalisme concernant l'impact environnemental
+ - Verbatim : "C'est comme tout"
+
+**Thème 4 : Éthique et utilisation responsable**
+
+* Code 1 : Importance de la vérification des sources
+ - Verbatim : "Tu peux toujours chercher d'autres sources pour vérifier"
+* Code 2 : Risque de plagiat avec Chat GPT
+ - Verbatim : "Il vaut mieux éviter de prendre ce qu'il dit mot pour mot et de ne pas faire de copier-coller"
+* Code 3 : Nécessité de transparence sur l'utilisation de Chat GPT
+ - Verbatim : "Si c'est quelque chose de généré par une IA, alors il faut le dire"
+* Code 4 : Préoccupation éthique autour de l'utilisation de Chat GPT
+ - Verbatim : "Mais qu'est-ce qu'on en fait ça ?"
+* Code 5 : Utilisation responsable de Chat GPT
+ - Verbatim : "C'est un outil de réflexion"
+* Code 6 : Diversité d'opinions parmi les enseignants
+ - Verbatim : "Il y a une prof qui a dit qu’il fallait faire attention"
+* Code 7 : Manque de clarté sur la manière de citer Chat GPT
+ - Verbatim : "Je sais plus"
+* Code 8 : Confidentialité autour de l'usage de Chat GPT
+ - Verbatim : "Tu vas jamais dire que cette idée tu l'as eue de chat gpt"
+* Code 9 : Perception de Chat GPT comme un outil
+ - Verbatim : "C'est un outil de réflexion"
+* Code 10 : Acceptation de la responsabilité de l'utilisateur
+ - Verbatim : "C'est compliqué"
+
+**Thème 5 : Interaction avec les enseignants et confidentialité**
+
+* Code 1 : Confidentialité autour de l'usage de Chat GPT
+ - Verbatim : "Tu vas jamais dire que cette idée tu l'as eue de chat gpt"
+* Code 2 : Manque de clarté sur la manière de citer Chat GPT
+ - Verbatim : "Je sais plus"
+* Code 3 : Diversité d'opinions parmi les enseignants
+ - Verbatim : "Il y a une prof qui a dit qu’il fallait faire attention"
+* Code 4 : Pas d'interdiction stricte de l'utilisation de Chat GPT
+ - Verbatim : "J'ai pas senti qu’il y avait une interdiction stricte"
+* Code 5 : Avertissement des enseignants sur l'usage de Chat GPT
+ - Verbatim : "Il y a une prof qui a dit qu’il fallait faire attention"
+* Code 6 : Perception de Chat GPT comme un outil personnel
+ - Verbatim : "C'est un outil de réflexion"
+* Code 7 : Risque de jugement des enseignants
+ - Verbatim : (non directement exprimé mais sous-entendu dans le fait de cacher l'usage)
+* Code 8 : Manque de dialogue ouvert avec les enseignants sur Chat GPT
+ - Verbatim : "Tu vas jamais dire que cette idée tu l'as eue de chat gpt"
+* Code 9 : Perception d'une zone grise autour de l'utilisation de Chat GPT
+ - Verbatim : "C'est compliqué"
+* Code 10 : Sentiment de solitude dans l'utilisation de Chat GPT
+ - Verbatim : (non directement exprimé mais déduit du contexte de confidentialité)
+
+Chaque thème regroupe des codes qui se rapportent à une dimension spécifique de l'utilisation de Chat GPT par l'enquêté, allant de la perception de Chat GPT comme source à l'interaction avec les enseignants et la confidentialité.

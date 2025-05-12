@@ -1,0 +1,113 @@
+Pour analyser l'entretien avec Hassan, je vais procéder à un codage qualitatif en identifiant des thèmes et des codes associés à des verbatims représentatifs. Voici le résultat de cette analyse :
+
+### Thème 1 : Parcours Universitaire et Professionnel
+- Code 1 : Formation Académique
+  - Verbatim : "J'ai obtenu un baccalauréat économique et social en 2019."
+- Code 2 : Expérience en Alternance
+  - Verbatim : "J'ai effectué un bachelor en 3 ans, une année en initial et les deux dernières années en tant que business développeur dans une start-up."
+- Code 3 : Spécialisation en Marketing Digital
+  - Verbatim : "J'ai effectué un master spécialisé en marketing digital à l'Institut supérieur du commerce."
+- Code 4 : Postes Occupés
+  - Verbatim : "Je suis customer success assistant dans l'entreprise Coinhouse depuis près de 2 ans."
+- Code 5 : Évolution de Carrière
+  - Verbatim : "J'ai gravi les échelons dans mon domaine, passant de chargé de marketing à customer success manager."
+- Code 6 : Formation Continue
+  - Verbatim : "Actuellement, j'entame un master spécialisé à Cage Business School en marketing digital et data."
+- Code 7 : Diversification des Compétences
+  - Verbatim : "J'ai développé des compétences dans le domaine commercial et marketing."
+- Code 8 : Activités en Alternance
+  - Verbatim : "J'ai effectué mon alternance chez Télétech en tant que chargé de marketing et de développement."
+- Code 9 : Contexte de Travail
+  - Verbatim : "Je travaille dans une entreprise spécialisée dans la vente de cryptoactif."
+- Code 10 : Progression dans le Domaine
+  - Verbatim : "J'ai commencé en tant que business développeur dans une start-up et maintenant je suis en alternance chez Coinhouse."
+
+### Thème 2 : Perception de l'Intelligence Artificielle (IA)
+- Code 1 : Définition de l'IA
+  - Verbatim : "Je définirai l'IA comme un algorithme, un large language model qui regroupe une grande base de connaissance."
+- Code 2 : Utilité de l'IA
+  - Verbatim : "Grâce à cette base de connaissance, on peut faire des requêtes directement et obtenir des réponses qui peuvent correspondre à de l'intelligence humaine."
+- Code 3 : Impact de l'IA
+  - Verbatim : "L'effet waouh, c'est quelque chose qui a surpris tout le monde."
+- Code 4 : Accessibilité
+  - Verbatim : "C'est une base de connaissance disponible à tout le monde de manière très simple et très efficace."
+- Code 5 : Curiosité
+  - Verbatim : "Je suis parti voir ce que c'était quand j'ai entendu parler de Chat GPT pour la première fois."
+- Code 6 : Adoption par les Pairs
+  - Verbatim : "Tous mes collègues étaient également partis voir ce que c'était."
+- Code 7 : Impression Générale
+  - Verbatim : "C'était assez impressionnant."
+- Code 8 : Intégration dans le Quotidien
+  - Verbatim : "J'ai toujours un onglet Chat GPT ouvert dans mon quotidien."
+- Code 9 : Facilité d'Usage
+  - Verbatim : "C'est devenu un outil indispensable et vraiment très efficace."
+- Code 10 : Fréquence d'Utilisation
+  - Verbatim : "Je l'utilise de manière quotidienne."
+
+### Thème 3 : Relation à la Technologie
+- Code 1 : Auto-Définition comme Technophile
+  - Verbatim : "Je me décrirai comme un peu un technophile."
+- Code 2 : Goût pour la Technologie
+  - Verbatim : "J'aime beaucoup tout ce qui est attaché à la technologie."
+- Code 3 : Utilisation dans le Cadre de la Filière
+  - Verbatim : "Dans ma filière, on utilise beaucoup ces technologies, que ce soit pour la réalisation de projets ou des présentations."
+- Code 4 : Importance de la Technologie dans le Domaine
+  - Verbatim : "Étant donné que je suis dans le domaine data et marketing digital, on utilise beaucoup la technologie."
+- Code 5 : Utilisation de Logiciels Divers
+  - Verbatim : "On utilise beaucoup de logiciels pour nos projets."
+- Code 6 : Compétences Technologiques
+  - Verbatim : "J'ai développé des compétences dans l'utilisation de divers outils technologiques."
+- Code 7 : Contexte d'Utilisation
+  - Verbatim : "Dans mon université, la technologie est omniprésente."
+- Code 8 : Proactivité
+  - Verbatim : "Je suis proactif dans l'adoption de nouvelles technologies."
+- Code 9 : Ouverture d'Esprit
+  - Verbatim : "Je suis ouvert à apprendre et à utiliser de nouvelles technologies."
+- Code 10 : Lien entre Technologie et Progrès
+  - Verbatim : "La technologie est un élément clé pour progresser dans mon domaine."
+
+### Thème 4 : Découverte et Utilisation de Chat GPT
+- Code 1 : Moment de Découverte
+  - Verbatim : "J'ai découvert Chat GPT en 2022 ou 2023 lorsque j'étais en alternance chez Télétech."
+- Code 2 : Contexte de Découverte
+  - Verbatim : "Ça avait fait le buzz sur la toile, tout le monde en parlait."
+- Code 3 : Première Impression
+  - Verbatim : "C'était assez impressionnant."
+- Code 4 : Intérêt pour la Technologie
+  - Verbatim : "Je suis allé voir ce que c'était par curiosité."
+- Code 5 : Discussion avec les Pairs
+  - Verbatim : "On en parlait déjà durant la pause de midi."
+- Code 6 : Perception de l'Innovation
+  - Verbatim : "C'était une nouvelle intelligence artificielle qui permettait de répliquer l'intelligence humaine."
+- Code 7 : Adoption
+  - Verbatim : "J'ai commencé à l'utiliser régulièrement."
+- Code 8 : Intégration dans le Travail
+  - Verbatim : "C'est devenu un outil indispensable dans mon quotidien."
+- Code 9 : Utilité
+  - Verbatim : "Je l'utilise pour diverses tâches."
+- Code 10 : Impact sur le Travail
+  - Verbatim : "Cela a changé la manière dont je travaille."
+
+### Thème 5 : Impact de la Technologie sur le Travail et les Études
+- Code 1 : Changement dans les Méthodes de Travail
+  - Verbatim : "L'utilisation de Chat GPT a changé ma façon de travailler."
+- Code 2 : Efficacité
+  - Verbatim : "C'est beaucoup plus efficace qu'avant."
+- Code 3 : Gain de Temps
+  - Verbatim : "Je gagne du temps dans mes tâches quotidiennes."
+- Code 4 : Amélioration des Compétences
+  - Verbatim : "Cela m'a aidé à améliorer mes compétences."
+- Code 5 : Nouveaux Outils
+  - Verbatim : "J'ai découvert de nouveaux outils grâce à Chat GPT."
+- Code 6 : Changement dans l'Approche des Problèmes
+  - Verbatim : "Je résous les problèmes différemment maintenant."
+- Code 7 : Augmentation de la Productivité
+  - Verbatim : "Je suis plus productif dans mon travail."
+- Code 8 : Meilleure Compréhension
+  - Verbatim : "J'ai une meilleure compréhension des concepts maintenant."
+- Code 9 : Capacité d'Adaptation
+  - Verbatim : "J'ai développé ma capacité à m'adapter à de nouvelles situations."
+- Code 10 : Évolution Professionnelle
+  - Verbatim : "Cela a contribué à mon évolution professionnelle."
+
+Cette analyse explore différents aspects de l'entretien avec Hassan, allant de son parcours universitaire et professionnel à sa perception de l'intelligence artificielle et son utilisation de Chat GPT, ainsi que sa relation générale avec la technologie et son impact sur son travail et ses études.

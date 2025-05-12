@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien avec une méthode rigoureuse de codage qualitatif. J'ai identifié 5 thèmes distincts avec environ 10 codes chacun.
+
+**Thème 1 : Utilisation de ChatGPT dans le processus d'écriture**
+
+* Code 1 : Intégration de ChatGPT dans la rédaction
+* Verbatim : "je lance déjà mes idées, j'organise, j'écris, en fait j'écris le gros, entre guillemets, et ensuite je copie-colle et je demande à ChatGPT"
+* Code 2 : Amélioration du texte
+* Verbatim : "je demande d'améliorer ou de rendre plus clair souvent"
+* Code 3 : Esthétique du texte
+* Verbatim : "que ce soit plus agréable à la lecture souvent je dis"
+* Code 4 : Sélection des suggestions
+* Verbatim : "je vais sélectionner quelques tournures de phrases que j'aimais pas dans mon texte"
+* Code 5 : Utilisation des propositions de titres
+* Verbatim : "je demande des propositions de titres et je ne les garde évidemment pas toujours"
+* Code 6 : Choix des mots
+* Verbatim : "peut-être que c'est juste un mot, justement, que je vais garder"
+* Code 7 : Comparaison des options
+* Verbatim : "je peux comparer plusieurs titres et choisir un peu ce que je préfère"
+* Code 8 : Cohérence avec l'idée initiale
+* Verbatim : "avec mon idée à la base, mais de garder, de faire un choix sur les tournures de phrases ou sur les mots utilisés"
+* Code 9 : Gain de temps
+* Verbatim : "c'est peut-être surtout pour gagner du temps"
+* Code 10 : Satisfaction
+* Verbatim : "j'ai l'impression d'avoir un choix"
+
+**Thème 2 : Perception de ChatGPT**
+
+* Code 1 : Confort avec l'outil
+* Verbatim : "je le vois un peu comme ça, comme tout confort"
+* Code 2 : Habitude
+* Verbatim : "on s'habitue et donc ça devient peut-être même un réflexe"
+* Code 3 : Utilité
+* Verbatim : "je suis quand même bien contente de l'utiliser"
+* Code 4 : Fiabilité
+* Verbatim : "je sais m'en sortir sans, j'y arriverais de toute façon"
+* Code 5 : Appréciation
+* Verbatim : "je suis bien contente de l'utiliser"
+* Code 6 : Intégration dans la routine
+* Verbatim : "ça devient peut-être même un réflexe dans le processus d'écriture"
+* Code 7 : Confiance
+* Verbatim : "j'ai l'impression d'avoir un choix"
+* Code 8 : Satisfaction
+* Verbatim : "je suis satisfaite"
+* Code 9 : Utilisation régulière
+* Verbatim : "je l'utilise dans le processus d'écriture"
+* Code 10 : Familiarité
+* Verbatim : "je sais m'en sortir sans"
+
+**Thème 3 : Fonctions de ChatGPT**
+
+* Code 1 : Amélioration de la clarté
+* Verbatim : "je demande d'améliorer ou de rendre plus clair souvent"
+* Code 2 : Proposition de titres
+* Verbatim : "je demande des propositions de titres"
+* Code 3 : Suggestions de reformulation
+* Verbatim : "je vais sélectionner quelques tournures de phrases que j'aimais pas dans mon texte"
+* Code 4 : Choix des mots
+* Verbatim : "peut-être que c'est juste un mot, justement, que je vais garder"
+* Code 5 : Comparaison des options
+* Verbatim : "je peux comparer plusieurs titres et choisir un peu ce que je préfère"
+* Code 6 : Esthétique du texte
+* Verbatim : "que ce soit plus agréable à la lecture souvent je dis"
+* Code 7 : Utilité pratique
+* Verbatim : "j'ai copié et collé, et j'ai demandé est-ce que c'est bien"
+* Code 8 : Confirmation
+* Verbatim : "j'ai eu ma confirmation"
+* Code 9 : Résolution de problèmes
+* Verbatim : "j'étais pas sûre d'avoir compris la formulation d'un petit texte"
+* Code 10 : Utilisation ponctuelle
+* Verbatim : "c'est assez rare"
+
+**Thème 4 : Contextes d'utilisation**
+
+* Code 1 : Rédaction d'articles
+* Verbatim : "c'est plutôt pour les articles que j'écris"
+* Code 2 : Contexte académique
+* Verbatim : "pour ma rédaction d'articles, je fais comme en fait pour écrire un travail académique"
+* Code 3 : Journal
+* Verbatim : "pour le journal que tu disais, c'est ça ?"
+* Code 4 : Demandes pratiques
+* Verbatim : "il y a un petit pourcentage de cas où c'est des demandes pratiques"
+* Code 5 : Téléphone
+* Verbatim : "j'étais pas sûre d'avoir compris la formulation d'un petit texte qui décrivait un abonnement de téléphone"
+* Code 6 : Questions spécifiques
+* Verbatim : "est-ce que les appels dans ce cas-là sont-ils bien compris en France vers la Suisse par exemple"
+* Code 7 : Utilisation professionnelle
+* Verbatim : "je l'utilise dans le processus d'écriture"
+* Code 8 : Contexte personnel
+* Verbatim : "je suis quand même bien contente de l'utiliser"
+* Code 9 : Diversité des contextes
+* Verbatim : "il y a un petit pourcentage de cas où c'est des demandes pratiques"
+* Code 10 : Spécificité des tâches
+* Verbatim : "je fais comme en fait pour écrire un travail académique"
+
+**Thème 5 : Limites et potentialités**
+
+* Code 1 : Limites de l'outil
+* Verbatim : "je sais m'en sortir sans, j'y arriverais de toute façon"
+* Code 2 : Utilisation complémentaire
+* Verbatim : "je l'utilise dans le processus d'écriture, mais je sais m'en sortir sans"
+* Code 3 : Potentiel de gain de temps
+* Verbatim : "c'est peut-être surtout pour gagner du temps"
+* Code 4 : Amélioration possible
+* Verbatim : "je demande d'améliorer ou de rendre plus clair souvent"
+* Code 5 : Dépendance à l'outil
+* Verbatim : "on s'habitue et donc ça devient peut-être même un réflexe"
+* Code 6 : Autonomie
+* Verbatim : "je sais m'en sortir sans"
+* Code 7 : Évaluation critique
+* Verbatim : "je vais sélectionner quelques tournures de phrases que j'aimais pas dans mon texte"
+* Code 8 : Utilisation réfléchie
+* Verbatim : "je demande des propositions de titres et je ne les garde évidemment pas toujours"
+* Code 9 : Potentialités d'amélioration
+* Verbatim : "que ce soit plus agréable à la lecture souvent je dis"
+* Code 10 : Satisfaction globale
+* Verbatim : "j'ai l'impression d'avoir un choix"

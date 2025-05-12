@@ -1,0 +1,113 @@
+Après analyse du texte, je propose les thèmes suivants avec leurs codes associés :
+
+**Thème 1 : Perception de l'outil ChatGPT**
+- Code 1 : Utilité limitée
+- Verbatim : "Mais ChatGPT ne m'apprend rien et me conforte dans ce que je sais déjà."
+- Code 2 : Réponses inadaptées
+- Verbatim : "il va te sortir un truc débile, nié, encore une fois."
+- Code 3 : Limite dans les interactions sociales
+- Verbatim : "il ne connaît rien à l'être humain et à comment il interagit entre eux."
+- Code 4 : Utilisation restreinte
+- Verbatim : "Je vais jamais lui demander quoi que ce soit."
+- Code 5 : Connaissance spécifique
+- Verbatim : "il m'apprend des trucs, mais qui sont tellement spécifiques"
+- Code 6 : Comparaison avec d'autres sources
+- Verbatim : "j'aurais cherché ailleurs, en fait."
+- Code 7 : Inadéquation pour les interactions sociales
+- Verbatim : "dans les interactions sociales, il va jamais m'aider."
+- Code 8 : Perception de l'utilité
+- Verbatim : "C'est simplement pour avoir son avis, pour voir qu'est-ce qu'il dit."
+- Code 9 : Responsabilité de l'utilisateur
+- Verbatim : "C'est... Ce qui est important, c'est pas qu'est-ce que chat GPT te dit, c'est qu'est-ce que tu vas faire avec ce qu'il te dit."
+- Code 10 : Utilisation contrôlée
+- Verbatim : "Si tu l'utilises pour t'aiguiller, vérifier, comparer etc."
+
+**Thème 2 : Enjeux académiques et utilisation de ChatGPT**
+- Code 1 : Interdiction de l'utilisation de ChatGPT
+- Verbatim : "on nous répète sans cesse l'utilisation de l'HGPT, interdite"
+- Code 2 : Sanctions universitaires
+- Verbatim : "ça se voit, c'est sanctionnable, tu peux rater l'Uni à cause de ça"
+- Code 3 : Obligation d'utilisation
+- Verbatim : "C'est important de l'utiliser et presque obligatoire."
+- Code 4 : Utilisation détournée
+- Verbatim : "La plupart des gens l'utilisent, mais le plus important c'est ce que tu en fais."
+- Code 5 : Distinction entre utilisation acceptable et non acceptable
+- Verbatim : "Si tu l'utilises pour faire ton travail, là ça va pas et là c'est sanctionnable"
+- Code 6 : Perception de la règle
+- Verbatim : "Ce qui est complètement compréhensible et ce qui est normal, en fait, pour moi."
+- Code 7 : Gêne face à l'utilisation
+- Verbatim : "tu avais quand même un peu une gêne en l'utilisant"
+- Code 8 : Conformité à la règle
+- Verbatim : "c'est quelque part... c'est important de l'utiliser"
+- Code 9 : Usage nuancé
+- Verbatim : "le plus important c'est ce que tu en fais."
+- Code 10 : Contextualisation de l'utilisation
+- Verbatim : "pour t'aiguiller, vérifier, comparer etc."
+
+**Thème 3 : Interactions et limites de ChatGPT**
+- Code 1 : Limite dans la compréhension des interactions humaines
+- Verbatim : "il ne connaît rien à l'être humain et à comment il interagit entre eux."
+- Code 2 : Incapacité à répondre aux questions sociales
+- Verbatim : "dans les interactions sociales, il va jamais m'aider."
+- Code 3 : Réponses simplistes
+- Verbatim : "il va te sortir un truc débile"
+- Code 4 : Exemples de limites
+- Verbatim : "comme le cas du an, par exemple"
+- Code 5 : Inadéquation pour les questions complexes
+- Verbatim : "en fonction du milieu social, en fonction de où on est"
+- Code 6 : Énumération des contextes
+- Verbatim : "Est-ce que c'est la ville ? Est-ce que c'est la nuit ? Est-ce que c'est une boîte ?"
+- Code 7 : Utilisation de la négation
+- Verbatim : "Je vais pas lui demander... Je sais pas... Je dis n'importe quoi."
+- Code 8 : Conscience des limites
+- Verbatim : "tu sais, on nous répète sans cesse"
+- Code 9 : Perception des réponses
+- Verbatim : "C'est... C'est simplement pour avoir son avis"
+- Code 10 : Limites dans la contextualisation
+- Verbatim : "en fonction de... "
+
+**Thème 4 : Utilisation personnelle et comparaisons**
+- Code 1 : Utilisation comme un outil complémentaire
+- Verbatim : "pour t'aiguiller, vérifier, comparer etc."
+- Code 2 : Comparaison avec d'autres sources
+- Verbatim : "j'aurais cherché ailleurs, en fait."
+- Code 3 : Perception de l'aide
+- Verbatim : "C'est simplement pour avoir son avis, pour voir qu'est-ce qu'il dit."
+- Code 4 : Utilisation contrôlée
+- Verbatim : "Si tu l'utilises pour t'aiguiller, vérifier, comparer etc."
+- Code 5 : Responsabilité dans l'utilisation
+- Verbatim : "C'est... Ce qui est important, c'est pas qu'est-ce que chat GPT te dit, c'est qu'est-ce que tu vas faire avec ce qu'il te dit."
+- Code 6 : Discussion avec un tiers
+- Verbatim : "toi aussi ça t'arrive de lui poser des questions ?"
+- Code 7 : Comparaison des expériences
+- Verbatim : "C'est vrai ?"
+- Code 8 : Convergence des opinions
+- Verbatim : "Ouais, c'est pareil."
+- Code 9 : Partage d'expérience
+- Verbatim : "C'était stupide."
+- Code 10 : Réflexion conjointe
+- Verbatim : "Peut-être en inverse."
+
+**Thème 5 : Dynamique d'utilisation et d'apprentissage**
+- Code 1 : Apprentissage limité
+- Verbatim : "Mais ChatGPT ne m'apprend rien et me conforte dans ce que je sais déjà."
+- Code 2 : Autres moyens d'apprentissage
+- Verbatim : "j'aurais cherché ailleurs, en fait."
+- Code 3 : Évaluation du temps disponible
+- Verbatim : "Mais est-ce que j'ai le temps de faire autre chose, d'apprendre d'autre chose ?"
+- Code 4 : Perception de l'avenir
+- Verbatim : "Bah oui, forcément, je pense."
+- Code 5 : Continuation de l'activité
+- Verbatim : "Et après, je peux travailler dans autre chose."
+- Code 6 : Réflexion sur l'activité
+- Verbatim : "Vu qu'au final, tu fais autre chose et tu..."
+- Code 7 : Perception de la nouveauté
+- Verbatim : "il m'apprend des trucs, mais qui sont tellement spécifiques"
+- Code 8 : Curiosité
+- Verbatim : "Je dis n'importe quoi."
+- Code 9 : Changement de perspective
+- Verbatim : "J'ai une meilleure idée."
+- Code 10 : Exploration
+- Verbatim : "pour voir qu'est-ce qu'il dit."
+
+Chaque thème est associé à une série de codes qui reflètent les nuances et les aspects saillants du discours de l'enquêté concernant son utilisation de ChatGPT et ses perceptions des limites et des enjeux liés à cet outil.

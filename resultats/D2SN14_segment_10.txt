@@ -1,0 +1,93 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif demandée.
+
+**Segment 1 : Réflexion sur l'utilisation de l'IA**
+
+- Thème : Perception de l'IA comme outil d'apprentissage
+ - Code1 : Incertitude sur la progression réelle
+ - Verbatim : "est-ce que je progresse vraiment ou est-ce que je m’habitue juste à déléguer ma réflexion ?"
+ - Code2 : L'IA comme outil neutre
+ - Verbatim : "l’IA, c’est pas juste un cheat code, c’est un outil comme un autre"
+ - Code3 : Utilisation responsable
+ - Verbatim : "ça dépend de comment tu l’utilises"
+ - Code4 : Aide à la structuration des idées
+ - Verbatim : "Si je m’en sers pour m’aider à structurer mes idées, à reformuler ou à mieux comprendre un sujet"
+ - Code5 : Culpabilisation en cas d'utilisation passive
+ - Verbatim : "dès que je sens que je deviens trop passif, que je prends ce qu’il me donne sans trop réfléchir"
+ - Code6 : Dilemme moral
+ - Verbatim : "y’a un vrai dilemme moral"
+ - Code7 : Risque de facilité
+ - Verbatim : "faut que je fasse gaffe à pas tomber dans la facilité"
+ - Code8 : Utilisation active vs passive
+ - Verbatim : "je bosse quand même derrière" (utilisation active)
+ - Code9 : Réflexion sur la dépendance à l'IA
+ - Verbatim : "je m’habitue juste à déléguer ma réflexion"
+ - Code10 : Contrôle de l'utilisation
+ - Verbatim : "ça dépend de comment tu l’utilises"
+
+- Thème : Impact de l'IA sur les pratiques d'apprentissage
+ - Code1 : Transformation des pratiques
+ - Verbatim : "l'usage de l'IA peut être quitte ou double"
+ - Code2 : Aide à l'optimisation du travail
+ - Verbatim : "aider l'humanité à mieux optimiser son travail"
+ - Code3 : Risque de dépendance
+ - Verbatim : "rendre l'humanité de plus en plus en trucs bêtes"
+ - Code4 : Changement dans les habitudes de travail
+ - Verbatim : "y’a déjà des collégiens qui utilisent ChatGPT"
+ - Code5 : Utilisation pour les pistes de travail
+ - Verbatim : "l'utilisation du travail pour les pistes"
+ - Code6 : Inquiétude sur l'avenir
+ - Verbatim : "ça va rendre de plus en plus en trucs qui entre guillemet bête"
+ - Code7 : Équilibre dans l'utilisation
+ - Verbatim : "quitte ou double"
+ - Code8 : Changement dans la manière d'apprendre
+ - Verbatim : "ça change la manière dont on apprend"
+ - Code9 : Impact sur la compréhension
+ - Verbatim : "aider l'humanité dans le sens où l'utilisation du travail pour les pistes"
+ - Code10 : Futur incertain
+ - Verbatim : "soit ça va aider l'humanité, soit ça va rendre l'humanité de plus en plus en trucs bêtes"
+
+**Segment 2 : Impact de ChatGPT sur l'apprentissage**
+
+- Thème : Changements dans la manière d'apprendre avec ChatGPT
+ - Code1 : Changement dans la perception de l'apprentissage
+ - Verbatim : "ça a changé la manière dont on voit l’apprentissage"
+ - Code2 : Fluidité dans l'apprentissage
+ - Verbatim : "avec un outil comme ChatGPT, c’est plus fluide"
+ - Code3 : Gain de temps
+ - Verbatim : "t’as une sorte d’assistant qui peut t’aider à synthétiser, organiser, reformuler des idées en un claquement de doigts"
+ - Code4 : Perte de l'effort de digestion de l'information
+ - Verbatim : "t’as plus ce même effort de digestion de l’information"
+ - Code5 : Changement dans les méthodes de travail
+ - Verbatim : "avant, t’avais cette idée que pour apprendre, fallait te taper des heures de lecture, de prise de notes, de réflexion pure"
+ - Code6 : Utilisation de ChatGPT pour résumer
+ - Verbatim : "je peux juste balancer le texte à ChatGPT et lui demander un résumé des idées principales"
+ - Code7 : Interrogation sur la compréhension réelle
+ - Verbatim : "est-ce que j’ai vraiment capté ce que j’ai lu ?"
+ - Code8 : Préoccupation sur la méthode d'apprentissage
+ - Verbatim : "est-ce que j’ai pris le temps de vraiment comprendre ?"
+ - Code9 : Dilemme sur l'utilisation de ChatGPT
+ - Verbatim : "c’est là que ça pose un vrai dilemme"
+ - Code10 : Pratique mais inquiétant
+ - Verbatim : "alors ouais, c’est pratique, ça va vite, mais"
+
+- Thème : Préoccupations et dilemmes liés à l'utilisation de ChatGPT
+ - Code1 : Inquiétude sur la perte de compétence
+ - Verbatim : "est-ce que j’ai vraiment capté ce que j’ai lu ?"
+ - Code2 : Risque de manque de réflexion
+ - Verbatim : "t’as plus ce même effort de digestion de l’information"
+ - Code3 : Dilemme entre facilité et effort
+ - Verbatim : "c’est à la fois un gain de temps énorme et un piège"
+ - Code4 : Changement dans la manière de comprendre l'apprentissage
+ - Verbatim : "ça change la manière dont on voit l’apprentissage"
+ - Code5 : Besoin de réflexion sur l'utilisation
+ - Verbatim : "faut que je fasse gaffe à pas tomber dans la facilité"
+ - Code6 : Interrogation sur la valeur de l'apprentissage
+ - Verbatim : "est-ce que j’ai pris le temps de vraiment comprendre ?"
+ - Code7 : Préoccupation éthique
+ - Verbatim : "y’a un vrai dilemme moral"
+ - Code8 : Importance de la conscience de l'utilisation
+ - Verbatim : "je sais que je bosse quand même derrière"
+ - Code9 : Équilibre à trouver dans l'utilisation
+ - Verbatim : "ça dépend de comment tu l’utilises"
+ - Code10 : Conscience du risque de dépendance
+ - Verbatim : "je m’habitue juste à déléguer ma réflexion"

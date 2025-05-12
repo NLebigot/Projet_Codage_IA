@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : La perception de la structure éducative**
+- Code 1 : Critique du modèle classique de cours
+- Verbatim : "le modèle classique de cours, c'est un modèle qui est absolument pas adapté à tout le monde."
+- Code 2 : Manque d'adaptabilité du système éducatif
+- Verbatim : "Passer ta journée à écouter quelqu'un qui t'explique de la théorie, ensuite faire deux heures d'une série d'exercices, ou tu vas en faire 20%, bah, ça donne tout souvent envie de continuer à faire ça."
+- Code 3 : Préférence pour une approche personnelle de l'apprentissage
+- Verbatim : "J'ai évité d'aller à certains cours et j'ai lu la théorie et appris à ma manière et ça m'a été bénéfique en termes de... de charge mentale."
+- Code 4 : Impact sur la vie sociale universitaire
+- Verbatim : "Donc genre typiquement la vie sociale universitaire que j'ai pas eu du tout."
+- Code 5 : Raisons de la démotivation face au système éducatif
+- Verbatim : "J'étais dans un état d'esprit où tu sors de... Tu sors de deux ans à l’EPFL, les études..."
+- Code 6 : Effet de la monotonie sur la motivation
+- Verbatim : "ça donne tout souvent envie de continuer à faire ça"
+- Code 7 : Importance de l'autonomie dans l'apprentissage
+- Verbatim : "j'ai lu la théorie et appris à ma manière"
+- Code 8 : Conséquences de ne pas suivre les cours magistraux
+- Verbatim : "le fait de plus aller en amphi"
+- Code 9 : Perception de la rigidité du système
+- Verbatim : "le modèle classique de cours"
+- Code 10 : Répercussions sur la santé mentale
+- Verbatim : "ça m'a été bénéfique en termes de... de charge mentale"
+
+**Thème 2 : L'utilisation de Chat GPT**
+- Code 1 : Première prise de contact avec Chat GPT
+- Verbatim : "Je sais pas du tout. Mais c'est juste qu'en fait ça a commencé à... Je crois que c'est pas mal, c'est passé au... On en entendait beaucoup parler"
+- Code 2 : Moment de la découverte de Chat GPT
+- Verbatim : "C'était à partir de, je crois, la deuxième année que ça arrivait."
+- Code 3 : Source d'information pour Chat GPT
+- Verbatim : "On en entendait beaucoup parler parce que... C'est un peu le moment où OpenAI a... a vraiment fait parler d'eux."
+- Code 4 : Fréquence d'utilisation de Chat GPT
+- Verbatim : "Tous les jours."
+- Code 5 : Raisons de l'adoption de Chat GPT
+- Verbatim : "tu es sur Twitter et t'en entends parler. Tu vas voir et tu découvres"
+- Code 6 : Intégration de Chat GPT dans les études
+- Verbatim : "Dans le cadre de tes études, tu utilisais Chat GPT à quelle fréquence ?"
+- Code 7 : Utilisation régulière de Chat GPT
+- Verbatim : "Tous les jours"
+- Code 8 : Perception de Chat GPT lors de sa découverte
+- Verbatim : "Je crois que c'est pas mal"
+- Code 9 : Rôle de l'environnement dans la découverte de Chat GPT
+- Verbatim : "On en entendait beaucoup parler"
+- Code 10 : Impact de Chat GPT sur les habitudes d'étude
+- Verbatim : "Non, même pas. Mais enfin, c'est pas lié vraiment au chat GPT"
+
+**Thème 3 : L'expérience de l'étudiant à l'étranger**
+- Code 1 : Disponibilité de temps lors de l'étranger
+- Verbatim : "j'avais trop de temps"
+- Code 2 : Manque d'équipements personnels à l'étranger
+- Verbatim : "j’avais pas mon ordi"
+- Code 3 : Habitudes de loisir perturbées
+- Verbatim : "quand j'ai du temps et que je suis un peu chill chez moi je suis en mode que il pleut dehors, j’me dis, je sais pas, j’vais jouer un peu et tout."
+- Code 4 : Stratégies d'occupation lors du temps libre
+- Verbatim : "il fallait trouver, il fallait s'occuper"
+- Code 5 : Difficultés d'adaptation à l'étranger
+- Verbatim : "quand t'es dans un autre pays"
+- Code 6 : Privation de plaisirs simples
+- Verbatim : "j’avais pas mon ordi donc je pouvais pas"
+- Code 7 : Changement dans les routines quotidiennes
+- Verbatim : "quand j'ai du temps"
+- Code 8 : Effet de l'environnement sur les comportements
+- Verbatim : "quand il pleut dehors"
+- Code 9 : Utilisation du temps de manière différente
+- Verbatim : "il fallait s'occuper"
+- Code 10 : Sentiment d'inactivité
+- Verbatim : "j'avais trop de temps"
+
+**Thème 4 : Les raisons de la décision de prendre du temps**
+- Code 1 : Énumération des raisons de démotivation
+- Verbatim : "c’était parce que ça m’faisais chier d’aller en cours"
+- Code 2 : État d'esprit après deux ans à l'EPFL
+- Verbatim : "Tu sors de deux ans à l’EPFL, les études..."
+- Code 3 : Fatigue ou lassitude face au système éducatif
+- Verbatim : "J'étais dans un état d'esprit où tu sors de... Tu sors de deux ans à l’EPFL"
+- Code 4 : Décision de ne pas suivre les cours
+- Verbatim : "j'ai décidé de prendre du temps"
+- Code 5 : Raisons sous-jacentes à la démotivation
+- Verbatim : "le modèle classique de cours, c'est un modèle qui est absolument pas adapté à tout le monde"
+- Code 6 : Manque d'envie de poursuivre les études de la manière classique
+- Verbatim : "ça m’faisais chier d’aller en cours"
+- Code 7 : Recherche d'alternatives aux cours magistraux
+- Verbatim : "J'ai évité d'aller à certains cours"
+- Code 8 : Perception négative du système éducatif
+- Verbatim : "le modèle classique de cours"
+- Code 9 : Préférence pour une autre méthode d'apprentissage
+- Verbatim : "j'ai lu la théorie et appris à ma manière"
+- Code 10 : Conséquences de cette décision sur la vie universitaire
+- Verbatim : "la vie sociale universitaire que j'ai pas eu du tout"
+
+**Thème 5 : L'interaction avec la technologie**
+- Code 1 : Découverte de Chat GPT via les médias
+- Verbatim : "On en entendait beaucoup parler parce que... C'est un peu le moment où OpenAI a... a vraiment fait parler d'eux."
+- Code 2 : Adoption de Chat GPT dans la routine
+- Verbatim : "Tous les jours"
+- Code 3 : Role de la technologie dans le quotidien
+- Verbatim : "tu es sur Twitter et t'en entends parler"
+- Code 4 : Intégration de la technologie dans les études
+- Verbatim : "Dans le cadre de tes études, tu utilisais Chat GPT à quelle fréquence ?"
+- Code 5 : Perception positive de la technologie
+- Verbatim : "Je crois que c'est pas mal"
+- Code 6 : Utilisation régulière de la technologie
+- Verbatim : "Tous les jours"
+- Code 7 : Impact de la technologie sur les habitudes
+- Verbatim : "Non, même pas. Mais enfin, c'est pas lié vraiment au chat GPT"
+- Code 8 : Exploration de l'offre technologique
+- Verbatim : "Tu vas voir et tu découvres"
+- Code 9 : Effet de la nouveauté technologique
+- Verbatim : "C'est un peu le moment où OpenAI a... a vraiment fait parler d'eux"
+- Code 10 : Rôle des réseaux sociaux dans la découverte
+- Verbatim : "tu es sur Twitter et t'en entends parler"

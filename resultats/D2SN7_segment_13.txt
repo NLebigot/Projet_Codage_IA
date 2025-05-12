@@ -1,0 +1,113 @@
+Après analyse du texte, j'ai identifié plusieurs thèmes qui reflètent les pratiques et les perceptions de l'enquêté concernant l'utilisation des outils numériques, en particulier ceux basés sur l'intelligence artificielle (IA). Voici les thèmes et les codes associés :
+
+### Thème 1 : Utilisation des outils d'IA pour la correction et la rédaction
+
+- Code 1 : Utilisation de Reverso pour la correction orthographique
+- Verbatim : "j'utilise enfin j'ai pris un peu l'habitude par exemple pour le pour quand j'ai un petit truc à rendre tu sais un petit truc hop je passe dans Reverso avant"
+- Code 2 : Utilisation de Google Doc pour la vérification des fautes
+- Verbatim : "tu regardes bien sur Google Doc que tu as rien en rouge ou en soulignant rouge ou soulignant bleu, tu as pas de faute quoi"
+- Code 3 : Utilisation de ChatGPT pour la reformulation
+- Verbatim : "Mais ChatGPT si tu mets un paragraphe, il va un peu te le reformuler"
+- Code 4 : Limites de la correction automatique
+- Verbatim : "tu peux faire des phrases tout à fait correctes syntaxiquement et orthographiquement et grammaticalement mais en fait elles sont moches quoi"
+- Code 5 : Utilisation de Deepl pour la reformulation en anglais
+- Verbatim : "j'utilise aussi un truc qui s'appelle Deepl write c'est de epl qui a créé un une version qui s'appelait bah qui en fait qui pour la reformulation"
+- Code 6 : Préférence pour Deepl en anglais
+- Verbatim : "surtout en anglais, pas trop en français"
+- Code 7 : Utilisation occasionnelle de l'IA pour la rédaction
+- Verbatim : "Mais c'est je pense c'est le deuxième truc que j'utilise parce que sinon j'utilise pas trop"
+- Code 8 : Perception de l'utilité de l'IA dans l'écriture
+- Verbatim : "ça m'a donné 2-3 trucs et au début je me suis dit mais …"
+- Code 9 : Exploration de différentes fonctionnalités
+- Verbatim : "j'ai mis alors je sais pas si je dois le dire en plus ça enregistre mais j'ai mis des transcriptions d'entretien"
+- Code 10 : Intégration de l'IA dans le processus de travail
+- Verbatim : "comme il peut gérer plusieurs les entretiens et après tu lui dis, voilà, moi je travaille sur ce sujet"
+
+### Thème 2 : Perception de l'innovation et de la révolution apportée par l'IA
+
+- Code 1 : Réflexion sur le caractère révolutionnaire de l'IA
+- Verbatim : "j'ai peut-être été un peu médisant sur le révolutionnaire"
+- Code 2 : Découverte de Notebook LM
+- Verbatim : "c'est Notebook LM. Je sais pas si tu vois ce que c'est"
+- Code 3 : Popularité de Notebook LM sur les réseaux sociaux
+- Verbatim : "y a pas longtemps pour les podcasts, parce que je sais pas, c'est tourné sur Tik Tok"
+- Code 4 : Utilisation de l'IA pour la création de podcasts
+- Verbatim : "tu peux faire des podcasts et tout"
+- Code 5 : Témoignages d'amis sur l'utilité de Notebook LM
+- Verbatim : "j'ai pas mal potes qui m'ont parlé et tout"
+- Code 6 : Exploration des fonctionnalités de Notebook LM
+- Verbatim : "j'ai mis des transcriptions d'entretien et en fait comme il peut gérer plusieurs"
+- Code 7 : Utilisation pour l'analyse thématique
+- Verbatim : "tu lui dis, voilà, moi je travaille sur ce sujet, est-ce que voilà tu vois certaines thématiques"
+- Code 8 : Perception initiale de l'outil
+- Verbatim : "au début je me suis dit mais …"
+- Code 9 : Découverte progressive de l'utilité de l'outil
+- Verbatim : "ça m'a donné 2-3 trucs"
+- Code 10 : Intégration dans le processus de recherche
+- Verbatim : "je travaille sur ce sujet"
+
+### Thème 3 : Pratiques numériques et plurilinguisme
+
+- Code 1 : Utilisation d'outils différents pour le français et l'anglais
+- Verbatim : "surtout en anglais, pas trop en français"
+- Code 2 : Préférence pour Deepl pour la reformulation en anglais
+- Verbatim : "j'utilise aussi un truc qui s'appelle Deepl write"
+- Code 3 : Utilisation de Reverso pour le français
+- Verbatim : "j'utilise enfin j'ai pris un peu l'habitude par exemple pour le pour quand j'ai un petit truc à rendre"
+- Code 4 : Multilinguisme et besoins linguistiques
+- Verbatim : "quand j'ai un petit truc à faire en anglais, oui, je l'utilise"
+- Code 5 : Adaptation des outils aux besoins linguistiques
+- Verbatim : "pour la reformulation en anglais"
+- Code 6 : Perception de la qualité des outils
+- Verbatim : "c'est pas mal aussi"
+- Code 7 : Utilisation de Google Doc pour vérifier les fautes
+- Verbatim : "tu regardes bien sur Google Doc que tu as rien en rouge ou en soulignant rouge ou soulignant bleu"
+- Code 8 : Importance de la langue dans le choix des outils
+- Verbatim : "surtout en anglais"
+- Code 9 : Flexibilité dans l'utilisation des outils numériques
+- Verbatim : "j'utilise aussi un truc"
+- Code 10 : Adaptation aux besoins spécifiques de rédaction
+
+### Thème 4 : Exploration et expérimentation des outils d'IA
+
+- Code 1 : Découverte de nouveaux outils
+- Verbatim : "j'ai pas mal potes qui m'ont parlé et tout mais moi jamais essayé"
+- Code 2 : Expérimentation avec Notebook LM
+- Verbatim : "j'ai mis des transcriptions d'entretien"
+- Code 3 : Curiosité envers les capacités de l'IA
+- Verbatim : "tu peux faire des podcasts et tout"
+- Code 4 : Perception de la nouveauté et de l'innovation
+- Verbatim : "j'ai peut-être été un peu médisant sur le révolutionnaire"
+- Code 5 : Exploration des fonctionnalités
+- Verbatim : "comme il peut gérer plusieurs les entretiens"
+- Code 6 : Découverte des limites et des possibilités
+- Verbatim : "au début je me suis dit mais …"
+- Code 7 : Intégration de l'IA dans les pratiques de travail
+- Verbatim : "je travaille sur ce sujet"
+- Code 8 : Ouverture à de nouvelles pratiques
+- Verbatim : "j'ai pas mal potes qui m'ont parlé"
+- Code 9 : Exploration des potentialités pour la recherche
+- Verbatim : "est-ce que voilà tu vois certaines thématiques"
+- Code 10 : Dynamique d'expérimentation
+
+### Thème 5 : Interactions et partages autour des outils numériques
+
+- Code 1 : Partage d'expériences avec les pairs
+- Verbatim : "j'ai pas mal potes qui m'ont parlé et tout"
+- Code 2 : Réseaux de pairs et échanges
+- Verbatim : "j'ai pas mal potes"
+- Code 3 : Découverte grâce aux réseaux sociaux
+- Verbatim : "c'est tourné sur Tik Tok"
+- Code 4 : Utilisation par les pairs
+- Verbatim : "y a des gens pour qui ça marche très bien et tout"
+- Code 5 : Partage de connaissances
+- Verbatim : "je sais pas si tu vois ce que c'est"
+- Code 6 : Perception de l'utilité à travers les témoignages
+- Verbatim : "qui mettent leur cours et ça leur fait des podcasts"
+- Code 7 : Interactions autour des outils numériques
+- Verbatim : "j'ai pas mal potes qui m'ont parlé"
+- Code 8 : Circulation de l'information
+- Verbatim : "y a pas longtemps pour les podcasts"
+- Code 9 : Communauté et pratiques partagées
+- Verbatim : "des gens pour qui ça marche très bien"
+- Code 10 : Dynamique sociale autour des outils numériques

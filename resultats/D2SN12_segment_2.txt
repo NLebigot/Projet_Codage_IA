@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Parcours universitaire et spécialisation**
+ - Code 1 : Choix de la filière
+ - Verbatim : "j'ai fait un bac général avec option littérature en anglais et géopolitique"
+ - Code 2 : Spécialisation progressive
+ - Verbatim : "des cours qui se sont spécialisés au fil de mon parcours"
+ - Code 3 : Options choisies en 2e année
+ - Verbatim : "j'ai pris une option sur les médias et la société, sur la gestion d'une organisation, sur les violences politiques et sur les relations internationales"
+ - Code 4 : Expérience à l'étranger
+ - Verbatim : "je suis Deras en Hongrie pour toute l'année académique"
+ - Code 5 : Cours suivis à l'étranger
+ - Verbatim : "j'ai suivi des cours de relations internationales et de droits européens"
+ - Code 6 : Continuité du parcours
+ - Verbatim : "actuellement, je suis en 4e année en master à terre publique en Europe, toujours en filière générale"
+ - Code 7 : Diversification des compétences
+ - Verbatim : "j'ai suivi des cours de relations internationales et de droits européens ou en lien avec l'Europe intégration européenne"
+ - Code 8 : Objectifs de la formation
+ - Verbatim : "on est quand même sur une filière qui est plutôt littéraire"
+ - Code 9 : Contenu des cours
+ - Verbatim : "des études juridiques, des études du littéraire"
+ - Code 10 : Approche pédagogique
+ - Verbatim : "je vais plus avoir des études juridiques, des études du littéraire et moins de la représentation"
+
+**Thème 2 : Utilisation des technologies et logiciels dans les études**
+ - Code 1 : Utilisation limitée des logiciels spécifiques
+ - Verbatim : "Non, pas tellement. On va avoir des sites pour regarder des articles ou des lois"
+ - Code 2 : Nature de la filière et besoins en logiciels
+ - Verbatim : "je ne suis pas dans une filière qui a besoin forcément de d'Excel ou de de logiciel plus technique"
+ - Code 3 : Utilisation de Canva pour les présentations
+ - Verbatim : "je vais utiliser Canva mais en général, on est quand même sur une filière qui est plutôt littéraire"
+ - Code 4 : Cartographie des acteurs
+ - Verbatim : "si tu veux faire la cartographie des acteurs et tout ça. Donc là, ça tu le fais à la mano"
+ - Code 5 : Représentation et codage
+ - Verbatim : "moins de la représentation et moins de du codage tout ce qui est toutes les plus des logiciels développés quoi"
+ - Code 6 : Utilisation des technologies pour les études
+ - Verbatim : "on travaille beaucoup avec ça"
+ - Code 7 : Limite de l'utilisation des technologies
+ - Verbatim : "parfois on peut rentrer dans des cercles un peu malsains où on va justement trop utiliser la technologie"
+ - Code 8 : Équilibre avec d'autres activités
+ - Verbatim : "il faut faire attention et que j'essaie de limiter aussi mon temps sur les écrans"
+ - Code 9 : Génération et technologie
+ - Verbatim : "notre génération enfin ceux qui sont dans les années 2000, on est plutôt les dans la technologie"
+ - Code 10 : Compétences technologiques
+ - Verbatim : "je dirais que je sais plutôt bien me servir de technologies"
+
+**Thème 3 : Usage de ChatGPT dans le contexte universitaire**
+ - Code 1 : Utilisation pour les révisions
+ - Verbatim : "pour les révisions, ça m'est arrivé par exemple quand euh quand faut faire des fiches synthétiques"
+ - Code 2 : Demande de fiches synthétiques à ChatGPT
+ - Verbatim : "je vais lui demander de me faire des fiches, me parfois des petits schémas ou des choses comme ça"
+ - Code 3 : Utilisation pour la rédaction
+ - Verbatim : "je ne l’utilise pas vraiment parce qu'en fait bah déjà ce serait ça peut être considéré comme du plagia"
+ - Code 4 : Aide pour la formulation
+ - Verbatim : "si j'ai un doute sur un mot ou une formulation que je n’aime pas ou je veux trouver un synonyme qui soit plus étoffé, je peux lui demander"
+ - Code 5 : Recherche d'information
+ - Verbatim : "je suis dans une filière qui demande beaucoup de de cités, qui nécessite beaucoup de de donner ses sources"
+ - Code 6 : Fiabilité de ChatGPT pour les sources
+ - Verbatim : "JGPT est pas vraiment fiable pour ça"
+ - Code 7 : Utilisation pour des définitions
+ - Verbatim : "si je cherche quelque chose de purement théorique, un article de loi, une définition d'un mot, ça oui, je peux je peux lui demander"
+ - Code 8 : Limite de l'utilisation de ChatGPT
+ - Verbatim : "il faut plutôt faire les recherches de son côté"
+ - Code 9 : Cas d'usage concret
+ - Verbatim : (Pas de verbatim clair pour ce code dans le texte fourni)
+ - Code 10 : Avantages de l'utilisation de ChatGPT
+ - Verbatim : "ça va m'aider à y voir plus clair sur un cours"
+
+**Thème 4 : Relation avec la technologie en général et dans les études**
+ - Code 1 : Génération et usage de la technologie
+ - Verbatim : "notre génération enfin ceux qui sont dans les années 2000, on est plutôt les dans la technologie et à la fois on s'en sert tous les jours"
+ - Code 2 : Compétences technologiques comparées
+ - Verbatim : "je dirais que je sais plutôt bien me servir de technologies, même par rapport à mes grands-parents ou mes parents"
+ - Code 3 : Utilisation quotidienne
+ - Verbatim : "on s'en sert tous les jours"
+ - Code 4 : Risques liés à une utilisation excessive
+ - Verbatim : "parfois on peut rentrer dans des cercles un peu malsains où on va justement trop utiliser la technologie"
+ - Code 5 : Nécessité d'un équilibre
+ - Verbatim : "il faut faire attention et que j'essaie de limiter aussi mon temps sur les écrans"
+ - Code 6 : Confrontation à la technologie dans les études
+ - Verbatim : "on y est beaucoup confronté et on travaille beaucoup avec ça"
+ - Code 7 : Difficulté à limiter l'utilisation
+ - Verbatim : "c'est de plus en plus difficile"
+ - Code 8 : Technologie et modes de travail
+ - Verbatim : "on travaille beaucoup avec ça donc c'est de plus en plus difficile"
+ - Code 9 : Impact sur les activités manuelles
+ - Verbatim : "déisser ça par rapport à des activités plus manuelles ou la lecture et cetera"
+ - Code 10 : Importance de la maîtrise de la technologie
+ - Verbatim : "je pense que je dirais que je sais plutôt bien me servir de technologies"
+
+**Thème 5 : Perception et limites de ChatGPT dans les études**
+ - Code 1 : Utilisation pour des tâches spécifiques
+ - Verbatim : "pour les révisions, ça m'est arrivé par exemple quand euh quand faut faire des fiches synthétiques"
+ - Code 2 : Limite due au plagiat
+ - Verbatim : "ce serait ça peut être considéré comme du plagia, donc il faut éviter au maximum"
+ - Code 3 : Fiabilité des informations
+ - Verbatim : "JGPT est pas vraiment fiable pour ça"
+ - Code 4 : Utilisation pour des recherches théoriques
+ - Verbatim : "si je cherche quelque chose de purement théorique, un article de loi, une définition d'un mot, ça oui, je peux je peux lui demander"
+ - Code 5 : Importance des sources
+ - Verbatim : "je suis dans une filière qui demande beaucoup de de cités, qui nécessite beaucoup de de donner ses sources"
+ - Code 6 : Limite dans la recherche d'information
+ - Verbatim : "il faut plutôt faire les recherches de son côté"
+ - Code 7 : Utilité pour les étudiants
+ - Verbatim : "ça va m'aider à y voir plus clair sur un cours"
+ - Code 8 : Risques liés à la dépendance
+ - Verbatim : (Pas de verbatim clair pour ce code dans le texte fourni)
+ - Code 9 : Contextualisation de l'usage
+ - Verbatim : "dans une filière qui demande beaucoup de de cités, qui nécessite beaucoup de de donner ses sources"
+ - Code 10 : Perception de la technologie comme outil
+ - Verbatim : "je pense que je dirais que je sais plutôt bien me servir de technologies"

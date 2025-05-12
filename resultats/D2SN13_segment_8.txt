@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+### Thème 1 : Perception de la qualité de ChatGPT
+- Code 1 : Citation des sources
+- Verbatim : "Ben déjà il cite ses sources maintenant mais l’année dernière j’ai pas le souvenir qu'il le faisait."
+- Code 2 : Fiabilité des réponses
+- Verbatim : "Donc sur vraiment la recherche d'infos, je trouve qu'il est vraiment bon."
+- Code 3 : Limites de ChatGPT
+- Verbatim : "Mais après sur résumer comme je t'ai dit, je trouve pas trop."
+- Code 4 : Utilité pour les tâches simples
+- Verbatim : "pour écrire des mails c'est super."
+- Code 5 : Limites pour les tâches complexes
+- Verbatim : "pour écrire des rendus précis où on mobilise des théories précises ou même des analyses d'entretiens."
+- Code 6 : Évaluation globale
+- Verbatim : "je mettrai 9 sur 10 je pense en termes de recherche d'info."
+- Code 7 : Appréciation de la qualité
+- Verbatim : "ça améliore sa qualité."
+- Code 8 : Vérification des informations
+- Verbatim : "j'avoue que je check pas forcément."
+- Code 9 : Confiance limitée
+- Verbatim : "je me dis bon c'est bon il est fiable quoi."
+- Code 10 : Nécessité de vérification
+- Verbatim : "il faut faire attention et repasser derrière."
+
+### Thème 2 : Utilisation de ChatGPT pour la recherche d'informations
+- Code 1 : Demande de références
+- Verbatim : "je lui avais dit ben en économie cite moi des références qui parlent de mon sujet."
+- Code 2 : Résultats obtenus
+- Verbatim : "il m'en avait donné."
+- Code 3 : Vérification des sources
+- Verbatim : "j'étais allé sur la page wikipedia de Samuelson."
+- Code 4 : Découverte d'erreurs
+- Verbatim : "il m'avait dit genre Samuelson il a parlé de mon sujet et ça me semblait un peu bizarre."
+- Code 5 : Correction des erreurs
+- Verbatim : "je lui ai redemandé est-ce que tu peux me faire un résumé de ce livre."
+- Code 6 : Rectification de l'information
+- Verbatim : "il m’a fait un résumé et je lui ai dis dans quelle partie il parle de mon sujet et il m'a dit “ah je suis désolé”."
+- Code 7 : Expérience de vérification
+- Verbatim : "ça m'est déjà arrivé plusieurs fois où parfois il me dit ah finalement non."
+- Code 8 : Importance de la vérification
+- Verbatim : "donc il faut vraiment pousser."
+- Code 9 : Conséquence de ne pas vérifier
+- Verbatim : "si j'avais pris son info et que j’avais mis que Samuelson avait parlé de mon sujet alors que pas du tout."
+- Code 10 : Leçon tirée
+- Verbatim : "il vaut mieux vérifier."
+
+### Thème 3 : Évaluation des performances de ChatGPT
+- Code 1 : Notation pour la recherche d'informations
+- Verbatim : "je mettrai 9 sur 10 je pense."
+- Code 2 : Notation pour la production d'écrits personnels
+- Verbatim : "je lui mettrai une bonne note aussi 8 ou 9."
+- Code 3 : Notation pour la production d'écrits scientifiques
+- Verbatim : "je lui mettrais 6 je pense."
+- Code 4 : Critère de notation
+- Verbatim : "parfois il ne connaît pas notre relation avec la personne à qui on écrit le mail."
+- Code 5 : Évaluation globale positive
+- Verbatim : "au-dessus de la moyenne au final."
+- Code 6 : Appréciation pour les tâches simples
+- Verbatim : "pour écrire des mails tout ça."
+- Code 7 : Réserve pour les tâches complexes
+- Verbatim : "pour production d’écrits un peu scientifique."
+- Code 8 : Notations nuancées
+- Verbatim : "8 ou 9 pour la production d’écrits personnels."
+- Code 9 : Faiblesse pour certains aspects
+- Verbatim : "il fait un truc hyper formel alors que bah non."
+- Code 10 : Évaluation mitigée
+- Verbatim : "plutôt bon, mais il faut faire attention."
+
+### Thème 4 : Interaction avec ChatGPT et processus de vérification
+- Code 1 : Demande d'informations
+- Verbatim : "je lui avais demandé."
+- Code 2 : Poursuite de la vérification
+- Verbatim : "j'ai regardé dans sa bibliographie à la fin."
+- Code 3 : Découverte d'erreurs par vérification
+- Verbatim : "je me suis dis mais c'est trop bizarre."
+- Code 4 : Interaction corrective
+- Verbatim : "je lui ai redemandé."
+- Code 5 : Rectification par ChatGPT
+- Verbatim : "il m'a dit “ah je suis désolé”."
+- Code 6 : Processus de vérification
+- Verbatim : "il faut vraiment pousser."
+- Code 7 : Apprentissage par l'interaction
+- Verbatim : "ça m'est déjà arrivé plusieurs fois."
+- Code 8 : Utilisation itérative
+- Verbatim : "je lui ai redemandé."
+- Code 9 : Importance de la vérification active
+- Verbatim : "il faut faire attention."
+- Code 10 : Dynamique d'interaction
+- Verbatim : "finalement il s'est remis en question."
+
+### Thème 5 : Limites et potentialités de ChatGPT dans un contexte académique
+- Code 1 : Utilité pour les recherches
+- Verbatim : "pour la recherche d'infos, je trouve qu'il est vraiment bon."
+- Code 2 : Limite pour la synthèse
+- Verbatim : "pour résumer, je trouve pas trop."
+- Code 3 : Utilité pour les écrits simples
+- Verbatim : "pour écrire des mails c'est super."
+- Code 4 : Limite pour les écrits complexes
+- Verbatim : "pour les rendus précis."
+- Code 5 : Perception de la fiabilité
+- Verbatim : "je check pas forcément."
+- Code 6 : Nécessité de vérification
+- Verbatim : "il faut faire attention."
+- Code 7 : Appréciation globale
+- Verbatim : "je mettrai 9 sur 10."
+- Code 8 : Limite de spécialisation
+- Verbatim : "il ne connaît pas notre relation avec la personne."
+- Code 9 : Valeur pour les tâches académiques
+- Verbatim : "pour la recherche d'info."
+- Code 10 : Potentiel avec vérification
+- Verbatim : "il est vraiment bon si on vérifie."

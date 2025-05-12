@@ -1,0 +1,101 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Interactions familiales et discussion sur les nouvelles technologies**
+ - Code 1 : Discussion avec le frère sur l'informatique
+ - Verbatim : "Et j'ai mon frère qui est ingénieur en informatique. Et au début je pense que... on en parlait en famille, pis voir ce que mon frère aussi en pensait"
+ - Code 2 : Implication des parents dans l'éducation
+ - Verbatim : "Mes parents ils sont dans l'éducation. Ma mère elle était enseignante... Mon père, il est dans l'éducation. Il voyage beaucoup pour les écoles chrétiennes."
+ - Code 3 : Curiosité du père pour les nouvelles technologies
+ - Verbatim : "Mon père est très curieux donc en fait il regarde plein de choses à la télé, des discussions, des débats, des documentaires."
+ - Code 4 : Discussion en famille sur les sujets d'actualité
+ - Verbatim : "Et ouais, voilà, c'est ça. Parce que je sais qu'il a un avis sur tout. Et ouais, voilà, c'est ça."
+ - Code 5 : Influence de la famille sur la perception des nouvelles technologies
+ - Verbatim : "Je crois que j'ai parlé en famille beaucoup."
+ - Code 6 : Partage d'opinions en famille
+ - Verbatim : "On en parlait en famille"
+ - Code 7 : Rôle de la famille dans la compréhension des nouvelles technologies
+ - Verbatim : "Pis voir ce que mon frère aussi en pensait, pisqu'il est en général en informatique, de voir un peu c'est quoi en fait finalement, comment ça marche."
+ - Code 8 : Intérêt de la famille pour l'informatique et l'IA
+ - Verbatim : "Mon père surtout, ma mère un peu."
+ - Code 9 : Perception des nouvelles technologies par les parents
+ - Verbatim : "Ils connaissent, je sais pas trop, mais en tout cas ils se renseignent"
+ - Code 10 : Importance de la discussion en famille
+ - Verbatim : "Parce que je sais qu'il a un avis sur tout."
+
+**Thème 2 : Perception initiale et évolution de l'utilisation de ChatGPT**
+ - Code 1 : Méfiance initiale envers ChatGPT
+ - Verbatim : "J'étais un peu contre... En mode oh non, encore un truc qui va récupérer mes données."
+ - Code 2 : Réserve initiale due à la qualité des réponses
+ - Verbatim : "Il me semble qu'au début aussi c'était pas encore ouf les réponses qu'il donnait."
+ - Code 3 : Évolution de la perception de ChatGPT
+ - Verbatim : "Et après quelques années... Il commençait à dire dans les infos que c'était quand même quelque chose qui devenait assez fiable."
+ - Code 4 : Décision d'utiliser ChatGPT
+ - Verbatim : "Je me suis dit, ok, allez, on essaye."
+ - Code 5 : Raison de l'utilisation de ChatGPT
+ - Verbatim : "Je pense les études."
+ - Code 6 : Utilité de ChatGPT pour les recherches
+ - Verbatim : "Je ne saurais pas comment chercher sur Internet moi-même."
+ - Code 7 : Moment de l'inscription sur ChatGPT
+ - Verbatim : "Et voilà, je me suis inscrite et j'ai mis mon mail, mon passeport, euh, mon password"
+ - Code 8 : Évolution de la confiance en ChatGPT
+ - Verbatim : "Il donnait des réponses assez bien finalement, assez étonnantes d'ailleurs."
+ - Code 9 : Changement de comportement envers ChatGPT
+ - Verbatim : "Je ne suis pas allée directement parce qu'au début, j'étais un peu contre"
+ - Code 10 : Utilisation effective de ChatGPT
+ - Verbatim : "Et tout à coup, je me suis dit, quand même, là, je pense que j'ai besoin de chat GPT"
+
+**Thème 3 : Fréquence et contexte d'utilisation de ChatGPT**
+ - Code 1 : Utilisation pour des questions quotidiennes
+ - Verbatim : "J'utilise un peu pour des questions quotidiennes."
+ - Code 2 : Utilisation pour résoudre des problèmes informatiques
+ - Verbatim : "Par exemple s'il y a des messages d'erreur ou je sais pas quoi."
+ - Code 3 : Utilité de ChatGPT pour des problèmes spécifiques
+ - Verbatim : "Je trouve que c'est pas mal pour des choses qui sont assez précises, des problèmes que tu peux pas trouver comme ça sur Google"
+ - Code 4 : Variabilité de la fréquence d'utilisation
+ - Verbatim : "Ça dépend, il y a des périodes où j'utilise beaucoup, et des périodes où, bah là, j'ai pas touché à ChatGPT depis une semaine, deux semaines"
+ - Code 5 : Périodes d'utilisation intensive
+ - Verbatim : "Il y a des périodes où j'utilise beaucoup"
+ - Code 6 : Périodes d'abstention
+ - Verbatim : "Et des périodes où, bah là, j'ai pas touché à ChatGPT depis une semaine"
+ - Code 7 : Contexte d'utilisation pour les études
+ - Verbatim : "Je pense les études."
+ - Code 8 : Utilisation pour des questions personnelles
+ - Verbatim : "Oui, des petites questions aussi par rapport à l'ordi."
+ - Code 9 : Utilisation en fonction des besoins
+ - Verbatim : "Quand même, là, je pense que j'ai besoin de chat GPT"
+ - Code 10 : Souplesse d'utilisation
+ - Verbatim : "Ça dépend"
+
+**Thème 4 : Relation entre le programme en digital society et l'utilisation de ChatGPT**
+ - Code 1 : Lien entre le programme et l'utilisation de ChatGPT
+ - Verbatim : "Et est-ce que t'as remarqué que tu l'utilises plus depis que t'es dans le programme en digital society ?"
+ - Code 2 : Influence potentielle du programme sur l'utilisation
+ - Verbatim : "Ou pas forcément ?"
+ - Code 3 : Perception de l'impact du programme
+ - (Pas de verbatim direct, la réponse est en cours)
+ - Code 4 : Futur usage en lien avec le programme
+ - (Pas de verbatim direct, la réponse est en cours)
+ - Code 5 : Contexte d'utilisation dans le cadre du programme
+ - (Pas de verbatim direct, la réponse est en cours)
+
+**Thème 5 : Préoccupations et perceptions des données personnelles**
+ - Code 1 : Préoccupation pour la confidentialité des données
+ - Verbatim : "Encore un truc qui va récupérer mes données."
+ - Code 2 : Contexte de la préoccupation
+ - Verbatim : "Avec toutes ces histoires de données, de... Enfin, c'est énorme."
+ - Code 3 : Perception du risque lié aux données
+ - Verbatim : "J'étais un peu méfiante."
+ - Code 4 : Moment où la préoccupation a diminué
+ - Verbatim : "Et après quelques années... Il commençait à dire dans les infos que c'était quand même quelque chose qui devenait assez fiable."
+ - Code 5 : Influence de la perception du risque sur l'utilisation
+ - Verbatim : "Je ne suis pas allée directement parce qu'au début, j'étais un peu contre"
+ - Code 6 : Évolution de la confiance
+ - Verbatim : "Il donnait des réponses assez bien finalement, assez étonnantes d'ailleurs."
+ - Code 7 : Acceptation de l'outil malgré les risques
+ - Verbatim : "Je me suis dit, ok, allez, on essaye."
+ - Code 8 : Rôle de l'information dans la perception
+ - Verbatim : "Il commençait à dire dans les infos que c'était quand même quelque chose qui devenait assez fiable."
+ - Code 9 : Changement de comportement
+ - Verbatim : "Je ne suis pas allée directement... Et tout à coup, je me suis dit, quand même, là, je pense que j'ai besoin de chat GPT"
+ - Code 10 : Équilibre entre utilité et risque
+ - Verbatim : "Je pense que j'ai besoin de chat GPT"

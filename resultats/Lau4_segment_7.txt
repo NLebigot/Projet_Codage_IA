@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Utilité et limites de ChatGPT dans les études**
+ - Code 1 : Utilité pour la forme
+ - Verbatim : "Donc il est assez utile pour la forme, visiblement, mais le fond, moins."
+ - Code 2 : Limite pour le fond
+ - Verbatim : "Non, je ne crois pas" (en réponse à la question de savoir si ChatGPT peut aider à comprendre des sujets abordés en cours)
+ - Code 3 : Manque de confiance
+ - Verbatim : "Je ne fais pas confiance à ChatGPT pour... En histoire surtout"
+ - Code 4 : Importance de l'esprit critique
+ - Verbatim : "On est quand même formé à avoir un esprit critique sur ce qui est disponible en ligne"
+ - Code 5 : Utilisation limitée
+ - Verbatim : "Donc je ne l'utilise pas du tout pour le fond."
+ - Code 6 : Fiabilité des sources
+ - Verbatim : "Je ne fais pas confiance surtout dans des domaines aussi contemporains que le concept de féminicide"
+ - Code 7 : Critique des informations
+ - Verbatim : "Je serai très critique" (en réponse à la question de savoir si elle demande une information qu'elle ne connaît pas)
+ - Code 8 : Explication des concepts
+ - Verbatim : "Je peux demander de m'expliquer un concept"
+ - Code 9 : Synthèse d'informations
+ - Verbatim : "ChatGPT va synthétiser les informations qui se trouvent déjà sur Internet"
+ - Code 10 : Limite de la technologie
+ - Verbatim : "Ce que ChatGPT ressortait était soit trop connu, soit des noms qui n'étaient pas... des femmes victimes de féminicide"
+
+**Thème 2 : Impact de ChatGPT sur le stress et la rédaction**
+ - Code 1 : Réduction du stress
+ - Verbatim : "Oui, là je pense par exemple quand j'ai dû rendre mon mémoire"
+ - Code 2 : Utilisation pour la rédaction
+ - Verbatim : "Heureusement, enfin peut-être, ou pas, que ChatGPT était là pour m'aider à rédiger rapidement cette conclusion"
+ - Code 3 : Rassurance
+ - Verbatim : "Ça a tendance à me rassurer, parce que dans tous les cas, je rends mes travaux à la dernière minute"
+ - Code 4 : Dernière minute
+ - Verbatim : "En tout cas, je n'en ai pas d'avance" (en parlant des travaux à rendre)
+ - Code 5 : Aide à la finalisation
+ - Verbatim : "Je vais être moins bloquée sur les dernières étapes, donc les précisions, la relecture"
+ - Code 6 : Utilité pour la forme du texte
+ - Verbatim : "C'est assez important pour moi" (en parlant de la clarté et de la qualité de l'écriture)
+ - Code 7 : Disponibilité
+ - Verbatim : "C'est un peu rassurant de me dire que je ne vais pas être bloquée"
+ - Code 8 : Moins de blocage
+ - Verbatim : "Je vais être moins bloquée sur les dernières étapes"
+ - Code 9 : Utilisation pour la relecture
+ - Verbatim : "Les précisions, la relecture" (en parlant des étapes où ChatGPT peut aider)
+ - Code 10 : Gain de temps
+ - Verbatim : "Rapidement cette conclusion" (en parlant de l'aide apportée par ChatGPT)
+
+**Thème 3 : Fiabilité et qualité des réponses de ChatGPT**
+ - Code 1 : Manque de fiabilité
+ - Verbatim : "Je ne fais pas confiance à ChatGPT"
+ - Code 2 : Importance de la vérification
+ - Verbatim : "Comment tu fais pour vérifier la fiabilité et la qualité des réponses que ChatGPT te donne ?"
+ - Code 3 : Cas rares d'utilisation
+ - Verbatim : "C'était des cas vraiment très rares"
+ - Code 4 : Limite pour les informations précises
+ - Verbatim : "Pour des cas assez précis, je ne fais pas confiance"
+ - Code 5 : Critique des informations
+ - Verbatim : "Je serai très critique"
+ - Code 6 : Explication des concepts
+ - Verbatim : "Je peux demander de m'expliquer un concept"
+ - Code 7 : Synthèse d'informations
+ - Verbatim : "ChatGPT va synthétiser les informations qui se trouvent déjà sur Internet"
+ - Code 8 : Limite de la technologie
+ - Verbatim : "Ce que ChatGPT ressortait était soit trop connu, soit des noms qui n'étaient pas... des femmes victimes de féminicide"
+ - Code 9 : Vérification nécessaire
+ - Verbatim : "Je me rends compte que pour des cas assez précis, je ne fais pas confiance"
+ - Code 10 : Utilisation critique
+ - Verbatim : "Je serai moins critique parce que je sais qu'a priori, ChatGPT va utiliser, va synthétiser les informations qui se trouvent déjà sur Internet"
+
+**Thème 4 : Perception et utilisation de ChatGPT**
+ - Code 1 : Perception mitigée
+ - Verbatim : "Donc il est assez utile pour la forme, visiblement, mais le fond, moins"
+ - Code 2 : Utilisation limitée
+ - Verbatim : "Je ne l'utilise pas du tout pour le fond"
+ - Code 3 : Utilisation pour la rédaction
+ - Verbatim : "ChatGPT était là pour m'aider à rédiger rapidement cette conclusion"
+ - Code 4 : Importance de l'esprit critique
+ - Verbatim : "On est quand même formé à avoir un esprit critique sur ce qui est disponible en ligne"
+ - Code 5 : Fiabilité des sources
+ - Verbatim : "Je ne fais pas confiance surtout dans des domaines aussi contemporains que le concept de féminicide"
+ - Code 6 : Utilisation pour les concepts
+ - Verbatim : "Je peux demander de m'expliquer un concept"
+ - Code 7 : Limite de la technologie
+ - Verbatim : "Ce que ChatGPT ressortait était soit trop connu, soit des noms qui n'étaient pas... des femmes victimes de féminicide"
+ - Code 8 : Rassurance
+ - Verbatim : "Ça a tendance à me rassurer"
+ - Code 9 : Moins de blocage
+ - Verbatim : "Je vais être moins bloquée sur les dernières étapes"
+ - Code 10 : Gain de temps
+ - Verbatim : "Rapidement cette conclusion"
+
+**Thème 5 : Stratégies d'utilisation de ChatGPT**
+ - Code 1 : Utilisation ciblée
+ - Verbatim : "Je peux demander de m'expliquer un concept"
+ - Code 2 : Limite pour les informations précises
+ - Verbatim : "Pour des cas assez précis, je ne fais pas confiance"
+ - Code 3 : Importance de la vérification
+ - Verbatim : "Comment tu fais pour vérifier la fiabilité et la qualité des réponses que ChatGPT te donne ?"
+ - Code 4 : Utilisation pour la rédaction
+ - Verbatim : "ChatGPT était là pour m'aider à rédiger rapidement cette conclusion"
+ - Code 5 : Utilisation pour la forme
+ - Verbatim : "Donc il est assez utile pour la forme, visiblement"
+ - Code 6 : Critique des informations
+ - Verbatim : "Je serai très critique"
+ - Code 7 : Synthèse d'informations
+ - Verbatim : "ChatGPT va synthétiser les informations qui se trouvent déjà sur Internet"
+ - Code 8 : Rassurance
+ - Verbatim : "Ça a tendance à me rassurer"
+ - Code 9 : Moins de blocage
+ - Verbatim : "Je vais être moins bloquée sur les dernières étapes"
+ - Code 10 : Adaptation à la technologie
+ - Verbatim : "Je me rends compte que pour des cas assez précis, je ne fais pas confiance"

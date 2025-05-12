@@ -1,0 +1,79 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Définition de ChatGPT et de l'intelligence artificielle**
+
+- Thème : Perception de l'intelligence artificielle
+ - Code 1 : Définition de ChatGPT
+ - Verbatim : "c'est une grosse base d'information qui, euh par l'accumulation de connaissances et par le développement d'une sorte de mémoire, des anciennes questions et de ce qui s’y trouve, permet de répondre à des tâches"
+ - Code 2 : Rôle de l'intelligence artificielle
+ - Verbatim : "particulièrement des tâches un peu répétitives et de recherche pure que l'intelligence va remplacer"
+ - Code 3 : Puissance de l'intelligence artificielle
+ - Verbatim : "c'est hyper puissant et euh qui contient énormément d'informations"
+ - Code 4 : Utilité de ChatGPT
+ - Verbatim : "ce qui le rend très pertinent dans certains cas"
+ - Code 5 : Perception générale
+ - Verbatim : "je ne connais pas Deepseek. Je n’utilise pas non plus Copilot"
+
+- Thème : Connaissance et utilisation des outils d'intelligence artificielle
+ - Code 1 : Connaissance des outils
+ - Verbatim : "je ne connais pas Deepseek"
+ - Code 2 : Utilisation des outils
+ - Verbatim : "Je n’utilise pas non plus Copilot"
+ - Code 3 : Découverte de ChatGPT
+ - Verbatim : "c’est un peu les premières fois que j’ai entendu parler de ChatGPT"
+ - Code 4 : Utilisation de ChatGPT
+ - Verbatim : "je ne l’ai pas du tout utilisé en prépa"
+ - Code 5 : Utilisation actuelle
+ - Verbatim : "mon utilisation a été assez tardive"
+
+**Segment 2 : Premières impressions et associations avec ChatGPT**
+
+- Thème : Associations négatives avec ChatGPT
+ - Code 1 : Tricherie
+ - Verbatim : "ça évoque la triche. Parce que je trouve qu'on l’utilise beaucoup pour tricher"
+ - Code 2 : Peur du remplacement
+ - Verbatim : "il y a aussi un peu la peur qu’il remplace l’humain"
+ - Code 3 : Perception négative
+ - Verbatim : "je pense un peu à ça"
+ - Code 4 : Inquiétude
+ - Verbatim : "ça soulève des questions sur notre place dans le travail"
+
+- Thème : Utilité et aspects positifs de ChatGPT
+ - Code 1 : Outil de recherche
+ - Verbatim : "c'est vraiment un peu un outil malin de recherche"
+ - Code 2 : Utilité dans les études
+ - Verbatim : "j’ai mis tous mes cours, et j’ai fait des fiches de révision avec"
+ - Code 3 : Facilitation du travail
+ - Verbatim : "il me faisait réviser"
+ - Code 4 : Utilisation pratique
+ - Verbatim : "c’était souvent très pratique, justement, pour faire du code"
+ - Code 5 : Abonnement premium
+ - Verbatim : "je me suis abonnée à l’abonnement premium"
+
+**Segment 3 : Expérience personnelle avec ChatGPT**
+
+- Thème : Découverte et utilisation initiale de ChatGPT
+ - Code 1 : Contexte de découverte
+ - Verbatim : "j’étais en prépa à ce moment-là"
+ - Code 2 : Rôle du professeur
+ - Verbatim : "notre professeur nous dit : « Il faut vite faire un exposé »"
+ - Code 3 : Premier contact
+ - Verbatim : "c’est un peu les premières fois que j’ai entendu parler de ChatGPT"
+ - Code 4 : Utilisation initiale
+ - Verbatim : "je ne l’ai pas du tout utilisé en prépa"
+ - Code 5 : Utilisation actuelle
+ - Verbatim : "mon utilisation a été assez tardive"
+
+- Thème : Évolution de l'utilisation de ChatGPT
+ - Code 1 : Réticence initiale
+ - Verbatim : "j’ai souvent été un peu réticente à ça"
+ - Code 2 : Utilisation progressive
+ - Verbatim : "je pense qu’elle a vraiment commencé cette année"
+ - Code 3 : Utilisation régulière
+ - Verbatim : "je l’utilise au minimum deux ou trois fois par semaine"
+ - Code 4 : Utilité dans les études
+ - Verbatim : "j’ai mis tous mes cours, et j’ai fait des fiches de révision avec"
+ - Code 5 : Satisfaction
+ - Verbatim : "il me faisait réviser"
+
+Ces thèmes et codes offrent une analyse détaillée de l'entretien, mettant en évidence les perceptions, les utilisations et les sentiments de l'enquêtée vis-à-vis de ChatGPT et de l'intelligence artificielle en général.

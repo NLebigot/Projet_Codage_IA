@@ -1,0 +1,75 @@
+Analysons l'entretien en suivant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Difficultés et frustrations avec ChatGPT**
+
+- Thème : Perception de l'utilité de ChatGPT
+ - Code1 : Utilisation ciblée
+ - Verbatim : "Je pose des requêtes assez précises."
+ - Code2 : Attentes claires
+ - Verbatim : "Je sais ce que je veux, ce que j'attends."
+ - Code3 : Pas de frustration
+ - Verbatim : "Je n'ai pas de frustration, parce que c'est pas un truc très global."
+ - Code4 : Tâches spécifiques
+ - Verbatim : "C'est des tâches un peu très précises."
+ - Code5 : Contrôle sur la tâche
+ - Verbatim : "C'est moi qui le fait, in fine quoi."
+ - Code6 : Aide complémentaire
+ - Verbatim : "C'est une aide, donc je peux pas être frustrée."
+ - Code7 : Responsabilité
+ - Verbatim : "Au pire, il ne fait pas bien, mais c'est à moi de le faire."
+ - Code8 : Flexibilité
+ - Verbatim : "Si je veux, ou alors, c'est moi qui le fait."
+ - Code9 : Satisfaction
+ - Verbatim : "Je ne suis pas frustrée, parce que, enfin, il m'aide dans tous les cas."
+ - Code10 : Utilisation pratique
+ - Verbatim : "C'est des parties, en gros, que moi j'estime que je pouvais le faire."
+
+- Thème : Stratégies d'utilisation de ChatGPT
+ - Code1 : Reformulation de la demande
+ - Verbatim : "Je re précise ce que je veux."
+ - Code2 : Prise en charge
+ - Verbatim : "C'est moi qui le fait, in fine quoi."
+ - Code3 : Gestion des erreurs
+ - Verbatim : "S'il y a des erreurs dans les résultats, je re précise juste ma demande."
+ - Code4 : Interaction avec l'outil
+ - Verbatim : "Je lui demande de m'aider un peu à faire ça."
+ - Code5 : Utilisation efficace
+ - Verbatim : "Donc, ça ne me donne pas de frustration."
+
+**Segment 2 : Utilisation de ChatGPT pour la compréhension des cours**
+
+- Thème : Utilisation dans les situations d'urgence
+ - Code1 : Contexte d'urgence
+ - Verbatim : "C'est plus dans l'urgence."
+ - Code2 : Utilisation pour réviser
+ - Verbatim : "Je mets tous les cours dans ChatGPT, et je lui demande de m'expliquer simplement."
+ - Code3 : Révision efficace
+ - Verbatim : "Il me fait des fiches de révision, de me poser des questions pour justement me faire comprendre."
+ - Code4 : Besoin de comprendre
+ - Verbatim : "J'ai besoin de comprendre quelques trucs."
+ - Code5 : Utilisation comme bouée de sauvetage
+ - Verbatim : "J'ai quand même une bouée de sauvetage qui peut un peu m'aider."
+ - Code6 : Aide à la compréhension
+ - Verbatim : "C'est vraiment un moteur de recherche."
+ - Code7 : Comparaison avec d'autres méthodes
+ - Verbatim : "J'aurais pu aller sur Google pour dire : 'Ah, attends…'."
+ - Code8 : Utilisation pour les articles
+ - Verbatim : "Je lui demande de m'aider un peu à faire ça."
+ - Code9 : Demande d'explication
+ - Verbatim : "S'il peut m'expliquer ou me donner des références un peu annexes."
+ - Code10 : Ressource complémentaire
+ - Verbatim : "C'est une ressource pour que je puisse me renseigner."
+
+**Segment 3 : Impact de ChatGPT sur le niveau de stress**
+
+(Bien que le segment soit tronqué, nous pouvons amorcer l'analyse)
+
+- Thème : Perception de l'impact sur le stress
+ - Code1 : Attente de réponse à la question sur le stress
+ - Verbatim : "Euh…"
+ - Code2 : Contexte de stress
+ - Verbatim : "Surtout quand, euh.. il s’agit d’une urgence."
+ 
+Faute de verbatim plus complet pour ce segment, nous n'allons pas pousser plus loin l'analyse pour ce thème. Un développement de la réponse aurait pu nous permettre d'analyser plus en profondeur l'impact de ChatGPT sur le niveau de stress d'Oriane.
+
+Ces analyses montrent une utilisation ciblée et efficace de ChatGPT par Oriane, qui se sert de l'outil pour des tâches spécifiques et comme une ressource complémentaire dans les situations d'urgence ou pour comprendre des concepts difficiles. L'utilisation de ChatGPT semble réduire son niveau de frustration et lui offrir une certaine flexibilité dans son travail académique.

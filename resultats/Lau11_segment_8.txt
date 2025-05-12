@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Dépendance à ChatGPT**
+- Code 1 : Sentiment d'addiction
+ - Verbatim : "je sens que c'est un peu addictif, je sais pas comment expliquer"
+- Code 2 : Simplification de la vie
+ - Verbatim : "plus t'as l'habitude d'utiliser l'outil, plus ta vie est simplifiée, plus t'as envie de l'utiliser"
+- Code 3 : Perte d'autonomie
+ - Verbatim : "t'as pas envie de reprendre à zéro et puis de faire par toi-même"
+- Code 4 : Importance de la capacité personnelle
+ - Verbatim : "ça ne doit pas être ta seule capacité, quoi"
+- Code 5 : Exemple de dépendance
+ - Verbatim : "tu peux pas être assistant ou prof à l'uni, et puis en fait, tu utilises ChatGPT pour répondre aux questions de tes élèves"
+- Code 6 : Reconnaissance de la dépendance
+ - Verbatim : "je sais pas, sincèrement je sais pas"
+- Code 7 : Équilibre entre utilisation et autonomie
+ - Verbatim : "ça doit être un outil, mais ça ne doit pas être ta seule capacité"
+- Code 8 : Inquiétude concernant la légitimité
+ - Verbatim : "ça pose du coup un peu la légitimité de l'utilisation de ChatGPT"
+- Code 9 : Futur de l'utilisation de ChatGPT
+ - Verbatim : "je pense qu'on va plus partir sur ce type de modalité"
+- Code 10 : Transparence dans l'utilisation
+ - Verbatim : "de plus en plus de transparence, de citer quand on utilise Chat"
+
+**Thème 2 : Légitimité et encadrement de l'utilisation de ChatGPT**
+- Code 1 : Tabou autour de l'utilisation de ChatGPT
+ - Verbatim : "il y a presque un tabou autour de ça, j'ai l'impression"
+- Code 2 : Flou dans les exigences universitaires
+ - Verbatim : "il y a aussi un flou entre les exigences et puis ce qui est accepté ou pas par l'université"
+- Code 3 : Nécessité de transparence
+ - Verbatim : "de plus en plus de transparence, de citer quand on utilise Chat"
+- Code 4 : Évolution de l'encadrement
+ - Verbatim : "je pense qu'on va plus partir sur ce type de modalité"
+- Code 5 : Problème de légitimité pour les jeunes
+ - Verbatim : "je pense que peut-être le problème, il est plus au niveau de la population un peu plus jeune"
+- Code 6 : Importance de la formation méthodologique
+ - Verbatim : "il faut faire des cours de méthodologie et expliquer tous les biais"
+- Code 7 : Risque de plagiat
+ - Verbatim : "il y a toutes ces questions de plagiat qui peut ressortir"
+- Code 8 : Niveau de vigilance selon le contexte
+ - Verbatim : "ça dépend de l'utilisation, du rendu et du contexte"
+- Code 9 : Préoccupation concernant la formation universitaire
+ - Verbatim : "je trouve qu'il faut être un peu plus vigilant"
+- Code 10 : Impact sur la légitimité de la formation
+ - Verbatim : "je pense pas que ça enlève la légitimité de la formation universitaire"
+
+**Thème 3 : Risques et dérives liés à l'utilisation de ChatGPT**
+- Code 1 : Manque de transparence
+ - Verbatim : "il y a toutes ces questions de plagiat qui peut ressortir"
+- Code 2 : Risque de plagiat chez les jeunes
+ - Verbatim : "si tu as 12 ans et tu me sors un texte où il n'y a aucune faute... Les phrases c'est du niveau universitaire, forcément il y a un petit problème"
+- Code 3 : Différence de niveau de conscience selon l'âge
+ - Verbatim : "vu que nous on est plus âgés, au niveau universitaire, la manière dont on formule nos phrases, c'est plus ou moins la même chose"
+- Code 4 : Importance de la formation dès le plus jeune âge
+ - Verbatim : "faire ces cours de méthodologies au collège, au primaire comme ça les touche aussi, les former le plus tôt possible"
+- Code 5 : Utilisation non éthique
+ - Verbatim : "l'utilisation ne serait pas faite de manière éthique ou disons plutôt, raisonnable"
+- Code 6 : Biais liés à l'utilisation de ChatGPT
+ - Verbatim : "il y a toutes ces questions de plagiat qui peut ressortir parce que typiquement, si tu demandes à Chatty de produire un texte, et que tu ne le modifies pas"
+- Code 7 : Dépendance aux outils numériques
+ - Verbatim : "je sens que c'est un peu addictif"
+- Code 8 : Problème de détection de plagiat
+ - Verbatim : "est-ce que c'est considéré comme du plagiat ou pas ? Techniquement non, mais en même temps..."
+- Code 9 : Inquiétude concernant les dérives
+ - Verbatim : "moi, à mon avis, je trouve que ce serait plus un problème pour les collèges et les gymnasiens"
+- Code 10 : Nécessité d'encadrer l'utilisation
+ - Verbatim : "il faut faire des cours de méthodologie et expliquer tous les biais qu'on a décrits"
+
+**Thème 4 : Expérience personnelle et dilemme moral**
+- Code 1 : Reconnaissance d'un dilemme moral
+ - Verbatim : "Oui !"
+- Code 2 : Utilisation personnelle de ChatGPT
+ - Verbatim : "je sais pas, sincèrement je sais pas" (en parlant de la dépendance)
+- Code 3 : Explication du dilemme
+ - Verbatim : (pas de verbatim direct, mais l'entretien montre que le dilemme est lié à la légitimité et à l'éthique)
+- Code 4 : Réflexion sur l'utilisation
+ - Verbatim : "ça doit être un outil, mais ça ne doit pas être ta seule capacité"
+- Code 5 : Conscientisation des risques
+ - Verbatim : "il y a toutes ces questions de plagiat qui peut ressortir"
+- Code 6 : Équilibre entre facilité et effort personnel
+ - Verbatim : "plus t'as l'habitude d'utiliser l'outil, plus ta vie est simplifiée"
+- Code 7 : Valeur accordée à l'effort personnel
+ - Verbatim : "t'as pas envie de reprendre à zéro et puis de faire par toi-même"
+- Code 8 : Sentiment de culpabilité
+ - Verbatim : (pas de verbatim direct, mais l'entretien suggère une certaine gêne)
+- Code 9 : Justification de l'utilisation
+ - Verbatim : "ça dépend de l'utilisation, du rendu et du contexte"
+- Code 10 : Introspection
+ - Verbatim : "je sais pas, sincèrement je sais pas"
+
+**Thème 5 : Formation et éducation à l'utilisation de ChatGPT**
+- Code 1 : Importance de la formation méthodologique
+ - Verbatim : "il faut faire des cours de méthodologie et expliquer tous les biais qu'on a décrits"
+- Code 2 : Nécessité d'une éducation précoce
+ - Verbatim : "faire ces cours de méthodologies au collège, au primaire comme ça les touche aussi"
+- Code 3 : Adaptation de la formation au niveau des étudiants
+ - Verbatim : "dès les premières années, il faut faire des cours de méthodologie"
+- Code 4 : Sensibilisation aux risques
+ - Verbatim : "il y a toutes ces questions de plagiat qui peut ressortir"
+- Code 5 : Promotion d'une utilisation responsable
+ - Verbatim : "de plus en plus de transparence, de citer quand on utilise Chat"
+- Code 6 : Rôle de l'université dans l'encadrement
+ - Verbatim : "je pense qu'on va plus partir sur ce type de modalité"
+- Code 7 : Éducation à l'éthique numérique
+ - Verbatim : "l'utilisation ne serait pas faite de manière éthique ou disons plutôt, raisonnable"
+- Code 8 : Développement de compétences critiques
+ - Verbatim : "il faut faire des cours de méthodologie et expliquer tous les biais"
+- Code 9 : Préparation aux défis de l'intelligence artificielle
+ - Verbatim : "je trouve qu'il faut être un peu plus vigilant"
+- Code 10 : Intégration de ChatGPT dans les pratiques éducatives
+ - Verbatim : "je pense qu'on va plus partir sur ce type de modalité"

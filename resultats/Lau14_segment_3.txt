@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Utilisation de l'IA pour le codage et la programmation**
+- Code 1 : Utilisation de ChatGPT pour coder
+ Verbatim : "Donc « salut chat, tu es un expert en informatique, j'ai un Arduino à faire, tu connais le langage d'Arduino, tu connais le C++, mon capteur c'est celui-là, je te donne le modèle, mon objectif c'est ça, trouve-moi un code !»"
+- Code 2 : Résolution de problèmes de codage
+ Verbatim : "Et puis, c'est assez magique parce qu'en fait, tu as le code qui se dessine devant toi, tu copie-colle, ça ne marche pas à telle ligne."
+- Code 3 : Gain de temps
+ Verbatim : "Donc, je crois vraiment, en quatre jours, j'avais sorti un code, j'avais 160 lignes de code parfaitement fonctionnel"
+- Code 4 : Manque de connaissances en programmation
+ Verbatim : "je n'ai jamais appris à faire ça."
+- Code 5 : Utilisation de l'IA pour résoudre les difficultés de codage
+ Verbatim : "Et puis, il te ressort un nouveau code. Tu copie-colle, ça ne marche pas à telle ligne à nouveau."
+- Code 6 : Adaptation du code généré par l'IA
+ Verbatim : "mais disons qu'il sort un truc à 90% et c'est correct."
+- Code 7 : Utilisation de RStudio pour les statistiques
+ Verbatim : "on utilise RStudio comme programme."
+- Code 8 : Connaissance limitée de RStudio
+ Verbatim : "je ne suis pas un fan-fan, alors RStudio je connais déjà un peu mieux que C++"
+- Code 9 : Utilisation de l'IA pour résoudre les erreurs de codage
+ Verbatim : "tu lis le texte, tu copie-colle, puis lui son texte il marche forcément"
+- Code 10 : Compréhension de la logique derrière le code
+ Verbatim : "des fois il faut aussi comprendre la logique derrière son code et puis tu dois l'adapter à tes besoins"
+
+**Thème 2 : Utilisation de l'IA pour la rédaction et la reformulation de textes**
+- Code 1 : Utilisation de ChatGPT pour résumer des articles
+ Verbatim : "Je lui donne l'article. Et je lui dis « résume-le-moi » en plusieurs points."
+- Code 2 : Résumé et traduction de textes
+ Verbatim : "je lui dis résume le moi et traduit le moi en français."
+- Code 3 : Difficultés avec la rédaction écrite due à la dyslexie
+ Verbatim : "moi je suis quelqu'un qui a une forte dyslexie, qui a pas une écriture qui soit très fluide."
+- Code 4 : Utilisation de l'IA pour corriger les fautes
+ Verbatim : "je lui donne les textes que je souhaite écrire et je lui dis « reformule-le moi » ou tout simplement je dis « corrige-moi les fautes »."
+- Code 5 : Gain de temps dans la rédaction
+ Verbatim : "je ne veux pas me taper les 8 pages d'articles."
+- Code 6 : Flexibilité dans les demandes à l'IA
+ Verbatim : "Je vais toujours donner le DOI ou alors le lien Internet."
+- Code 7 : Capacité de l'IA à traiter les demandes complexes
+ Verbatim : "traduire et résumer il peut le faire d'une seule étape."
+- Code 8 : Utilité pour les étudiants avec des difficultés spécifiques
+ Verbatim : "pensez qu'oralement ça l'est un peu moins, à l'écrit c'est pire."
+- Code 9 : Aide à la rédaction
+ Verbatim : "Et donc évidemment après j'ai le contenu d'un article scientifique résumé"
+- Code 10 : Efficacité dans la reformulation
+ Verbatim : "en 20 lignes et puis selon quoi j'ai les données qui m'intéressent"
+
+**Thème 3 : Perception de la flemme et de la facilité apportée par l'IA**
+- Code 1 : Auto-description comme étant "flémard"
+ Verbatim : "Moi, je suis assez flémard"
+- Code 2 : Utilisation de l'IA pour éviter les efforts
+ Verbatim : "par flemme d'écrire et de faire une faute de virgule"
+- Code 3 : Perception de la facilité apportée par l'IA
+ Verbatim : "c'est assez magique"
+- Code 4 : Utilisation de l'IA comme un outil de productivité
+ Verbatim : "je suis flemmard. Donc, j'ai un article : Deux options."
+- Code 5 : Effort minimum fourni grâce à l'IA
+ Verbatim : "l'option où je suis extrêmement flemmard"
+- Code 6 : Tendance à utiliser l'IA pour des tâches répétitives ou difficiles
+ Verbatim : "tester, itérer, je n'y arrive pas."
+- Code 7 : Gain de temps considérable
+ Verbatim : "en quatre jours, j'avais sorti un code"
+- Code 8 : Flexibilité dans l'utilisation de l'IA
+ Verbatim : "deux options."
+- Code 9 : Utilisation abusive de l'IA
+ Verbatim : "je lui donne l'article, je lui dis résume le moi et traduit le moi en français."
+- Code 10 : Satisfaction de l'utilisateur
+ Verbatim : "Super."
+
+**Thème 4 : Connaissance et limites dans l'utilisation de l'IA et des outils de programmation**
+- Code 1 : Connaissance limitée de la programmation
+ Verbatim : "je n'ai jamais appris à faire ça."
+- Code 2 : Utilisation de l'IA pour combler les lacunes en programmation
+ Verbatim : "je comprenais vaguement ce que je lisais, je comprenais les fonctions, mais honnêtement, incapable de les coder moi-même."
+- Code 3 : Connaissance de RStudio et de son langage
+ Verbatim : "RStudio, c'est un langage à part entière, c'est du RStudio. C'est du langage R."
+- Code 4 : Distinction entre les langages de programmation
+ Verbatim : "Non, RStudio, c'est un langage à part entière"
+- Code 5 : Utilisation de l'IA pour des tâches spécifiques
+ Verbatim : "pour faire du code, du C++"
+- Code 6 : Limites dans la compréhension du code généré
+ Verbatim : "mais honnêtement, incapable de les coder moi-même."
+- Code 7 : Compréhension de la logique derrière les outils utilisés
+ Verbatim : "des fois il faut aussi comprendre la logique derrière son code"
+- Code 8 : Différenciation entre les outils (RStudio vs C++)
+ Verbatim : "RStudio je connais déjà un peu mieux que C++"
+- Code 9 : Usage approprié des outils pour les besoins spécifiques
+ Verbatim : "on utilise RStudio comme programme."
+- Code 10 : Reconnaissance des limites de l'IA
+ Verbatim : "ça ne marche pas toujours à ce que tu veux faire"
+
+**Thème 5 : Impact de l'IA sur le processus d'apprentissage et la productivité**
+- Code 1 : Gain de productivité
+ Verbatim : "en quatre jours, j'avais sorti un code, j'avais 160 lignes de code parfaitement fonctionnel"
+- Code 2 : Utilisation de l'IA comme un outil d'apprentissage
+ Verbatim : "je comprenais vaguement ce que je lisais, je comprenais les fonctions"
+- Code 3 : Effet sur la motivation
+ Verbatim : "Moi, je suis assez flémard et franchement, tester, itérer, je n'y arrive pas."
+- Code 4 : Impact sur la manière de travailler
+ Verbatim : "tu as le code qui se dessine devant toi, tu copie-colle"
+- Code 5 : Changement dans la façon d'aborder les problèmes
+ Verbatim : "par flemme d'écrire et de faire une faute de virgule, tu dis je veux ça"
+- Code 6 : Amélioration de l'efficacité
+ Verbatim : "ça sort un truc à 90% et c'est correct."
+- Code 7 : Modification de l'approche pédagogique
+ Verbatim : "le prof nous avait donné des bases"
+- Code 8 : Utilisation de l'IA pour pallier les difficultés personnelles
+ Verbatim : "j'ai une forte dyslexie"
+- Code 9 : Support pour les étudiants ayant des besoins spécifiques
+ Verbatim : "pensez qu'oralement ça l'est un peu moins, à l'écrit c'est pire."
+- Code 10 : Évaluation positive de l'utilisation de l'IA
+ Verbatim : "Super."

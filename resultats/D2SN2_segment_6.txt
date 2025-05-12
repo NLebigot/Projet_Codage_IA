@@ -1,0 +1,116 @@
+Voici une analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : L'expérience d'étudiante à l'ENS**
+
+* Code 1 : Sentiment d'infériorité
+ Verbatim : "Je me dis oh là là j'arrive à l'ENS c'est quoi ça ? Ils vont être super forts et ils sont très forts."
+* Code 2 : Différence de parcours
+ Verbatim : "Moi je voulais faire une année de césure et j'avais mis ce master au pif, et quand j'ai vu que j'ai été prise, je me suis dit bon, tu vas peut-être y aller quand même."
+* Code 3 : Intégration
+ Verbatim : "Les gens sont hyper gentils. Ils m'ont jamais fait sentir que j'étais plus débile ou quoi que ce soit, pas du tout."
+* Code 4 : Préparation
+ Verbatim : "Moi dans ma licence en fait j'avais pas fait de sociologie. J'avais fait lettre et sciences politiques donc j'arrivais j'ai pas fait de prépa il y avait rien qui allait."
+* Code 5 : Surprise
+ Verbatim : "Je pensais pas rentrer en fait, moi je voulais faire une année de césure"
+* Code 6 : Adaptation
+ Verbatim : "Je vais regarder des vidéos YouTube pour R et je vais peut-être apprendre à le faire moi-même et voilà, sera chiant mais je peux le faire."
+* Code 7 : Sentiment de différence
+ Verbatim : "Entre un vrai élève d’ENS et l'autre étudiant comme toi ?"
+* Code 8 : Perception de soi
+ Verbatim : "Je suis pas élève normalienne, je suis étudiante."
+* Code 9 : Statut d'étudiante
+ Verbatim : "Je reçois pas de salaire. Je suis pas élève normalienne, je suis étudiante."
+* Code 10 : Contexte de formation
+ Verbatim : "K: Ah bien c’est tout petit. Donc la moitié? Combien d'élèves comme toi, entrer directement en Master?"
+
+**Thème 2 : L'utilisation de ChatGPT dans les travaux universitaires**
+
+* Code 1 : Dépendance
+ Verbatim : "Un peu je pense. Pour moi, c'est R. J'ai là je suis complètement dépendante de lui parce que je comprends rien"
+* Code 2 : Utilité
+ Verbatim : "Oui, quand on sait l'utiliser . Oui, bien sûr ."
+* Code 3 : Pratique
+ Verbatim : "C'est pratique. parce qu'il corrige mes fautes. Il m'aide à écrire en meilleur français."
+* Code 4 : Limite
+ Verbatim : "Si on lui on y fait tout à notre place, bah déjà on n'est pas maître de son travail."
+* Code 5 : Apprentissage
+ Verbatim : "J'ai besoin de savoir exactement si ce que j'ai fait c'est bien ou pas bien et on apprend rien si on l'utilise trop."
+* Code 6 : Éthique
+ Verbatim : "Le fait d'utiliser Chat GPT dans le cadre de travaux universitaires ? Bah là je trouve que c'est un peu galère"
+* Code 7 : Contrôle
+ Verbatim : "J'aime pas. J'ai besoin de savoir exactement si ce que j'ai fait c'est bien ou pas bien"
+* Code 8 : Alternative
+ Verbatim : "Je vais regarder des vidéos YouTube pour R et je vais peut-être apprendre à le faire moi-même"
+* Code 9 : Perception de l'outil
+ Verbatim : "C'est juste qu'il est hyper pratique."
+* Code 10 : Évaluation
+ Verbatim : "Ça dépend comment c'est utilisé."
+
+**Thème 3 : La perception de soi en tant qu'étudiante en sociologie**
+
+* Code 1 : Sentiment d'infériorité
+ Verbatim : "Je me sentais un peu débile"
+* Code 2 : Manque de préparation
+ Verbatim : "Moi dans ma licence en fait j'avais pas fait de sociologie."
+* Code 3 : Intégration
+ Verbatim : "Les gens sont hyper gentils."
+* Code 4 : Perception de soi
+ Verbatim : "Je suis pas élève normalienne, je suis étudiante."
+* Code 5 : Confiance
+ Verbatim : "Je peux me débrouiller autrement."
+* Code 6 : Capacités
+ Verbatim : "K: Mais t’as aussi entré à l’ENS donc normalement t’as de bonnes capacités non?"
+* Code 7 : Parcours
+ Verbatim : "J'avais fait lettre et sciences politiques donc j'arrivais j'ai pas fait de prépa"
+* Code 8 : Évaluation de soi
+ Verbatim : "Je suis pas stressé avec chat GPT ."
+* Code 9 : Perception des autres
+ Verbatim : "Les gens sont hyper gentils. Ils m'ont jamais fait sentir que j'étais plus débile ou quoi que ce soit"
+* Code 10 : Sentiment d'appartenance
+ Verbatim : "On est en sociologie, nous"
+
+**Thème 4 : Les relations entre étudiants à l'ENS**
+
+* Code 1 : Différence de statut
+ Verbatim : "Entre un vrai élève d’ENS et l'autre étudiant comme toi ?"
+* Code 2 : Perception des autres
+ Verbatim : "Les gens sont hyper gentils."
+* Code 3 : Sentiment d'appartenance
+ Verbatim : "On est en sociologie, nous"
+* Code 4 : Intégration
+ Verbatim : "Les gens sont hyper gentils. Ils m'ont jamais fait sentir que j'étais plus débile ou quoi que ce soit"
+* Code 5 : Différence de parcours
+ Verbatim : "Ceux qui ont réussi le concours, ceux qui ont fait une prépa et pas réussi le concours mais qui sont quand même rentrés"
+* Code 6 : Statut d'étudiante
+ Verbatim : "Je suis pas élève normalienne, je suis étudiante."
+* Code 7 : Perception de la différence
+ Verbatim : "J'ai jamais senti de différence entre nous."
+* Code 8 : Relations entre étudiants
+ Verbatim : "Les gens sont hyper gentils."
+* Code 9 : Contexte de formation
+ Verbatim : "K: Ah bien c’est tout petit. Donc la moitié? Combien d'élèves comme toi, entrer directement en Master?"
+* Code 10 : Égalité
+ Verbatim : "J'ai jamais senti de différence entre nous."
+
+**Thème 5 : L'adaptation à de nouveaux outils et méthodes**
+
+* Code 1 : Découverte de nouveaux outils
+ Verbatim : "J'ai là je suis complètement dépendante de lui parce que je comprends rien"
+* Code 2 : Utilité
+ Verbatim : "C'est pratique. parce qu'il corrige mes fautes."
+* Code 3 : Apprentissage
+ Verbatim : "Je vais regarder des vidéos YouTube pour R et je vais peut-être apprendre à le faire moi-même"
+* Code 4 : Adaptation
+ Verbatim : "Je peux me débrouiller autrement."
+* Code 5 : Évaluation de l'outil
+ Verbatim : "C'est juste qu'il est hyper pratique."
+* Code 6 : Perception de l'outil
+ Verbatim : "Oui, quand on sait l'utiliser . Oui, bien sûr ."
+* Code 7 : Dépendance
+ Verbatim : "Un peu je pense."
+* Code 8 : Alternative
+ Verbatim : "Je vais regarder des vidéos YouTube pour R"
+* Code 9 : Contrôle
+ Verbatim : "J'aime pas. J'ai besoin de savoir exactement si ce que j'ai fait c'est bien ou pas bien"
+* Code 10 : Flexibilité
+ Verbatim : "Je peux le faire."

@@ -1,0 +1,116 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes et verbatims associés. Voici les résultats :
+
+**Thème 1 : Perception de ChatGPT comme outil de recherche**
+
+- Code 1 : Utilité de ChatGPT
+- Verbatim : "Donc, oui, ChatGPT, pour moi, c'est un espèce du couteau suisse de la recherche."
+- Code 2 : Comparaison avec d'autres outils
+- Verbatim : "Même si un couteau suisse coupe un peu moins bien qu'un couteau de cuisine, tu as l'habitude d'être un peu moins aiguisé pour la recherche d'articles qu'une base de données spécialisée."
+- Code 3 : Limites de ChatGPT
+- Verbatim : "A moins qu'il ait entièrement cette base de données dans lui, mais je crois pas que ce soit le cas."
+- Code 4 : Utilisation pertinente
+- Verbatim : "Y'a des moments où c'est pas pertinent de le faire, parce que c'est pas le bon outil."
+- Code 5 : Flexibilité d'utilisation
+- Verbatim : "Mais aucun moment je me priverais de l'utilisation de l'outil."
+- Code 6 : Gain de temps
+- Verbatim : "Est-ce que tu as l'impression que le fait de te faire gagner du temps..."
+- Code 7 : Valeur de l'outil
+- Verbatim : "Le temps c'est de l'argent, d'autant c'est une ressource hyper précieuse."
+- Code 8 : Adaptation aux besoins
+- Verbatim : "Tu en fais ce que tu en veux mais..."
+- Code 9 : Dépendance à l'outil
+- Verbatim : Non directement exprimé, mais sous-entendu dans la discussion sur l'utilité et les limites de ChatGPT.
+- Code 10 : Perception positive
+- Verbatim : "Finalement, c'est... je reprends l'exemple d'un outil, hein, mais si tu prends une hache, bah fais gaffe à pas te la mettre dans la jambe, et puis... fais gaffe à pas la foutre dans la gueule de ton voisin en face, quoi."
+
+**Thème 2 : Questions éthiques et réglementaires autour de ChatGPT**
+
+- Code 1 : Plagiat
+- Verbatim : "Ce qui est interdit et ce qui a été un peu rappelé à l'ordre du jour, c'est le plagiat."
+- Code 2 : Utilisation acceptable
+- Verbatim : "Tu peux pas copier-coller le texte de l'IA, parce que tu l'es pas sourcé."
+- Code 3 : Référence aux sources
+- Verbatim : "Mais, et c'est là où je trouve que les réglementations sont un peu débiles, je prends un texte de l'IA, si je peux dire quelle source il a utilisé, ou si je peux citer des sources qui disent la même chose que lui, alors je peux citer les sources sous son texte à lui, et c'est bon."
+- Code 4 : Guides de bonnes pratiques
+- Verbatim : "Parce que j'ai vu qu'à Genève, vous avez sorti il y a pas longtemps un guide des bonnes pratiques avec les IA, justement."
+- Code 5 : Connaissance des règles
+- Verbatim : "J'ai pas lu."
+- Code 6 : Position des enseignants
+- Verbatim : "Je sais pas si c'est votre cas aussi, enfin je sais pas s'il y a certains de vos profs qui se positionnent clairement pour ou contre l'utilisation de ChatGPT"
+- Code 7 : Avertissements
+- Verbatim : "Mon prof sur mon travail de master m'a dit, « attention au usage de chatGPT, Fais gaffe à la composante de plagiat. Et fais gaffe à ce que les phrases que tu sortes, elles aient du sens »."
+- Code 8 : Utilisation responsable
+- Verbatim : "Une fois que t'as ces deux warnings en tête, bah tu peux utiliser l’outil quoi."
+- Code 9 : Comparaison avec d'autres outils
+- Verbatim : "Une fois que t'as ces deux warnings en tête, tu peux utiliser une hache pour couper du bois."
+- Code 10 : Réglementation perçue comme contraignante
+- Verbatim : "Et c'est là où je trouve que les réglementations sont un peu débiles"
+
+**Thème 3 : Impact de ChatGPT sur les pratiques académiques et la manière d'apprendre**
+
+- Code 1 : Gain de temps
+- Verbatim : "Est-ce que tu as l'impression que le fait de te faire gagner du temps..."
+- Code 2 : Changement dans la manière d'apprendre
+- Verbatim : "Oui. Le temps c'est de l'argent, d'autant c'est une ressource hyper précieuse."
+- Code 3 : Valeur de l'apprentissage
+- Verbatim : Non directement exprimé.
+- Code 4 : Adaptation
+- Verbatim : "Tu en fais ce que tu en veux mais..."
+- Code 5 : Perception de l'impact sur l'apprentissage
+- Verbatim : "Oui."
+- Code 6 : Impact sur la recherche
+- Verbatim : "C'est comme ça que tu fais des liens."
+- Code 7 : Évolution des pratiques
+- Verbatim : "Non, pour moi, c'est pas une faiblesse, on sait rien. Là, on se vient presque philosophique, on sait rien du tout."
+- Code 8 : Nouveaux usages
+- Verbatim : "Donc, oui, ChatGPT, pour moi, c'est un espèce du couteau suisse de la recherche."
+- Code 9 : Changement dans la façon de travailler
+- Verbatim : "Bah nous on est scientifiques donc on est factuels."
+- Code 10 : Confiance dans l'outil
+- Verbatim : "On sait que notre boulot il va pas être remplacé par une machine."
+
+**Thème 4 : Perception de l'avenir et de l'intégration de ChatGPT dans le travail académique**
+
+- Code 1 : Intégration de ChatGPT
+- Verbatim : "Donc, oui, ChatGPT, pour moi, c'est un espèce du couteau suisse de la recherche."
+- Code 2 : Confiance dans l'avenir
+- Verbatim : "On sait que notre boulot il va pas être remplacé par une machine."
+- Code 3 : Perception de la technologie
+- Verbatim : "Bah nous on est scientifiques donc on est factuels."
+- Code 4 : Révolution technologique
+- Verbatim : "C'est comme ça que tu fais des liens."
+- Code 5 : Utilisation future
+- Verbatim : "Mais aucun moment je me priverais de l'utilisation de l'outil."
+- Code 6 : Changement dans la manière de travailler
+- Verbatim : "Oui. Le temps c'est de l'argent, d'autant c'est une ressource hyper précieuse."
+- Code 7 : Optimisme
+- Verbatim : "Non vrai, c'est une pique un peu gratuite mais..."
+- Code 8 : Impact sur le travail
+- Verbatim : "Le temps c'est de l'argent, d'autant c'est une ressource hyper précieuse."
+- Code 9 : Nécessité de s'adapter
+- Verbatim : "Tu en fais ce que tu en veux mais..."
+- Code 10 : Perception positive de l'intégration
+- Verbatim : "Finalement, c'est... je reprends l'exemple d'un outil, hein, mais si tu prends une hache, bah fais gaffe à pas te la mettre dans la jambe, et puis... fais gaffe à pas la foutre dans la gueule de ton voisin en face, quoi."
+
+**Thème 5 : Réactions et attitudes envers ChatGPT dans le milieu académique**
+
+- Code 1 : Réactions mitigées
+- Verbatim : "Je sais pas si c'est votre cas aussi, enfin je sais pas s'il y a certains de vos profs qui se positionnent clairement pour ou contre l'utilisation de ChatGPT"
+- Code 2 : Opposition à ChatGPT
+- Verbatim : "Ça les répugne, ça les révulse, genre c'est impensable d'utiliser ChatGPT."
+- Code 3 : Attitude positive
+- Verbatim : "Donc, oui, ChatGPT, pour moi, c'est un espèce du couteau suisse de la recherche."
+- Code 4 : Neutralité
+- Verbatim : "Bah nous on est scientifiques donc on est factuels."
+- Code 5 : Réactions des enseignants
+- Verbatim : "Mon prof sur mon travail de master m'a dit, « attention au usage de chatGPT, Fais gaffe à la composante de plagiat. Et fais gaffe à ce que les phrases que tu sortes, elles aient du sens »."
+- Code 6 : Discussion autour de ChatGPT
+- Verbatim : "C'est peut-être pas le tien le boulot, mais..."
+- Code 7 : Humour
+- Verbatim : "ça me vexe mais c'est pas grave."
+- Code 8 : Désinvolture
+- Verbatim : "Non vrai, c'est une pique un peu gratuite mais..."
+- Code 9 : Sérénité
+- Verbatim : "Non mais c'est pas grave."
+- Code 10 : Dialogue
+- Verbatim : "Désolé."

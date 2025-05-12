@@ -1,0 +1,116 @@
+Je vais analyser l'entretien en respectant une méthode rigoureuse de codage qualitatif. Voici les résultats de l'analyse :
+
+**Thème 1 : Motivations pour devenir enseignant**
+
+* Code 1 : Rêve d'enseigner
+ Verbatim : "c'était une sorte de mini rêve que j'avais"
+* Code 2 : Plaisir dans l'enseignement
+ Verbatim : "le monde de l'enseignement me plaisait en général"
+* Code 3 : Prise de décision
+ Verbatim : "je me suis dit, bah, j'en ai la possibilité, autant foncer dedans"
+* Code 4 : Stratégie pour atteindre l'objectif
+ Verbatim : "j'ai pris que de l'histoire dans mon programme à options"
+* Code 5 : Sentiment de nécessité
+ Verbatim : "j'avais pas d'autre choix personnel que d'aller à l'HEP"
+* Code 6 : Évidence de la vocation
+ Verbatim : "c'était évident"
+* Code 7 : Compréhension de la matière
+ Verbatim : "voir que tu étais à leur place et que tu ne comprenais pas tout ce que tu sais maintenant"
+* Code 8 : Décomposition de la matière
+ Verbatim : "c'est ce travail de décomposition de la matière, on dirait que je suis physicien"
+* Code 9 : Sentiment d'expertise
+ Verbatim : "tu te rends compte toi que tu comprends beaucoup mieux les choses que avant"
+* Code 10 : Satisfaction
+ Verbatim : "c'est hyper intéressant et hyper enrichissant"
+
+**Thème 2 : Expérience de l'enseignement**
+
+* Code 1 : Lien avec les élèves
+ Verbatim : "voir le lien qu'il y a avec des jeunes"
+* Code 2 : Compréhension des difficultés des élèves
+ Verbatim : "tu étais à leur place et tu ne comprenais pas tout ce que tu sais maintenant"
+* Code 3 : Défi de la transmission des connaissances
+ Verbatim : "le fait de savoir élémenter tout ça, de le rendre élémentaire pour les enfants"
+* Code 4 : Dialogue avec les élèves
+ Verbatim : "c'est le dialogue, parler avec eux, voir les bêtises qu'ils font"
+* Code 5 : Compréhension des erreurs des élèves
+ Verbatim : "que toi tu faisais avant, et le comprendre, et avoir un autre point de vue dessus"
+* Code 6 : Vivacité du savoir
+ Verbatim : "quelque chose de vivant dans le savoir"
+* Code 7 : Âge des élèves
+ Verbatim : "ils ont douze, entre... ça dépend des élèves"
+* Code 8 : Diversité des élèves
+ Verbatim : "j'ai des élèves qui sont en Suisse depuis quelques mois"
+* Code 9 : Difficultés linguistiques
+ Verbatim : "l'une des grandes difficultés, c'est de les faire parler, en fait"
+* Code 10 : Création d'un environnement d'apprentissage
+ Verbatim : "faut trouver le moyen de pouvoir créer un environnement où ils ont envie de pouvoir développer le français"
+
+**Thème 3 : Défis de l'enseignement**
+
+* Code 1 : Difficultés linguistiques des élèves
+ Verbatim : "ils parlent entre eux, mais dans leur langue maternelle"
+* Code 2 : Nécessité de reprise en français
+ Verbatim : "on les reprend souvent en français, s'il vous plaît"
+* Code 3 : Création d'un environnement d'apprentissage
+ Verbatim : "faut trouver le moyen de pouvoir créer un environnement où ils ont envie de pouvoir développer le français"
+* Code 4 : Diversité des élèves
+ Verbatim : "j'ai des élèves qui viennent d'Ukraine, pour des raisons évidentes"
+* Code 5 : Intégration des élèves non francophones
+ Verbatim : "c'est une des difficultés supplémentaires quand t'as des classes d'accueil"
+* Code 6 : Nécessité d'adaptation
+ Verbatim : "faut trouver le moyen de pouvoir créer un environnement où ils ont envie de pouvoir développer le français"
+* Code 7 : Difficultés spécifiques des élèves non francophones
+ Verbatim : "l'une des grandes difficultés, c'est de les faire parler, en fait"
+* Code 8 : Compréhension des besoins des élèves
+ Verbatim : "voir les bêtises qu'ils font, que toi tu faisais avant, et le comprendre"
+* Code 9 : Création d'un climat de confiance
+ Verbatim : "un environnement sain, un environnement plaisant dans lequel ils ont envie d'apprendre"
+* Code 10 : Adaptation à la diversité des élèves
+ Verbatim : "ça dépend des élèves"
+
+**Thème 4 : Caractéristiques des élèves**
+
+* Code 1 : Âge des élèves
+ Verbatim : "ils ont douze, entre... ça dépend des élèves"
+* Code 2 : Diversité des élèves
+ Verbatim : "j'ai des élèves qui viennent d'Ukraine, pour des raisons évidentes"
+* Code 3 : Niveau de français des élèves
+ Verbatim : "l'une des grandes difficultés, c'est de les faire parler, en fait"
+* Code 4 : Expérience des élèves en Suisse
+ Verbatim : "j'ai des élèves qui sont en Suisse depuis quelques mois"
+* Code 5 : Intégration des élèves non francophones
+ Verbatim : "c'est une des difficultés supplémentaires quand t'as des classes d'accueil"
+* Code 6 : Origine des élèves
+ Verbatim : "la plupart viennent d'Ukraine, pour des raisons évidentes"
+* Code 7 : Niveau de difficulté des élèves
+ Verbatim : "ça peut aller jusqu'à 17 ans"
+* Code 8 : Classe d'accueil
+ Verbatim : "j'ai des classes d'accueil"
+* Code 9 : Élèves en difficulté
+ Verbatim : "j'ai d'ailleurs un élève qui est là depuis 6 mois, et donc c'est extrêmement compliqué pour lui"
+* Code 10 : Variété des profils d'élèves
+ Verbatim : "ça dépend des élèves"
+
+**Thème 5 : Réflexion sur l'enseignement**
+
+* Code 1 : Réflexion sur la pratique enseignante
+ Verbatim : "tu te rends compte toi que tu comprends beaucoup mieux les choses que avant"
+* Code 2 : Compréhension de la matière
+ Verbatim : "voir que tu étais à leur place et que tu ne comprenais pas tout ce que tu sais maintenant"
+* Code 3 : Décomposition de la matière
+ Verbatim : "c'est ce travail de décomposition de la matière, on dirait que je suis physicien"
+* Code 4 : Transmission des connaissances
+ Verbatim : "le fait de savoir élémenter tout ça, de le rendre élémentaire pour les enfants"
+* Code 5 : Compréhension des difficultés des élèves
+ Verbatim : "tu étais à leur place et tu ne comprenais pas tout ce que tu sais maintenant"
+* Code 6 : Sentiment d'expertise
+ Verbatim : "tu te rends compte toi que tu comprends beaucoup mieux les choses que avant"
+* Code 7 : Satisfaction
+ Verbatim : "c'est hyper intéressant et hyper enrichissant"
+* Code 8 : Réflexion sur la relation avec les élèves
+ Verbatim : "voir le lien qu'il y a avec des jeunes"
+* Code 9 : Dialogue avec les élèves
+ Verbatim : "c'est le dialogue, parler avec eux, voir les bêtises qu'ils font"
+* Code 10 : Vivacité du savoir
+ Verbatim : "quelque chose de vivant dans le savoir"

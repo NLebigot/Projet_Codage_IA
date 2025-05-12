@@ -1,0 +1,185 @@
+Voici l'analyse de l'entretien en respectant la méthode rigoureuse de codage qualitatif :
+
+**Segment 1 : Perception de l'utilisation de ChatGpt**
+
+* Thème : Intégration de ChatGpt dans le travail
+ - Code1 : Utilité perçue
+ - Verbatim : "j’y pense toujours, je me dis que j’aurai moins de temps à faire certaine tâches et ça c’est cool"
+ - Code2 : Gain de temps
+ - Verbatim : "j’aurai moins de temps à faire certaine tâches"
+ - Code3 : Satisfaction générale
+ - Verbatim : "ça c’est cool"
+ - Code4 : Changement dans les habitudes de travail
+ - Verbatim : "j’y pense toujours"
+ - Code5 : Anticipation des bénéfices
+ - Verbatim : "je me dis que j’aurai moins de temps"
+ - Code6 : Utilisation régulière
+ - Verbatim : "j’y pense toujours"
+ - Code7 : Optimisme
+ - Verbatim : "ça c’est cool"
+ - Code8 : Perception positive
+ - Verbatim : "j’y pense toujours"
+ - Code9 : Intégration dans la routine
+ - Verbatim : "j’y pense toujours"
+ - Code10 : Avantages perçus
+ - Verbatim : "j’aurai moins de temps à faire certaine tâches"
+
+* Thème : Limites et défis rencontrés
+ - Code1 : Frustration face aux incompréhensions
+ - Verbatim : "des fois, quand on ne me comprends pas, ça m'énerve"
+ - Code2 : Difficultés dans les interactions
+ - Verbatim : "tu dois quand même reformuler plusieurs fois"
+ - Code3 : Contexte d'utilisation
+ - Verbatim : "c'est plus pour des chat perso, pas pour l’aspect académique"
+ - Code4 : Émotions négatives
+ - Verbatim : "ça m'énerve"
+ - Code5 : Frustration
+ - Verbatim : "c'est un peu chiant"
+ - Code6 : Limites de la technologie
+ - Verbatim : "quand on ne me comprends pas"
+ - Code7 : Nécessité de reformulation
+ - Verbatim : "tu dois quand même reformuler plusieurs fois"
+ - Code8 : Contexte personnel vs académique
+ - Verbatim : "c'est plus pour des chat perso"
+ - Code9 : Impact émotionnel
+ - Verbatim : "ça m'énerve"
+ - Code10 : Expérience mitigée
+ - Verbatim : "des fois, ... c'est un peu chiant"
+
+**Segment 2 : Impact de ChatGpt sur la compréhension et le stress**
+
+* Thème : Compréhension des sujets
+ - Code1 : Utilisation pour les travaux de groupe
+ - Verbatim : "Je l'ai utilisé pour des travaux de groupe"
+ - Code2 : Résumé de cours
+ - Verbatim : "ou pour résumer des cours"
+ - Code3 : Limite dans la compréhension
+ - Verbatim : "je n'ai jamais demandé de développer un sujet en particulier que j'avais mal compris"
+ - Code4 : Pas d'impact direct sur la compréhension
+ - Verbatim : "je ne pourrais pas trop répondre à la question"
+ - Code5 : Utilisation spécifique
+ - Verbatim : "Je l'ai utilisé pour des travaux de groupe ou pour résumer des cours"
+ - Code6 : Manque de clarification
+ - Verbatim : "je n'ai jamais demandé de développer un sujet en particulier"
+ - Code7 : Satisfaction mitigée
+ - Verbatim : "je ne pourrais pas trop répondre à la question"
+ - Code8 : Utilité dans certaines tâches
+ - Verbatim : "Je l'ai utilisé pour des travaux de groupe ou pour résumer des cours"
+ - Code9 : Pas d'utilisation pour la clarification
+ - Verbatim : "je n'ai jamais demandé de développer un sujet en particulier"
+ - Code10 : Limite de l'outil
+ - Verbatim : "je ne pourrais pas trop répondre à la question"
+
+* Thème : Impact sur le stress lié aux échéances académiques
+ - Code1 : Réduction du stress
+ - Verbatim : "ça déstresse un peu moi, je trouve"
+ - Code2 : Utilité dans la correction
+ - Verbatim : "je peux quand même corriger un peu"
+ - Code3 : Gain de temps
+ - Verbatim : "Toujours lié à ce rapport au temps aussi et surtout"
+ - Code4 : Limite de la correction automatique
+ - Verbatim : "ça ne vaut pas la correction d'un être humain"
+ - Code5 : Bénéfice perçu
+ - Verbatim : "ça déstresse un peu"
+ - Code6 : Impact sur la gestion du temps
+ - Verbatim : "Toujours lié à ce rapport au temps"
+ - Code7 : Appréciation de l'aide
+ - Verbatim : "ça déstresse un peu moi, je trouve"
+ - Code8 : Utilité dans la préparation
+ - Verbatim : "je peux quand même corriger un peu"
+ - Code9 : Perception positive de l'impact
+ - Verbatim : "c'est positif"
+ - Code10 : Effet sur la sérénité
+ - Verbatim : "ça déstresse un peu"
+
+**Segment 3 : Évaluation de la qualité et de la fiabilité de ChatGpt**
+
+* Thème : Qualité des réponses
+ - Code1 : Variabilité de la qualité
+ - Verbatim : "ça dépend"
+ - Code2 : Amélioration perçue
+ - Verbatim : "j'ai l'impression que c'est déjà amélioré"
+ - Code3 : Défauts dans les références
+ - Verbatim : "il est très nul pour ça"
+ - Code4 : Satisfaction générale
+ - Verbatim : "globalement on va dire je suis satisfaite"
+ - Code5 : Évolution positive
+ - Verbatim : "il était moins bien que maintenant"
+ - Code6 : Limite dans les références
+ - Verbatim : "surtout dans les références il est très nul"
+ - Code7 : Confiance mitigée
+ - Verbatim : "dépend souvent du sujet et de quand c'était"
+ - Code8 : Progrès constaté
+ - Verbatim : "j'ai l'impression que c'est déjà amélioré"
+ - Code9 : Insatisfaction spécifique
+ - Verbatim : "il est très nul pour ça"
+ - Code10 : Jugement nuancé
+ - Verbatim : "globalement on va dire je suis satisfaite"
+
+* Thème : Confiance dans les réponses de ChatGpt
+ - Code1 : Confiance variable
+ - Verbatim : "je lui fais confiance, mais... je vérifie"
+ - Code2 : Vérification des références
+ - Verbatim : "tout ce qui est références, ça, je ne lui fais pas du tout confiance"
+ - Code3 : Différenciation dans la confiance
+ - Verbatim : "je lui fais à moitié confiance"
+ - Code4 : Stratégie de vérification
+ - Verbatim : "je vérifie"
+ - Code5 : Manque de confiance dans certaines réponses
+ - Verbatim : "je ne lui fais pas du tout confiance"
+ - Code6 : Usage critique
+ - Verbatim : "je vérifie"
+ - Code7 : Perception nuancée
+ - Verbatim : "je lui fais à moitié confiance"
+ - Code8 : Évaluation critique
+ - Verbatim : "tout ce qui est références, ça, je ne lui fais pas du tout confiance"
+ - Code9 : Prudence dans l'utilisation
+ - Verbatim : "je vérifie"
+ - Code10 : Distinction entre types de réponses
+ - Verbatim : "je lui fais confiance, mais... pour les références, non"
+
+**Segment 4 : Interaction avec ChatGpt et impact sur la méthode de travail**
+
+* Thème : Interaction avec ChatGpt
+ - Code1 : Formulation des questions
+ - Verbatim : "j'essaye de... bien formuler mes questions"
+ - Code2 : Stratégie d'interaction
+ - Verbatim : "Je suis gentille avec lui"
+ - Code3 : Objectif de gain de temps
+ - Verbatim : "pour aussi me faire gagner du temps"
+ - Code4 : Préparation des requêtes
+ - Verbatim : "je fais attention à quand même un peu bien les formuler"
+ - Code5 : Attitude positive
+ - Verbatim : "Je suis gentille avec lui"
+ - Code6 : Optimisation de l'interaction
+ - Verbatim : "pour aussi me faire gagner du temps"
+ - Code7 : Conscience de l'importance de la formulation
+ - Verbatim : "je fais attention à... bien les formuler"
+ - Code8 : Relation anthropomorphe
+ - Verbatim : "Je suis gentille avec lui"
+ - Code9 : Effort pour une interaction efficace
+ - Verbatim : "j'essaye de... bien formuler mes questions"
+ - Code10 : Volonté d'optimiser l'usage
+ - Verbatim : "pour aussi me faire gagner du temps"
+
+* Thème : Impact sur la méthode de travail
+ - Code1 : Modification de l'approche
+ - Verbatim : "oui quand même, mais je ne sais pas"
+ - Code2 : Prise en compte des suggestions
+ - Verbatim : "ChatGpt t'as proposé par exemple une idée à laquelle tu n’avais pas pensé"
+ - Code3 : Changement potentiel
+ - Verbatim : "ça t'as amené à repenser ton travail"
+ - Code4 : Ouverture aux nouvelles idées
+ - Verbatim : "une idée à laquelle tu n’avais pas pensé"
+ - Code5 : Réflexion sur l'impact
+ - Verbatim : "ça t'as amené à repenser ton travail"
+ - Code6 : Évaluation de l'influence
+ - Verbatim : "oui quand même"
+ - Code7 : Exploration de nouvelles perspectives
+ - Verbatim : "une idée à laquelle tu n’avais pas pensé"
+ - Code8 : Adaptation
+ - Verbatim : "ça t'as amené à repenser ton travail"
+ - Code9 : Incertitude sur l'impact
+ - Verbatim : "mais je ne sais pas"
+ - Code10 : Potentiel d'innovation
+ - Verbatim : "une idée à laquelle tu n’avais pas pensé"

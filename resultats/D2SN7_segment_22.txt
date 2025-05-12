@@ -1,0 +1,84 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Démocratisation de l'IA**
+
+- Thème : Accessibilité et utilisation de l'IA
+ - Code 1 : Démocratisation de l'IA
+ - Verbatim : "Je pense que l’IA est un outil très démocratisé, enfin, relativement démocratisé"
+ - Code 2 : Utilisation de l'IA dans la vie quotidienne
+ - Verbatim : "T’as My AI sur Snap, des trucs comme ça"
+ - Code 3 : Perception de l'IA comme un outil pour tous
+ - Verbatim : "Je pense que c'est acceptable pour tout le monde quoi"
+ - Code 4 : Utilisation de l'IA pour des tâches spécifiques
+ - Verbatim : "Moi je l'utilise pour le taf, pour m'aider"
+ - Code 5 : Différentes utilisations de l'IA
+ - Verbatim : "Il y a des gens qui utilisent pour dialoguer avec des intelligences artificielles"
+ - Code 6 : Personnalisation de l'IA
+ - Verbatim : "Les gens dialogue avec des intelligences artificielles, même pour ChatGPT, ils les ont un peu modelé"
+ - Code 7 : Utilisation de l'IA pour des conseils de vie
+ - Verbatim : "Je sais pas si certains prennent des conseils de vie"
+ - Code 8 : Stigmatisation de certaines utilisations de l'IA
+ - Verbatim : "Je sais pas s'il faut stigmatiser des personnes en disant 'Ah ça c'est pas acceptable'"
+ - Code 9 : Perception de l'IA comme un outil neutre
+ - Verbatim : "Mon utilisation est acceptable et peut-être que les autres seraient pas acceptables quoi ?"
+ - Code 10 : Incertitude sur les implications de l'IA
+ - Verbatim : "Mais je sais pas si"
+
+**Segment 2 : Dilemme moral et falsification des données**
+
+- Thème : Implications éthiques de l'utilisation de l'IA
+ - Code 1 : Dilemme moral lié à l'utilisation de l'IA
+ - Verbatim : "Si, si, le truc dont on parlait de NotebookLM. Je me disais bon là, est-ce que c'est fou de faire ça quoi tu vois ?"
+ - Code 2 : Falsification des données avec l'IA
+ - Verbatim : "Je pourrais falsifier des entretiens, c'est à dire que, imagine, tu fais 10 entretiens, tu vois, t'as 5 en gros entretien, tu le rentre dans un idéal-type"
+ - Code 3 : Potentiel de l'IA pour créer des données synthétiques
+ - Verbatim : "Tu dis à CHATGPT, là il faut que tu fasses. Voilà, là, il y a ces caractéristiques, ces caractéristiques, ces caractéristiques"
+ - Code 4 : Risque de falsification des données
+ - Verbatim : "Et là ChatGPT, tu pourrais imaginer parce que bon bah c'est ça, c'est probabiliste"
+ - Code 5 : Implications pour la recherche
+ - Verbatim : "Et là tout d'un coup, tu pourrais trouver avec je sais pas, 15 autres entretiens, donc ça te ferait 20"
+ - Code 6 : Questionnement sur la véracité des données
+ - Verbatim : "Et peut-être que en fait, c'est vraiment quelque chose dans la vie sociale mais bon au fond, les preuves sont fausses"
+ - Code 7 : Incertitude sur l'avenir de la recherche avec l'IA
+ - Verbatim : "Après bon, est-ce que ça se fera un jour ? Peut-être je sais pas"
+ - Code 8 : Perception de la facilité de falsification
+ - Verbatim : "Et là tu as de quoi écrire limite un article tu vois et que tu peux back-up avec des évidences avec des preuves"
+ - Code 9 : Préoccupation pour la validité des données
+ - Verbatim : "Enfin l'idée est peut-être juste"
+ - Code 10 : Conscience des implications éthiques
+ - Verbatim : "Mais bon au fond, les preuves sont fausses"
+
+**Segment 3 : Expérimentation et potentialité de l'IA**
+
+- Thème : Expérimentations avec l'IA et leurs implications
+ - Code 1 : Expérimentation avec des entretiens et l'IA
+ - Verbatim : "Moi, j'avais vu un article passé. C'était un article d'info où en gros c'était des gens de ChatGPT et de Stanford"
+ - Code 2 : Capacité de l'IA à simuler des réponses
+ - Verbatim : "Qui avait fait écouter à chatGPT, une centaine d'entretiens de vraies personnes de 2h"
+ - Code 3 : Résultats surprenants de l'expérimentation
+ - Verbatim : "Et en gros, alors que les questions étaient pas forcément de lien avec l'audio quoi, mais en gros enfin, les réponses étaient à 95% similaires"
+ - Code 4 : Impact sur la sociologie qualitative
+ - Verbatim : "Et ça quand j'ai vu ça, je me suis dit, après c'est la base un peu du modèle de simulation"
+ - Code 5 : Questionnement sur les implications pour la sociologie
+ - Verbatim : "Mais tu dis putain merde, c'est à dire que… Ouais, qu'est-ce que ça veut dire pour tous les… Ouais je sais pas"
+ - Code 6 : Préoccupation pour la discipline sociologique
+ - Verbatim : "Mais ça pose pas mal de questions en tout cas pour la sociologie qualitative mais quantitative aussi"
+ - Code 7 : Reconnaissance de l'impact potentiel de l'IA
+ - Verbatim : "C'est à dire que ouais enfin voilà"
+ - Code 8 : Incertitude sur l'avenir de la recherche sociologique
+ - Verbatim : "Ouais je sais pas mais"
+ - Code 9 : Conscience de l'importance de l'IA
+ - Verbatim : "Ça pose pas mal de questions"
+ - Code 10 : Réflexion sur les implications à long terme
+ - Verbatim : "Pour la sociologie qualitative mais quantitative aussi"
+
+**Segment 4 : Impact de l'IA sur l'apprentissage**
+
+- Thème : Impact de l'IA sur les pratiques d'apprentissage
+ - Code 1 : Question sur l'impact de l'IA sur l'apprentissage
+ - Verbatim : "Comment tu penses que les outils comme ChatGPT et autres IA générative vont changer, transformer les pratiques d'apprentissage dans les prochaines années à venir ?"
+ - Code 2 : Attente de changements dans les pratiques d'apprentissage
+ - Verbatim : (non disponible, la réponse est tronquée)
+ - Code 3 à 10 : (non disponible, la réponse est tronquée)
+
+Seuls trois segments complets ont été analysés car la réponse au quatrième segment était tronquée.

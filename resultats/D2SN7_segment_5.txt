@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif.
+
+**Segment 1 : Utilisation de ChatGPT pour la programmation et la synthèse**
+
+- Thème : Utilisation de ChatGPT pour la programmation
+ - Code 1 : Confiance limitée dans les réponses de ChatGPT
+ - Verbatim : "je lui fais confiance quoi"
+ - Code 2 : Utilisation pour des tâches spécifiques
+ - Verbatim : "je lui donne des liens"
+ - Code 3 : Limite de la vérification
+ - Verbatim : "je vérifie pas trop"
+ - Code 4 : Raisonnement probabiliste
+ - Verbatim : "c'est un raisonnement probabiliste"
+ - Code 5 : Utilisation pour la synthèse
+ - Verbatim : "je le fais surtout travailler sur de la synthèse"
+ - Code 6 : Limite de l'information fournie
+ - Verbatim : "l'info tu sais pas d'où elle vient vraiment"
+ - Code 7 : Nouveaux modèles améliorés
+ - Verbatim : "dans les nouveaux modèles"
+ - Code 8 : Capacité à donner des sources
+ - Verbatim : "il donne les sources"
+ - Code 9 : Erreurs possibles
+ - Verbatim : "il t'invente un titre"
+ - Code 10 : Évolution de la connaissance
+ - Verbatim : "dans 2 mois il le saura"
+
+- Thème : Synthèse et vérification
+ - Code 1 : Synthèse d'articles
+ - Verbatim : "je lui fais synthétiser un article"
+ - Code 2 : Utilisation pour la production
+ - Verbatim : "c'est pour la production et c'est pour un truc à rendre"
+ - Code 3 : Gain de temps
+ - Verbatim : "pour me faciliter du temps"
+ - Code 4 : Apprentissage personnel
+ - Verbatim : "mon cours, je vais juste l'apprendre quoi"
+ - Code 5 : Utilisation comme tuteur
+ - Verbatim : "je t'en sers vraiment comme un tuteur"
+ - Code 6 : Compréhension des cours
+ - Verbatim : "mes autres cours, ça va, je les comprends bien"
+ - Code 7 : Lecture et référence
+ - Verbatim : "je lis l'article ou je lis le truc et dans ce cas-là, il y a la ref qui est à côté"
+ - Code 8 : Rareté de l'utilisation pour les révisions
+ - Verbatim : "c'était la première fois que je les révisions, quoi"
+ - Code 9 : Auto-apprentissage
+ - Verbatim : "je fais un peu plus seul"
+ - Code 10 : Complémentarité avec l'apprentissage personnel
+ - Verbatim : "je lui donnais mes cours de stat parce que je comprenais pas"
+
+**Segment 2 : Impact de ChatGPT sur la manière de travailler**
+
+- Thème : Changement dans la manière de travailler
+ - Code 1 : Gain de temps
+ - Verbatim : "ça me fait gagner du temps"
+ - Code 2 : Utilisation en prépa
+ - Verbatim : "en prépa, tu l'utilisais pas du tout"
+ - Code 3 : Évolution personnelle
+ - Verbatim : "j'ai pas si t'as quand même un peu commencé l'année dernière"
+ - Code 4 : Changement dans la production
+ - Verbatim : "ça me fait gagner du temps parce qu'en fait bah y a une phrase que j'arrive pas à formuler"
+ - Code 5 : Assistance à la rédaction
+ - Verbatim : "je demande à ChatGPT"
+ - Code 6 : Perception de l'impact
+ - Verbatim : "est-ce que ça a changé la façon de faire"
+ - Code 7 : Sentiment d'aliénation
+ - Verbatim : "Aliéné à ChatGPT, non"
+ - Code 8 : Évaluation de l'utilité
+ - Verbatim : "le gros gain c'est le temps quoi"
+ - Code 9 : Apprentissage et autonomie
+ - Verbatim : "je fais seul, quoi"
+ - Code 10 : Nouveauté de l'outil
+ - Verbatim : "c'était pas trop connu"
+
+- Thème : Perception de ChatGPT
+ - Code 1 : Utilité pour la formulation
+ - Verbatim : "j'arrive pas à formuler, je la reformule"
+ - Code 2 : Gain de productivité
+ - Verbatim : "ça me fait gagner du temps"
+ - Code 3 : Limite de la dépendance
+ - Verbatim : "je me sens ? Je sais pas plus débile"
+ - Code 4 : Intégration dans les habitudes
+ - Verbatim : "ça a changé"
+ - Code 5 : Évaluation positive
+ - Verbatim : "le gros gain c'est le temps"
+ - Code 6 : Autonomie dans le travail
+ - Verbatim : "je fais un peu plus seul"
+ - Code 7 : Utilisation complémentaire
+ - Verbatim : "je lui donne des liens"
+ - Code 8 : Satisfaction générale
+ - Verbatim : "voilà"
+ - Code 9 : Reconnaissance de l'utilité
+ - Verbatim : "c'est pour la production"
+ - Code 10 : Limite de la confiance
+ - Verbatim : "je vérifie pas trop"
+
+Ces thèmes et codes montrent comment l'enquêté utilise ChatGPT pour différentes tâches, notamment la programmation, la synthèse et la rédaction, et comment cet outil a modifié sa manière de travailler, avec un gain de temps significatif.

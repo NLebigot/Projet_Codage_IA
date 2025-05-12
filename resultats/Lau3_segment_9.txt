@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : L'usage des outils numériques dans l'enseignement**
+ - Code 1 : Utilisation d'internet pour vérifier l'information
+ - Verbatim : "J'ai commencé par regarder sur internet, prenant en participe passé, j'ai regardé avec le chat GPT"
+ - Code 2 : Recherche d'information sur le web
+ - Verbatim : "J'ai regardé sur Internet, tous les articles que je regardais ou toutes les pages sur la grammaire et tout me disaient qu'avec le 'en', c'était invariable"
+ - Code 3 : Complémentarité entre les outils numériques
+ - Verbatim : "Je fais toujours les deux, en soi"
+ - Code 4 : Aide à la compréhension
+ - Verbatim : "Il comprend où tu veux en venir et il va te dire oui moi j'ai cherché et avec 'en' en effet c'est invariable"
+ - Code 5 : Utilisation du Chat GPT comme outil de vérification
+ - Verbatim : "Il m'a confirmé, et j'ai fait, OK, bon, je vais regarder sur Internet"
+ - Code 6 : Facilité d'accès à l'information
+ - Verbatim : "Il va souvent te donner, alors il va tout de suite te donner la réponse que tu cherches"
+ - Code 7 : Explication détaillée
+ - Verbatim : "Il t'explique et ensuite il va te donner des exemples"
+ - Code 8 : Comparaison avec une recherche Google
+ - Verbatim : "Alors que souvent avec une recherche Google soit tu tapes les mots mais un peu dans le désordre et du coup Google comprend pas trop la question que tu lui poses"
+ - Code 9 : Utilisation de l'outil pour résoudre un problème ponctuel
+ - Verbatim : "Un élève qui m'a dit ça, est-ce que tu peux me confirmer ?"
+ - Code 10 : Apprentissage personnel
+ - Verbatim : "Maintenant, je regarde, je fais... Trop bien, maintenant je sais"
+
+**Thème 2 : La perception de l'intelligence artificielle (IA) dans l'enseignement**
+ - Code 1 : Perception de l'IA comme un outil
+ - Verbatim : "Je pars du principe que les IA, c'est bien en tant qu'outil"
+ - Code 2 : Inquiétude concernant l'impact de l'IA
+ - Verbatim : "Ça peut devenir un problème dans le futur et j'ai toujours été de cet avis"
+ - Code 3 : Danger potentiel de l'IA dans certains domaines
+ - Verbatim : "Notamment dans le domaine de l'art et voilà tout ce qui touche à ça c'est un point sur lequel je je m'efforce de me battre et de réfléchir"
+ - Code 4 : Réflexion sur l'usage approprié de l'IA
+ - Verbatim : "Il faut vraiment y réfléchir"
+ - Code 5 : L'IA et la créativité
+ - Verbatim : "L'IA dans le domaine de l'art c'est un vrai problème"
+ - Code 6 : Position personnelle sur l'IA
+ - Verbatim : "Peut-être je serai toujours de cet avis"
+ - Code 7 : Réflexion éthique
+ - Verbatim : "Je sais pas si c'est un bon point ou un mauvais point"
+ - Code 8 : Impact sur l'enseignement et l'apprentissage
+ - Verbatim : "Ça peut devenir dangereux"
+ - Code 9 : Nécessité d'une réflexion approfondie
+ - Verbatim : "Faut vraiment y réfléchir"
+ - Code 10 : Engagement personnel
+ - Verbatim : "Je m'efforce de me battre et de réfléchir"
+
+**Thème 3 : La relation entre l'enseignant et l'élève à travers la technologie**
+ - Code 1 : Interaction avec l'élève
+ - Verbatim : "Un élève qui m'a dit ça, est-ce que tu peux me confirmer ?"
+ - Code 2 : Réponse à une question précise de l'élève
+ - Verbatim : "C'est une bonne question, je vais regarder, je vais vérifier et je reviens vers toi"
+ - Code 3 : Utilisation de la technologie pour répondre aux questions
+ - Verbatim : "J'ai commencé par regarder sur internet"
+ - Code 4 : Validation de l'information par l'outil numérique
+ - Verbatim : "Il m'a confirmé"
+ - Code 5 : Retour vers l'élève
+ - Verbatim : "Je reviens vers toi"
+ - Code 6 : Moment de partage de connaissances
+ - Verbatim : "Je vais dire, lui, peut-être qu'il comprend mieux les questions que tu veux lui poser"
+ - Code 7 : Perception de l'aide que peut apporter l'outil
+ - Verbatim : "Ça comprend littéralement mieux"
+ - Code 8 : Valeur pédagogique de l'interaction
+ - Verbatim : "Tu réfléchis par toi-même, tu te dis, ah, ça a du sens"
+ - Code 9 : Approche intuitive de la langue
+ - Verbatim : "Le français fonctionne beaucoup comme ça"
+ - Code 10 : Acquisition de connaissances
+ - Verbatim : "Maintenant je sais"
+
+**Thème 4 : L'apprentissage et la vérification des règles grammaticales**
+ - Code 1 : Découverte d'une règle grammaticale
+ - Verbatim : "Le participe passé, lorsqu'il est précédé du pronom 'en', ça ne s'accorde pas"
+ - Code 2 : Ignorance préalable de la règle
+ - Verbatim : "C'est une règle que je connaissais pas forcément"
+ - Code 3 : Vérification de la règle
+ - Verbatim : "J'ai regardé sur internet, j'ai regardé avec le chat GPT"
+ - Code 4 : Confirmation de la règle par différentes sources
+ - Verbatim : "En effet, les infos coïncidaient bien"
+ - Code 5 : Acquisition de connaissance
+ - Verbatim : "Trop bien, maintenant je sais"
+ - Code 6 : Explication de la règle
+ - Verbatim : "J'en ai mangé, mais j'en ai mangé combien, on sait pas"
+ - Code 7 : Exemplification pour illustrer la règle
+ - Verbatim : "J'en ai mangé peut-être une"
+ - Code 8 : Compréhension intuitive de la grammaire
+ - Verbatim : "Tu réfléchis par toi-même, tu te dis, ah, ça a du sens"
+ - Code 9 : Limite de la connaissance grammaticale
+ - Verbatim : "On t'apprend la moitié des choses, en oubliant un peu les exceptions"
+ - Code 10 : Importance de la vérification
+ - Verbatim : "Je vais vérifier et je reviens vers toi"
+
+**Thème 5 : La spécificité du Chat GPT par rapport à d'autres outils de recherche**
+ - Code 1 : Capacité à comprendre la question posée
+ - Verbatim : "Il comprend où tu veux en venir"
+ - Code 2 : Réponse directe et précise
+ - Verbatim : "Il va tout de suite te donner la réponse que tu cherches"
+ - Code 3 : Explication détaillée avec exemples
+ - Verbatim : "Il t'explique et ensuite il va te donner des exemples"
+ - Code 4 : Comparaison avec une recherche Google
+ - Verbatim : "Alors que souvent avec une recherche Google soit tu tapes les mots mais un peu dans le désordre"
+ - Code 5 : Facilité d'utilisation
+ - Verbatim : "Lui, il comprend mieux les questions que tu veux lui poser"
+ - Code 6 : Intuitivité de l'outil
+ - Verbatim : "C'est genre une sorte de caractère intuitif"
+ - Code 7 : Perception positive de l'outil
+ - Verbatim : "Ça comprend littéralement mieux"
+ - Code 8 : Complémentarité avec d'autres outils
+ - Verbatim : "Je fais toujours les deux, en soi"
+ - Code 9 : Utilisation effective dans la pratique
+ - Verbatim : "J'ai regardé avec le chat GPT, et en effet les infos coïncidaient bien"
+ - Code 10 : Satisfaction de l'utilisateur
+ - Verbatim : "Trop bien, maintenant je sais"

@@ -1,0 +1,116 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+### Thème 1 : Perception de l'outil GPT
+
+- Code 1 : Utilité de l'outil
+  - Verbatim : "C'est un outil qui est vraiment intéressant quand tu as besoin d'avoir de l'aide sur un sujet"
+- Code 2 : Liberté dans l'utilisation
+  - Verbatim : "Je prends un peu des libertés"
+- Code 3 : Aide à la clarification
+  - Verbatim : "Ça m'aide à juste revoir les choses au clair"
+- Code 4 : Utilisation pour la création d'exercices
+  - Verbatim : "C'est un outil extrêmement intéressant pour la création d'exercices"
+- Code 5 : Danger potentiel
+  - Verbatim : "Peut devenir un outil très dangereux"
+- Code 6 : Importance de l'esprit critique
+  - Verbatim : "Il faut avoir un esprit extrêmement critique quand tu utilises la JGPT"
+- Code 7 : Utilisation dans l'art
+  - Verbatim : "Pour moi, l'art, ça reste le domaine de l'humain"
+- Code 8 : Variabilité des opinions
+  - Verbatim : "Il y en a beaucoup pour qui ce n'est pas la même chose"
+- Code 9 : Aide à la planification
+  - Verbatim : "T'as souvent du mal à faire un plan sur ta pratique"
+- Code 10 : Utilité en cas de blocage
+  - Verbatim : "En fait souvent quand je me retrouve bloqué"
+
+### Thème 2 : Limites et risques de l'outil GPT
+
+- Code 1 : Information non fiable
+  - Verbatim : "Ce qu'il te dit n'est pas la stricte vérité"
+- Code 2 : Manipulation
+  - Verbatim : "Peut souvent être manipulé"
+- Code 3 : Risque de désinformation
+  - Verbatim : "Peut mener à des dérives très graves"
+- Code 4 : Impact sur les jeunes
+  - Verbatim : "Et souvent des jeunes, à avoir des fausses informations en fait"
+- Code 5 : Danger sur le long terme
+  - Verbatim : "Sur le long terme ou sur des informations plus délicates, peut devenir un outil très dangereux"
+- Code 6 : Nécessité d'une utilisation prudente
+  - Verbatim : "Il faut avoir un esprit extrêmement critique"
+- Code 7 : Risque de dépendance
+  - Verbatim : Non directement mentionné, mais implicite dans les discussions sur les limites.
+- Code 8 : Importance de la vérification
+  - Verbatim : "Que ce que tu dis, c'est pas n'importe quoi, non plus"
+- Code 9 : Conscience des risques
+  - Verbatim : "Je n'ai pas forcément envie de m'étendre sur ce genre de sujet-là"
+- Code 10 : Spécificité du domaine artistique
+  - Verbatim : "Dans le domaine de l'art, ça ne se discute même pas"
+
+### Thème 3 : Expérience et perception de l'entretien
+
+- Code 1 : Confort avec le format
+  - Verbatim : "C'est parfait aussi"
+- Code 2 : Liberté de s'exprimer
+  - Verbatim : "Tu t'exprimes quand t'as envie de t'exprimer, sur quoi tu veux"
+- Code 3 : Absence de ligne conductrice stricte
+  - Verbatim : "Je sais pas si t'as une ligne conductrice ou quoi"
+- Code 4 : Satisfaction avec l'entretien
+  - Verbatim : "C'est genre, tu t'exprimes quand t'as envie de t'exprimer"
+- Code 5 : Perception positive de la flexibilité
+  - Verbatim : "Si t'as envie de faire une pause à un moment, c'est parfait aussi"
+- Code 6 : Coopération
+  - Verbatim : "Non, ça va"
+- Code 7 : Adaptabilité
+  - Verbatim : "On peut mettre en pause"
+- Code 8 : Expression libre
+  - Verbatim : "Je prends un peu des libertés"
+- Code 9 : Interaction fluide
+  - Verbatim : "OK, très bien"
+- Code 10 : Réceptivité
+  - Verbatim : "C'est intéressant"
+
+### Thème 4 : Utilisation pratique de l'outil GPT
+
+- Code 1 : Utilité pour gagner du temps
+  - Verbatim : "Un besoin de gagner du temps"
+- Code 2 : Assistance pour les tâches
+  - Verbatim : "Juste de l'aide, on va dire ponctuelle"
+- Code 3 : Besoin personnel d'aide
+  - Verbatim : "Un besoin personnel, un besoin de gagner du temps"
+- Code 4 : Aide à la formulation
+  - Verbatim : "Un besoin d'être au clair avec ce que tu dis"
+- Code 5 : Utilisation pour des sujets spécifiques
+  - Verbatim : "Quand tu as besoin d'avoir de l'aide sur un sujet"
+- Code 6 : Limite dans l'utilisation
+  - Verbatim : "Mais qui, sur le long terme ou sur des informations plus délicates, peut devenir un outil très dangereux"
+- Code 7 : Outil complémentaire
+  - Verbatim : "C'est un outil qui est vraiment intéressant"
+- Code 8 : Nécessité de prudence
+  - Verbatim : "Il faut avoir en esprit, en amont et en aval de l'utilisation de chaque GPT"
+- Code 9 : Utilisation pour la création
+  - Verbatim : "Pour la création d'exercices"
+- Code 10 : Aide à la structuration
+  - Verbatim : "T'as souvent du mal à faire un plan"
+
+### Thème 5 : Réflexions sur l'intelligence artificielle et l'humain
+
+- Code 1 : Domaine de l'humain
+  - Verbatim : "Pour moi, l'art, ça reste le domaine de l'humain"
+- Code 2 : Limite de la technologie
+  - Verbatim : "Ce qu'il te dit n'est pas la stricte vérité"
+- Code 3 : Importance de l'esprit critique face à la technologie
+  - Verbatim : "Il faut avoir un esprit extrêmement critique"
+- Code 4 : Variabilité des opinions sur l'IA
+  - Verbatim : "Il y en a beaucoup pour qui ce n'est pas la même chose"
+- Code 5 : Impact sur la société
+  - Verbatim : "Peut mener à des dérives très graves"
+- Code 6 : Perception de l'IA dans l'art
+  - Verbatim : "Dans le domaine de l'art, ça ne se discute même pas"
+- Code 7 : Nécessité d'une approche nuancée
+  - Verbatim : "Il faut avoir en esprit, en amont et en aval de l'utilisation de chaque GPT"
+- Code 8 : Risques associés à l'utilisation de l'IA
+  - Verbatim : "Peut devenir un outil très dangereux"
+- Code 9 : Valeur de l'intervention humaine
+  - Verbatim : "L'art, ça reste le domaine de l'humain"
+- Code 10 : Réflexion sur l'utilisation responsable
+  - Verbatim : "Il faut avoir un esprit extrêmement critique quand tu utilises la JGPT"

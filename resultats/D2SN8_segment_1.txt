@@ -1,0 +1,113 @@
+Après avoir lu et analysé l'entretien entre Kevin et Léna, j'ai identifié plusieurs thèmes avec des codes associés. Voici mes résultats :
+
+- **Thème 1 : Présentation et contexte de l'entretien**
+ - Code 1 : Acceptation de l'entretien
+ - Verbatim : "Y’a aucun souci, j’ai déjà eu à faire ce genre de travail donc c’est ma manière de renvoyer la balle."
+ - Code 2 : Présentation de Kevin
+ - Verbatim : "je suis étudiant à l’université Gustave Eiffel en master Data Science et Société numérique"
+ - Code 3 : Objectif de l'entretien
+ - Verbatim : "on travaille actuellement sur un projet de recherche concernant les usages et les pratiques de ChatGPT par les étudiants"
+ - Code 4 : Anonymisation de l'entretien
+ - Verbatim : "l’entretien sera anonymisé"
+ - Code 5 : Enregistrement de l'entretien
+ - Verbatim : "j’ai besoin de l’enregistrer"
+ - Code 6 : Présentation de Léna
+ - Verbatim : "moi c’est Léna, j’ai 23 ans et je suis en Master Politiques Publiques à Sciences Po Paris"
+ - Code 7 : Parcours universitaire de Léna
+ - Verbatim : "j’ai fait une prépa B/L à Lyon, donc avec une formation aussi bien en sciences sociales qu’en économie et aussi un peu de philosophie"
+ - Code 8 : Contexte de la recherche
+ - Verbatim : "comment les innovations numériques transforment nos usages"
+ - Code 9 : Attentes de Kevin
+ - Verbatim : "j’en ai pas mal en stock comme questions"
+ - Code 10 : Disponibilité de Léna
+ - Verbatim : "j’ai déjà eu à faire ce genre de travail"
+
+- **Thème 2 : Définition et perception de ChatGPT**
+ - Code 1 : Définition de ChatGPT
+ - Verbatim : "c’est un chat conversationnel qui permet de répondre à pleins de questions"
+ - Code 2 : Usage de ChatGPT
+ - Verbatim : "je l’utilise pour à peu près tout et n’importe quoi"
+ - Code 3 : Perception de ChatGPT
+ - Verbatim : "le premier mot qui me vient en tête c’est assistant, ou outil"
+ - Code 4 : Comparaison avec Google
+ - Verbatim : "autant avant je faisais beaucoup de recherche sur Google quand j’avais besoin de savoir un truc, autant là je sais que quoi que je puisse me demander, ChatGPT pourra me répondre"
+ - Code 5 : Fiabilité de ChatGPT
+ - Verbatim : "il pourra pas me répondre sur tout bien sûr, mais dans la majorité des cas ça marche super bien"
+ - Code 6 : Utilité de ChatGPT
+ - Verbatim : "j’ai compris qu’il pouvait clairement aider dans plein d’aspects différents"
+ - Code 7 : Exemples d'usage
+ - Verbatim : "pour la prise de note, pour éclaircir un point sur lequel j’ai un doute, pour des définitions"
+ - Code 8 : Résumé et génération de contenu
+ - Verbatim : "j’ai même commencé à l’utiliser pour résumer des textes ou pour générer des plans de dissertation"
+ - Code 9 : Facilité d'utilisation
+ - Verbatim : "c’est super pratique parce que c’est tellement rapide"
+ - Code 10 : Intégration dans la vie quotidienne
+ - Verbatim : "c’est vraiment devenu mon petit génie qui a réponse à tout"
+
+- **Thème 3 : Fréquence et contexte d'utilisation de ChatGPT**
+ - Code 1 : Fréquence d'utilisation
+ - Verbatim : "je l’utilise quasiment tous les jours en fait"
+ - Code 2 : Contexte d'utilisation pour les études
+ - Verbatim : "pour les cours peut-être moins, je ne l’utilise que quand j’en ressens vraiment le besoin"
+ - Code 3 : Contexte d'utilisation dans la vie quotidienne
+ - Verbatim : "dans ma vie quotidienne c’est vraiment devenu mon petit génie qui a réponse à tout"
+ - Code 4 : Motivation pour utiliser ChatGPT
+ - Verbatim : "quand j’ai la flemme de lire un long texte"
+ - Code 5 : Évolution de l'usage
+ - Verbatim : "je pense qu’il y a eu une sorte de switch au début de mon M1 où j’ai vraiment commencé à l’utiliser beaucoup plus"
+ - Code 6 : Curiosité initiale
+ - Verbatim : "j’essayais de lui faire la conversation, de tester un peu les limites du truc"
+ - Code 7 : Découverte de ChatGPT
+ - Verbatim : "je pense que j’en ai entendu parler dès sa sortie, ou alors tout au plus quelques semaines plus tard"
+ - Code 8 : Changement d'usage
+ - Verbatim : "d’un usage récréatif à un usage plus sérieux"
+ - Code 9 : Perception de l'utilité
+ - Verbatim : "j’ai compris qu’il pouvait clairement aider dans plein d’aspects différents"
+ - Code 10 : Intégration dans les habitudes
+ - Verbatim : "c’est vraiment devenu mon petit génie qui a réponse à tout"
+
+- **Thème 4 : Relation avec la technologie**
+ - Code 1 : Description de la relation avec la technologie
+ - Verbatim : "comment je m’en sors avec la technologie ?"
+ - Code 2 : Niveau de confort avec la technologie
+ - Verbatim : "j’ai compris qu’il pouvait clairement aider dans plein d’aspects différents"
+ - Code 3 : Adoption de nouvelles technologies
+ - Verbatim : "je pense que j’en ai entendu parler dès sa sortie"
+ - Code 4 : Usage récréatif
+ - Verbatim : "j’essayais de lui faire la conversation, de tester un peu les limites du truc"
+ - Code 5 : Intégration dans les études
+ - Verbatim : "pour les cours peut-être moins, je ne l’utilise que quand j’en ressens vraiment le besoin"
+ - Code 6 : Impact sur les habitudes
+ - Verbatim : "c’est vraiment devenu mon petit génie qui a réponse à tout"
+ - Code 7 : Perception de l'assistance technologique
+ - Verbatim : "le premier mot qui me vient en tête c’est assistant, ou outil"
+ - Code 8 : Évolution de la dépendance
+ - Verbatim : "je l’utilise quasiment tous les jours en fait"
+ - Code 9 : Technologie et études
+ - Verbatim : "on travaille actuellement sur un projet de recherche concernant les usages et les pratiques de ChatGPT par les étudiants"
+ - Code 10 : Technologie et vie quotidienne
+ - Verbatim : "dans ma vie quotidienne c’est vraiment devenu mon petit génie qui a réponse à tout"
+
+- **Thème 5 : Évolution et impact de ChatGPT sur les pratiques**
+ - Code 1 : Changement dans les pratiques
+ - Verbatim : "autant avant je faisais beaucoup de recherche sur Google"
+ - Code 2 : Évolution de l'usage de ChatGPT
+ - Verbatim : "je pense qu’il y a eu une sorte de switch au début de mon M1"
+ - Code 3 : Impact sur les habitudes de recherche
+ - Verbatim : "je sais que quoi que je puisse me demander, ChatGPT pourra me répondre"
+ - Code 4 : Nouvelles pratiques
+ - Verbatim : "j’ai même commencé à l’utiliser pour résumer des textes ou pour générer des plans de dissertation"
+ - Code 5 : Gain de temps
+ - Verbatim : "c’est super pratique parce que c’est tellement rapide"
+ - Code 6 : Évolution des besoins
+ - Verbatim : "j’ai compris qu’il pouvait clairement aider dans plein d’aspects différents"
+ - Code 7 : Impact sur la productivité
+ - Verbatim : "c’est vraiment devenu mon petit génie qui a réponse à tout"
+ - Code 8 : Changement dans la manière d'apprendre
+ - Verbatim : "pour la prise de note, pour éclaircir un point sur lequel j’ai un doute"
+ - Code 9 : Nouvelles compétences
+ - Verbatim : "j’ai compris qu’il pouvait clairement aider dans plein d’aspects différents"
+ - Code 10 : Perception de l'avenir
+ - Verbatim : "je pense que ça va continuer à évoluer et à s’améliorer"
+
+Ces thèmes et codes offrent une analyse détaillée de l'entretien, couvrant divers aspects tels que la présentation et le contexte, la définition et la perception de ChatGPT, la fréquence et le contexte d'utilisation, la relation avec la technologie, ainsi que l'évolution et l'impact de ChatGPT sur les pratiques.

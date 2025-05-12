@@ -1,0 +1,93 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici les résultats :
+
+**Segment 1 : Utilisation de ChatGPT et points communs/divergents**
+
+- Thème : Perception initiale de ChatGPT
+ - Code 1 : Points communs avec ses idées
+ - Verbatim : "je les avais tous, c'était déjà des idées que j'avais"
+ - Code 2 : Divergence par manque de pertinence
+ - Verbatim : "il y en a qu’un que j'ai retenu parce que j'avoue j'y avais pas pensé"
+ - Code 3 : Rejet des réponses non pertinentes
+ - Verbatim : "les autres j'ai pas aimé donc j'ai pas retenu"
+ - Code 4 : Réponses vides de sens
+ - Verbatim : "ça voulait rien dire"
+ - Code 5 : Critique de la qualité des réponses
+ - Verbatim : "c’était pas vraiment pertinent"
+ - Code 6 : Première interaction avec ChatGPT
+ - Verbatim : "je relis ce qu'il a écrit et pffff"
+ - Code 7 : Évaluation des réponses
+ - Verbatim : "j'ai pas aimé"
+ - Code 8 : Nouveauté dans les réponses
+ - Verbatim : "j'avoue j'y avais pas pensé"
+ - Code 9 : Sélection des réponses
+ - Verbatim : "j'ai retenu"
+ - Code 10 : Critère de sélection
+ - Verbatim : "parce que j'avoue j'y avais pas pensé mais les autres j'ai pas aimé"
+
+- Thème : Limitations de ChatGPT
+ - Code 1 : Limitations dues à la version non payante
+ - Verbatim : "j'ai pas la version payante du coup on est limité dans notre nombre d'interactions"
+ - Code 2 : Perte d'informations
+ - Verbatim : "il a pas pu conserver toute la discussion d'avant"
+ - Code 3 : Frustration
+ - Verbatim : "parfois c'est un peu frustrant"
+ - Code 4 : Impact de la limitation sur la qualité des réponses
+ - Verbatim : "il donne des réponses moins pertinentes"
+ - Code 5 : Contournement de la limitation
+ - Verbatim : "faut recréer une page"
+
+**Segment 2 : Expérience avec ChatGPT et bénéfices**
+
+- Thème : Utilisation de ChatGPT pour les tâches académiques
+ - Code 1 : Utilisation pour résumer les articles
+ - Verbatim : "je lui ai donné [les articles] à résumer"
+ - Code 2 : Insatisfaction avec la qualité du résumé
+ - Verbatim : "il n'est pas bon à résumer"
+ - Code 3 : Nécessité de vérifier
+ - Verbatim : "j'ai dû relire les articles"
+ - Code 4 : Frustration lors de l'utilisation
+ - Verbatim : "c'est c'était un peu frustrant sur le moment"
+ - Code 5 : Réflexion sur l'expérience
+ - Verbatim : "finalement avec du recul, je me dis que c'était mieux"
+ - Code 6 : Valeur de l'effort
+ - Verbatim : "j'ai dû relire les articles donc bon"
+ - Code 7 : Développement de la compétence
+ - Verbatim : "c'était mieux"
+
+- Thème : Bénéfices de l'utilisation de ChatGPT
+ - Code 1 : Compréhension améliorée des sujets
+ - Verbatim : "ça m’aide vraiment à mieux comprendre"
+ - Code 2 : Compensation des lacunes
+ - Verbatim : "j'ai des cours où il y a pas mal de sociologie mais du coup moi en prépa j'en ai pas fait"
+ - Code 3 : Utilisation pour combler les lacunes
+ - Verbatim : "j'écris juste “ah bah est-ce que tu peux me parler de ça”"
+ - Code 4 : Intégration dans le cours
+ - Verbatim : "ça me permet de mieux suivre le cours"
+ - Code 5 : Aspect pratique
+ - Verbatim : "sans déranger tout le monde"
+
+**Segment 3 : Impact de ChatGPT sur le stress et le travail académique**
+
+- Thème : Impact sur le niveau de stress
+ - Code 1 : Effet sur le stress
+ - Verbatim : "ça doit l'affecter mais je pense que ça peut me faire déstresser aussi"
+ - Code 2 : Gain de temps
+ - Verbatim : "c’est un gain de temps"
+ - Code 3 : Utilisation pour les exposés
+ - Verbatim : "je le mets sur ChatGPT, je vérifie un peu moi sur d’autres sites"
+ - Code 4 : Utilité dans les tâches académiques
+ - Verbatim : "ça me permet de gagner du temps"
+ - Code 5 : Effet psychologique
+ - Verbatim : "sûrement que ça doit me déstresser"
+
+- Thème : Utilisation spécifique de ChatGPT dans les cours
+ - Code 1 : Utilisation dans les cours d'économie et de sociologie
+ - Verbatim : "des cours en fait d'économie et de sociologie en même temps"
+ - Code 2 : Aide dans les cours spécifiques
+ - Verbatim : "on a économie et sociologie des institutions donc là ça m'aide"
+ - Code 3 : Complément pour les références
+ - Verbatim : "j'ai écrit dans ChatGPT, ça je m’en souviens"
+ - Code 4 : Cas spécifique - Marcel Mauss
+ - Verbatim : "tout le monde connaissait Marcel Mauss et le don contre don et moi j'avais pas vu ça"
+
+Ces thèmes et codes offrent une analyse qualitative de l'entretien, mettant en lumière les perceptions, les expériences et les bénéfices que l'enquêtée tire de l'utilisation de ChatGPT dans son parcours académique.

@@ -1,0 +1,101 @@
+Voici mon analyse de l'entretien en respectant la méthode de codage qualitatif :
+
+**Thème 1 : Perception et définition de ChatGPT et de l'intelligence artificielle**
+
+* Code 1 : Définition de ChatGPT
+ Verbatim : "Pour moi, je le perçois comme un assistant, un peu comme une aide à différentes tâches du quotidien ou dans les études."
+* Code 2 : Rôle de l'intelligence artificielle
+ Verbatim : "L'intelligence artificielle, c'est justement une technologie qui permet de développer, d'améliorer certains outils déjà existants"
+* Code 3 : Perception de l'intelligence artificielle
+ Verbatim : "C'est comme un plus en fait"
+* Code 4 : Confiance dans les capacités de ChatGPT
+ Verbatim : "Je demande à ChatGPT de me proposer des solutions, de me proposer par exemple une structure pour un chapitre"
+* Code 5 : Utilisation de ChatGPT pour les études
+ Verbatim : "J'utilise principalement pour les études, beaucoup pour écrire mon mémoire en ce moment"
+* Code 6 : Description de l'aide apportée par ChatGPT
+ Verbatim : "Soit je l'utilise quand j'ai besoin de conseils sur par exemple la structure de mon travail, etc."
+* Code 7 : Limitations de la compréhension technique
+ Verbatim : "Je ne connais pas exactement les bons termes techniques"
+* Code 8 : Utilisation de ChatGPT pour la formulation
+ Verbatim : "Je lui donne ma phrase que j'ai déjà écrite, je lui demande d'améliorer ou de changer juste un mot"
+* Code 9 : Comparaison avec Google
+ Verbatim : "Des fois c'est plus simple que Google je trouve"
+* Code 10 : Fréquence d'utilisation
+ Verbatim : "Je l'utilise tous les jours assez intensément"
+
+**Thème 2 : Utilisation de ChatGPT dans les études et le quotidien**
+
+* Code 1 : Utilisation principale de ChatGPT
+ Verbatim : "J'utilise principalement pour les études"
+* Code 2 : Utilisation pour la rédaction du mémoire
+ Verbatim : "Beaucoup pour écrire mon mémoire en ce moment"
+* Code 3 : Utilisation pour la structure et l'organisation
+ Verbatim : "Je demande à ChatGPT de me proposer des solutions, de me proposer par exemple une structure pour un chapitre"
+* Code 4 : Utilisation pour la formulation et la rédaction
+ Verbatim : "Je lui donne ma phrase que j'ai déjà écrite, je lui demande d'améliorer ou de changer juste un mot"
+* Code 5 : Utilisation pour les tâches quotidiennes
+ Verbatim : "Des fois c'est plus simple que Google je trouve, parce que je pose des questions toutes bêtes du quotidien"
+* Code 6 : Préférence pour la version payante
+ Verbatim : "J'ai la version payante, donc la version plus performante"
+* Code 7 : Utilisation sur différents appareils
+ Verbatim : "L’ordi seulement ouai"
+* Code 8 : Variation dans l'utilisation
+ Verbatim : "Des fois j'utilise aussi pour des questions rien à voir"
+* Code 9 : Rapidité de réponse
+ Verbatim : "Je sais que je vais avoir une réponse plus claire rapidement que si j'allais sur internet"
+* Code 10 : Intégration dans la routine quotidienne
+ Verbatim : "Je l'utilise tous les jours assez intensément"
+
+**Thème 3 : Confiance et vérification des réponses de ChatGPT**
+
+* Code 1 : Confiance dans les réponses de ChatGPT
+ Verbatim : (manque de verbatim pour ce code, la suite de la réponse de l'enquêté n'est pas fournie)
+* Code 2 à 10 : (impossible de coder sans la suite de la réponse)
+
+**Thème 4 : Impact de ChatGPT sur les études et la rédaction**
+
+* Code 1 : Aide à la rédaction
+ Verbatim : "Je lui donne ma phrase que j'ai déjà écrite, je lui demande d'améliorer ou de changer juste un mot"
+* Code 2 : Aide à la structure et l'organisation
+ Verbatim : "Je demande à ChatGPT de me proposer des solutions, de me proposer par exemple une structure pour un chapitre"
+* Code 3 : Gain de temps
+ Verbatim : "Je sais que je vais avoir une réponse plus claire rapidement que si j'allais sur internet"
+* Code 4 : Amélioration de la formulation
+ Verbatim : "Je lui demande d'améliorer ou de changer juste un mot parce que je lui explique un petit peu … Le mot que j'utilise ne me convient pas"
+* Code 5 : Support pour la rédaction du mémoire
+ Verbatim : "Beaucoup pour écrire mon mémoire en ce moment"
+* Code 6 : Utilisation pour résoudre des problèmes
+ Verbatim : "Je demande à ChatGPT de me proposer des solutions"
+* Code 7 : Aide à la prise de décision
+ Verbatim : "Je lui expose un peu ma situation, je demande à ChatGPT de me proposer des solutions"
+* Code 8 : Utilisation pour les tâches complexes
+ Verbatim : "Quand je ne sais pas quel angle prendre, je demande"
+* Code 9 : Facilité d'utilisation
+ Verbatim : "C'est plus simple que Google je trouve"
+* Code 10 : Intégration dans le processus d'écriture
+ Verbatim : "Je l'utilise tous les jours assez intensément"
+
+**Thème 5 : Représentation et expérience personnelle avec ChatGPT**
+
+* Code 1 : Perception personnelle de ChatGPT
+ Verbatim : "Pour moi, je le perçois comme un assistant"
+* Code 2 : Expérience avec ChatGPT
+ Verbatim : "J'utilise principalement pour les études, beaucoup pour écrire mon mémoire en ce moment"
+* Code 3 : Ressenti par rapport à l'utilisation de ChatGPT
+ Verbatim : "Je l'utilise tous les jours assez intensément"
+* Code 4 : Contexte d'utilisation
+ Verbatim : "Surtout là, j'utilise vraiment tous les jours assez intensément, soit pour des tâches … soit je l'utilise quand j'ai besoin de conseils"
+* Code 5 : Description de l'expérience
+ Verbatim : "Je lui expose un peu ma situation, je demande à ChatGPT de me proposer des solutions"
+* Code 6 : Évolution de l'utilisation
+ Verbatim : (manque de verbatim pour ce code, il faudrait plus d'informations)
+* Code 7 : Sentiment de dépendance
+ Verbatim : (manque de verbatim pour ce code, il faudrait plus d'informations)
+* Code 8 : Impact sur les habitudes de travail
+ Verbatim : "Je l'utilise tous les jours assez intensément"
+* Code 9 : Réflexion sur l'utilisation
+ Verbatim : "Des fois c'est plus simple que Google je trouve"
+* Code 10 : Évaluation de l'utilité
+ Verbatim : "Je sais que je vais avoir une réponse plus claire rapidement que si j'allais sur internet"
+
+Il est important de noter que certains thèmes et codes n'ont pas pu être entièrement remplis en raison du manque de verbatim pour certaines parties de la conversation. Une analyse plus complète nécessiterait la transcription intégrale de l'entretien.

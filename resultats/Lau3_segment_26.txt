@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+### Thème 1 : Perception de l'utilisation de l'IA dans la vie quotidienne
+
+- Code 1 : Utilisation personnelle de l'IA
+  - Verbatim : "Je me suis dit... Ah, moi aussi, je pourrais le faire."
+- Code 2 : Gain de temps
+  - Verbatim : "Parce que ça me fait gagner du temps"
+- Code 3 : Commodité
+  - Verbatim : "et parce que j'ai la flemme de faire ça, par exemple."
+- Code 4 : Conscience des problèmes potentiels
+  - Verbatim : "Mais je suis convaincu qu'il y en a qui l'utilisent et que ça peut devenir un problème"
+- Code 5 : Impact sur la capacité de réflexion
+  - Verbatim : "ça a des incidences extrêmement graves sur leur capacité à réfléchir et leur capacité à résoudre un problème"
+- Code 6 : Nécessité d'une utilisation contrôlée
+  - Verbatim : "Donc c'est vraiment un outil à prendre avec des pincettes qu'il faut apprendre absolument à utiliser."
+- Code 7 : Importance de comprendre les limites
+  - Verbatim : "Ou l'utiliser suffisamment pour en voir les limites et en voir les capacités dont on a réellement besoin."
+- Code 8 : Préoccupation pour les jeunes utilisateurs
+  - Verbatim : "utiliser ce GPT sur quelque chose que tu pourrais faire toi-même, d'un point de vue de la réflexion à avoir sur un exercice"
+- Code 9 : Impact sur l'autonomie
+  - Verbatim : "leur capacité à continuer à rester autonome, malgré le fait que j'utilise le JGPT"
+- Code 10 : Éducation à l'utilisation de l'IA
+  - Verbatim : "enseigner dans le futur pour pouvoir justement réussir à balancer, développer un esprit critique, ses propres compétences"
+
+### Thème 2 : Évolution de l'IA et son impact futur
+
+- Code 1 : Vision d'un avenir connecté
+  - Verbatim : "En fait, un tout connecté."
+- Code 2 : Contrôle par la voix
+  - Verbatim : "tu pourrais tout contrôler avec la voix"
+- Code 3 : Assistance permanente
+  - Verbatim : "être aidé en permanence."
+- Code 4 : Risques liés à la technologie
+  - Verbatim : "l'utilisation des caméras, par exemple, ou des choses comme ça, qui pourraient devenir encore plus dangereux que ça ne l'est déjà."
+- Code 5 : Reconnaissance par l'IA
+  - Verbatim : "Avec l'IA qui pourrait faire des reconnaissances, ou des choses comme ça."
+- Code 6 : Science-fiction proche de la réalité
+  - Verbatim : "Enfin, là on est dans la science-fiction, on est d'accord, mais... Ouais, science-fiction, déjà proche"
+- Code 7 : Pessimisme face à l'avenir de l'IA
+  - Verbatim : "Si, en fait, si, je suis très pessimiste."
+- Code 8 : Désir d'arrêter le développement de l'IA
+  - Verbatim : "J'aimerais bien qu'elle s'arrête là."
+- Code 9 : Reconnaissance des capacités actuelles de l'IA
+  - Verbatim : "On a créé un outil qui est pas mal."
+- Code 10 : Inexorabilité du progrès de l'IA
+  - Verbatim : "Ça va pas s'arrêter là, on le sait."
+
+### Thème 3 : Conscience des risques et des défis
+
+- Code 1 : Problèmes d'utilisation dans la société
+  - Verbatim : "tu avais vu, mais pas justement dans ton milieu, mais plutôt dans la société en général, des problèmes d'utilisation."
+- Code 2 : Exemples de problèmes graves
+  - Verbatim : "On a mentionné le cas de suicide."
+- Code 3 : Remplacement du travail personnel
+  - Verbatim : "Des élèves qui remplacent complètement leur travail"
+- Code 4 : Manque de contrôle sur l'utilisation de l'IA
+  - Verbatim : "on n'a aucun contrôle là-dessus"
+- Code 5 : Préoccupations pour l'avenir des élèves
+  - Verbatim : "pour eux, parce que utiliser ce GPT sur quelque chose que tu pourrais faire toi-même"
+- Code 6 : Risque de dépendance à l'IA
+  - Verbatim : "leur capacité à continuer à rester autonome"
+- Code 7 : Nécessité d'un esprit critique
+  - Verbatim : "développer un esprit critique"
+- Code 8 : Impact sur la patience et la résolution de problèmes
+  - Verbatim : "leur capacité à résoudre un problème, ou avoir de la patience pour résoudre un problème"
+- Code 9 : Défis pour l'enseignement et l'apprentissage
+  - Verbatim : "enseigner dans le futur pour pouvoir justement réussir à balancer"
+- Code 10 : Incertitudes face à l'évolution de l'IA
+  - Verbatim : "Comment tu penses que l'outil va évoluer ?"
+
+### Thème 4 : Attitudes face à l'IA et son développement
+
+- Code 1 : Optimisme initial tempéré
+  - Verbatim : "Je suis pas pessimiste."
+- Code 2 : Pessimisme exprimé
+  - Verbatim : "si, je suis très pessimiste."
+- Code 3 : Désir de freiner le développement de l'IA
+  - Verbatim : "J'aimerais bien qu'elle s'arrête là."
+- Code 4 : Résignation face à l'inexorable progrès
+  - Verbatim : "Ça va pas s'arrêter là, on le sait."
+- Code 5 : Acceptation de la réalité actuelle de l'IA
+  - Verbatim : "On a créé un outil qui est pas mal."
+- Code 6 : Préoccupation pour les implications futures
+  - Verbatim : "pour la suite, je suis très pessimiste."
+- Code 7 : Conscience de la nécessité d'une utilisation responsable
+  - Verbatim : "c'est vraiment un outil à prendre avec des pincettes"
+- Code 8 : Vision d'un futur où l'IA est omniprésente
+  - Verbatim : "un tout connecté"
+- Code 9 : Inquiétude face aux risques de l'IA
+  - Verbatim : "l'utilisation des caméras, par exemple, ou des choses comme ça, qui pourraient devenir encore plus dangereux"
+- Code 10 : Espoir d'une utilisation bénéfique
+  - Verbatim : "apprendre absolument à utiliser"
+
+### Thème 5 : Réflexions sur l'intégration de l'IA dans l'éducation
+
+- Code 1 : Nécessité d'enseigner l'utilisation de l'IA
+  - Verbatim : "il faudrait enseigner dans le futur"
+- Code 2 : Développement de l'esprit critique
+  - Verbatim : "pour pouvoir justement réussir à balancer, développer un esprit critique"
+- Code 3 : Préservation de l'autonomie
+  - Verbatim : "leur capacité à continuer à rester autonome"
+- Code 4 : Équilibre entre utilisation de l'IA et compétences personnelles
+  - Verbatim : "balancer, développer un esprit critique, ses propres compétences"
+- Code 5 : Importance de comprendre les limites de l'IA
+  - Verbatim : "en voir les limites et en voir les capacités dont on a réellement besoin"
+- Code 6 : Risques liés à une dépendance excessive à l'IA
+  - Verbatim : "ça peut devenir un problème dans la mesure où ils peuvent faire par exemple leur devoir à l'aide d'une intelligence artificielle"
+- Code 7 : Impact sur les capacités cognitives
+  - Verbatim : "incidences extrêmement graves sur leur capacité à réfléchir"
+- Code 8 : Préoccupations pour l'avenir des étudiants
+  - Verbatim : "pour eux, parce que utiliser ce GPT sur quelque chose que tu pourrais faire toi-même"
+- Code 9 : Nécessité d'une utilisation contrôlée de l'IA
+  - Verbatim : "outil à prendre avec des pincettes qu'il faut apprendre absolument à utiliser"
+- Code 10 : Intégration future de l'IA dans l'éducation
+  - Verbatim : "Comment tu penses que l'outil va évoluer ? Et son utilisation aussi, du coup."

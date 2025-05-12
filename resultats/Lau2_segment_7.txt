@@ -1,0 +1,77 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats de mon analyse :
+
+**Segment 1 : Attitudes des enseignants envers ChatGPT**
+
+- Thème : Perception de ChatGPT par les enseignants
+ - Code 1 : Critiques envers ChatGPT
+ - Verbatim : "ceux qui sont visiblement le plus critiques par rapport à la technologie en général"
+ - Code 2 : Création de chartes d'honneur
+ - Verbatim : "créer des sortes de chartes un peu d'honneur que les étudiants doivent signer"
+ - Code 3 : Différences disciplinaires
+ - Verbatim : "en littérature, ont tendance à être justement très critiques par rapport à ChatGPT"
+ - Code 4 : Ouverture à ChatGPT en linguistique
+ - Verbatim : "en linguistique, je crois qu'il y a une plus grande ouverture"
+ - Code 5 : Réglementation
+ - Verbatim : "un règlement qui est en train d'être mis en place, notamment en section de XYZ"
+ - Code 6 : Logique de régulation
+ - Verbatim : "on est plus dans une logique de régulation et donc d'autoriser son utilisation de l'IA jusqu'à un certain point"
+ - Code 7 : Interdiction vs régulation
+ - Verbatim : "plutôt miser sur une régulation"
+ - Code 8 : Différences entre départements
+ - Verbatim : "chez les linguistes, plutôt pas trop en littérature pour l'instant"
+ - Code 9 : Évolution de la perception
+ - Verbatim : "peut-être un peu pour... Oui, sachant que peut-être il est impossible de effectivement interdire l'usage de l'IA"
+ - Code 10 : Adaptation à la technologie
+ - Verbatim : "miser sur une régulation"
+
+- Thème : Impact de l'attitude des enseignants sur les étudiants
+ - Code 1 : Influence des profs sur les étudiants
+ - Verbatim : "Est-ce que tu crois que la position de ces profs a beaucoup d'impact sur la vision des élèves de ChatGPT ?"
+ - Code 2 : Comportement des étudiants
+ - Verbatim : "je m'efforce vraiment à ne pas l'utiliser"
+ - Code 3 : Indifférence des étudiants
+ - Verbatim : "pour beaucoup, beaucoup d'étudiants, c'est complètement indifférent"
+ - Code 4 : Utilisation cachée de ChatGPT
+ - Verbatim : "il y en a beaucoup qui l'utilisent sans que jamais personne ne puisse le savoir"
+ - Code 5 : Manque de problème pour les étudiants
+ - Verbatim : "ça ne leur pose pas vraiment de problème"
+
+**Segment 2 : Impact de ChatGPT sur l'apprentissage**
+
+- Thème : Changements dans les méthodes de travail
+ - Code 1 : Utilisation de ChatGPT pour comprendre
+ - Verbatim : "je ne vais pas hésiter à demander à ChatGPT, est-ce que tu pourrais expliquer ça plus simplement"
+ - Code 2 : Gain de temps
+ - Verbatim : "ça me permet d'avoir des réponses plus vite"
+ - Code 3 : Facilité d'accès à l'information
+ - Verbatim : "d'avoir des réponses en fait"
+ - Code 4 : Changement dans la façon de travailler
+ - Verbatim : "Avant, si je ne comprenais pas quelque chose... je posais la question aux profs"
+ - Code 5 : Utilisation pour les tâches complexes
+ - Verbatim : "lorsqu'il s'agit de textes que je traite avec mes propres étudiants et que des fois je trouve qu'il y a un concept qui est mal expliqué"
+
+- Thème : Évaluation de l'impact de ChatGPT sur la qualité du travail
+ - Code 1 : Utilisation pour améliorer la qualité
+ - Verbatim : "Mais tu ne comptes pas dessus pour améliorer la qualité de ton travail ?"
+ - Code 2 : Retenue dans l'utilisation de ChatGPT
+ - Verbatim : "je suis plutôt sur la retenue par rapport à ça"
+ - Code 3 : Ouverture aux possibilités de ChatGPT
+ - Verbatim : "je commence à m'ouvrir aux différentes possibilités"
+ - Code 4 : Transparence dans l'utilisation
+ - Verbatim : "être transparent en disant que telle partie du travail a été rédigée avec l'aide de l'intelligence artificielle"
+ - Code 5 : Encadrement de l'usage de l'IA
+ - Verbatim : "si maintenant on commence à réglementer et à encadrer l'usage de l'IA"
+
+**Segment 3 : Organisation du temps de travail**
+
+- Thème : Influence de ChatGPT sur l'organisation du temps
+ - Code 1 : Gain de temps grâce à ChatGPT
+ - Verbatim : "gagner du temps"
+ - Code 2 : Utilisation de ChatGPT pour la rapidité
+ - Verbatim : "je compte sur la rapidité de ChatGPT"
+ - Code 3 : Facilitation du travail
+ - Verbatim : "me faciliter un peu la vie des fois"
+ - Code 4 : Changement dans l'organisation du planning
+ - Verbatim : "comment est-ce que l'utilisation de ChatGPT a influencé ton rapport au temps de travail, à l'organisation de ton planning ?"
+
+Chaque thème regroupe des codes qui reflètent les différentes facettes de l'impact de ChatGPT sur les étudiants et les enseignants, ainsi que les changements dans les méthodes de travail et l'organisation du temps. Les verbatims associés à chaque code illustrent les propos de l'enquêté et offrent une compréhension plus approfondie des thèmes abordés.

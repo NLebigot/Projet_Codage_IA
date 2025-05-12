@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en respectant la méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Perception de l'outil Chat GPT**
+- Code 1 : Perception initiale
+- Verbatim : "Je disais que c'était niais dans le cadre de la créativité."
+- Code 2 : Utilité dans les tâches théoriques
+- Verbatim : "Mais ça me conforte dans le côté pratique, dans le côté très théorique, où là, il est très fort."
+- Code 3 : Fiabilité des sources
+- Verbatim : "Il te donne des choses qui sont souvent très précises, justes, et qui se basent sur ce qu'il a sur Internet."
+- Code 4 : Vérification des informations
+- Verbatim : "Et donc sur souvent des bases de données, fiables ou non, mais qu'au final, je finis toujours par vérifier."
+- Code 5 : Sentiment de confort dans l'utilisation
+- Verbatim : "Ça me conforte dans... S'il me dit quelque chose que, de toute façon, je savais que c'était juste, ça me conforte."
+- Code 6 : Comparaison avec ses capacités
+- Verbatim : "S'il me dit quelque chose en essayant de chercher la petite bête et en essayant de voir s'il fait faux, ça me conforte aussi parce que je me rends compte que je suis meilleur que lui."
+- Code 7 : Utilisation dans la créativité
+- Verbatim : "Et dans la créativité, je ne l'utilise que très peu, voire pas du tout."
+- Code 8 : Appréciation globale de l'outil
+- Verbatim : "Il est bien et il est intéressant comme outil quand on sait l'utiliser."
+- Code 9 : Rôle de l'utilisateur dans l'utilisation
+- Verbatim : "Donc ça reste un outil."
+- Code 10 : Conclusion sur l'utilisation
+- Verbatim : "Je suis gagnant dans tous les cas, parce que je sais l'utiliser."
+
+**Thème 2 : Impact sur les capacités et le travail**
+- Code 1 : Perception de l'impact sur les capacités
+- Verbatim : "Est-ce que chaque GPT a amélioré mes capacités ? Non."
+- Code 2 : Explication de l'absence d'amélioration
+- Verbatim : "Là-dessus, non, parce qu'en fait, ces capacités, je les ai toujours eues."
+- Code 3 : Rôle de l'outil dans l'exécution des tâches
+- Verbatim : "Ce que lui, il me permet de faire, c'est de faire des trucs plus vite que moi, je pourrais faire aussi."
+- Code 4 : Limite de l'outil
+- Verbatim : "Il fait jamais quelque chose que je suis pas capable de faire."
+- Code 5 : Utilité dans la recherche d'informations
+- Verbatim : "Il me donne des réponses sur des trucs que je suis en train de chercher et que je sais pas, que je pourrais tout autant aller chercher moi-même."
+- Code 6 : Différence entre aider et apprendre
+- Verbatim : "Il m'aide à faire mieux mon travail, mais il n'est pas là pour m'apprendre à faire mieux mon travail."
+- Code 7 : Explication de la différence
+- Verbatim : "Quand il m'apprend à faire mieux mon travail, ça stipule que je ne sais pas le faire. Quand il m'aide à faire mon travail, ça stipule que je sais le faire, simplement il m'aide à le faire plus rapidement ou mieux."
+- Code 8 : Impact sur la qualité du travail
+- Verbatim : (pas de verbatim direct, mais il est sous-entendu que l'outil aide à faire le travail de manière plus efficace)
+- Code 9 : Utilisation du temps gagné
+- Verbatim : "Je gagne en... en temps de repos."
+- Code 10 : Conclusion sur l'impact
+- Verbatim : "Je gagne en temps de... OK, c'est bon, le travail est fait."
+
+**Thème 3 : Stratégie d'utilisation et autonomie**
+- Code 1 : Autonomie dans l'utilisation
+- Verbatim : "Je sais l'utiliser."
+- Code 2 : Stratégie d'utilisation pour la vérification
+- Verbatim : "Qu'au final, je finis toujours par vérifier."
+- Code 3 : Comparaison entre les réponses de l'outil et ses propres capacités
+- Verbatim : "Je me rends compte que je suis meilleur que lui."
+- Code 4 : Utilisation dans les tâches créatives
+- Verbatim : "Dans le cadre de la créativité, je ne l'utilise que très peu, voire pas du tout."
+- Code 5 : Prise de décision concernant l'utilisation
+- Verbatim : "Je suis gagnant dans tous les cas."
+- Code 6 : Évaluation de l'outil par rapport à ses propres compétences
+- Verbatim : "Il fait jamais quelque chose que je suis pas capable de faire."
+- Code 7 : Utilisation comme un soutien
+- Verbatim : "Il m'aide à faire mieux mon travail."
+- Code 8 : Gestion du temps
+- Verbatim : "Je gagne en temps de repos."
+- Code 9 : Perception de sa propre compétence
+- Verbatim : "Ces capacités, je les ai toujours eues."
+- Code 10 : Indépendance dans le travail
+- Verbatim : "Je pourrais tout autant aller chercher moi-même."
+
+**Thème 4 : Valeur et limites de l'outil**
+- Code 1 : Perception de la valeur de l'outil
+- Verbatim : "Il est bien et il est intéressant comme outil quand on sait l'utiliser."
+- Code 2 : Limite dans la créativité
+- Verbatim : "Dans le cadre de la créativité, je ne l'utilise que très peu, voire pas du tout."
+- Code 3 : Limite dans l'apprentissage
+- Verbatim : "Il n'est pas là pour m'apprendre à faire mieux mon travail."
+- Code 4 : Fiabilité limitée
+- Verbatim : "Des bases de données, fiables ou non."
+- Code 5 : Nécessité de vérification
+- Verbatim : "Qu'au final, je finis toujours par vérifier."
+- Code 6 : Utilité dans les aspects théoriques
+- Verbatim : "Dans le côté très théorique, où là, il est très fort."
+- Code 7 : Comparaison avec ses propres capacités
+- Verbatim : "Je suis meilleur que lui."
+- Code 8 : Rôle de soutien
+- Verbatim : "Il m'aide à faire mieux mon travail."
+- Code 9 : Valeur dans l'exécution
+- Verbatim : "Il me permet de faire des trucs plus vite."
+- Code 10 : Perception globale
+- Verbatim : "Je suis gagnant dans tous les cas."
+
+**Thème 5 : Impact sur l'apprentissage et la productivité**
+- Code 1 : Gain de temps
+- Verbatim : "Je gagne en temps de repos."
+- Code 2 : Utilisation du temps gagné
+- Verbatim : "OK, c'est bon, le travail est fait."
+- Code 3 : Perception de l'impact sur l'apprentissage
+- Verbatim : "Il m'aide à faire mieux mon travail."
+- Code 4 : Limite dans l'apprentissage
+- Verbatim : "Il n'est pas là pour m'apprendre à faire mieux mon travail."
+- Code 5 : Effet sur la productivité
+- Verbatim : "Il me permet de faire des trucs plus vite que moi."
+- Code 6 : Autonomie dans le travail
+- Verbatim : "Je pourrais tout autant aller chercher moi-même."
+- Code 7 : Rôle de l'outil dans l'amélioration
+- Verbatim : "Il m'aide à faire mieux mon travail."
+- Code 8 : Perception de ses propres capacités
+- Verbatim : "Ces capacités, je les ai toujours eues."
+- Code 9 : Comparaison avec l'outil
+- Verbatim : "Je suis meilleur que lui."
+- Code 10 : Effet global sur le travail
+- Verbatim : "Je suis gagnant dans tous les cas."

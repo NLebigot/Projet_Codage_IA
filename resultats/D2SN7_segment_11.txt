@@ -1,0 +1,113 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Segment 1 : Utilisation de ChatGPT**
+
+- Thème : Interaction avec ChatGPT
+ - Code1 : Utilisation basique
+ - Verbatim : "je discutais avec une pote et en gros euh elle me elle enfin non je la voyais utiliser ChatGPT"
+ - Code2 : Formulation des requêtes
+ - Verbatim : "je dis euh « voici ce texte . » c'est vraiment une information par phrase quoi."
+ - Code3 : Étiquette dans l'interaction
+ - Verbatim : "je me suis demandé à un moment s'il fallait dire merci"
+ - Code4 : Impact de la formulation sur les résultats
+ - Verbatim : "si tu lui parles mal euh tu es méchant avec lui ça, il va donner des informations moins bonnes"
+ - Code5 : Étude sur l'interaction avec ChatGPT
+ - Verbatim : "j'avais vu passer une étude qui disait euh alors l'étude je crois était un peu critiquée"
+ - Code6 : Niveau de formalité dans les requêtes
+ - Verbatim : "si tu lui parles avec un un langage euh qui n'est qui est vraiment voilà très là, enfin très euh peu formel quoi"
+ - Code7 : Comportement d'adaptation
+ - Verbatim : "je lui adapte mon prompt mais voilà où je lui donne des indications un peu au fur à mesure quoi"
+ - Code8 : Utilisation paresseuse
+ - Verbatim : "je suis même pas capable de faire un prompt. Mais euh et après je vois qu'il a il a pas réussi"
+ - Code9 : Interaction itérative
+ - Verbatim : "je lui donne des indications un peu au fur à mesure quoi"
+ - Code10 : Perception de l'utilité de ChatGPT
+ - Verbatim : "c'est vraiment le summum de la flemme quoi"
+
+- Thème : Perception de l'impact de ChatGPT sur le travail
+ - Code1 : Modification de l'approche
+ - Verbatim : "est-ce que tu modifies parfois ton approche à un sujet ou à ta méthode de travail ?"
+ - Code2 : Utilisation pour améliorer le travail
+ - Verbatim : "parfois bien sûr ouais non mais c'est pour ça que j'utilise même c'est parce que parfois fois ça te ça te sauve"
+ - Code3 : Changement de perspective
+ - Verbatim : "je me suis dit 'Ah mais oui », je trouvais pas la manière de le mettre et en fait c'est beaucoup plus intelligent"
+ - Code4 : Amélioration de la qualité du travail
+ - Verbatim : "ça te rend meilleur au fond quoi"
+ - Code5 : Utilisation créative
+ - Verbatim : "je copie colle mon mail où il y a deux phrases qui sont pas finies parce que je sais pas comment les finir"
+ - Code6 : Révision et amélioration
+ - Verbatim : "il me donne une version améliorée"
+ - Code7 : Utilité dans les tâches de rédaction
+ - Verbatim : "je lui ai je lui donne ça et il y avait une phrase parce que je disais voilà je fais ça"
+ - Code8 : Gain de temps
+ - Verbatim : "c'est juste je copie colle mon mail"
+ - Code9 : Apprentissage par l'utilisation
+ - Verbatim : "je me suis dit 'Ah c'est hyper intelligent de faire ça »"
+ - Code10 : Intégration dans la méthode de travail
+ - Verbatim : "parfois bien sûr ouais non mais c'est pour ça que j'utilise"
+
+- Thème : Attitude envers ChatGPT
+ - Code1 : Curiosité
+ - Verbatim : "je me suis demandé à un moment s'il fallait dire merci"
+ - Code2 : Réflexion sur l'interaction
+ - Verbatim : "je discutais avec une pote et en gros euh elle me elle enfin non je la voyais utiliser ChatGPT"
+ - Code3 : Conscience de l'impact de la formulation
+ - Verbatim : "si tu lui parles mal euh tu es méchant avec lui ça, il va donner des informations moins bonnes"
+ - Code4 : Évaluation de l'utilité
+ - Verbatim : "c'est vraiment le summum de la flemme quoi"
+ - Code5 : Adaptation à ChatGPT
+ - Verbatim : "je lui adapte mon prompt"
+ - Code6 : Satisfaction
+ - Verbatim : "ça te rend meilleur au fond quoi"
+ - Code7 : Utilisation comme outil
+ - Verbatim : "je l'utilise même c'est parce que parfois fois ça te ça te sauve"
+ - Code8 : Intégration dans les habitudes
+ - Verbatim : "parfois bien sûr ouais non mais c'est pour ça que j'utilise"
+ - Code9 : Perception positive
+ - Verbatim : "je me suis dit 'Ah mais oui », je trouvais pas la manière de le mettre et en fait c'est beaucoup plus intelligent"
+ - Code10 : Exploration des capacités
+ - Verbatim : "je copie colle mon mail où il y a deux phrases qui sont pas finies"
+
+- Thème : Modalités d'utilisation de ChatGPT
+ - Code1 : Requête simple
+ - Verbatim : "je dis euh « voici ce texte . » c'est vraiment une information par phrase quoi."
+ - Code2 : Requête avec contexte
+ - Verbatim : "je lui donne des indications un peu au fur à mesure quoi"
+ - Code3 : Utilisation minimaliste
+ - Verbatim : "je suis même pas capable de faire un prompt"
+ - Code4 : Adaptation des requêtes
+ - Verbatim : "je lui adapte mon prompt mais voilà où je lui donne des indications un peu au fur à mesure quoi"
+ - Code5 : Copier-coller
+ - Verbatim : "je copie colle mon mail où il y a deux phrases qui sont pas finies"
+ - Code6 : Itération
+ - Verbatim : "je lui donne des indications un peu au fur à mesure quoi"
+ - Code7 : Utilisation pour des tâches spécifiques
+ - Verbatim : "je lui ai je lui donne ça et il y avait une phrase parce que je disais voilà je fais ça"
+ - Code8 : Utilisation pour améliorer la rédaction
+ - Verbatim : "il me donne une version améliorée"
+ - Code9 : Aide à la formulation
+ - Verbatim : "je me suis dit 'Ah mais oui », je trouvais pas la manière de le mettre et en fait c'est beaucoup plus intelligent"
+ - Code10 : Facilité d'utilisation
+ - Verbatim : "c'est juste je copie colle mon mail"
+
+- Thème : Effets de ChatGPT sur les pratiques de travail
+ - Code1 : Changement dans la méthode de travail
+ - Verbatim : "est-ce que tu modifies parfois ton approche à un sujet ou à ta méthode de travail ?"
+ - Code2 : Amélioration de la qualité
+ - Verbatim : "ça te rend meilleur au fond quoi"
+ - Code3 : Gain de productivité
+ - Verbatim : "c'est juste je copie colle mon mail"
+ - Code4 : Nouveaux usages
+ - Verbatim : "je copie colle mon mail où il y a deux phrases qui sont pas finies"
+ - Code5 : Intégration dans les routines
+ - Verbatim : "parfois bien sûr ouais non mais c'est pour ça que j'utilise"
+ - Code6 : Impact sur la créativité
+ - Verbatim : "je me suis dit 'Ah mais oui », je trouvais pas la manière de le mettre et en fait c'est beaucoup plus intelligent"
+ - Code7 : Révision des pratiques
+ - Verbatim : "il me donne une version améliorée"
+ - Code8 : Changement dans l'organisation du travail
+ - Verbatim : "je lui ai je lui donne ça et il y avait une phrase parce que je disais voilà je fais ça"
+ - Code9 : Utilisation stratégique
+ - Verbatim : "parfois fois ça te ça te sauve"
+ - Code10 : Évolution des compétences
+ - Verbatim : "je me suis dit 'Ah c'est hyper intelligent de faire ça »"

@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Perception de l'outil chat GPT**
+
+- Thème : Utilité et limite de chat GPT
+ - Code 1 : Utilité de chat GPT
+ - Verbatim : "c'est un outil comme un autre, il faut l'utiliser pour pas être en retard sur les autres"
+ - Code 2 : Limite de chat GPT
+ - Verbatim : "il ne faut pas juste faire de copier-coller"
+ - Code 3 : Réflexion personnelle
+ - Verbatim : "c'est toujours avoir une réflexion de notre côté"
+ - Code 4 : Importance du travail personnel
+ - Verbatim : "C'est votre travail tout de même qui prime"
+ - Code 5 : Acceptation de chat GPT
+ - Verbatim : "Ça me parait normal"
+ - Code 6 : Perception positive
+ - Verbatim : "on va dire pour les s’y habituer et comprendre en plus les enjeux qui s’y accrochent"
+ - Code 7 : Utilisation responsable
+ - Verbatim : "il faut l'utiliser pour pas être en retard sur les autres"
+ - Code 8 : Équilibre entre outil et travail personnel
+ - Verbatim : "c'est juste au niveau de la , il ne faut pas juste faire de copier-coller"
+ - Code 9 : Compréhension des enjeux
+ - Verbatim : "comprendre en plus les enjeux qui s’y accrochent"
+ - Code 10 : Nécessité d'adaptation
+ - Verbatim : "il faut s’adapter à chaque problème et ne pas être rigide"
+
+- Thème : Intégrité académique
+ - Code 1 : Citation des sources
+ - Verbatim : "moi ça ne me dérange pas de citer GPT, c'est une source"
+ - Code 2 : Travail de qualité
+ - Verbatim : "un travail de qualité ça sera que ça soit fait avec ou non , ça restera un travail différent"
+ - Code 3 : Honnêteté académique
+ - Verbatim : "si on autorise l'utilisation, moi ça ne me dérange pas de citer GPT"
+ - Code 4 : Transparence
+ - Verbatim : "citer GPT, c'est une source"
+ - Code 5 : Éthique
+ - Verbatim : "aucun souci au niveau des citations"
+ - Code 6 : Responsabilité
+ - Verbatim : "c'est une source"
+ - Code 7 : Valeur du travail
+ - Verbatim : "un travail de qualité ça sera que ça soit fait avec ou non"
+ - Code 8 : Originalité
+ - Verbatim : "ça restera un travail différent"
+ - Code 9 : Respect des règles
+ - Verbatim : "si on autorise l'utilisation"
+ - Code 10 : Intégrité
+ - Verbatim : "moi ça ne me dérange pas de citer GPT"
+
+**Segment 2 : Impact sur l'apprentissage et les pratiques pédagogiques**
+
+- Thème : Gain de temps et efficacité
+ - Code 1 : Gain de temps
+ - Verbatim : "c'est un assistant. Il sert à l’apprentissage bien utilisé et permet de gagner du temps"
+ - Code 2 : Utilisation efficace
+ - Verbatim : "rien n’est sacrifier"
+ - Code 3 : Amélioration de l'apprentissage
+ - Verbatim : "GPT peut aussi parler à plus de façon d’apprendre"
+ - Code 4 : Complémentarité avec l'enseignement
+ - Verbatim : "les explications qui des professeurs qui ne peuvent pas convenir à tout le monde pourront être palliés avec GPT"
+ - Code 5 : Diversification des méthodes d'apprentissage
+ - Verbatim : "d'aborder les cours d'une autre façon"
+ - Code 6 : Entraînement
+ - Verbatim : "des exemples également en termes d'entraînement pour les contrôles"
+ - Code 7 : Ressource supplémentaire
+ - Verbatim : "on n’a pas tout le temps les réponses aux anales"
+ - Code 8 : Innovation pédagogique
+ - Verbatim : "essayer de lui demander d'être pédagogue"
+ - Code 9 : Amélioration continue
+ - Verbatim : "le progrès ne s'arrête pas"
+ - Code 10 : Évolution des pratiques
+ - Verbatim : "notre utilisation à nous va être meilleure parce qu'on aura appris à l'utiliser"
+
+- Thème : Évolution de l'outil et de son utilisation
+ - Code 1 : Progrès technologique
+ - Verbatim : "le progrès ne s'arrête pas"
+ - Code 2 : Amélioration future
+ - Verbatim : "c'est sûr qu'il y aura tout le temps de nouvelles choses"
+ - Code 3 : Meilleure utilisation
+ - Verbatim : "notre utilisation à nous va être meilleure"
+ - Code 4 : Nouvelles possibilités
+ - Verbatim : "de nouvelles choses"
+ - Code 5 : Adaptation aux changements
+ - Verbatim : "il faut s’adapter à chaque problème et ne pas être rigide"
+ - Code 6 : Innovation continue
+ - Verbatim : "le progrès ne s'arrête pas"
+ - Code 7 : Évolution des besoins
+ - Verbatim : "on aura appris à l'utiliser"
+ - Code 8 : Amélioration de l'efficacité
+ - Verbatim : "c'est sûr qu'il y aura tout le temps de nouvelles choses"
+ - Code 9 : Développement de nouvelles fonctionnalités
+ - Verbatim : "de nouvelles choses"
+ - Code 10 : Meilleure intégration dans les pratiques
+ - Verbatim : "notre utilisation à nous va être meilleure"
+
+Ces thèmes et codes illustrent la complexité de la perception et de l'utilisation de chat GPT par l'enquêté, soulignant à la fois les bénéfices et les défis associés à cet outil.

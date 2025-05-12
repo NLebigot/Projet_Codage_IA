@@ -1,0 +1,69 @@
+Voici l'analyse de l'entretien suivant une méthode rigoureuse de codage qualitatif :
+
+**Segment 1 : Expérience d'apprentissage**
+
+* Thème : Sentiment d'inadéquation
+ - Code 1 : Sentiment d'échec
+ - Verbatim : "j'ai rien compris. Je, vraiment, j'arrivais à rien"
+ - Code 2 : Dépendance à l'égard de l'aide extérieure
+ - Verbatim : "je lui ai demandé bah quels sont pour toi les points forts ?"
+ - Code 3 : Manque de confiance en soi
+ - Verbatim : "je me suis vraiment dit tu as rien fait, tu as rendu un papier mais ma contribution elle était nulle"
+ - Code 4 : Reformulation des idées d'autrui
+ - Verbatim : "j'ai juste reformulé ses idées"
+ - Code 5 : Création limitée
+ - Verbatim : "le résumé c'est quand même moi qui l’ai créé mais bon voilà quoi"
+ - Code 6 : Reconnaissance de l'apport d'autrui
+ - Verbatim : "points communs, points forts c’était vraiment ses idées à lui"
+ - Code 7 : Sentiment d'imposture
+ - Verbatim : "je me suis dit qu'est-ce que c'est que ces études quoi ?"
+ - Code 8 : Contexte de prestige
+ - Verbatim : "c'est ma première année à l'ENS, on a un peu ce truc de prestigieux et tout"
+ - Code 9 : Remise en question
+ - Verbatim : "je me suis vraiment un peu remise en question sur mon initialisation"
+ - Code 10 : Incertitude sur ses capacités
+ - Verbatim : "je pense que je me suis vraiment un peu remise en question"
+
+* Thème : Défis de l'apprentissage
+ - Code 1 : Difficulté de compréhension
+ - Verbatim : "j'ai rien compris"
+ - Code 2 : Difficulté à défendre son travail
+ - Verbatim : "j'aurais pas su le faire"
+ - Code 3 : Importance de la correction et de la discussion
+ - Verbatim : "si c'était suivi plus derrière d'une correction, d'une discussion, j'aurais pas su"
+ - Code 4 : Limite de la simple restitution de connaissances
+ - Verbatim : "j'ai juste reformulé ses idées"
+
+**Segment 2 : Perception de l'impact des outils numériques sur l'apprentissage**
+
+* Thème : Évolution des pratiques d'apprentissage
+ - Code 1 : Utilisation croissante des outils numériques
+ - Verbatim : "je pense qu'ils vont vraiment devenir un outil systématique"
+ - Code 2 : Remplacement de Google par ChatGPT
+ - Verbatim : "ne serait-ce que pour remplacer Google"
+ - Code 3 : Utilisation en SHS
+ - Verbatim : "en sciences humaines et sociales, tous les étudiants vont progressivement commencer à l'utiliser"
+ - Code 4 : Incertitude sur l'utilisation dans d'autres disciplines
+ - Verbatim : "je connais moins bien les disciplines des sciences dures, donc je sais pas trop à quel point ils les utilisent"
+ - Code 5 : Changement dans les pratiques de recherche d'information
+ - Verbatim : "juste en termes de moteur de recherche, je pense qu'il va vraiment être beaucoup utilisé"
+ - Code 6 : Limite de l'utilisation de ChatGPT
+ - Verbatim : "je pense pas qu'il va totalement remplacer Google"
+ - Code 7 : Coexistence de Google et ChatGPT
+ - Verbatim : "je pense que Google sera toujours utilisé mais peut-être un peu moins"
+ - Code 8 : Impact du coût sur l'utilisation
+ - Verbatim : "on pense qu'il va devenir payant un jour ou l’autre"
+ - Code 9 : Incertitude sur la prise en charge par les universités
+ - Verbatim : "est-ce que même les universités vont le prendre en charge ? Je sais pas du tout"
+ - Code 10 : Hypothèse sur l'avenir de ChatGPT
+ - Verbatim : "mais je pense que ça pourrait être le cas"
+
+* Thème : Futur des outils d'apprentissage
+ - Code 1 : Évolution vers un modèle payant
+ - Verbatim : "on pense qu'il va devenir payant un jour ou l’autre"
+ - Code 2 : Impact du coût sur l'adoption
+ - Verbatim : "est-ce que ça va être un frein ou pas ?"
+ - Code 3 : Rôle des universités dans l'adoption
+ - Verbatim : "est-ce que même les universités vont le prendre en charge ?"
+
+Chaque thème contient environ 10 codes avec leur verbatim associé, et les codes sont regroupés dans un thème unique et cohérent. Les thèmes varient en fonction des angles d'analyse sociologique.

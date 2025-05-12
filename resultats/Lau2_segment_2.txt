@@ -1,0 +1,111 @@
+Après une analyse minutieuse de l'entretien, j'ai identifié plusieurs thèmes qui émergent des réponses de l'enquêté. Voici 5 thèmes distincts avec environ 10 codes chacun, accompagnés de verbatims représentatifs.
+
+**Thème 1 : Perception de ChatGPT**
+- Code 1 : Utilité
+- Verbatim : "C'est un outil utile, potentiellement, qui a encore beaucoup de lacunes malgré tout"
+- Code 2 : Préoccupations éthiques
+- Verbatim : "qui nous oblige à nous poser des questions par rapport à son utilisation éthique"
+- Code 3 : Danger potentiel
+- Verbatim : "qui représente potentiellement aussi un certain danger pour la société"
+- Code 4 : Impact sur les étudiants
+- Verbatim : "les étudiants de maintenant, surtout ceux qui sont pas encore à l'université, qui peuvent avoir la vie un peu trop facile avec ChatGPT"
+- Code 5 : Manque de réflexion critique
+- Verbatim : "quand ils ont pris l'habitude de tout le temps se fier à ChatGPT, est-ce qu'il reste encore beaucoup de réflexion critique là derrière ?"
+- Code 6 : Risque pour la société démocratique
+- Verbatim : "un risque aussi pour une société démocratique quand peut-être potentiellement une bonne partie de la population n'a pas vraiment l'habitude d'utiliser son esprit critique"
+- Code 7 : Perception nuancée
+- Verbatim : "je pense que j'ai quand même une compréhension vague, mais assez juste quand même de comment ça fonctionne"
+- Code 8 : Limites de la technologie
+- Verbatim : "il n'y a pas vraiment une intelligence là derrière, c'est vraiment juste une question de probabilité"
+- Code 9 : Utilisation dans l'enseignement
+- Verbatim : "ça m'a quand même aidé souvent à concevoir des exercices pour des étudiants, des élèves"
+- Code 10 : Côté sombre de la technologie
+- Verbatim : "je ne peux pas m'empêcher de penser qu'il y a un côté un peu plus sombre"
+
+**Thème 2 : Compréhension de la technologie derrière ChatGPT**
+- Code 1 : Modèle probabiliste
+- Verbatim : "c'est un modèle qui travaille sur des probabilités"
+- Code 2 : Fonctionnement basé sur un corpus
+- Verbatim : "en se basant sur un corpus gigantesque qui lui est donné constamment par ses entreprises"
+- Code 3 : Limite de l'intelligence artificielle
+- Verbatim : "il n'y a pas vraiment une intelligence là derrière, c'est vraiment juste une question de probabilité"
+- Code 4 : Complexité de la technologie
+- Verbatim : "je pense que j'ai quand même une compréhension vague, mais assez juste quand même de comment ça fonctionne"
+- Code 5 : Réponse probable
+- Verbatim : "le modèle calculait la réponse la plus probable parmi des millions et des millions"
+- Code 6 : Utilisation de la technologie
+- Verbatim : "j'ai vu que, effectivement, ça pouvait donner des résultats intéressants"
+- Code 7 : Pas de réel discernement
+- Verbatim : "c'est vraiment juste une question de probabilité"
+- Code 8 : Importance du corpus
+- Verbatim : "un corpus gigantesque qui lui est donné constamment"
+- Code 9 : Différence entre intelligence et probabilité
+- Verbatim : "il n'y a pas vraiment une intelligence là derrière"
+- Code 10 : Perception de la technologie
+- Verbatim : "une compréhension vague, mais assez juste"
+
+**Thème 3 : Expérience personnelle avec ChatGPT**
+- Code 1 : Découverte par les médias
+- Verbatim : "c'était dans les médias, sûrement il y a deux ans, par là"
+- Code 2 : Utilisation par l'entourage
+- Verbatim : "ma partenaire qui... Une fois, je l'ai vu utiliser ça"
+- Code 3 : Première utilisation
+- Verbatim : "je me suis dit, pourquoi est-ce que moi, je le ferais pas aussi ?"
+- Code 4 : Intégration dans la vie professionnelle
+- Verbatim : "je l'ai un peu intégré dans ma vie professionnelle, académique"
+- Code 5 : Utilisation limitée
+- Verbatim : "mais de manière assez limitée quand même"
+- Code 6 : Fréquence d'utilisation
+- Verbatim : "peut-être deux fois par mois"
+- Code 7 : Utilisation pour des questions spécifiques
+- Verbatim : "pour une question en particulier, disons"
+- Code 8 : Évolution de l'utilisation
+- Verbatim : "je dirais selon comment, peut-être deux fois par mois"
+- Code 9 : Impact sur le travail
+- Verbatim : "ça m'a quand même aidé souvent à concevoir des exercices"
+- Code 10 : Utilisation occasionnelle
+- Verbatim : "de manière assez limitée"
+
+**Thème 4 : Impact de ChatGPT sur la société**
+- Code 1 : Risque pour la société démocratique
+- Verbatim : "un risque aussi pour une société démocratique"
+- Code 2 : Manque de réflexion critique
+- Verbatim : "quand ils ont pris l'habitude de tout le temps se fier à ChatGPT, est-ce qu'il reste encore beaucoup de réflexion critique là derrière ?"
+- Code 3 : Changements apportés par la technologie
+- Verbatim : "on n'est pas vraiment préparé à tous les changements que ça amène"
+- Code 4 : Danger potentiel
+- Verbatim : "qui représente potentiellement aussi un certain danger pour la société"
+- Code 5 : Impact sur les jeunes
+- Verbatim : "les étudiants de maintenant, surtout ceux qui sont pas encore à l'université"
+- Code 6 : Confiance aveugle
+- Verbatim : "qui peut-être lui font une confiance aveugle aussi"
+- Code 7 : Effet sur l'habitude de réfléchir
+- Verbatim : "quand ils ont pris l'habitude de tout le temps se fier à ChatGPT"
+- Code 8 : Préparation à la technologie
+- Verbatim : "on n'est pas vraiment préparé à tous les changements que ça amène"
+- Code 9 : Impact à long terme
+- Verbatim : "c'est seulement par la suite qu'on va apprendre à maîtriser cette technologie"
+- Code 10 : Société et technologie
+- Verbatim : "un certain danger pour la société"
+
+**Thème 5 : Utilisation et bénéfices de ChatGPT**
+- Code 1 : Utilité dans l'enseignement
+- Verbatim : "ça m'a quand même aidé souvent à concevoir des exercices pour des étudiants, des élèves"
+- Code 2 : Facilitation du travail
+- Verbatim : "l'espoir ou le désir d'avoir un outil qui pourrait me faciliter la vie"
+- Code 3 : Résultats intéressants
+- Verbatim : "j'ai vu que, effectivement, ça pouvait donner des résultats intéressants"
+- Code 4 : Utilisation pour des questions spécifiques
+- Verbatim : "pour une question en particulier, disons"
+- Code 5 : Intégration dans la vie professionnelle
+- Verbatim : "je l'ai un peu intégré dans ma vie professionnelle, académique"
+- Code 6 : Bénéfice pour les utilisateurs
+- Verbatim : "ça m'a quand même aidé souvent"
+- Code 7 : Appréciation de la technologie
+- Verbatim : "fort apprécié"
+- Code 8 : Utilisation occasionnelle
+- Verbatim : "de manière assez limitée"
+- Code 9 : Utilité potentielle
+- Verbatim : "un outil utile, potentiellement"
+- Code 10 : Limitations de l'outil
+- Verbatim : "encore beaucoup de lacunes malgré tout"

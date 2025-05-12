@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien avec une méthode rigoureuse de codage qualitatif. J'ai identifié 5 thèmes distincts avec environ 10 codes chacun.
+
+**Thème 1 : Perception de l'impact de ChatGPT sur l'enseignement**
+ - Code 1 : Perception positive de l'impact
+ - Verbatim : "je pense que c'est bien, c'est que ça va faire... ça va mettre un peu un coup de pied et un peu renverser un peu le système"
+ - Code 2 : Nécessité de changement dans l'enseignement
+ - Verbatim : "les professeurs qui voulaient pas s'habituer"
+ - Code 3 : Adaptation de l'enseignement aux étudiants
+ - Verbatim : "ça va un peu les forcer à mettre des choses plus personnalisées, plus adaptées aux étudiants"
+ - Code 4 : Compréhension des besoins des étudiants
+ - Verbatim : "et plus comprendre ce que veulent les étudiants"
+ - Code 5 : Évaluation pertinente
+ - Verbatim : "que juste de vouloir évaluer pour évaluer"
+ - Code 6 : Changement dans la culture de l'effort
+ - Verbatim : "il y a aussi une grosse culture de l'effort dans le système universitaire"
+ - Code 7 : Réorientation de l'effort vers ce qui est valorisable
+ - Verbatim : "ça mettra un peu le mérite sur ce qui est vraiment évaluable et ce qui est vraiment valorisable sur le marché du travail plus tard"
+ - Code 8 : Remise en question de la valeur de certains efforts
+ - Verbatim : "quand on fournit beaucoup d'efforts, c'est juste qu'on a fait un travail qui n'était pas très pertinent"
+ - Code 9 : Utilisation de l'IA pour remplacer certaines tâches
+ - Verbatim : "type beaucoup de recherches, beaucoup de trucs qui, euh... un peu... qui justement peuvent se remplacer par une IA"
+ - Code 10 : Valorisation de l'apprentissage
+ - Verbatim : "je pense que ça peut être bien là-dessus"
+
+**Thème 2 : Inquiétudes et limites de l'intégration de ChatGPT**
+ - Code 1 : Risque de perte de connaissances fondamentales
+ - Verbatim : "en histoire, par exemple, il y a quand même des bases à acquérir"
+ - Code 2 : Nécessité d'un apprentissage structuré
+ - Verbatim : "je pense qu'en ça, c'est pertinent d'avoir... enfin, d'avoir un apprentissage, un arborescence un peu"
+ - Code 3 : Inquiétude quant à la perte de rapport à la connaissance
+ - Verbatim : "je dis pas non plus que ça va tout enlever le rapport à la connaissance"
+ - Code 4 : Distinction entre évaluation et bourrage de crâne
+ - Verbatim : "pas chercher à évaluer tous les élèves tout le temps sur leur capacité à prendre des pages et des pages"
+ - Code 5 : Importance de la connaissance
+ - Verbatim : "sans connaissance, on puisse rien faire"
+ - Code 6 : Risque de mauvais usage de ChatGPT
+ - Verbatim : "je pense que c'est un peu le risque aussi"
+ - Code 7 : Équilibre entre utilisation de l'IA et connaissances de base
+ - Verbatim : "il faut pas que ça devienne juste une question de bourrage de crâne"
+ - Code 8 : Limite de l'IA dans l'enseignement
+ - Verbatim : "c'est pas parce qu'on utilise une IA qu'on peut oublier les connaissances de base"
+ - Code 9 : Préoccupation quant à l'évolution de l'intégration de ChatGPT
+ - Verbatim : "comment ça peut évoluer?"
+ - Code 10 : Ouverture à la discussion
+ - Verbatim : "je suis hyper ouverte à ça"
+
+**Thème 3 : Utilisation et compréhension de ChatGPT par les étudiants**
+ - Code 1 : Nécessité de comprendre comment les étudiants utilisent ChatGPT
+ - Verbatim : "le gros enjeu, c'est... c'est aussi de voir avec les étudiants comment ils l'utilisent"
+ - Code 2 : Importance de la compréhension de l'utilisation de ChatGPT
+ - Verbatim : "pour que les professeurs aussi soient plus au courant et soient plus en phase avec ça"
+ - Code 3 : Perception de l'impact de ChatGPT sur la façon d'étudier
+ - Verbatim : "est-ce que tu as des suggestions pour améliorer l'intégration de ChatGPT dans le cadre académique?"
+ - Code 4 : Utilisation de ChatGPT comme outil
+ - Verbatim : "ça peut être juste bien, parce que ça va... ça va un peu les forcer à mettre des choses plus personnalisées"
+ - Code 5 : Compréhension des besoins des étudiants
+ - Verbatim : "et plus comprendre ce que veulent les étudiants"
+ - Code 6 : Adaptation de l'enseignement à l'utilisation de ChatGPT
+ - Verbatim : "les professeurs qui voulaient pas s'habituer"
+ - Code 7 : Perception de l'impact de ChatGPT sur l'évaluation
+ - Verbatim : "que juste de vouloir évaluer pour évaluer"
+ - Code 8 : Réflexion sur l'utilisation de ChatGPT
+ - Verbatim : "je pense que ça peut être bien là-dessus"
+ - Code 9 : Compréhension de la culture de l'effort
+ - Verbatim : "il y a aussi une grosse culture de l'effort dans le système universitaire"
+ - Code 10 : Discussion autour de l'intégration de ChatGPT
+ - Verbatim : "tout a été dit, je crois..."
+
+**Thème 4 : Culture de l'effort et mérite**
+ - Code 1 : Perception de la culture de l'effort
+ - Verbatim : "il y a aussi une grosse culture de l'effort dans le système universitaire"
+ - Code 2 : Réorientation de l'effort vers ce qui est valorisable
+ - Verbatim : "ça mettra un peu le mérite sur ce qui est vraiment évaluable et ce qui est vraiment valorisable sur le marché du travail plus tard"
+ - Code 3 : Critique de la culture de l'effort
+ - Verbatim : "quand on fournit beaucoup d'efforts, c'est juste qu'on a fait un travail qui n'était pas très pertinent"
+ - Code 4 : Distinction entre effort et mérite
+ - Verbatim : "le mérite sur ce qui est vraiment évaluable"
+ - Code 5 : Réflexion sur la valeur de l'effort
+ - Verbatim : "je pense que ça peut être bien là-dessus"
+ - Code 6 : Perception de l'impact de ChatGPT sur la culture de l'effort
+ - Verbatim : "ça va un peu les forcer à mettre des choses plus personnalisées"
+ - Code 7 : Évaluation de la culture de l'effort
+ - Verbatim : "il faut pas que ça devienne juste une question de bourrage de crâne"
+ - Code 8 : Réorientation de l'enseignement
+ - Verbatim : "les professeurs qui voulaient pas s'habituer"
+ - Code 9 : Adaptation à la nouvelle donne
+ - Verbatim : "je suis hyper ouverte à ça"
+ - Code 10 : Discussion autour de la culture de l'effort
+ - Verbatim : "enfin, je veux dire... enfin, et je pense que c'est un peu le risque aussi"
+
+**Thème 5 : Dynamique entre enseignants et étudiants**
+ - Code 1 : Nécessité de dialogue entre enseignants et étudiants
+ - Verbatim : "le gros enjeu, c'est... c'est aussi de voir avec les étudiants comment ils l'utilisent"
+ - Code 2 : Perception de la relation entre enseignants et étudiants
+ - Verbatim : "pour que les professeurs aussi soient plus au courant et soient plus en phase avec ça"
+ - Code 3 : Adaptation des enseignants à l'utilisation de ChatGPT
+ - Verbatim : "les professeurs qui voulaient pas s'habituer"
+ - Code 4 : Compréhension des besoins des étudiants
+ - Verbatim : "et plus comprendre ce que veulent les étudiants"
+ - Code 5 : Réflexion sur la dynamique entre enseignants et étudiants
+ - Verbatim : "je pense que ça peut être bien là-dessus"
+ - Code 6 : Perception de l'impact de ChatGPT sur la relation
+ - Verbatim : "ça va un peu les forcer à mettre des choses plus personnalisées"
+ - Code 7 : Discussion autour de la dynamique
+ - Verbatim : "tout a été dit, je crois..."
+ - Code 8 : Ouverture à la discussion
+ - Verbatim : "je suis hyper ouverte à ça"
+ - Code 9 : Perception de l'évolution de la relation
+ - Verbatim : "comment ça peut évoluer?"
+ - Code 10 : Réflexion sur l'intégration de ChatGPT dans la relation
+ - Verbatim : "est-ce que tu as des suggestions pour améliorer l'intégration de ChatGPT dans le cadre académique?"

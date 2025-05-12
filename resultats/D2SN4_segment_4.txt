@@ -1,0 +1,58 @@
+Suite à l'analyse de l'entretien, j'ai identifié plusieurs thèmes pertinents qui permettent de comprendre les perceptions et les usages de ChatGPT par Romain. Voici les résultats de l'analyse, structurés autour de 5 thèmes distincts avec leurs codes associés et verbatims.
+
+### Thème 1 : Satisfaction et Limites des Réponses de ChatGPT
+
+- **Code 1 : Satisfaction Générale**
+  - Verbatim : "La plupart du temps elles vont répondre à nos attentes et ça c'est clair chatGPT parle très bien"
+- **Code 2 : Limites dans le Fond**
+  - Verbatim : "moi personnellement parfois la forme de la réponse est très bien mais le fond est pas là."
+- **Code 3 : Exemple de Discordance**
+  - Verbatim : "j'ai un exemple très simple je savais qui avait fait l’expérience [...] c'était Donnie Richie et que c'était pas la personne que chatGPT me disait que c'était"
+- **Code 4 : Flexibilité de ChatGPT**
+  - Verbatim : "si je redemande si je pousse un peu, si je vais un peu plus loin bah il y a aucun problème chatGPT va, la plupart du temps, répondre à mes attentes."
+- **Code 5 : Difficulté dans les Domaines Pointus**
+  - Verbatim : "ça va être très difficile, en particulier dans certains domaines pointus, d'avoir une réponse qui est dans le fond juste."
+
+### Thème 2 : Impact de ChatGPT sur les Méthodes de Travail
+
+- **Code 1 : Gain de Temps**
+  - Verbatim : "ça a vraiment permis de simplifier l'accès à l'information c'est-à-dire que je ne passe plus des heures à chercher une information"
+- **Code 2 : Changement dans la Recherche d'Information**
+  - Verbatim : "je demande à chat GPT et ça va beaucoup plus vite."
+- **Code 3 : Effet sur la Mémorisation**
+  - Verbatim : "ça empêche de se rappeler de certaines informations parce qu'on sait où trouver l'information et on sait où trouver très facilement."
+- **Code 4 : Utilisation comme Outil de Référence**
+  - Verbatim : "j'ai plus besoin de passer des heures à aller chercher la moindre information"
+
+### Thème 3 : Utilisation de ChatGPT pour l'Écriture et la Créativité
+
+- **Code 1 : Utilisation pour la Rédaction**
+  - Verbatim : "des tournures de phrases oui qui sont mieux rédigés par chat GPT"
+- **Code 2 : Source d'Inspiration**
+  - Verbatim : "pour avoir des idées parfois de la manière dont on écrit"
+- **Code 3 : Limites dans l'Apprentissage**
+  - Verbatim : "on apprend rien en faisant ça, rien du tout"
+- **Code 4 : Utilisation comme Suggestion**
+  - Verbatim : "j'utilise vraiment comme une suggestion"
+
+### Thème 4 : Perception de la Qualité et de l'Amélioration
+
+- **Code 1 : Amélioration de la Qualité de Travail**
+  - Verbatim : "ChatGPT ça améliore pas nécessairement la qualité de mon travail"
+- **Code 2 : Utilisation Principale**
+  - Verbatim : "j'utilise vraiment pour gagner du temps la plupart du temps"
+- **Code 3 : Apport Potentiel pour l'Écriture**
+  - Verbatim : "parfois c'est vrai que ça permet d'aider pour l'écriture."
+
+### Thème 5 : Dépendance et Risques Associés à ChatGPT
+
+- **Code 1 : Risque de Dépendance**
+  - Verbatim : "on sait où trouver l'information et on sait où trouver très facilement."
+- **Code 2 : Impact sur les Compétences**
+  - Verbatim : "ça empêche de se rappeler de certaines informations"
+- **Code 3 : Usage Abusif**
+  - Verbatim : "je connais quelques personnes qui l'utilisent abondamment pour écrire et c'est pas… C'est pas vraiment quelque chose qui est recommandable."
+- **Code 4 : Conscience des Limites**
+  - Verbatim : "on apprend rien en faisant ça, rien du tout donc non, non je l'utilise vraiment pour gagner du temps"
+
+Chaque thème est construit autour de codes qui reflètent les nuances des réponses de Romain concernant son utilisation et sa perception de ChatGPT, offrant ainsi une compréhension plus approfondie de son expérience avec cet outil.

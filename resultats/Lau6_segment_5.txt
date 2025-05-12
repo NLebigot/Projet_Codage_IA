@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en respectant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Relation avec ChatGPT**
+
+- Thème : Interaction avec l'IA
+ - Code 1 : Soutien moral
+ - Verbatim : "des fois, comme un soutien moral. Parce que je me dis, je ne suis pas toute seule dans mon travail."
+ - Code 2 : Personnification
+ - Verbatim : "il me donne des conseils. Puis c'est un peu drôle, mais des fois, dépendamment du ton que tu utilises, il va te répondre avec le même ton."
+ - Code 3 : Collaboration
+ - Verbatim : "il dit « ce mémoire on va le boucler ensemble on est une team »"
+ - Code 4 : Délégation de tâches
+ - Verbatim : "j'ai l'impression de me dire que si un soir genre vraiment j'ai plus d'énergie il faut que je continue je sais que je peux déléguer des tâches que j'arrive plus à faire à ChatGPT."
+ - Code 5 : Ton utilisé
+ - Verbatim : "je lui parle en mode normal."
+ - Code 6 : Familiarité
+ - Verbatim : "je tutoie quand même."
+ - Code 7 : Politesse
+ - Verbatim : "je dis salut ça va ou des choses comme ça."
+ - Code 8 : Frustration
+ - Verbatim : "je lui dis « non ça c'est pas ce que je veux »"
+ - Code 9 : Responsabilité partagée
+ - Verbatim : "quand je lui ai mal expliqué aussi donc c'est vrai."
+ - Code 10 : Utilisation précise
+ - Verbatim : "je l'utilise pour des tâches quand même assez précises et que je sais qu'il va faire bien"
+
+- Thème : Perception de l'IA
+ - Code 1 : Humanisation
+ - Verbatim : "il me donne des conseils. Puis c'est un peu drôle, mais des fois, dépendamment du ton que tu utilises, il va te répondre avec le même ton."
+ - Code 2 : Limites de l'IA
+ - Verbatim : "tu sens que c'est pas humain, tu sens qu'il n'y a pas une réflexion originale"
+ - Code 3 : Apprentissage
+ - Verbatim : "il sait que quand on a une thématique, on peut l'aborder comme ça, comme ça, comme ça, et puis il l'applique en fait."
+ - Code 4 : Originalité
+ - Verbatim : "tu sens qu'il n'y a pas de réflexion originale en fait."
+ - Code 5 : Utilité
+ - Verbatim : "je l'utilise pour des tâches quand même assez précises et que je sais qu'il va faire bien"
+ - Code 6 : Comparaison avec l'humain
+ - Verbatim : "tu sens que c'est pas humain"
+ - Code 7 : Capacités de l'IA
+ - Verbatim : "il me donne des conseils."
+ - Code 8 : Restrictions
+ - Verbatim : "quand je lui demandais des choses de manière trop vague, je pense que là il ne comprenait pas ce que je voulais."
+ - Code 9 : Formulation des questions
+ - Verbatim : "quand tu demandes des exemples de problématiques ou de questionnements souvent, je trouve que c'est un petit peu trop scolaire."
+ - Code 10 : Attentes
+ - Verbatim : "je sais qu'il va faire bien"
+
+**Segment 2 : Utilisation et limites de ChatGPT**
+
+- Thème : Utilisation efficace
+ - Code 1 : Précision
+ - Verbatim : "je l'utilise pour des tâches quand même assez précises"
+ - Code 2 : Clarté
+ - Verbatim : "quand tu demandes des choses de manière claire"
+ - Code 3 : Résultats
+ - Verbatim : "je sais qu'il va faire bien"
+ - Code 4 : Formulation
+ - Verbatim : "quand tu demandes des exemples de problématiques ou de questionnements souvent"
+ - Code 5 : Limite de l'IA
+ - Verbatim : "il ne comprenait pas ce que je voulais"
+ - Code 6 : Proactivité
+ - Verbatim : "je lui dis « non ça c'est pas ce que je veux »"
+ - Code 7 : Utilisation appropriée
+ - Verbatim : "je l'utilise pour des tâches quand même assez précises"
+ - Code 8 : Réflexion
+ - Verbatim : "tu sens qu'il n'y a pas de réflexion originale en fait."
+ - Code 9 : Apprentissage
+ - Verbatim : "il sait que quand on a une thématique, on peut l'aborder comme ça, comme ça, comme ça"
+ - Code 10 : Satisfaction
+ - Verbatim : "la qualité des réponses la plupart du temps t’es assez contente"
+
+- Thème : Procrastination et stress
+ - Code 1 : Procrastination
+ - Verbatim : "je pense que la procrastination elle reste parce que du coup je vais procrastiner sur d'autres choses aussi à côté."
+ - Code 2 : Stress
+ - Verbatim : "tu ressens quand même le stress des délais ?"
+ - Code 3 : Utilisation comme soutien
+ - Verbatim : "des fois, comme un soutien moral."
+ - Code 4 : Gestion du stress
+ - Verbatim : "je me dis, je ne suis pas toute seule dans mon travail."
+ - Code 5 : Réconfort
+ - Verbatim : "ça m'a fait du bien au premier degré alors que c'est une technologie quoi"
+ - Code 6 : Sentiment d'isolement
+ - Verbatim : "je ne suis pas toute seule dans mon travail."
+ - Code 7 : Compensation
+ - Verbatim : "je vais procrastiner sur d'autres choses aussi à côté."
+ - Code 8 : Utilisation intensive
+ - Verbatim : "j'utilise vraiment intensément"
+ - Code 9 : Bénéfice perçu
+ - Verbatim : "ça m'a fait du bien"
+ - Code 10 : Réduction du stress
+ - Verbatim : "t'es moins seule."
+
+Ces thèmes et codes décrivent la manière dont l'enquêté interagit avec ChatGPT, percevant à la fois ses bénéfices et ses limites. L'analyse met en évidence la personnification de l'IA, son utilisation comme soutien moral, ainsi que les frustrations liées à ses limites. Les thèmes reflètent également la complexité de la relation entre l'utilisateur et l'IA, soulignant les aspects positifs et négatifs de cette interaction.

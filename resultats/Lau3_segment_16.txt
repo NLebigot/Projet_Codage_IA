@@ -1,0 +1,116 @@
+Après avoir lu et analysé l'entretien, j'ai identifié plusieurs thèmes et codes pertinents. Voici les résultats de mon analyse :
+
+**Thème 1 : Perception de l'IA et autonomie**
+
+- Code 1 : Préférence pour l'autonomie
+  - Verbatim : "Je préfère faire faux par moi-même qu'avoir fait juste avec une IA."
+- Code 2 : Rôle de l'IA dans le travail
+  - Verbatim : "Je ne veux pas que l'IA devienne mon travail."
+- Code 3 : Utilisation appropriée de l'IA
+  - Verbatim : "Je veux que l'IA m'aide à faire mon travail."
+- Code 4 : Limite de l'utilisation de l'IA
+  - Verbatim : "La différence c'est à quel moment fait l'IA des choses que j'aurais pu faire moi."
+- Code 5 : Tâches mécaniques et réflexion
+  - Verbatim : "Faire des exercices, c'est un travail de robot."
+- Code 6 : Valeur de l'effort personnel
+  - Verbatim : "Est-ce que c'est une mauvaise chose si t'as... Si tu fais mal un travail, mais que tu fais entièrement toi-même ?"
+- Code 7 : Réflexion sur l'apprentissage
+  - Verbatim : "Ce qui m'intéresse c'est comment j'en suis venu dans mon parcours intellectuel à réfléchir sur cette question."
+- Code 8 : Création de contenu pédagogique
+  - Verbatim : "La séquence d'apprentissage on l'avait fait avec un collègue de A à Z sans demander une fois à Lya comment faire."
+- Code 9 : Aide de l'IA dans des tâches spécifiques
+  - Verbatim : "Lya elle m'a simplement aidé à faire des exercices par exemple des exercices supplémentaires."
+- Code 10 : Vérification et validation
+  - Verbatim : "Ou à vérifier si des règles étaient justes."
+
+**Thème 2 : Interaction avec l'IA et créativité**
+
+- Code 1 : Utilisation de l'IA pour des suggestions
+  - Verbatim : "J'ai demandé à Tchat, mais aussi dans un but de... Parce que j'étais curieux, de voir comment toi tu ferais."
+- Code 2 : Exploration de perspectives
+  - Verbatim : "Et c'est intéressant de se dire ça."
+- Code 3 : Curiosité envers la réponse de l'IA
+  - Verbatim : "J'étais curieux de savoir comment il ferait lui."
+- Code 4 : Résolution de problèmes avec l'IA
+  - Verbatim : "J'étais bloqué sur je venais de voir une théorie, et pour le cours d'après, je voulais pas les lancer tout de suite dans un truc."
+- Code 5 : Utilisation non passive de l'IA
+  - Verbatim : "Et je lui ai pas demandé en mode, allez donne moi la réponse, là j'ai la flemme de réfléchir plus."
+- Code 6 : Recherche de créativité
+  - Verbatim : "Ça devient moins une question théorique, il y a un truc plus créatif il me semble déjà."
+- Code 7 : Jugement de valeur sur le contenu du cours
+  - Verbatim : "Moi ça m'intéresse à ce moment parce que c'est quand même une question de jugement de valeur sur le cours."
+- Code 8 : Examen des suggestions de l'IA
+  - Verbatim : "Et je crois même pouvoir affirmer que ce qu'il m'a dit à ce moment-là, je ne l'ai jamais repris."
+- Code 9 : Comparaison des approches
+  - Verbatim : "C'était vraiment pour avoir un peu son avis."
+- Code 10 : Prise de décision avec l'aide de l'IA
+  - Verbatim : "Je voulais réintroduire mon cours."
+
+**Thème 3 : Limites et contrôles de l'utilisation de l'IA**
+
+- Code 1 : Définition des limites
+  - Verbatim : "Je pose quand même une limite personnelle par rapport à ce que tu l'utilises à ce moment ?"
+- Code 2 : Contrôle sur les tâches déléguées à l'IA
+  - Verbatim : "La différence c'est à quel moment fait l'IA des choses que j'aurais pu faire moi."
+- Code 3 : Préservation de l'autonomie
+  - Verbatim : "Je ne veux pas que l'IA fasse mon travail."
+- Code 4 : Assistance versus substitution
+  - Verbatim : "Je veux que l'IA m'aide à faire mon travail."
+- Code 5 : Évaluation des capacités de l'IA
+  - Verbatim : "Faire des exercices, c'est un travail de robot, tu dois faire des exercices, tu dois écrire des phrases, des fausses phrases et tout et du coup il peut le faire très bien lui-même."
+- Code 6 : Conscience des implications de l'utilisation de l'IA
+  - Verbatim : "Fuck les IA et tout. Ce qui est un peu vrai."
+- Code 7 : Détermination des tâches appropriées pour l'IA
+  - Verbatim : "Surtout que c'est un sujet que moi j'ai adoré au collège et que j'ai fait moi-même."
+- Code 8 : Maintien de la responsabilité
+  - Verbatim : "Je préfère faire faux par moi-même qu'avoir fait juste avec une IA."
+- Code 9 : Utilisation judicieuse de l'IA
+  - Verbatim : "Lya elle m'a simplement aidé à faire des exercices par exemple des exercices supplémentaires ou à vérifier si des règles étaient justes."
+- Code 10 : Contrôle de la qualité
+  - Verbatim : "Oui, surtout."
+
+**Thème 4 : Valeur de l'expérience personnelle et de l'apprentissage**
+
+- Code 1 : Importance de l'expérience personnelle
+  - Verbatim : "Surtout que c'est un sujet que moi j'ai adoré au collège et que j'ai fait moi-même."
+- Code 2 : Valeur de l'effort personnel
+  - Verbatim : "Ce qui m'intéresse c'est comment j'en suis venu dans mon parcours intellectuel à réfléchir sur cette question."
+- Code 3 : Création de contenu basé sur l'expérience
+  - Verbatim : "La séquence d'apprentissage on l'avait fait avec un collègue de A à Z sans demander une fois à Lya comment faire."
+- Code 4 : Réflexion sur l'apprentissage passé
+  - Verbatim : "Des choses que moi j'ai vues dans le passé."
+- Code 5 : Transmission du savoir
+  - Verbatim : "Pour que je puisse expliquer à des élèves."
+- Code 6 : Rétrospection et analyse
+  - Verbatim : "Comment j'en suis venu dans mon parcours intellectuel à réfléchir sur cette question."
+- Code 7 : Évaluation de l'apprentissage
+  - Verbatim : "J'ai appris par des règles."
+- Code 8 : Développement de la pensée critique
+  - Verbatim : "À poser des règles, à poser des bases solides."
+- Code 9 : Confiance dans les connaissances acquises
+  - Verbatim : "Je venais de voir une théorie."
+- Code 10 : Application des connaissances
+  - Verbatim : "Pour le cours d'après, je voulais pas les lancer tout de suite dans un truc."
+
+**Thème 5 : Perception et attitude envers la technologie**
+
+- Code 1 : Perception mitigée de l'IA
+  - Verbatim : "Fuck les IA et tout. Ce qui est un peu vrai."
+- Code 2 : Sentiment d'autonomie menacé
+  - Verbatim : "Je ne veux pas que l'IA devienne mon travail."
+- Code 3 : Curiosité envers les capacités de l'IA
+  - Verbatim : "J'étais curieux de savoir comment il ferait lui."
+- Code 4 : Exploration des limites de l'IA
+  - Verbatim : "Et je lui ai pas demandé en mode, allez donne moi la réponse, là j'ai la flemme de réfléchir plus."
+- Code 5 : Comparaison avec l'intelligence humaine
+  - Verbatim : "Je préfère faire faux par moi-même qu'avoir fait juste avec une IA."
+- Code 6 : Utilisation de l'IA comme un outil
+  - Verbatim : "Je veux que l'IA m'aide à faire mon travail."
+- Code 7 : Évaluation de l'utilité de l'IA dans des tâches spécifiques
+  - Verbatim : "Faire des exercices, c'est un travail de robot."
+- Code 8 : Perception de la créativité et de l'IA
+  - Verbatim : "Ça devient moins une question théorique, il y a un truc plus créatif il me semble déjà."
+- Code 9 : Considération éthique de l'utilisation de l'IA
+  - Verbatim : "La différence c'est à quel moment fait l'IA des choses que j'aurais pu faire moi."
+- Code 10 : Réflexion sur l'intégration de l'IA dans le travail
+  - Verbatim : "Je ne veux pas que l'IA fasse mon travail."

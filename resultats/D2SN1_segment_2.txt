@@ -1,0 +1,76 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Utilisation de Chat GPT dans les activités universitaires**
+
+- Thème : **Utilisation de Chat GPT pour la recherche et la rédaction**
+ - Code 1 : Utilisation pour la recherche
+ - Verbatim : "pour de la recherche notamment sur nos projets de mémoire recherche"
+ - Code 2 : Utilisation pour l'inspiration
+ - Verbatim : "quand on n'a pas d'inspiration sur des présentations par exemple"
+ - Code 3 : Utilisation pour la rédaction
+ - Verbatim : "tout ce qui est rédaction de pitch, rédaction d'offre commercial"
+ - Code 4 : Utilisation pour les projets
+ - Verbatim : "on utilise vraiment cette technologie pour tout euh pour tous les projets qu'on entame"
+ - Code 5 : Gain de temps
+ - Verbatim : "un gain de temps et beaucoup d'efficacité"
+ - Code 6 : Extension de Chat GPT
+ - Verbatim : "il y a une extension qui s'appelle Scholar GPT qui permettait de découvrir des recherches scientifiques liées à notre problématique"
+ - Code 7 : Aide à la recherche académique
+ - Verbatim : "chat GPT m'a beaucoup aidé notamment avec les extensions"
+ - Code 8 : Utilisation pour les tâches
+ - Verbatim : "pour toutes les tâches qu'on entreprend"
+ - Code 9 : Facilitation du travail
+ - Verbatim : "c'était un gain de temps et beaucoup d'efficacité"
+ - Code 10 : Amélioration de la productivité
+ - Verbatim : "beaucoup de temps de temps gagner de regagner"
+
+- Thème : **Impact sur la façon de travailler**
+ - Code 1 : Changement dans la façon de travailler
+ - Verbatim : "Chat GPT a modifié ma façon de travailler"
+ - Code 2 : Gain de temps
+ - Verbatim : "c'est un gain de temps considérable"
+ - Code 3 : Fénéantise
+ - Verbatim : "ça apporte une certaine certaines fénéantises dans le sens où euh on peut on peut faire un prompt et directement avoir des réponses directes"
+ - Code 4 : Réponses précises
+ - Verbatim : "j'ai des réponses qui sont beaucoup plus précises"
+ - Code 5 : Répartition des tâches
+ - Verbatim : "je peux faire des tâches à côté qui sont qui sont plus chronophages ou bien qui a qui demandent plus de compétences"
+ - Code 6 : Utilisation de Chat GPT comme outil de travail
+ - Verbatim : "je pense directement à comment je vais utiliser de chat GPT euh lors de mon travail"
+ - Code 7 : Changement dans la recherche d'information
+ - Verbatim : "plutôt que de faire des recherches de mon côté qui me pourraient prendre beaucoup plus de temps"
+ - Code 8 : Optimisation du temps de travail
+ - Verbatim : "ça l'a modifié dans le sens où c'est un gain de temps considérable"
+ - Code 9 : Amélioration de la qualité du travail
+ - Verbatim : "j'ai des réponses qui sont beaucoup plus précises"
+ - Code 10 : Automatisation du travail
+ - Verbatim : "chat GPT en gros fait 80 % du travail presque"
+
+**Segment 2 : Difficultés et frustrations rencontrées lors de l'utilisation de Chat GPT**
+
+- Thème : **Limitations de Chat GPT**
+ - Code 1 : Limite dans les sujets mathématiques
+ - Verbatim : "pour des questions euh des sujets mathématiques, ce n’est pas c'est pas la solution la plus adaptée"
+ - Code 2 : Limite dans les recherches approfondies
+ - Verbatim : "si on doit faire des recherches très poussées, Chat GPT peut nous donner la base mais ne fera pas il y aura toujours un travail à faire de notre côté"
+ - Code 3 : Compréhension des limites de l'IA
+ - Verbatim : "faut juste comprendre que l'intelligence artificielle fonctionne comme cela"
+ - Code 4 : Nécessité de recherches complémentaires
+ - Verbatim : "on est obligé de faire de notre côté des recherches euh des recherches alternatives et complémentaires au travail entre guillemets déjà effectué par CHGPT"
+ - Code 5 : Frustration face aux limites
+ - Verbatim : "frustration sur des recherches plus approfondies"
+ - Code 6 : Acceptation des limites
+ - Verbatim : "je pense que c'est normal, les les ne remplaceront pas tout le travail humain"
+ - Code 7 : Utilisation appropriée de Chat GPT
+ - Verbatim : "il faut comprendre que l'intelligence artificielle fonctionne comme cela"
+ - Code 8 : Complémentarité entre Chat GPT et le travail humain
+ - Verbatim : "il y aura toujours un travail à faire de notre côté"
+ - Code 9 : Limite dans l'automatisation
+ - Verbatim : "ne pourra pas faire 100 % du travail"
+ - Code 10 : Nécessité de travail humain
+ - Verbatim : "on est obligé de faire de notre côté des recherches"
+
+- Thème : **Impact sur la compréhension des sujets abordés en cours**
+ (Ce thème n'est pas développé dans la réponse de Hassan, mais on peut anticiper les codes qui pourraient être associés à cette question, bien que la réponse soit incomplète.)
+
+Ces thèmes et codes offrent une analyse détaillée de l'utilisation de Chat GPT par Hassan dans le cadre de ses études, mettant en évidence les avantages, les limites et l'impact sur sa façon de travailler.

@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Perception de l'utilisation de ChatGPT dans la recherche**
+ - Code 1 : Acceptation de l'utilisation de ChatGPT pour la bibliographie
+ - Verbatim : "S'il était compétent, je ne verrais pas forcément un gros problème à ça."
+ - Code 2 : Importance de la bibliographie dans la recherche
+ - Verbatim : "toute l'idée de la recherche du matériel est une des parties les plus importantes"
+ - Code 3 : Distinction entre la bibliographie et le travail de recherche
+ - Verbatim : "c'est surtout ce qu'on en fait qui, je trouve, est encore plus important"
+ - Code 4 : Perception de la triche dans l'utilisation de ChatGPT
+ - Verbatim : "Ce ne serait pas tellement considéré comme de la triche, je trouve."
+ - Code 5 : Unicité du travail de recherche
+ - Verbatim : "Si toi et moi avions un même sujet de recherche et qu'on avait la même bibliographie, on ne produirait pas du tout le même texte."
+ - Code 6 : Utilisation de ChatGPT comme outil
+ - Verbatim : "je le ferai dans ma thèse en indiquant que ça a été un outil de relecture"
+ - Code 7 : Hésitation sur la manière de citer ChatGPT
+ - Verbatim : "elle hésite un peu, et ne sait pas vraiment comment apporter ça, ni comment le citer dans sa thèse"
+ - Code 8 : Discussion avec les directeurs de recherche sur l'utilisation de ChatGPT
+ - Verbatim : "j'en ai pas encore discuté avec mon directeur de recherche"
+ - Code 9 : Perception de la nécessité de mentionner ChatGPT
+ - Verbatim : "peut-être que je le ferai dans ma thèse"
+ - Code 10 : Évolution de la perception sur l'utilisation de ChatGPT
+ - Verbatim : "en l'entendant, en fait c'est en l'entendant que je me pose cette question, parce qu'avant je ne me la posais pas"
+
+**Thème 2 : Citation et référence dans la recherche**
+ - Code 1 : Comparaison avec la citation de Wikipédia
+ - Verbatim : "c'est un peu comme citer Wikipédia, ça se fait pas en fait."
+ - Code 2 : Principe de citation
+ - Verbatim : "c'est tellement commun qu'on ne va pas le citer."
+ - Code 3 : Dépendance de l'usage pour la citation de ChatGPT
+ - Verbatim : "ça dépend beaucoup des usages, je pense."
+ - Code 4 : Avis divergents sur la citation de sources
+ - Verbatim : "il y a sûrement des avis un peu divergents"
+ - Code 5 : Référence à des sources académiques
+ - Verbatim : "il y a des personnalités qui remplissent des pages Wikipédia dont on pourrait citer le nom"
+ - Code 6 : Perception de la nécessité de citer ChatGPT
+ - Verbatim : "on peut partir du principe que c'est pas utile de le mentionner"
+ - Code 7 : Pratique de citation dans le domaine des lettres
+ - Verbatim : "on le sait en étude de lettres, qu'on ne cite pas Wikipédia"
+ - Code 8 : Utilisation de ChatGPT comme source d'information
+ - Verbatim : "c'est un peu comme... c'est tellement commun"
+ - Code 9 : Débat sur la citation de sources non académiques
+ - Verbatim : "il y a des avis un peu divergents parce qu'il y a des personnalités qui remplissent des pages Wikipédia"
+ - Code 10 : Flexibilité dans la pratique de citation
+ - Verbatim : "ça dépend beaucoup des usages"
+
+**Thème 3 : Intégration de ChatGPT dans les pratiques de recherche**
+ - Code 1 : Utilisation de ChatGPT pour la relecture
+ - Verbatim : "je le ferai dans ma thèse en indiquant que ça a été un outil de relecture"
+ - Code 2 : Perception de ChatGPT comme un outil
+ - Verbatim : "c'est un outil de relecture"
+ - Code 3 : Discussion avec d'autres doctorants sur l'utilisation de ChatGPT
+ - Verbatim : "une doctorante utilise ChatGPT un peu de la même manière que moi"
+ - Code 4 : Hésitation sur la manière d'intégrer ChatGPT dans la recherche
+ - Verbatim : "elle hésite un peu, et ne sait pas vraiment comment apporter ça"
+ - Code 5 : Échange avec le directeur de recherche sur l'utilisation de ChatGPT
+ - Verbatim : "j'en ai pas encore discuté avec mon directeur de recherche"
+ - Code 6 : Intégration de ChatGPT dans la recherche
+ - Verbatim : "peut-être que je le ferai dans ma thèse"
+ - Code 7 : Utilisation de ChatGPT par d'autres doctorants
+ - Verbatim : "une doctorante utilise ChatGPT un peu de la même manière que moi"
+ - Code 8 : Perception de ChatGPT comme un outil légitime
+ - Verbatim : "S'il était compétent, je ne verrais pas forcément un gros problème à ça."
+ - Code 9 : Évolution de la perception sur l'utilisation de ChatGPT
+ - Verbatim : "en l'entendant, en fait c'est en l'entendant que je me pose cette question"
+ - Code 10 : Flexibilité dans l'utilisation de ChatGPT
+ - Verbatim : "ça dépend beaucoup des usages"
+
+**Thème 4 : Implications éthiques de l'utilisation de ChatGPT**
+ - Code 1 : Perception de la triche dans l'utilisation de ChatGPT
+ - Verbatim : "Ce ne serait pas tellement considéré comme de la triche, je trouve."
+ - Code 2 : Importance de l'originalité dans le travail de recherche
+ - Verbatim : "Si toi et moi avions un même sujet de recherche et qu'on avait la même bibliographie, on ne produirait pas du tout le même texte."
+ - Code 3 : Distinction entre l'outil et le travail de recherche
+ - Verbatim : "c'est surtout ce qu'on en fait qui, je trouve, est encore plus important"
+ - Code 4 : Perception de la responsabilité dans l'utilisation de ChatGPT
+ - Verbatim : "je le ferai dans ma thèse en indiquant que ça a été un outil de relecture"
+ - Code 5 : Hésitation sur la manière de citer ChatGPT
+ - Verbatim : "elle hésite un peu, et ne sait pas vraiment comment apporter ça, ni comment le citer dans sa thèse"
+ - Code 6 : Éthique de la recherche et utilisation de ChatGPT
+ - Verbatim : "ça dépend beaucoup des usages, je pense."
+ - Code 7 : Transparence dans l'utilisation de ChatGPT
+ - Verbatim : "peut-être que je le ferai dans ma thèse"
+ - Code 8 : Perception de la nécessité de mentionner ChatGPT
+ - Verbatim : "on peut partir du principe que c'est pas utile de le mentionner"
+ - Code 9 : Débat sur l'utilisation de ChatGPT dans la recherche
+ - Verbatim : "il y a sûrement des avis un peu divergents"
+ - Code 10 : Responsabilité de l'utilisateur de ChatGPT
+ - Verbatim : "c'est surtout ce qu'on en fait qui, je trouve, est encore plus important"
+
+**Thème 5 : Contexte d'utilisation de ChatGPT dans la recherche**
+ - Code 1 : Utilisation de ChatGPT dans le domaine des lettres
+ - Verbatim : "en lettres, par exemple, toute l'idée de la recherche du matériel est une des parties les plus importantes"
+ - Code 2 : Perception de ChatGPT comme un outil de recherche
+ - Verbatim : "S'il était compétent, je ne verrais pas forcément un gros problème à ça."
+ - Code 3 : Discussion avec les directeurs de recherche sur l'utilisation de ChatGPT
+ - Verbatim : "j'en ai pas encore discuté avec mon directeur de recherche"
+ - Code 4 : Utilisation de ChatGPT par d'autres doctorants
+ - Verbatim : "une doctorante utilise ChatGPT un peu de la même manière que moi"
+ - Code 5 : Contexte de la recherche et utilisation de ChatGPT
+ - Verbatim : "c'est surtout ce qu'on en fait qui, je trouve, est encore plus important"
+ - Code 6 : Échange entre doctorants sur l'utilisation de ChatGPT
+ - Verbatim : "en l'entendant, en fait c'est en l'entendant que je me pose cette question"
+ - Code 7 : Perception de ChatGPT dans le contexte académique
+ - Verbatim : "on le sait en étude de lettres, qu'on ne cite pas Wikipédia"
+ - Code 8 : Contexte d'utilisation de ChatGPT
+ - Verbatim : "ça dépend beaucoup des usages, je pense."
+ - Code 9 : Communauté académique et utilisation de ChatGPT
+ - Verbatim : "il y a sûrement des avis un peu divergents"
+ - Code 10 : Évolution de l'utilisation de ChatGPT dans la recherche
+ - Verbatim : "peut-être que je le ferai dans ma thèse"

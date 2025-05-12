@@ -1,0 +1,63 @@
+Voici l'analyse du texte en respectant la méthode de codage qualitatif demandée :
+
+**Segment 1**
+
+### Thème 1 : Perception de l'utilisation de ChatGPT
+- Code 1 : Différence d'approche
+  - Verbatim : "La situation de ton copain je trouve ça assez intéressant aussi, le fait qu'il ait une approche, un aspect complètement différent."
+- Code 2 : Compréhension de ChatGPT
+  - Verbatim : "lui comprend vraiment comment ça fonctionne."
+- Code 3 : Utilisation efficace
+  - Verbatim : "Il l'utilise beaucoup aussi. Et puis, je pense qu'il y a une utilisation différente aussi, parce qu'il sait exactement quoi demander."
+- Code 4 : Accès différencié
+  - Verbatim : "Pas tout le monde a les mêmes accès à ChatGPT."
+- Code 5 : Perception positive de l'utilisation par autrui
+  - Verbatim : "on lui parle un petit peu comme un humain."
+
+### Thème 2 : Impact de ChatGPT sur la qualité du travail
+- Code 1 : Changement de standards
+  - Verbatim : "ça change les standards."
+- Code 2 : Exigence accrue
+  - Verbatim : "je pense que ça rend le truc plus exigeant aussi, parce que tu te dis que tu as plus de temps pour peaufiner certains aspects."
+- Code 3 : Satisfaction antérieure
+  - Verbatim : "Avant, on devait tout faire nous-mêmes, du coup au bout d'un moment t'as fait un travail pendant 3 semaines, au bout d'un moment t'as envie de le donner, même si c'est pas parfait"
+- Code 4 : Perception de qualité
+  - Verbatim : "j'aurais été en mode, c'est ce que je veux."
+- Code 5 : Standards personnels
+  - Verbatim : "des standards que tu te mettrais toi-même ?"
+
+### Thème 3 : Influence de ChatGPT sur les standards académiques
+- Code 1 : Capacité de ChatGPT à écrire de manière académique
+  - Verbatim : "ChatGPT sait très bien comment écrire de manière académique."
+- Code 2 : Risque de normalisation
+  - Verbatim : "on va commencer à baser notre manière d'écrire sur celle de ChatGPT."
+- Code 3 : Interaction entre ChatGPT et l'utilisateur
+  - Verbatim : "Les deux vont s'influencer aussi."
+- Code 4 : Changement dans les standards
+  - Verbatim : "Ça va modifier notre manière de travailler, son utilisation."
+- Code 5 : Adaptation future
+  - Verbatim : "Ça va changer les standards académiques."
+
+### Thème 4 : Sentiment d'intégrité dans l'utilisation de ChatGPT
+- Code 1 : Sentiment de triche
+  - Verbatim : "inconsciemment dans ma tête c'est un peu de la triche."
+- Code 2 : Perception du travail
+  - Verbatim : "C'est comme une aide un peu folle, tu vois."
+- Code 3 : Comparaison avec l'aide humaine
+  - Verbatim : "quand ma mère me reformulait tous mes paragraphes et qu'elle me réalisait tout, bah j'avais pas du tout ce sentiment-là."
+- Code 4 : Perception de l'aide
+  - Verbatim : "C'est un humain."
+- Code 5 : Différence de perception entre l'aide humaine et ChatGPT
+  - Verbatim : "Alors que techniquement, c'est le même type d'aide dont j'ai bénéficié, quoi."
+
+### Thème 5 : Réglementation et légitimité des diplômes universitaires
+- Code 1 : Visibilité de l'utilisation de ChatGPT
+  - Verbatim : "si on réglemente plus l'utilisation ou qu'on la rend visible, je pense que ça cassera cette vision que ce n'est pas 100% notre travail."
+- Code 2 : Perception actuelle de l'utilisation de ChatGPT
+  - Verbatim : "J'ai l'impression que c'est encore un peu un truc d'étudiant."
+- Code 3 : Légitimité des diplômes
+  - Verbatim : "Si on le rend visible à l'oeil du public, est-ce que tu crois que les diplômes universitaires perdraient de légitimité?"
+- Code 4 : Adaptation des critères d'évaluation
+  - Verbatim : "les enseignants vont juste adapter leurs critères d'évaluation."
+- Code 5 : Futur de l'évaluation académique
+  - Verbatim : "Faire plus d'examens, par exemple."

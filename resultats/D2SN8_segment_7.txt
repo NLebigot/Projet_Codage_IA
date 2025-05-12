@@ -1,0 +1,113 @@
+L'analyse de l'entretien avec Léna sera structurée en cinq thèmes principaux, chacun comprenant environ 10 codes avec leurs verbatims associés.
+
+### Thème 1 : Le dilemme moral lié à l'utilisation de ChatGPT
+- Code 1 : Honnêteté intellectuelle
+  - Verbatim : "Y’a un premier dilemme qui est celui de l’honnêteté intellectuelle de présenter un travail qui n’est pas vraiment le tiens"
+- Code 2 : Sentiment de malaise
+  - Verbatim : "Je me sentirai un peu mal de faire un travail complet avec ChatGPT alors que tous les autres font sans"
+- Code 3 : Perception de facilité
+  - Verbatim : "Pour moi choisir de l’utiliser c’est choisir la facilité dans un sens"
+- Code 4 : Sacrifice de la qualité d'apprentissage
+  - Verbatim : "Tu sacrifies une qualité d’apprentissage pour gagner du temps"
+- Code 5 : Impact sur l'apprentissage
+  - Verbatim : "En utilisant ChatGPT tu sais que c’est pas le plus bénéfique pour ton apprentissage"
+- Code 6 : Sentiment de non-respect des règles
+  - Verbatim : "J’ai l’impression de pas jouer le jeu"
+- Code 7 : Conscience du problème
+  - Verbatim : "C'est un vrai dilemme moral pour moi"
+- Code 8 : Double dilemme
+  - Verbatim : "Je pense même qu’il y a un double dilemme"
+- Code 9 : Réflexion sur l'utilisation
+  - Verbatim : "Limite si je me sens mal après"
+- Code 10 : Équilibre entre utilisation et principes
+  - Verbatim : "Après là j’en fais des caisses, je suis pas là à me morfondre après l’avoir utilisé mais y’a un peu de ça en vrai"
+
+### Thème 2 : Évolution de l'utilisation de ChatGPT dans l'apprentissage
+- Code 1 : Changement de comportement
+  - Verbatim : "Ça a déjà tellement changé en deux ans, c’est dingue"
+- Code 2 : Adoption de ChatGPT
+  - Verbatim : "C’est devenu un réflexe d’aller sur ChatGPT pour tout et n’importe quoi"
+- Code 3 : Remplacement de Google
+  - Verbatim : "Avant mon premier réflexe quand j’avais une question c’était d’aller sur Google, mais là j’ai complètement abandonné cette habitude pour ChatGPT"
+- Code 4 : Impact sur les recherches
+  - Verbatim : "Limite je me demande si depuis que ChatGPT existe, y’a pas eu une baisse du nombre de recherche Google dans le monde"
+- Code 5 : Adaptation des institutions académiques
+  - Verbatim : "Les écoles vont devoir s’adapter au fait que les étudiants utilisent l’IA"
+- Code 6 : Futur de l'utilisation de l'IA
+  - Verbatim : "Je pense qu’à un moment les étudiants vont vraiment finir par abuser des IA tellement ça sera efficace pour absolument tout"
+- Code 7 : Préoccupation pour l'avenir
+  - Verbatim : "Et là, je sais pas trop comment ils vont gérer ça mais va falloir faire quelque chose"
+- Code 8 : Évolution de l'usage
+  - Verbatim : "Rien qu’à voir comment on travaille aujourd'hui par rapport à avant"
+- Code 9 : Futur incertain
+  - Verbatim : "Je pense vraiment que les étudiants vont vraiment finir par abuser des IA"
+- Code 10 : Nécessité d'une réponse institutionnelle
+  - Verbatim : "Mais à terme je pense vraiment que les étudiants vont vraiment finir par abuser des IA"
+
+### Thème 3 : Pistes pour intégrer ChatGPT dans le milieu académique
+- Code 1 : Formation à l'utilisation critique
+  - Verbatim : "Il faudrait que les universités organisent des ateliers ou des formations pour nous montrer comment utiliser ChatGPT de manière critique"
+- Code 2 : Utilisation responsable
+  - Verbatim : "On pourrait apprendre à recouper ses réponses, à vérifier les sources"
+- Code 3 : Changement de paradigme
+  - Verbatim : "Et surtout à l’utiliser comme un outil d’aide plutôt que comme une béquille qui fait tout le taf à notre place"
+- Code 4 : Cadrage de l'utilisation
+  - Verbatim : "Je pense que ça donnerait un cadre plus clair sur l’utilisation de l’IA, sur ce qui est toléré, ce qui ne l’est pas"
+- Code 5 : Acceptation de l'IA dans l'apprentissage
+  - Verbatim : "Ça serait tellement dommage de juste nous interdire de l’utiliser"
+- Code 6 : Liberté de choix
+  - Verbatim : "Et à l’inverse ça serait aussi super mauvais de laisser les élèves livrés à eux-mêmes avec les IA"
+- Code 7 : Éducation à l'usage de l'IA
+  - Verbatim : "Quitte à ce que vous l'utilisez, on va vous dire comment faire"
+- Code 8 : Préparation à l'avenir
+  - Verbatim : "Ça va prendre une énorme place dans l’apprentissage"
+- Code 9 : Responsabilité des institutions
+  - Verbatim : "Les universités doivent prendre en compte cette nouvelle réalité"
+- Code 10 : Collaboration entre étudiants et institutions
+  - Verbatim : "On va vous dire comment faire"
+
+### Thème 4 : Perception de ChatGPT comme outil d'apprentissage
+- Code 1 : Changement de réflexe
+  - Verbatim : "Mon premier réflexe quand j’avais une question c’était d’aller sur Google, mais là j’ai complètement abandonné cette habitude pour ChatGPT"
+- Code 2 : Adoption généralisée
+  - Verbatim : "C’est devenu un réflexe d’aller sur ChatGPT pour tout et n’importe quoi"
+- Code 3 : Impact sur les habitudes de recherche
+  - Verbatim : "Limite je me demande si depuis que ChatGPT existe, y’a pas eu une baisse du nombre de recherche Google dans le monde"
+- Code 4 : Efficacité de ChatGPT
+  - Verbatim : "Les étudiants vont vraiment finir par abuser des IA tellement ça sera efficace pour absolument tout"
+- Code 5 : Rôle dans l'apprentissage
+  - Verbatim : "Tu sacrifies une qualité d’apprentissage pour gagner du temps"
+- Code 6 : Utilisation comme béquille
+  - Verbatim : "Plutôt que comme une béquille qui fait tout le taf à notre place"
+- Code 7 : Perception positive
+  - Verbatim : "C’est devenu un réflexe"
+- Code 8 : Perception négative
+  - Verbatim : "Je me sentirai un peu mal de faire un travail complet avec ChatGPT"
+- Code 9 : Équilibre dans l'usage
+  - Verbatim : "Utiliser ChatGPT de manière critique"
+- Code 10 : Impact sur la recherche d'information
+  - Verbatim : "Rien qu’à voir comment on travaille aujourd'hui par rapport à avant"
+
+### Thème 5 : Relation entre étudiants et institutions académiques face à l'IA
+- Code 1 : Responsabilité des institutions
+  - Verbatim : "Les écoles vont devoir s’adapter au fait que les étudiants utilisent l’IA"
+- Code 2 : Collaboration
+  - Verbatim : "Quitte à ce que vous l'utilisez, on va vous dire comment faire"
+- Code 3 : Réglementation
+  - Verbatim : "Il faudrait que les universités organisent des ateliers ou des formations"
+- Code 4 : Confiance
+  - Verbatim : "Ça serait tellement dommage de juste nous interdire de l’utiliser"
+- Code 5 : Éducation
+  - Verbatim : "Pour nous montrer comment utiliser ChatGPT de manière critique"
+- Code 6 : Liberté
+  - Verbatim : "Ça serait aussi super mauvais de laisser les élèves livrés à eux-mêmes avec les IA"
+- Code 7 : Partenariat
+  - Verbatim : "On va vous dire comment faire"
+- Code 8 : Adaptation
+  - Verbatim : "Les écoles vont devoir s’adapter"
+- Code 9 : Équilibre
+  - Verbatim : "Entre utiliser l’IA et faire les choses soi-même"
+- Code 10 : Futur
+  - Verbatim : "Ça va prendre une énorme place dans l’apprentissage"
+
+Ces thèmes et codes extraits de l'entretien avec Léna offrent une perspective nuancée sur les dilemmes moraux, l'évolution de l'utilisation de ChatGPT, les pistes pour son intégration dans le milieu académique, sa perception comme outil d'apprentissage, et la relation entre les étudiants et les institutions face à l'IA.

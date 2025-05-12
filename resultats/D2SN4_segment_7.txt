@@ -1,0 +1,59 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : La fiabilité des réponses de ChatGPT**
+
+- Thème : Fiabilité des réponses
+ - Code 1 : Perception générale de la fiabilité
+ - Verbatim : "En règle générale les réponses sont plutôt fiables"
+ - Code 2 : Dépendance de la complexité des questions
+ - Verbatim : "quand ça concerne des questions qui sont simples on va dire sur des domaines assez courant"
+ - Code 3 : Limites de la fiabilité
+ - Verbatim : "dès qu'on va un peu plus dans le détail si on demande une démonstration de mathématiques ou des calculs ou des choses de physique"
+ - Code 4 : Capacité d'auto-correction
+ - Verbatim : "si on lui dit que la réponse est mauvaise il s'auto-corrige"
+ - Code 5 : Importance du contexte
+ - Verbatim : "pour avoir des réponses plus fiables c'est de mettre chatGPT dans un contexte"
+ - Code 6 : Qualité de la forme des réponses
+ - Verbatim : "la forme des réponses est toujours très bonne"
+ - Code 7 : Politique d'amélioration
+ - Verbatim : "il y a une politique d'améliorer les réponses constamment"
+ - Code 8 : Limite de la fiabilité sur des sujets pointus
+ - Verbatim : "les réponses ne sont pas si fiables que ça"
+ - Code 9 : Nécessité de vérification
+ - Verbatim : "il faut pas s’y fier directement comme ça"
+ - Code 10 : Utilisation comme outil de base
+ - Verbatim : "j'utilise chatGPT tel qu'il est c'est-à-dire un outil rien de plus"
+
+- Thème : Stratégies d'utilisation
+ - Code 1 : Prévention des erreurs
+ - Verbatim : "je vais pas aller poser des questions très compliquées et très critiques à chatGPT"
+ - Code 2 : Recoupement des sources
+ - Verbatim : "je vais aller recouper les sources"
+ - Code 3 : Utilisation pour des informations non critiques
+ - Verbatim : "je l'utilise pour des informations qui ne sont pas critiques"
+ - Code 4 : Limite de l'utilisation
+ - Verbatim : "je ne vais pas copier directement ce qu'il va me dire"
+ - Code 5 : Stratégie de vérification
+ - Verbatim : "c'est la stratégie finalement c'est pas vraiment de compléter ou critiquer les informations par chatGPT"
+
+**Segment 2 : Interaction avec ChatGPT**
+
+- Thème : Formulation des questions
+ - Code 1 : Manière de formuler les questions
+ - Verbatim : "je suis ni bon ni mauvais je demande simplement la question parfois juste un mot"
+ - Code 2 : Utilisation comme un moteur de recherche
+ - Verbatim : "je l'utilise vraiment beaucoup plus comme un moteur de recherche comme Google"
+ - Code 3 : Importance du prompt
+ - Verbatim : "je sais que la qualité du prompt à un impact sur la réponse"
+ - Code 4 : Expérimentation avec le contexte
+ - Verbatim : "j'ai un peu expérimenté avec cette manière de mettre chatGPT dans un contexte"
+ - Code 5 : Simplicité de l'interaction
+ - Verbatim : "je lui demande simplement “est-ce que tu connais telle formule”"
+
+- Thème : Impact sur la manière de travailler
+ - Code 1 : Modification de la manière de travailler
+ - Verbatim : (en attente de la réponse de Romain)
+ - Code 2 : Potentiel d'évolution
+ - Verbatim : (en attente de la réponse de Romain)
+
+Seuls deux segments ont été analysés ici car la réponse de Romain à la dernière question de Dounia n'est pas disponible. L'analyse a permis d'identifier plusieurs thèmes et codes qui décrivent la perception et l'utilisation de ChatGPT par Romain. Les thèmes et codes montrent que Romain utilise ChatGPT avec prudence, en étant conscient de ses limites, notamment en termes de fiabilité des réponses, et qu'il adopte des stratégies pour vérifier et recouper les informations obtenues.

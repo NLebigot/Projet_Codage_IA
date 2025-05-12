@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien avec 5 thèmes distincts et environ 10 codes par thème :
+
+### Thème 1 : Perception du gain de temps
+- Code 1 : Sentiment de gain de temps
+  - Verbatim : "j'ai l'impression, en le faisant, et donc ça me fait avancer"
+- Code 2 : Réduction de la procrastination
+  - Verbatim : "j'ai quand même tendance beaucoup à procrastiner quand il y a une étape qui me semble difficile"
+- Code 3 : Confiance dans le processus
+  - Verbatim : "de penser qu'il y a cette dernière étape de vérification"
+- Code 4 : Gain de temps perçu vs réel
+  - Verbatim : "je pense quand même qu'il y a une différence entre mon sentiment de gagner du temps et le temps réel de gagner"
+- Code 5 : Vitesse d'écriture
+  - Verbatim : "peut-être que je vais plus vite en écrivant, en disant que je ne me prends pas la tête et que ce n'est pas grave si ce n'est pas parfait"
+- Code 6 : Temps de vérification
+  - Verbatim : "il y a quand même ce petit temps supplémentaire où je vais copier-coller, je vais relire"
+- Code 7 : Comparaison avec une approche plus réfléchie
+  - Verbatim : "si je m'étais un peu plus fait confiance en me disant que je réfléchissais juste plus sur le moment à bien agencer mon texte sans relecture"
+- Code 8 : Évaluation mitigée
+  - Verbatim : "Je ne suis pas sûre, oui"
+- Code 9 : Impact sur la productivité
+  - Verbatim : "ça me fait avancer"
+- Code 10 : Complexité de l'évaluation du temps
+  - Verbatim : "les calculs ne sont pas forcément positifs"
+
+### Thème 2 : Organisation du travail
+- Code 1 : Manque d'organisation
+  - Verbatim : "Je reste toujours très peu organisée"
+- Code 2 : Utilisation non planifiée de ChatGPT
+  - Verbatim : "c'est plutôt un peu aléatoire selon l'étape à laquelle je suis dans ce que je comptais faire"
+- Code 3 : Habitude de travail
+  - Verbatim : "Ce sera toujours la dernière minute avant un rendu"
+- Code 4 : Planning de travail
+  - Verbatim : "Non, malheureusement pas" (en réponse à la question sur si ChatGPT a modifié son planning)
+- Code 5 : Intégration de ChatGPT dans le workflow
+  - Verbatim : "Non, c'est plutôt un peu aléatoire"
+- Code 6 : Stratégie de travail
+  - Verbatim : "je ne suis pas spécialement bien organisée"
+- Code 7 : Utilisation de ChatGPT
+  - Verbatim : "Oui, souvent, oui"
+- Code 8 : Moment d'utilisation
+  - Verbatim : "selon l'étape à laquelle je suis"
+- Code 9 : Réflexion sur l'organisation
+  - Verbatim : "malheureusement pas" (en parlant d'une modification de son organisation)
+- Code 10 : Habitudes ancrées
+  - Verbatim : "toujours la dernière minute"
+
+### Thème 3 : Fiabilité et limites de ChatGPT
+- Code 1 : Problèmes avec les références bibliographiques
+  - Verbatim : "ChatGPT racontait un peu n'importe quoi"
+- Code 2 : Erreurs dans les informations fournies
+  - Verbatim : "ChatGPT m'a proposé des ouvrages qui n'existent pas"
+- Code 3 : Vigilance face aux résultats
+  - Verbatim : "je suis quand même assez... pas sceptique mais vigilante"
+- Code 4 : Utilisation pour la forme plutôt que le fond
+  - Verbatim : "je l'utilise pour la forme plus que le fond"
+- Code 5 : Frustration face aux erreurs
+  - Verbatim : "c'était un peu frustrant"
+- Code 6 : Connaissance des limites
+  - Verbatim : "je savais qu'il ne fallait pas... je suis quand même assez... pas sceptique mais vigilante"
+- Code 7 : Vérification des informations
+  - Verbatim : "Oui, toujours"
+- Code 8 : Déception
+  - Verbatim : "j'ai été déçue"
+- Code 9 : Rareté des questions de fond
+  - Verbatim : "dans les rares cas où j'ai posé des questions de fond, j'ai été déçue"
+- Code 10 : Limites de l'outil
+  - Verbatim : "j'ai demandé des... En fait, je cherchais des références bibliographiques et... ChatGPT racontait un peu n'importe quoi"
+
+### Thème 4 : Impact psychologique et comportemental
+- Code 1 : Réconfort psychologique
+  - Verbatim : "ça me rassure, de penser qu'il y a cette dernière étape de vérification"
+- Code 2 : Réduction du stress lié à la perfection
+  - Verbatim : "en disant que je ne me prends pas la tête et que ce n'est pas grave si ce n'est pas parfait"
+- Code 3 : Changement de comportement face au travail
+  - Verbatim : "peut-être que je vais plus vite en écrivant"
+- Code 4 : Impact sur la procrastination
+  - Verbatim : "j'ai quand même tendance beaucoup à procrastiner"
+- Code 5 : Perception positive de l'aide
+  - Verbatim : "j'ai l'impression, en le faisant, et donc ça me fait avancer"
+- Code 6 : Effet sur la confiance en soi
+  - Verbatim : "si je m'étais un peu plus fait confiance"
+- Code 7 : Modification de l'approche du travail
+  - Verbatim : "en disant que je ne me prends pas la tête"
+- Code 8 : Sentiment de facilitation
+  - Verbatim : "ça me fait avancer"
+- Code 9 : Changement dans l'attitude face aux erreurs
+  - Verbatim : "ce n'est pas grave si ce n'est pas parfait"
+- Code 10 : Impact global sur le travail
+  - Verbatim : "je gagne du temps"
+
+### Thème 5 : Pratiques et stratégies d'utilisation
+- Code 1 : Utilisation pour des tâches spécifiques
+  - Verbatim : "je l'utilise pour la forme plus que le fond"
+- Code 2 : Rareté des questions de fond
+  - Verbatim : "dans les rares cas où j'ai posé des questions de fond, j'ai été déçue"
+- Code 3 : Stratégie de vérification
+  - Verbatim : "Oui, toujours"
+- Code 4 : Limitation de l'usage
+  - Verbatim : "parce que justement dans les cas, dans les rares cas où j'ai posé des questions de fond, j'ai été déçue"
+- Code 5 : Adéquation entre l'usage et les besoins
+  - Verbatim : "je me suis rendu compte que c'était justement un outil, mais je l'utilise pour la forme plus que le fond"
+- Code 6 : Expérience négative
+  - Verbatim : "c'était un peu frustrant"
+- Code 7 : Pratique d'utilisation
+  - Verbatim : "je lui demande du coup rarement"
+- Code 8 : Évaluation de la qualité
+  - Verbatim : "ChatGPT racontait un peu n'importe quoi"
+- Code 9 : Utilisation ciblée
+  - Verbatim : "je l'utilise pour la forme"
+- Code 10 : Adaptation de l'usage en fonction des résultats
+  - Verbatim : "je me suis rendu compte que c'était justement un outil"

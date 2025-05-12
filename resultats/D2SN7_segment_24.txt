@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats de mon analyse, structurés en 5 thèmes distincts avec environ 10 codes chacun.
+
+**Thème 1 : Le besoin de cadre et de discussion autour de l'IA dans l'éducation**
+- Code 1 : Besoin d'un cadre pour l'utilisation de l'IA
+- Verbatim : "Moi, je disais que y avait besoin d'un cadre dans l'utilisation ?"
+- Code 2 : Importance de la discussion collective
+- Verbatim : "En fait, c'est qu'il faut que collectivement y a it une discussion quoi."
+- Code 3 : Absence de discussion au niveau scolaire
+- Verbatim : "il y a pas de cadre, mais même ni de discussion, ni de formation, ni rien du tout quoi."
+- Code 4 : Utilisation massive de l'IA par les collégiens
+- Verbatim : "95% des collégiens, qui utilisaient ChatGPT et ça ça m'avait surpris énormé ment"
+- Code 5 : Nécessité de discussion dès le collège
+- Verbatim : "dès le collège en fait, parce que du coup on a vu, on s'était un peu plongé dans le rapport"
+- Code 6 : Manque de préparation des enseignants
+- Verbatim : "Tu dis cette info à n'importe quel prof de collège, je pense que la personne est elle-même sur le cul"
+- Code 7 : Question de financement pour la formation
+- Verbatim : "Après, ce serait aussi une question de financement."
+- Code 8 : Importance de la formation pour les enseignants
+- Verbatim : "Donc en fait, ce qu'il faut pour moi, c'est de la discussion et de la formation."
+- Code 9 : Nécessité d'informer sur l'IA
+- Verbatim : "Voilà et de la formation et de l'information, quoi."
+- Code 10 : Risques liés à l'absence de cadre
+- Verbatim : "on va peut-être dans un monde où du coup c'est possible de falsifier des entretiens"
+
+**Thème 2 : L'utilisation de l'IA dans la recherche et les considérations éthiques**
+- Code 1 : Préoccupations éthiques concernant l'enregistrement des entretiens
+- Verbatim : "est-ce que l'enregistrement pour prendre un truc très pratique tu vois, est-ce que l'enregistrement il faut le garder ?"
+- Code 2 : Possibilité de falsification des données
+- Verbatim : "on va peut-être dans un monde où du coup c'est possible de falsifier des entretiens"
+- Code 3 : Rôle des instances éthiques dans la recherche
+- Verbatim : "limite les faire vérifier par une instance du style je sais pas, y a des instances éthiques"
+- Code 4 : Existence de comités éthiques dans les universités
+- Verbatim : "Y en a un à la Sorbonne... Y en a partout."
+- Code 5 : Importance de la vérification des données
+- Verbatim : "donc c'est tout à fait possible de réfléchir à ça."
+- Code 6 : Réflexion nécessaire sur les dispositifs de recherche
+- Verbatim : "En fait de réfléchir à des dispositifs."
+- Code 7 : Utilisation de l'IA pour des données sensibles
+- Verbatim : "pour prendre des données sensibles dans des terrains sensibles et ou dans des questionnaires"
+- Code 8 : Nécessité de discussion sur l'utilisation de l'IA
+- Verbatim : "tant que t'en parles pas, tu peux pas réfléchir à ce genre de dispositif"
+- Code 9 : Compréhension de l'IA par les utilisateurs
+- Verbatim : "tant que ça reste un truc magique que les gens finalement ne comprennent pas, c'est impossible d'en discuter."
+- Code 10 : Réflexion éthique en sociologie
+- Verbatim : "autre que sur l'ia en sociologie qui existe"
+
+**Thème 3 : L'influence de l'environnement familial sur la perception de l'IA**
+- Code 1 : Profession des parents
+- Verbatim : "mon père est prof à l'université et ma mère est prof."
+- Code 2 : Influence de la mère sur la perception de l'éducation
+- Verbatim : "ma mère est prof en primaire, maintenant elle est formatrice de prof de primaire."
+- Code 3 : Spécialité du père
+- Verbatim : "D’éco."
+- Code 4 : Introduction à l'IA par le père
+- Verbatim : "c'est lui qui avait acheté pour utiliser ?"
+- Code 5 : Perception de l'IA influencée par l'environnement familial
+- (Pas de verbatim direct, mais le contexte suggère une influence potentielle)
+- Code 6 : Connaissance de l'IA par les parents
+- Verbatim : "lui, il l'utilise"
+- Code 7 : Influence de la profession des parents sur la discussion autour de l'IA
+- (Pas de verbatim direct, mais le fait que les deux parents soient dans l'éducation suggère une influence)
+- Code 8 : Perception de l'IA par les parents
+- (Pas de verbatim direct)
+- Code 9 : Valeurs transmises par les parents
+- (Pas de verbatim direct)
+- Code 10 : Impact de l'environnement familial sur l'opinion de l'enquêté
+- (Pas de verbatim direct, mais l'ensemble de la réponse suggère un impact)
+
+**Thème 4 : L'usage de l'IA dans différents niveaux d'enseignement**
+- Code 1 : Utilisation de l'IA par les collégiens
+- Verbatim : "95% des collégiens, qui utilisaient ChatGPT"
+- Code 2 : Discussion autour de l'IA à différents niveaux scolaires
+- Verbatim : "dès le collège en fait"
+- Code 3 : Utilisation de l'IA à l'université
+- Verbatim : "même au niveau master où tu peux même réfléchir un peu d'égal à égal, avec des profs comme ça"
+- Code 4 : Nécessité de discuter de l'IA à tous les niveaux
+- Verbatim : "Est-ce que c'est bien d'utiliser l'IA pour des entretiens et comment on peut faire ?"
+- Code 5 : Manque de discussion autour de l'IA
+- Verbatim : "y a pas de cadre, mais même ni de discussion, ni de formation, ni rien du tout quoi."
+- Code 6 : Importance de la formation à tous les niveaux
+- Verbatim : "de la discussion et de la formation."
+- Code 7 : Perception de l'IA par les étudiants
+- Verbatim : "c'est un truc qui reste secret à dire."
+- Code 8 : Rôle des enseignants dans la régulation de l'IA
+- Verbatim : "Tu dis cette info à n'importe quel prof de collège, je pense que la personne est elle-même sur le cul"
+- Code 9 : Utilisation de l'IA dans la recherche académique
+- Verbatim : "pour prendre des données sensibles dans des terrains sensibles et ou dans des questionnaires"
+- Code 10 : Implications de l'IA pour l'enseignement supérieur
+- Verbatim : "même au niveau master"
+
+**Thème 5 : Les défis et les préoccupations liés à l'IA dans l'éducation**
+- Code 1 : Défis liés à l'intégration de l'IA dans l'éducation
+- Verbatim : "le temps que y a pas, même dans ces niveaux, c'est le premier niveau scolaire tu vois, une discussion"
+- Code 2 : Préoccupations concernant la falsification des données
+- Verbatim : "on va peut-être dans un monde où du coup c'est possible de falsifier des entretiens"
+- Code 3 : Risques liés à l'utilisation de l'IA
+- Verbatim : "c'est impossible d'en discuter tant que ça reste un truc magique"
+- Code 4 : Besoin de transparence et de discussion
+- Verbatim : "tant que t'en parles pas, tu peux pas réfléchir à ce genre de dispositif"
+- Code 5 : Importance de la formation pour les enseignants
+- Verbatim : "de la discussion et de la formation."
+- Code 6 : Défis pour les enseignants dans l'utilisation de l'IA
+- Verbatim : "y a rien, tu vois, il y a pas de cadre"
+- Code 7 : Préoccupations éthiques dans l'utilisation de l'IA
+- Verbatim : "limite les faire vérifier par une instance du style je sais pas, y a des instances éthiques"
+- Code 8 : Nécessité d'un cadre pour l'utilisation de l'IA
+- Verbatim : "Moi, je disais que y avait besoin d'un cadre dans l'utilisation ?"
+- Code 9 : Impact de l'IA sur les pratiques éducatives
+- Verbatim : "ça faut pas faire et comment on trouve des manières de …"
+- Code 10 : Incertitudes liées à l'IA dans l'éducation
+- Verbatim : "on va peut-être dans un monde où"

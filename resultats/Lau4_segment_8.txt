@@ -1,0 +1,63 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes pertinents qui reflètent les interactions de l'enquêtée avec ChatGPT et sa perception de cet outil. Voici cinq thèmes distincts avec leurs codes et verbatim associés.
+
+### Thème 1 : Vérification et validation de l'information
+- Code 1 : Vérification des noms donnés
+  - Verbatim : "Oui, alors j'allais chercher les noms donnés."
+- Code 2 : Utilisation de sources externes pour validation
+  - Verbatim : "je comprenais que c'était pas ce que j'attendais en relisant moi-même l'article, ou les informations, je sais pas, Wikipédia ou autre site"
+- Code 3 : Perte de temps due à la vérification
+  - Verbatim : "quand tu dois relire des articles que te dit ChatGPT, est-ce que finalement tu perds pas presque plus de temps qu'aller chercher toi-même directement des articles?"
+- Code 4 : Décision d'arrêter l'utilisation en raison de l'inefficacité
+  - Verbatim : "je me suis rendue compte que c'était pas du tout intéressant pour moi. Ça n'apportait rien."
+- Code 5 : Stratégie de vérification
+  - Verbatim : "j'allais chercher les noms donnés."
+
+### Thème 2 : Gestion des informations incorrectes ou incomplètes
+- Code 1 : Utilisation des informations fausses comme pistes de recherche
+  - Verbatim : "peut-être que ça m'a donné quelques pistes pour aller faire mes propres recherches"
+- Code 2 : Recherche de références bibliographiques
+  - Verbatim : "quand j'ai demandé des références bibliographiques, même si elles étaient fausses, en recherchant les noms qui m'étaient donnés"
+- Code 3 : Utilisation limitée de ChatGPT pour la recherche
+  - Verbatim : "j'utilise très peu quand même ce type de recherche"
+- Code 4 : Exploration de nouvelles pistes
+  - Verbatim : "ça va peut-être aussi me donner quelques pistes pour aller faire mes propres recherches"
+- Code 5 : Potentiel de découverte malgré les erreurs
+  - Verbatim : "peut-être que ça m'a donné de nouvelles pistes de recherche pour voir en fait ce qui avait vraiment été écrit"
+
+### Thème 3 : Interaction avec ChatGPT
+- Code 1 : Clarté dans la formulation des messages
+  - Verbatim : "j'essaie d'avoir... Déjà d'être claire dans mon message"
+- Code 2 : Politesse dans l'interaction
+  - Verbatim : "d'être polie... comme si c'était une vraie personne"
+- Code 3 : Anticipation d'une audience potentielle
+  - Verbatim : "peut-être que j'ai l'idée que quelqu'un pourrait tomber dessus une fois"
+- Code 4 : Attention portée au contenu des interactions
+  - Verbatim : "je fais toujours très attention à ce que j'écris, et à la manière dont je l'écris"
+- Code 5 : Limitation des informations personnelles partagées
+  - Verbatim : "je donne normalement très peu d'informations personnelles"
+
+### Thème 4 : Perception de ChatGPT et de ses capacités
+- Code 1 : Capacité de ChatGPT à comprendre les intérêts de l'utilisateur
+  - Verbatim : "quand même, Chat GPT s'était fait une idée de ce qui m'intéressait"
+- Code 2 : Impression d'être suivi ou analysé
+  - Verbatim : "donc c'est déjà assez impressionnant"
+- Code 3 : Vigilance face aux réponses de ChatGPT
+  - Verbatim : "je fais attention"
+- Code 4 : Perception de ChatGPT comme un outil potentiellement accessible
+  - Verbatim : "tu penses que... Ce serait accessible de quelconque manière"
+- Code 5 : Méfiance vis-à-vis de ChatGPT
+  - Verbatim : "il y a presque une espèce de méfiance vis-à-vis de Chat GPT"
+
+### Thème 5 : Adaptabilité et ajustement dans l'utilisation de ChatGPT
+- Code 1 : Modification de l'approche en fonction des réponses de ChatGPT
+  - Verbatim : "est-ce que tu arrives à changer ta propre approche d'un sujet pour obtenir ce que tu as envie ?"
+- Code 2 : Exploration de différentes stratégies d'interaction
+  - Verbatim : "est-ce que tu as des stratégies mises en place pour augmenter un peu ce que te dit ChatGPT ?"
+- Code 3 : Utilisation de ChatGPT comme outil de stimulation pour la recherche
+  - Verbatim : "ça va peut-être aussi me donner quelques pistes pour aller faire mes propres recherches"
+- Code 4 : Évaluation de l'efficacité de l'interaction avec ChatGPT
+  - Verbatim : "comment est-ce que t'évaluerais ta manière d'interagir avec Chat GPT ?"
+- Code 5 : Flexibilité dans l'utilisation
+  - Verbatim : "peut-être que quand j'ai demandé des références bibliographiques, même si elles étaient fausses"
+
+Ces thèmes et codes offrent une vue nuancée de la manière dont l'enquêtée interagit avec ChatGPT, de sa perception de l'outil et de la façon dont elle l'utilise pour ses recherches, tout en mettant en lumière les défis et les limites rencontrés.

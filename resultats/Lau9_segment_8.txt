@@ -1,0 +1,116 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats de mon analyse :
+
+**Thème 1 : Perception de l'utilisation de ChatGPT**
+
+* Code 1 : Utilisation légitime
+ Verbatim : "moi je pense que oui, mais en fait moi je trouve que même pour les lettres ce serait oui."
+* Code 2 : Simplification de la vie
+ Verbatim : "il simplifie la vie et pour moi ça ne pose pas de problème éthique."
+* Code 3 : Sentiment de culpabilité
+ Verbatim : "j'ai plus des fois de la culpabilité parce que j'ai l'impression de tricher."
+* Code 4 : Normalisation de l'utilisation
+ Verbatim : "j'espère qu'on va toujours plus normaliser ça quoi."
+* Code 5 : Éducation à l'utilisation
+ Verbatim : "j'espère qu'on va éduquer à l'utilisation, c'est juste ça, et apprendre à l'utiliser vraiment pour que ce soit un autre bénéfice."
+* Code 6 : Impact sur la pensée originale
+ Verbatim : "si quelqu'un fait tous ses rendus en les générant avec ChatGPT, moi je m'en fous un peu. Donc je trouve que si la personne a envie de faire ça, mais qu'il le fasse après, on le verra dans son travail, et puis il n'y aura pas la pensée originale derrière."
+* Code 7 : Utilisation détournée
+ Verbatim : "on peut entraîner un ChatGPT, je sais qu'il y a des gens qui arrivent à entraîner leur conversation avec ChatGPT, pour faire en sorte qu'ils soient mégapréscis, même pour des trucs non scientifiques, entre guillemets."
+* Code 8 : Contrôle de l'utilisation
+ Verbatim : "je trouve que si on veut vraiment tester, on peut faire."
+* Code 9 : Transparence de l'utilisation
+ Verbatim : "de pouvoir l'utiliser en le mentionnant dans les projets plutôt que de faire semblant de ne pas l'utiliser"
+* Code 10 : Inutilité de la dissimulation
+ Verbatim : "parce que de toute façon tout le monde sait qu'on l'utilise, donc je trouve que c'est inutile de faire semblant de dire non."
+
+**Thème 2 : Tensions et dilemmes liés à l'utilisation de ChatGPT**
+
+* Code 1 : Culpabilité et tricherie
+ Verbatim : "j'ai plus des fois de la culpabilité parce que j'ai l'impression de tricher."
+* Code 2 : Contradictions internes
+ Verbatim : "mais après, vu que je sais qu'au final, tout le monde le fait, après, je me sens pas trop coupable sur ça."
+* Code 3 : Impact écologique
+ Verbatim : "mon seul dilemme dans tout ça, c'est avec l'impact écologique."
+* Code 4 : Morale et éthique
+ Verbatim : "pour le reste, la morale, non. Enfin, j'y pense pas particulièrement."
+* Code 5 : Conflit entre gain de temps et apprentissage
+ Verbatim : "des gains, enfin, je sais pas, j'ai plus des fois de la culpabilité parce que j'ai l'impression de tricher."
+* Code 6 : Résolution des contradictions
+ Verbatim : "il n'y a pas trop de contradictions. En tout cas, j'ai enlevé ces contradictions. Je les savais beaucoup au début. Et puis, au fur et à mesure de l'usage, ça disparaît."
+* Code 7 : Équilibre entre utilisation et apprentissage
+ Verbatim : "j'essaye toujours de comprendre tout seul d'abord, mais à un moment, si j'ai la flemme, si juste je veux aller vite, je lui mets dans le truc et puis il m'explique."
+* Code 8 : Réflexion sur l'utilisation
+ Verbatim : "je pense que ouil y aurait une interdiction, genre ils vont tous flipper complètement, puis ils vont tous se braquer, puis avoir une interdiction totale."
+* Code 9 : Normalisation et régulation
+ Verbatim : "j'espère qu'on va toujours plus normaliser ça quoi."
+* Code 10 : Intégration dans les pratiques académiques
+ Verbatim : "de pouvoir l'utiliser en le mentionnant dans les projets plutôt que de faire semblant de ne pas l'utiliser"
+
+**Thème 3 : Rôle de ChatGPT dans l'apprentissage**
+
+* Code 1 : Aide à la compréhension
+ Verbatim : "j'essaye toujours de comprendre tout seul d'abord, mais à un moment, si j'ai la flemme, si juste je veux aller vite, je lui mets dans le truc et puis il m'explique."
+* Code 2 : Utilisation ciblée
+ Verbatim : "en lettres, je n'en ai pas besoin."
+* Code 3 : Complémentarité avec les compétences personnelles
+ Verbatim : "je trouve que oui, mais en fait moi je trouve que même pour les lettres ce serait oui."
+* Code 4 : Amélioration de la qualité du travail
+ Verbatim : "on peut entraîner un ChatGPT, je sais qu'il y a des gens qui arrivent à entraîner leur conversation avec ChatGPT, pour faire en sorte qu'ils soient mégapréscis"
+* Code 5 : Adaptation à la discipline
+ Verbatim : "je ne suis pas en lettres. Par exemple, je ne fais pas un truc qui est scientifique ou genre je dois utiliser des outils."
+* Code 6 : Intégration dans les pratiques académiques
+ Verbatim : "de pouvoir l'utiliser en le mentionnant dans les projets plutôt que de faire semblant de ne pas l'utiliser"
+* Code 7 : Éducation à l'utilisation
+ Verbatim : "j'espère qu'on va éduquer à l'utilisation, c'est juste ça, et apprendre à l'utiliser vraiment pour que ce soit un autre bénéfice."
+* Code 8 : Développement de compétences
+ Verbatim : "il simplifie la vie et pour moi ça ne pose pas de problème éthique."
+* Code 9 : Impact sur la pensée originale
+ Verbatim : "si quelqu'un fait tous ses rendus en les générant avec ChatGPT, moi je m'en fous un peu."
+* Code 10 : Contextualisation de l'utilisation
+ Verbatim : "je ne suis pas à l'EPFL.. Donc je pense que c'est un peu différent, quoi."
+
+**Thème 4 : Évolution et impact de ChatGPT sur l'apprentissage**
+
+* Code 1 : Normalisation de l'utilisation
+ Verbatim : "j'espère qu'on va toujours plus normaliser ça quoi."
+* Code 2 : Éducation à l'utilisation
+ Verbatim : "j'espère qu'on va éduquer à l'utilisation, c'est juste ça, et apprendre à l'utiliser vraiment pour que ce soit un autre bénéfice."
+* Code 3 : Intégration dans les pratiques académiques
+ Verbatim : "de pouvoir l'utiliser en le mentionnant dans les projets plutôt que de faire semblant de ne pas l'utiliser"
+* Code 4 : Impact écologique
+ Verbatim : "mon seul dilemme dans tout ça, c'est avec l'impact écologique."
+* Code 5 : Évolution des mentalités
+ Verbatim : "je pense que ouil y aurait une interdiction, genre ils vont tous flipper complètement, puis ils vont tous se braquer, puis avoir une interdiction totale."
+* Code 6 : Développement de compétences
+ Verbatim : "il simplifie la vie et pour moi ça ne pose pas de problème éthique."
+* Code 7 : Adaptation à la discipline
+ Verbatim : "je ne suis pas en lettres. Par exemple, je ne fais pas un truc qui est scientifique ou genre je dois utiliser des outils."
+* Code 8 : Impact sur la pensée originale
+ Verbatim : "si quelqu'un fait tous ses rendus en les générant avec ChatGPT, moi je m'en fous un peu."
+* Code 9 : Contextualisation de l'utilisation
+ Verbatim : "je ne suis pas à l'EPFL.. Donc je pense que c'est un peu différent, quoi."
+* Code 10 : Prospective sur l'avenir
+ Verbatim : "j'espère qu'on va toujours plus normaliser ça quoi."
+
+**Thème 5 : Suggestions pour améliorer l'intégration de ChatGPT**
+
+* Code 1 : Transparence de l'utilisation
+ Verbatim : "de pouvoir l'utiliser en le mentionnant dans les projets plutôt que de faire semblant de ne pas l'utiliser"
+* Code 2 : Éducation à l'utilisation
+ Verbatim : "j'espère qu'on va éduquer à l'utilisation, c'est juste ça, et apprendre à l'utiliser vraiment pour que ce soit un autre bénéfice."
+* Code 3 : Intégration dans les pratiques académiques
+ Verbatim : "de pouvoir l'utiliser en le mentionnant dans les projets plutôt que de faire semblant de ne pas l'utiliser"
+* Code 4 : Développement de compétences
+ Verbatim : "il simplifie la vie et pour moi ça ne pose pas de problème éthique."
+* Code 5 : Adaptation à la discipline
+ Verbatim : "je ne suis pas en lettres. Par exemple, je ne fais pas un truc qui est scientifique ou genre je dois utiliser des outils."
+* Code 6 : Impact sur la pensée originale
+ Verbatim : "si quelqu'un fait tous ses rendus en les générant avec ChatGPT, moi je m'en fous un peu."
+* Code 7 : Contextualisation de l'utilisation
+ Verbatim : "je ne suis pas à l'EPFL.. Donc je pense que c'est un peu différent, quoi."
+* Code 8 : Normalisation de l'utilisation
+ Verbatim : "j'espère qu'on va toujours plus normaliser ça quoi."
+* Code 9 : Prospective sur l'avenir
+ Verbatim : "j'espère qu'on va toujours plus normaliser ça quoi."
+* Code 10 : Régulation de l'utilisation
+ Verbatim : "je trouve que si on veut vraiment tester, on peut faire."

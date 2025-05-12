@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en respectant la méthode rigoureuse de codage qualitatif. Voici les thèmes et les codes associés :
+
+### Thème 1 : Perception de l'IA et de son évolution
+- Code 1 : Évolution rapide de l'IA
+  - Verbatim : "l'IA, plus sur l'IA, parce que ça se développe à des vitesses tellement rapides"
+- Code 2 : Nouvelles capacités de l'IA
+  - Verbatim : "il y a des outils qui existent …je sais plus comment ça s'appelle, mais il y a un outil sur Google, où tu peux lui faire lire un document, et puis en fait, il va produire un podcast de deux personnes"
+- Code 3 : Impact sur les habitudes
+  - Verbatim : "Maintenant, t'as même plus besoin de lire le document. C'est comme si t'écoutes une conversation entre deux personnes."
+- Code 4 : Exemples d'applications
+  - Verbatim : "des trucs de retouches IA, ces trucs de photos IA où tu peux créer des photos professionnelles avec ta tête"
+- Code 5 : Fascination et interrogation
+  - Verbatim : "C'est fou, ce qu'on peut faire maintenant."
+- Code 6 : Progrès dans le domaine de l'IA
+  - Verbatim : "Elon Musk, il est en train de nous faire une dinguerie."
+- Code 7 : Utilisations variées
+  - Verbatim : "il y a plein d'utilisations de l'IA."
+- Code 8 : Changement de paradigme
+  - Verbatim : "tu te demandes"
+- Code 9 : Émerveillement
+  - Verbatim : "C'est des trucs de fous."
+- Code 10 : Futur de l'IA
+  - Verbatim : "On verra, quoi."
+
+### Thème 2 : Sécurité et confidentialité
+- Code 1 : Risques liés à l'utilisation de l'IA
+  - Verbatim : "il faut vraiment faire hyper attention ou dans les sites de retranscription, aussi, il faut faire hyper gaffe."
+- Code 2 : Sensibilisation à la confidentialité
+  - Verbatim : "Moi, j'ai eu de la chance d'avoir cette sensibilisation aux données sensibles qu'on met sur Chatty"
+- Code 3 : Importance de l'anonymisation
+  - Verbatim : "il faut déjà quasi anonymiser avant de mettre sur Chatty pour pas qu'ils puissent repérer des potentiels"
+- Code 4 : Dangers potentiels
+  - Verbatim : "des dangers potentiels de cette IA."
+- Code 5 : Exemple de faille de sécurité
+  - Verbatim : "des journalistes ont réussi à retracer tout ça, malgré l'utilisation de l'IA, et à retrouver la civilisation qui a été étudiée"
+- Code 6 : Préoccupation pour la confidentialité
+  - Verbatim : "qu'est-ce qu'on ne connaît pas encore sur tout ça, quoi ?"
+- Code 7 : Nécessité d'éducation
+  - Verbatim : "sensibiliser les gens à l'éducation"
+- Code 8 : Protection des données
+  - Verbatim : "il y a des bases de données, des stockages de données, même dans les mails."
+- Code 9 : Conscience des risques
+  - Verbatim : "je laissais les noms, je faisais du n'importe quoi et tout."
+- Code 10 : Responsabilité individuelle
+  - Verbatim : "il faut faire attention."
+
+### Thème 3 : Confiance dans les technologies autonomes
+- Code 1 : Doute sur la sécurité
+  - Verbatim : "Il paraît que c'est safe. Mais voilà."
+- Code 2 : Limite de la confiance
+  - Verbatim : "jusqu'à où est-ce qu'on peut faire confiance ?"
+- Code 3 : Exemple de technologie autonome
+  - Verbatim : "des taxis sans conducteur."
+- Code 4 : Interrogation sur l'adoption
+  - Verbatim : "Tu monterais dans une voiture avec un taxi sans conducteur ?"
+- Code 5 : Cas d'accident
+  - Verbatim : "il y a quand même eu des accidents"
+- Code 6 : Capacités des véhicules autonomes
+  - Verbatim : "des capteurs à l'arrière et à l'avant."
+- Code 7 : Progrès dans la technologie
+  - Verbatim : "C'est fou, ce qu'on peut faire maintenant."
+- Code 8 : Réserve quant à l'utilisation
+  - Verbatim : "Je sais pas."
+- Code 9 : Sécurité des systèmes
+  - Verbatim : "des capteurs sur tous les côtés"
+- Code 10 : Débat autour de l'IA
+  - Verbatim : "Des grands débats, ouais."
+
+### Thème 4 : Éducation et sensibilisation
+- Code 1 : Importance de l'éducation
+  - Verbatim : "sensibiliser les gens à l'éducation"
+- Code 2 : Nécessité d'une formation
+  - Verbatim : "faut faire des cours de prévention nécessaires aussi."
+- Code 3 : Sensibilisation dès le plus jeune âge
+  - Verbatim : "même dans les écoles, si ils remarquent que les petits commencent déjà à utiliser des IA"
+- Code 4 : Explication des risques
+  - Verbatim : "leur expliquer justement tout ce qui a été dit là, qu'on ne peut pas mettre des noms ou des trucs comme ça"
+- Code 5 : Moment de sensibilisation
+  - Verbatim : "on nous a fait un cours de sensibilisation à propos de ça."
+- Code 6 : Impact de la sensibilisation
+  - Verbatim : "j'ai eu de la chance d'avoir cette sensibilisation"
+- Code 7 : Adaptation de l'enseignement
+  - Verbatim : "ça rentrait un peu dedans."
+- Code 8 : Utilisation responsable
+  - Verbatim : "il faut faire attention."
+- Code 9 : Conscience des risques chez les jeunes
+  - Verbatim : "les petits commencent déjà à utiliser des IA"
+- Code 10 : Avertissement sur les mauvaises pratiques
+  - Verbatim : "qu'on ne peut pas mettre des noms ou des trucs comme ça, parce qu'après ça va être repris."
+
+### Thème 5 : Impact de l'IA sur les pratiques
+- Code 1 : Changement dans les habitudes de travail
+  - Verbatim : "Maintenant, t'as même plus besoin de lire le document."
+- Code 2 : Nouvelles manières d'interagir avec l'information
+  - Verbatim : "C'est comme si t'écoutes une conversation entre deux personnes."
+- Code 3 : Exemples d'applications de l'IA
+  - Verbatim : "des outils qui existent …je sais plus comment ça s'appelle, mais il y a un outil sur Google"
+- Code 4 : Potentiel de l'IA
+  - Verbatim : "il y a plein d'utilisations de l'IA."
+- Code 5 : Retouche photo IA
+  - Verbatim : "des trucs de retouches IA, ces trucs de photos IA où tu peux créer des photos professionnelles"
+- Code 6 : Nouveau mode de consommation de l'information
+  - Verbatim : "tu peux lui faire lire un document, et puis en fait, il va produire un podcast"
+- Code 7 : Facilité d'utilisation
+  - Verbatim : "tu mets trois photos et puis ça va te créer des photos professionnelles"
+- Code 8 : Impact sur la lecture
+  - Verbatim : "t'as même plus besoin de lire le document."
+- Code 9 : Diversité des applications
+  - Verbatim : "plein de petits trucs comme ça."
+- Code 10 : Interrogations sur l'avenir
+  - Verbatim : "tu te demandes"

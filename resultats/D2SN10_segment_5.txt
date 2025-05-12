@@ -1,0 +1,81 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée.
+
+**Segment 1 : Perception de l'utilisation de l'IA dans les études**
+
+- Thème : Utilisation de l'IA dans le cadre académique
+ - Code 1 : Utilisation limitée de l'IA
+ - Verbatim : "Dans mes études à moi, je dirais que, en tant que rédaction, non."
+ - Code 2 : Manque de confiance dans l'IA pour les tâches académiques
+ - Verbatim : "Peut-être que c'est moi qui ne sais pas l'utiliser."
+ - Code 3 : Dilemme moral concernant l'utilisation de l'IA
+ - Verbatim : "Il y a aussi, je veux dire, un dilemme moral."
+ - Code 4 : Utilisation de l'IA pour la recherche d'informations
+ - Verbatim : "J'ai la flemme de regarder dans un livre ou sur internet, bah je vais demander à lui."
+ - Code 5 : Responsabilité de vérifier les sources
+ - Verbatim : "Après, bon faudra vérifier la véracité des sources, ce qui reste mon travail."
+ - Code 6 : Opposition à l'idée que l'IA fasse le travail à sa place
+ - Verbatim : "Je suis fermement opposé à l'idée qu'une IA ou que quelqu'un d'autre puisse faire un travail que moi j'aurais l'affaire."
+ - Code 7 : Importance de l'honneur et du mérite dans le travail académique
+ - Verbatim : "Je trouve ça sans honneur."
+ - Code 8 : Distinction entre utiliser l'IA pour des informations et pour des tâches intellectuelles
+ - Verbatim : "Je me limite à la recherche d'info."
+ - Code 9 : Valeur accordée à la réflexion personnelle
+ - Verbatim : "Le travail qui doit être rendu... doit être le fruit de ma réflexion et pas celle d'une intelligence autre."
+ - Code 10 : Inquiétude quant à la capacité de l'IA à remplacer la réflexion humaine
+ - Verbatim : "Une IA ne pourra jamais penser comme un humain."
+
+**Segment 2 : Exemples d'utilisation de ChatGPT dans les études**
+
+- Thème : Utilisation concrète de ChatGPT pour les études
+ - Code 1 : Utilisation pour la recherche
+ - Verbatim : "Je l'utilise beaucoup dans le cadre de la recherche pure et dure."
+ - Code 2 : Demande de problématiques spécifiques
+ - Verbatim : "J'ai pu lui demander 'hey trouve moi des problématiques sur tel ou tel truc'."
+ - Code 3 : Arrêt de l'utilisation pour certaines tâches
+ - Verbatim : "J'ai arrêté la chose parce que je trouve ça sans honneur."
+ - Code 4 : Gain de temps grâce à l'IA
+ - Verbatim : "Le... de l'IA générative, c'est qu'elle te fait gagner un temps absolument monstre."
+ - Code 5 : Critique de la facilité offerte par l'IA
+ - Verbatim : "C'est un culte de la feignantise."
+ - Code 6 : Débat sur l'efficacité de l'IA
+ - Verbatim : "Je regardais une émission justement où est-ce que tu peux pas sacrifier ce temps pour une efficacité qui serait mieux."
+ - Code 7 : Utilisation de l'ordinateur pour les examens
+ - Verbatim : "Quand je passe mes partiels, j'utilise un ordinateur pour les faire."
+ - Code 8 : Distinction entre utiliser l'IA et faire le travail soi-même
+ - Verbatim : "Mais j'aurai pas cet assistant-là ou cette aide avec moi."
+ - Code 9 : Possibilité d'utiliser l'IA pour gagner du temps
+ - Verbatim : "Même si moi j'en aurai la possibilité une fois à défaut de gain de temps."
+ - Code 10 : Réflexion sur la valeur de l'effort personnel
+ - Verbatim : "Mais je pense à mon avis que quand tu entreras... dans le ministère des armées... ce n'est pas l'IA qui m'aidera."
+
+**Segment 3 : Dernières recherches effectuées avec ChatGPT ou Gemini**
+
+- Thème : Interactions récentes avec les outils d'IA
+ - Code 1 : Utilisation de ChatGPT pour des questions non académiques
+ - Verbatim : "J'avais demandé quel est le truc autour du rêve du chien dans Lost ?"
+ - Code 2 : Amusement dans l'utilisation de l'IA pour des questions légères
+ - Verbatim : "[Rire] après la question."
+ - Code 3 : Limites de l'IA dans certaines réponses
+ - Verbatim : "Je vais demander le coût d'un porte-avion, il n'a pas su me répondre."
+ - Code 4 : Test des capacités de l'IA
+ - Verbatim : "Je voulais juste voir si vous pouvez me donner un chiffre concret."
+ - Code 5 : Perception de la complexité de certaines informations
+ - Verbatim : "Je pense que c'est un peu compliqué de savoir c'est combien le coût d'un porte-avion."
+ - Code 6 : Utilisation de l'IA pour des curiosités personnelles
+ - Verbatim : "J'avais demandé quel est le truc autour du rêve du chien dans Lost ?"
+ - Code 7 : Réflexion sur la capacité de l'IA à fournir des réponses satisfaisantes
+ - Verbatim : "Est-ce qu’en général ce qu’ils te répondent, ça répond à tes attentes oui ou non ?"
+ - Code 8 : Évaluation des réponses de l'IA
+ - (Verbatim non disponible dans ce segment, mais la question est pertinente pour le thème.)
+
+**Segment 4 : Évaluation des réponses de l'IA**
+
+(Segment incomplet, mais on peut établir quelques codes préliminaires.)
+
+- Thème : Satisfaction des réponses de l'IA
+ - Code 1 : Évaluation des réponses
+ - Verbatim : (Non disponible dans l'extrait fourni.)
+ - Code 2 : Attentes vis-à-vis des réponses de l'IA
+ - Verbatim : "Est-ce qu’en général ce qu’ils te répondent, ça répond à tes attentes oui ou non ?"
+
+Ces thèmes et codes donnent un aperçu de la perception et de l'utilisation de l'IA par l'enquêté dans le contexte de ses études et de ses interactions personnelles.

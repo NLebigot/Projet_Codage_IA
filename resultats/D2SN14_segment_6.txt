@@ -1,0 +1,116 @@
+Dans le cadre de l'analyse de l'entretien avec Alexis concernant son utilisation de ChatGPT et sa perception de cet outil dans le contexte universitaire, nous allons dégager plusieurs thèmes clés accompagnés de codes et de verbatims représentatifs.
+
+### Thème 1 : Évolution de la formulation des questions
+
+- Code 1 : Formulation des questions
+  - Verbatim : "Plus t'apprends à formuler tes questions correctement, plus t'obtiens des réponses précises et pertinentes."
+- Code 2 : Adaptation en fonction du sujet
+  - Verbatim : "Quand je suis à l'aise avec un cours, je sais exactement quoi lui demander et comment, donc je vais aller droit au but."
+- Code 3 : Affinement des questions
+  - Verbatim : "Et parfois, je dois affiner ma question plusieurs fois pour qu'il me donne exactement ce que je veux."
+- Code 4 : Évolution personnelle
+  - Verbatim : "Donc oui, je dirais que ma manière de poser des questions a évolué avec le temps, et maintenant j'essaie d'être plus clair dès le départ pour éviter de tourner en rond."
+- Code 5 : Importance de la clarté
+  - Verbatim : "j'essaie d'être plus clair dès le départ"
+- Code 6 : Complexité des sujets
+  - Verbatim : "Mais quand c'est un sujet où je galère, j'ai tendance à poser des questions plus larges, parce que je sais pas trop où chercher."
+- Code 7 : Processus d'apprentissage
+  - Verbatim : "Ma manière de poser des questions a évolué avec le temps"
+- Code 8 : Stratégie de questionnement
+  - Verbatim : "Je sais exactement quoi lui demander et comment"
+- Code 9 : Difficulté à formuler
+  - Verbatim : "je galère"
+- Code 10 : Progrès dans la formulation
+  - Verbatim : "j'essaie d'être plus clair"
+
+### Thème 2 : Perception de ChatGPT comme outil d'accompagnement
+
+- Code 1 : Rapidité des réponses
+  - Verbatim : "tu peux être serein, tu peux dire que lui, il peut t'aider à tout moment."
+- Code 2 : Accessibilité
+  - Verbatim : "Je n'aurais pas à attendre, entre guillemets, la réponse du professeur"
+- Code 3 : Comparaison avec les professeurs
+  - Verbatim : "ça dépend du professeur dans le sens où il y en a, il répond vite, il y en a d'autres qui ne répondent pas vite."
+- Code 4 : Réduction du stress
+  - Verbatim : "Ça peut créer un peu de stress, tu vois."
+- Code 5 : Sérénité
+  - Verbatim : "tu peux être serein"
+- Code 6 : Utilité de ChatGPT
+  - Verbatim : "lui, il peut t'aider à tout moment"
+- Code 7 : Variabilité dans les réponses des professeurs
+  - Verbatim : "il y en a, il répond vite, il y en a d'autres qui ne répondent pas vite"
+- Code 8 : Attente et réponse
+  - Verbatim : "Je n'aurais pas à attendre... la réponse du professeur"
+- Code 9 : Impact sur le stress
+  - Verbatim : "Ça peut créer un peu de stress"
+- Code 10 : Fiabilité de ChatGPT
+  - Verbatim : "lui, il peut t'aider à tout moment"
+
+### Thème 3 : Dépendance à ChatGPT et réflexion personnelle
+
+- Code 1 : Dépendance
+  - Verbatim : "Ouais, ça dépend des matières, mais oui, il y a des matières je comprends pas vraiment, si j'ai pas ChatGPT"
+- Code 2 : Manque de confiance en soi
+  - Verbatim : "surtout je suis quelqu'un de timide"
+- Code 3 : Usage excessif
+  - Verbatim : "l'année dernière, je l'utilisais énormément"
+- Code 4 : Comparaison avec une drogue
+  - Verbatim : "c'est un peu comme une drogue"
+- Code 5 : Impact sur la réflexion
+  - Verbatim : "tu n'auras pas la réflexion que tu t'aurais dû avoir dans ces moments-là"
+- Code 6 : Effet sur les capacités cognitives
+  - Verbatim : "c'est comme si tu avais un gros trou dans ton cerveau"
+- Code 7 : Dépendance aux outils numériques
+  - Verbatim : "tu deviens dépendant"
+- Code 8 : Utilisation excessive
+  - Verbatim : "je l'utilisais énormément"
+- Code 9 : Conséquences sur l'apprentissage
+  - Verbatim : "tu n'auras pas la réflexion que tu t'aurais dû avoir"
+- Code 10 : Métaphore de la drogue
+  - Verbatim : "c'est un peu comme une drogue"
+
+### Thème 4 : Légitimité de l'utilisation de ChatGPT dans les travaux universitaires
+
+- Code 1 : Utilisation comme un outil
+  - Verbatim : "ça peut être un bon outil pour aider"
+- Code 2 : Risque de triche
+  - Verbatim : "si c'est juste pour copier-coller une réponse sans réfléchir, alors non, c'est pas légitime"
+- Code 3 : Utilisation appropriée
+  - Verbatim : "si tu t'en sers pour structurer ta pensée, pour te donner des pistes de réflexion ou pour reformuler des idées, là, ça devient un vrai plus"
+- Code 4 : Type de tâches et utilité de ChatGPT
+  - Verbatim : "quand on te demande juste de recracher du contenu théorique sans réelle réflexion, bah ça donne pas forcément envie de tout faire soi-même"
+- Code 5 : Équité dans l'utilisation
+  - Verbatim : "est-ce que ça crée pas une inégalité dans l'apprentissage?"
+- Code 6 : Différenciation dans l'usage
+  - Verbatim : "celui qui sait bien s'en servir... il va forcément être plus efficace"
+- Code 7 : Évaluation des professeurs
+  - Verbatim : "ça dépend aussi du type de devoir qu'on te donne et de la façon dont les profs évaluent les étudiants"
+- Code 8 : Questionnement sur la légitimité
+  - Verbatim : "est-ce qu'on devrait tous apprendre à l'utiliser de la même manière, ou est-ce qu'on devrait le bannir complètement"
+- Code 9 : Contexte d'utilisation
+  - Verbatim : "ça dépend vraiment de comment tu l'utilises"
+- Code 10 : Nuance dans l'appréciation
+  - Verbatim : "ça peut être un bon outil pour aider, mais ça peut aussi détruire toute la réflexion des élèves"
+
+### Thème 5 : Avantages et limites de ChatGPT dans le travail universitaire
+
+- Code 1 : Utilisation en co-travail
+  - Verbatim : "si tu l'utilises en mode co-travail... lui, il pourra t'aider à rédiger, il pourra t'aider à trouver ou chercher les réponses"
+- Code 2 : Risque de manque de réflexion
+  - Verbatim : "ça t'empêche d'avoir un peu de réflexion de soi-même"
+- Code 3 : Avantage comparatif
+  - Verbatim : "il ne sera pas aussi rapide que la personne qui a le ChatGPT"
+- Code 4 : Utilisation comme partenaire de travail
+  - Verbatim : "comme si c'était ton collègue, ton partenaire d'un travail"
+- Code 5 : Limites dans la compréhension
+  - Verbatim : "quand tu l'utilises, c'est... tu as la flemme de travailler"
+- Code 6 : Bénéfice de l'utilisation collaborative
+  - Verbatim : "là, par contre, lui, il pourra t'aider"
+- Code 7 : Impact sur la qualité du travail
+  - Verbatim : "produire un travail de meilleure qualité"
+- Code 8 : Utilisation abusive
+  - Verbatim : "tu as la flemme de travailler, du coup tu vas lui demander de réfléchir à ta place"
+- Code 9 : Complémentarité
+  - Verbatim : "il pourra t'aider à rédiger"
+- Code 10 : Différence dans la production de travail
+  - Verbatim : "il va forcément être plus efficace"

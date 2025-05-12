@@ -1,0 +1,97 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif.
+
+**Segment 1 : Perception de l'utilisation de ChatGPT par les étudiants et les enseignants**
+
+- Thème : Risques et détection de l'utilisation de ChatGPT
+ - Code 1 : Menace de détection
+ - Verbatim : "Oui, ils sont au courant, ils nous menacent."
+ - Code 2 : Doute sur la capacité de détection
+ - Verbatim : "De mon expérience, euh non. Ils n'ont pas encore de preuves."
+ - Code 3 : Lien avec le plagiat
+ - Verbatim : "Ils essayent de le lier au plagiat, chose que Chat GPT peut causer."
+ - Code 4 : Moyens de détection
+ - Verbatim : "Le style d'écriture qui est très répétitif."
+ - Code 5 : Facilité de détection par les pairs
+ - Verbatim : "De nos jours, même nous-mêmes, on peut facilement deviner qu'un certain texte a été rédigé par Chat GPT."
+ - Code 6 : Incertitude sur la réalité de la détection
+ - Verbatim : "Les étudiants, on se pose toujours la question si c'est vraiment réel ou pas."
+ - Code 7 : Rôle des logiciels de détection
+ - Verbatim : "On entend parler des logiciels de détection d'intelligence artificielle."
+ - Code 8 : Punition pour utilisation de ChatGPT
+ - Verbatim : "Les cadres académiques ont toujours un moyen de punir ces étudiants pour usage de Chat GPT."
+ - Code 9 : Domaine non cadré
+ - Verbatim : "Ça reste un domaine pas encore cadré."
+ - Code 10 : Révélation de l'usage de ChatGPT
+ - Verbatim : "C'est ça la façon dont les professeurs peuvent dévoiler cet usage."
+
+- Thème : Utilisation de ChatGPT et intégrité académique
+ - Code 1 : Importance de l'intégrité académique
+ - Verbatim : "On doit adopter toute l'intégrité académique lors de la réalisation de n'importe quel travail académique."
+ - Code 2 : Transparence et honnêteté
+ - Verbatim : "Il faut être transparent et honnête à propos de son travail et avouer l'usage de ChatGPT."
+ - Code 3 : Assistance pour des tâches annexes
+ - Verbatim : "Il n'y a pas de mal si on se fait assister par ChatGPT pour des formalités."
+ - Code 4 : Limite de l'utilisation de ChatGPT
+ - Verbatim : "Toute la réflexion doit être menée par nous-mêmes."
+ - Code 5 : Évaluation des compétences
+ - Verbatim : "Tous les travaux académiques sont faits pour nous évaluer, pour évaluer nos compétences."
+ - Code 6 : Rôle de ChatGPT dans l'apprentissage
+ - Verbatim : "On peut utiliser ChatGPT pour des points auxiliaires, comme le soin de la forme, du style."
+ - Code 7 : Responsabilité de l'étudiant
+ - Verbatim : "Notre travail doit être fait par nous-mêmes."
+ - Code 8 : Intégrité académique et utilisation de ChatGPT
+ - Verbatim : "Garder toujours cette intégrité académique lors de la réalisation des travaux."
+ - Code 9 : Apprentissage personnel
+ - Verbatim : "Le but de notre cursus éducationnel est de d'améliorer et d'acquérir cet apprentissage."
+ - Code 10 : Dépendance à ChatGPT
+ - Verbatim : "On ne peut pas l'assurer si on est toujours dépendant de ChatGPT."
+
+**Segment 2 : Tensions entre gain de temps et apprentissage personnel**
+
+- Thème : Gain de temps vs. Apprentissage personnel
+ - Code 1 : Compromis entre gain de temps et apprentissage
+ - Verbatim : "Je pense qu'on doit compromettre l'un sur l'autre."
+ - Code 2 : Pression d'échéance
+ - Verbatim : "Lorsque cette dimension, cette pression d'échéance, entre en jeu, on préfère rester dans les délais."
+ - Code 3 : Utilisation de ChatGPT pour des tâches répétitives
+ - Verbatim : "S'il y a des tâches qui sont très répétitives, qui ne vont pas nous apporter trop de valeur ajoutée."
+ - Code 4 : Valeur ajoutée de l'apprentissage
+ - Verbatim : "Le travail essentiel doit être fait par nous-mêmes."
+ - Code 5 : Rôle de ChatGPT dans la facilitation
+ - Verbatim : "On peut utiliser ChatGPT pour lui confier cette tâche-là."
+ - Code 6 : Apprentissage par les fautes
+ - Verbatim : "Le but de l'apprentissage, c'est de faire des fautes."
+ - Code 7 : Crainte de faire des fautes
+ - Verbatim : "C'est par cette crainte de faire des fautes que nous, étudiants, utilisons GPT."
+ - Code 8 : Limite de l'utilisation de ChatGPT
+ - Verbatim : "Le gain d'apprentissage ne peut pas être acquis si on fait toujours l'usage d'un cerveau artificiel."
+ - Code 9 : Développement de compétences
+ - Verbatim : "Pour évaluer nos compétences et pas la compétence de ChatGPT."
+ - Code 10 : Objectif de l'apprentissage
+ - Verbatim : "Le but de l'apprentissage, c'est d'apprendre par ses fautes."
+
+**Segment 3 : Légitimité de l'utilisation de ChatGPT pour certains travaux**
+
+- Thème : Légitimité de l'utilisation de ChatGPT
+ - Code 1 : Dépendance au type de travail
+ - Verbatim : "Tout dépend, euh, quand il s'agit d'un travail de réflexion pure."
+ - Code 2 : Illégitimité pour les travaux de réflexion
+ - Verbatim : "Ce n'est pas légitime de faire usage d'un autre organisme de réflexion."
+ - Code 3 : Légitimité pour les tâches répétitives
+ - Verbatim : "S'il s'agit d'un travail répétitif, je pense qu'il est légitime d'utiliser GPT."
+ - Code 4 : Assistance technologique
+ - Verbatim : "On se fait assister rapidement par un robot."
+ - Code 5 : Contextualisation de l'utilisation
+ - Verbatim : "Tout dépend, euh, ça dépend."
+ - Code 6 : Distinction entre types de travaux
+ - Verbatim : "Quand il s'agit d'un travail de réflexion pure, ce n'est pas légitime."
+ - Code 7 : Utilisation appropriée
+ - Verbatim : "C'est comme si on bénéficiait d'un accompagnement d'un être humain."
+ - Code 8 : Rôle de ChatGPT dans l'assistance
+ - Verbatim : "On se fait assister par ChatGPT pour des tâches spécifiques."
+ - Code 9 : Évaluation de la légitimité
+ - Verbatim : "Il faut évaluer si l'utilisation de ChatGPT est légitime ou pas."
+ - Code 10 : Flexibilité dans l'utilisation
+ - Verbatim : "Ça dépend du contexte et du type de travail."
+
+Ces thèmes et codes donnent une vue d'ensemble des préoccupations et des réflexions de l'étudiant concernant l'utilisation de ChatGPT dans le contexte académique, notamment en termes de détection, d'intégrité académique, de gain de temps et d'apprentissage personnel, ainsi que de la légitimité de son utilisation pour différents types de travaux.

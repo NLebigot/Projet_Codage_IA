@@ -1,0 +1,111 @@
+Voici l'analyse du texte en suivant la méthode de codage qualitatif demandée :
+
+**Thème 1 : Utilisation de ChatGPT pour la rédaction et la recherche d'informations**
+- Code 1 : Utilisation pour la réécriture de textes
+- Verbatim : "je l'utilise souvent pour, dans des rapports, pour réécrire des parties de rapports"
+- Code 2 : Gain de temps
+- Verbatim : "je pourrais juste l'écrire comme je le pense qui est pas forcément clair mais suffisamment clair pour que Chat GPT le comprenne et puis je le rephraser d'une meilleure manière"
+- Code 3 : Efficacité dans la recherche d'informations
+- Verbatim : "Au lieu de taper 4 recherches Google et de batailler pour trouver une source où il n'y a pas 18 pubs sur le site et la définition occupe 2% de la page"
+- Code 4 : Confiance dans les réponses de ChatGPT
+- Verbatim : "j'ai tendance à lui faire confiance parce que y'a genre suffisamment"
+- Code 5 : Utilisation pour les définitions
+- Verbatim : "Tu enregistres copie, colle, donne-moi la def et tu as les 4 définitions"
+- Code 6 : Perception de la fiabilité de ChatGPT pour les définitions
+- Verbatim : "y'a un truc que… personne n'a vraiment de gain à falsifier ça, tu vois"
+- Code 7 : Contextualisation de l'utilisation
+- Verbatim : "quand je lisais un PDF de... de comptabilité"
+- Code 8 : Limite de la confiance accordée à ChatGPT
+- Verbatim : "quand je lui demande des trucs sur des informations qui sont plus sensibles... Là, des fois, je vais peut-être avoir le réflexe de lui demander direct mais ensuite, pour quand même avoir plus de recul, je vais faire un effort pour me dire ok, est-ce que ça a l'air d'avoir du sens ou pas"
+- Code 9 : Contrôle des réponses
+- Verbatim : "pour quand même avoir plus de recul, je vais faire un effort pour me dire ok, est-ce que ça a l'air d'avoir du sens ou pas"
+- Code 10 : Évaluation de la clarté des réponses
+- Verbatim : "quand il te sort la définition que c'est clair, net, précis, je prends la définition telle qu'elle est"
+
+**Thème 2 : Perception de la fiabilité et de la précision de ChatGPT**
+- Code 1 : Perception positive pour les définitions simples
+- Verbatim : "je me dis pas qu'il y a quelqu'un sur internet qui s'est amusé à falsifier la définition suffisamment de fois pour que celle qui va sortir là soit complètement décalée par rapport à ce que c'est vraiment"
+- Code 2 : Différenciation selon la sensibilité de l'information
+- Verbatim : "des fois, je vais peut-être avoir le réflexe de lui demander direct mais ensuite, pour quand même avoir plus de recul"
+- Code 3 : Évaluation de la réponse en fonction de sa clarté
+- Verbatim : "quand je comprends pas, ce qu'il me donne, c'est que... Soit j'ai pas assez de connaissances pour le comprendre, soit que c'est trop flou pour expliquer"
+- Code 4 : Stratégie de vérification
+- Verbatim : "dans ces cas-là, ça mérite des recherches en plus"
+- Code 5 : Confiance dans les réponses claires et précises
+- Verbatim : "quand il te sort la définition que c'est clair, net, précis, je prends la définition telle qu'elle est"
+- Code 6 : Limite de la compréhension
+- Verbatim : "je ne comprends rien à ce que je lui demande"
+- Code 7 : Stratégie de reformulation
+- Verbatim : "je force un peu, je réessaye en essayant d'être plus clair ou des trucs comme ça"
+- Code 8 : Reconnaissance des limites de ChatGPT
+- Verbatim : "il y a quand même des moments où ça coince vraiment"
+- Code 9 : Nécessité de vérification personnelle
+- Verbatim : "t'es obligé d'aller chercher à voir toi-même"
+- Code 10 : Difficulté à cerner la réponse appropriée
+- Verbatim : "quand je comprends pas la réponse"
+
+**Thème 3 : Stratégies d'utilisation et de vérification**
+- Code 1 : Utilisation pour la réécriture
+- Verbatim : "réécrire des parties de rapports"
+- Code 2 : Recherche d'informations précises
+- Verbatim : "copie, colle, donne-moi la def"
+- Code 3 : Évaluation de la clarté des réponses
+- Verbatim : "quand il te sort la définition que c'est clair, net, précis"
+- Code 4 : Stratégie de vérification pour les informations sensibles
+- Verbatim : "je vais faire un effort pour me dire ok, est-ce que ça a l'air d'avoir du sens ou pas"
+- Code 5 : Révision en cas de manque de clarté
+- Verbatim : "ça mérite des recherches en plus"
+- Code 6 : Adaptation en fonction de la complexité
+- Verbatim : "je réessaye en essayant d'être plus clair"
+- Code 7 : Limite dans l'utilisation
+- Verbatim : "des moments où ça coince vraiment"
+- Code 8 : Nécessité d'une vérification personnelle
+- Verbatim : "t'es obligé d'aller chercher à voir toi-même"
+- Code 9 : Utilisation nuancée selon le contexte
+- Verbatim : "selon ce que je lui demande"
+- Code 10 : Évaluation continue de la réponse
+- Verbatim : "je vais faire un effort pour me dire ok, est-ce que ça a l'air d'avoir du sens ou pas"
+
+**Thème 4 : Conscience des limites et ajustements**
+- Code 1 : Perception des limites de ChatGPT
+- Verbatim : "il y a quand même des moments où ça coince vraiment"
+- Code 2 : Stratégies d'ajustement
+- Verbatim : "je réessaye en essayant d'être plus clair ou des trucs comme ça"
+- Code 3 : Reconnaissance de l'incertitude
+- Verbatim : "je ne comprends rien à ce que je lui demande"
+- Code 4 : Conscience de la nécessité de vérification
+- Verbatim : "t'es obligé d'aller chercher à voir toi-même"
+- Code 5 : Différenciation dans l'utilisation selon la complexité
+- Verbatim : "selon ce que je lui demande"
+- Code 6 : Perception nuancée de la fiabilité
+- Verbatim : "des fois, je vais peut-être avoir le réflexe de lui demander direct mais ensuite, pour quand même avoir plus de recul"
+- Code 7 : Adoption d'une attitude critique
+- Verbatim : "je vais faire un effort pour me dire ok, est-ce que ça a l'air d'avoir du sens ou pas"
+- Code 8 : Limite dans la confiance accordée
+- Verbatim : "quand je lui demande des trucs sur des informations qui sont plus sensibles"
+- Code 9 : Stratégie pour pallier les limites
+- Verbatim : "des recherches en plus"
+- Code 10 : Conscience de la complémentarité entre ChatGPT et recherche personnelle
+- Verbatim : "t'es obligé d'aller chercher à voir toi-même"
+
+**Thème 5 : Interactions avec ChatGPT et dynamiques de communication**
+- Code 1 : Nature de l'interaction avec ChatGPT
+- Verbatim : "je l'utilise souvent pour, dans des rapports, pour réécrire des parties de rapports"
+- Code 2 : Formulation des requêtes
+- Verbatim : "je réessaye en essayant d'être plus clair ou des trucs comme ça"
+- Code 3 : Réponses et ajustements
+- Verbatim : "quand je comprends pas, ce qu'il me donne, c'est que... Soit j'ai pas assez de connaissances pour le comprendre"
+- Code 4 : Limitations dans la communication
+- Verbatim : "je ne comprends rien à ce que je lui demande"
+- Code 5 : Stratégies de reformulation
+- Verbatim : "je force un peu, je réessaye en essayant d'être plus clair"
+- Code 6 : Perception de la réponse de ChatGPT
+- Verbatim : "quand il te sort la définition que c'est clair, net, précis, je prends la définition telle qu'elle est"
+- Code 7 : Échanges et itérations
+- Verbatim : "je réessaye"
+- Code 8 : Conscience de la nécessité d'une interaction claire
+- Verbatim : "être plus clair ou des trucs comme ça"
+- Code 9 : Différenciation dans les réponses
+- Verbatim : "selon ce que je lui demande"
+- Code 10 : Attitude face aux limites de communication
+- Verbatim : "t'es obligé d'aller chercher à voir toi-même"

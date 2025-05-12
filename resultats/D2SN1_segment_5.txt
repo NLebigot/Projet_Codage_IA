@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+### Thème 1 : L'évolution des pratiques d'apprentissage
+- Code 1 : Adaptation aux nouvelles technologies
+- Verbatim : "les pratiques d'apprentissage sont beaucoup plus orientés vers ces technologies là"
+- Code 2 : Futur des pratiques d'apprentissage
+- Verbatim : "dans les prochaines années"
+- Code 3 : Généralisation de l'usage de l'intelligence artificielle
+- Verbatim : "tous les étudiants, tous les professionnels euh se forment à l'utilisation de chat GPT"
+- Code 4 : Nécessité de formation
+- Verbatim : "faudra vraiment que tout euh toutes les personnes... se forment"
+- Code 5 : Champ d'application de l'intelligence artificielle
+- Verbatim : "dans nos dans nos études ou dans notre travail"
+- Code 6 : Impact sur l'efficacité
+- Verbatim : "gagner du temps, d'être plus efficace"
+- Code 7 : Tendances dans l'enseignement
+- Verbatim : "les pratiques d'apprentissage euh doivent être orienté vers ce sujet"
+- Code 8 : Utilisation spécifique de l'intelligence artificielle
+- Verbatim : "l'utilisation de chat GPT"
+- Code 9 : Proactivité face aux changements
+- Verbatim : "doivent être orienté vers ce sujet"
+- Code 10 : Reconnaissance de l'importance de l'intelligence artificielle
+- Verbatim : "c'est vraiment une technologie qui nous permet de gagner du temps"
+
+### Thème 2 : L'importance de la formation à l'intelligence artificielle
+- Code 1 : Formation à l'utilisation de l'intelligence artificielle
+- Verbatim : "se forment à l'utilisation de chat GPT"
+- Code 2 : Formation sur la communication avec l'intelligence artificielle
+- Verbatim : "une formation peut-être sur la manière de prompter, de communiquer avec cette technologie là"
+- Code 3 : Compétence nécessaire pour le futur
+- Verbatim : "l'intelligence artificielle de l'intelligence artificielle et une formation"
+- Code 4 : Utilisation efficace de l'intelligence artificielle
+- Verbatim : "gagner du temps, d'être plus efficace dans nos dans nos études ou dans notre travail"
+- Code 5 : Besoin de savoir communiquer avec l'intelligence artificielle
+- Verbatim : "la manière de prompter, de communiquer avec cette technologie là"
+- Code 6 : Développement des compétences
+- Verbatim : "se forment"
+- Code 7 : Intégration de l'intelligence artificielle dans la pratique
+- Verbatim : "l'utilisation de chat GPT"
+- Code 8 : Préparation pour l'avenir
+- Verbatim : "dans les prochaines années"
+- Code 9 : Impact de l'intelligence artificielle sur le travail et les études
+- Verbatim : "dans nos dans nos études ou dans notre travail"
+- Code 10 : Reconnaissance de la nécessité d'une formation spécifique
+- Verbatim : "faudra vraiment que tout euh toutes les personnes... se forment"
+
+### Thème 3 : L'impact de l'intelligence artificielle sur le travail et les études
+- Code 1 : Gain de temps grâce à l'intelligence artificielle
+- Verbatim : "gagner du temps"
+- Code 2 : Augmentation de l'efficacité
+- Verbatim : "d'être plus efficace"
+- Code 3 : Application dans les études
+- Verbatim : "dans nos dans nos études"
+- Code 4 : Application dans le travail
+- Verbatim : "dans notre travail"
+- Code 5 : Technologie facilitante
+- Verbatim : "c'est vraiment une technologie qui nous permet de gagner du temps"
+- Code 6 : Changement dans les pratiques
+- Verbatim : "les pratiques d'apprentissage euh doivent être orienté vers ce sujet"
+- Code 7 : Intégration dans la vie professionnelle et académique
+- Verbatim : "dans nos dans nos études ou dans notre travail"
+- Code 8 : Amélioration des performances
+- Verbatim : "d'être plus efficace dans nos dans nos études ou dans notre travail"
+- Code 9 : Répercussions sur les méthodes de travail et d'étude
+- Verbatim : "les pratiques d'apprentissage sont beaucoup plus orientés vers ces technologies là"
+- Code 10 : Perception positive de l'intelligence artificielle
+- Verbatim : "c'est vraiment une technologie qui nous permet de gagner du temps"
+
+### Thème 4 : La nécessité d'une adaptation aux nouvelles technologies
+- Code 1 : Évolution technologique
+- Verbatim : "ces technologies là"
+- Code 2 : Adaptation nécessaire
+- Verbatim : "les pratiques d'apprentissage doivent être orienté vers ce sujet"
+- Code 3 : Changement inévitable
+- Verbatim : "dans les prochaines années"
+- Code 4 : Proactivité
+- Verbatim : "doivent être orienté vers ce sujet"
+- Code 5 : Acceptation de l'intelligence artificielle
+- Verbatim : "c'est vraiment une technologie"
+- Code 6 : Intégration dans les pratiques quotidiennes
+- Verbatim : "dans nos dans nos études ou dans notre travail"
+- Code 7 : Modification des habitudes
+- Verbatim : "les pratiques d'apprentissage sont beaucoup plus orientés"
+- Code 8 : Mise à jour des connaissances
+- Verbatim : "se forment à l'utilisation de chat GPT"
+- Code 9 : Flexibilité face aux changements
+- Verbatim : "doivent être orienté vers ce sujet"
+- Code 10 : Reconnaissance de l'importance des nouvelles technologies
+- Verbatim : "ces technologies là"
+
+### Thème 5 : Les spécificités de l'intelligence artificielle dans l'apprentissage
+- Code 1 : Utilisation de chat GPT
+- Verbatim : "l'utilisation de chat GPT"
+- Code 2 : Communication avec l'intelligence artificielle
+- Verbatim : "la manière de prompter, de communiquer avec cette technologie là"
+- Code 3 : Particularités de l'intelligence artificielle
+- Verbatim : "cette technologie là"
+- Code 4 : Spécificités de l'interaction avec l'intelligence artificielle
+- Verbatim : "prompter, de communiquer avec cette technologie là"
+- Code 5 : Aspects uniques de l'intelligence artificielle
+- Verbatim : "l'intelligence artificielle"
+- Code 6 : Nécessité de comprendre l'intelligence artificielle
+- Verbatim : "une formation peut-être sur la manière de prompter"
+- Code 7 : Savoir-faire spécifique
+- Verbatim : "la manière de prompter, de communiquer"
+- Code 8 : Interaction efficace
+- Verbatim : "gagner du temps, d'être plus efficace"
+- Code 9 : Développement d'une nouvelle compétence
+- Verbatim : "se forment à l'utilisation de chat GPT"
+- Code 10 : Adaptation à une nouvelle technologie
+- Verbatim : "ces technologies là"

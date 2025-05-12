@@ -1,0 +1,93 @@
+Je vais analyser l'entretien suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Légitimité de l'utilisation de ChatGPT**
+
+- Thème : Perception de la légitimité de ChatGPT
+ - Code 1 : Utilité générale
+ - Verbatim : "Je pense qu'elle est légitime pour toutes les matières."
+ - Code 2 : Rôle de l'outil
+ - Verbatim : "Ça reste un outil."
+ - Code 3 : Disciplines spécifiques
+ - Verbatim : "Il est vraiment très compétent pour tout ce qui est codé sur des logiciels comme R Studio."
+ - Code 4 : Vérification nécessaire
+ - Verbatim : "Faut faire attention dans la rédaction, toujours vérifier ce qu'il dit."
+ - Code 5 : Utilisation disciplinaire
+ - Verbatim : "J'ai des copines qui sont en économie mais très mathématisée."
+ - Code 6 : Complémentarité
+ - Verbatim : "Je pense que justement il est plus fort même dans certaines disciplines."
+ - Code 7 : Universalité
+ - Verbatim : "Donc non, je pense dans toutes les disciplines c’est utile."
+ - Code 8 : Limite dans l'utilisation
+ - Verbatim : "Sauf pour le mémoire du coup."
+ - Code 9 : Usage personnel
+ - Verbatim : "J'en sers toujours."
+ - Code 10 : Avis des pairs
+ - Verbatim : "Elles me disent qu'elle est vraiment bien."
+
+- Thème : Contextualisation de l'utilisation
+ - Code 1 : Contexte académique
+ - Verbatim : "Pour le mémoire du coup."
+ - Code 2 : Usage disciplinaire
+ - Verbatim : "Des copines qui sont en économie mais très mathématisée."
+ - Code 3 : Utilité spécifique
+ - Verbatim : "Pour tout ce qui est codé sur des logiciels comme R Studio."
+ - Code 4 : Perception positive
+ - Verbatim : "Elle est vraiment très compétente."
+ - Code 5 : Limite de l'outil
+ - Verbatim : "Faut faire attention dans la rédaction."
+
+**Segment 2 : Contextes d'utilisation acceptable ou non**
+
+- Thème : Limites éthiques de l'utilisation des IA
+ - Code 1 : Exemple problématique
+ - Verbatim : "Aux États-Unis, ils utilisaient les intelligences artificielles dans le domaine de la justice."
+ - Code 2 : Biais racial
+ - Verbatim : "Il intégrait un biais racial dans ses réponses."
+ - Code 3 : Jugement humain nécessaire
+ - Verbatim : "Pour moi ça reste vraiment c'est impensable qu'on puisse utiliser une intelligence artificielle."
+ - Code 4 : Exclusion de certains domaines
+ - Verbatim : "Médecine et justice on devrait pas utiliser les intelligences artificielles."
+ - Code 5 : Nécessité d'un regard critique
+ - Verbatim : "Toujours avec un œil critique quoi."
+ - Code 6 : Différence de traitement
+ - Verbatim : "Une personne blanche ou une personne noire, elle avait pas les mêmes probabilités de récidive."
+ - Code 7 : Cas de la médecine
+ - Verbatim : "On était un peu mitigé parce que bah parfois il y a des intelligences artificielles qui sont meilleures que les humains."
+ - Code 8 : Importance de l'expertise
+ - Verbatim : "L'expertise du médecin qui connaît son patient etc."
+ - Code 9 : Réserve sur l'utilisation
+ - Verbatim : "Je pense que ça reste toujours l'expertise du médecin."
+ - Code 10 : Applications problématiques
+ - Verbatim : "C'était calculer les chances qu'un accusé récidive."
+
+**Segment 3 : Technologies émergentes et autonomie**
+
+- Thème : Perception des technologies autonomes
+ - Code 1 : Exemple des voitures autonomes
+ - Verbatim : "Des voitures taxis aussi aux États-Unis qui conduisent sans chauffeur."
+ - Code 2 : Adaptabilité
+ - Verbatim : "Pour moi c'est pas adapté aujourd'hui."
+ - Code 3 : Condition d'acceptabilité
+ - Verbatim : "Tant qu'il y a des voitures avec humain qui conduisent, bah ça peut pas être adapté."
+ - Code 4 : Interaction entre véhicules autonomes
+ - Verbatim : "Si on met que des voitures sans chauffeur, elles vont mieux se prendre en compte entre elles."
+ - Code 5 : Réserve personnelle
+ - Verbatim : "Je les prendrai pas si jamais je me retrouve aux États-Unis."
+ - Code 6 : Incertitude
+ - Verbatim : "J'ai un peu du mal à imaginer quoi."
+ - Code 7 : Futur potentiel
+ - Verbatim : "Mais après s'il y avait plus que ça, bah je sais pas."
+ - Code 8 : Sécurité et confiance
+ - Verbatim : "Je pense que je les prendrai pas."
+ - Code 9 : Perception mitigée
+ - Verbatim : "J'ai l'impression que si on met que des voitures sans chauffeur."
+ - Code 10 : Limite actuelle
+ - Verbatim : "C'est pas adapté aujourd'hui."
+
+**Segment 4 : Dilemme moral**
+
+- Thème : Expérience du dilemme moral avec ChatGPT
+ - Code 1 : Absence de dilemme
+ - Verbatim : (La réponse de Léa n'est pas disponible dans le texte fourni.)
+ 
+Étant donné que la réponse de Léa au dernier segment n'est pas disponible, l'analyse se limite aux trois premiers segments. Les thèmes et codes sont extraits directement des verbatim de Léa, offrant une analyse sociologique riche et nuancée de sa perception de ChatGPT et des technologies émergentes.

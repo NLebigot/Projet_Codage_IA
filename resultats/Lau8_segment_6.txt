@@ -1,0 +1,101 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes associés et verbatims. Voici les résultats :
+
+**Thème 1 : Utilisation de ChatGPT pour la validation des idées**
+- Code 1 : Validation des idées
+  - Verbatim : "Je pense que ça m'a un peu confortée un peu parce que je me suis dit ok ça peut quand même donner quelque chose"
+- Code 2 : Doute sur la pertinence des questions
+  - Verbatim : "souvent je doute un peu des pertinences de mes questions parce que des fois je me dis c'est juste ma curiosité personnelle"
+- Code 3 : Utilisation pour explorer de nouvelles directions
+  - Verbatim : "ça m'a donné peut-être aussi d'autres mots-clés que je pouvais creuser"
+- Code 4 : Réflexion sur les relations de pouvoir
+  - Verbatim : "Il m'avait parlé aussi des... un peu plus global, genre au niveau des relations de pouvoir"
+- Code 5 : Aide à la reformulation des idées
+  - Verbatim : "ça m'a aidé à réfléchir"
+- Code 6 : Rassurance dans la démarche
+  - Verbatim : "Ouais, être rassurer que c’est la bonne direction"
+- Code 7 : Exploration de nouveaux concepts
+  - Verbatim : "voir quelques mots clés pour aller plus loin"
+- Code 8 : Confirmation des idées préexistantes
+  - Verbatim : "En vrai, j’avais déjà ces idées, mais bon..."
+- Code 9 : Processus de réflexion
+  - Verbatim : "j’ai tout copié-collé dans un document que j’ai appelé 'discussion ChatGPT', et je l’ai imprimé"
+- Code 10 : Importance de la réflexion personnelle
+  - Verbatim : "c’était plus pour la réflexion, en lisant ce qu’il m’avait dit"
+
+**Thème 2 : Langue d'interaction avec ChatGPT et son impact**
+- Code 1 : Choix de la langue selon le contexte
+  - Verbatim : "vu que les sociétés numériques, c'est en anglais, tout se fait dans cette langue"
+- Code 2 : Formulation des questions en fonction de la langue
+  - Verbatim : "parfois je pense directement en anglais. Du coup, je formule ma question en anglais et je l’écris comme ça"
+- Code 3 : Satisfaction variable selon la langue
+  - Verbatim : "des fois, ça me vient en français, et là, je suis pas trop satisfaite des résultats"
+- Code 4 : Impact de la fatigue sur le choix de la langue
+  - Verbatim : "si je suis trop fatiguée et que j’arrive plus à suivre en anglais, là je switch en français"
+- Code 5 : Utilité de ChatGPT pour la traduction
+  - Verbatim : "ChatGPT m’aide à faire le lien entre les mots en anglais et leur équivalent en français"
+- Code 6 : Perception des réponses en fonction de la langue
+  - Verbatim : "J'ai l'impression que quand je parle anglais... les réponses de ChatGPT j'ai pas l'impression que c'est différent"
+- Code 7 : Niveau de formalisme selon la langue
+  - Verbatim : "quand j'utilise l'anglais j'ai l'impression que des fois mes questions c'est plus informel"
+- Code 8 : Adaptation du langage académique
+  - Verbatim : "en français, je fais quand même attention de ne pas être trop familier, pour ne pas être comme si je parlais vraiment à quelqu'un en face-à-face"
+- Code 9 : Expression de politesse
+  - Verbatim : "des fois ça me vient naturellement. Genre, dans ma tête, je me dis 'ah, merci', puis je me reprends en mode 'non, on peut pas écrire ça'"
+- Code 10 : Facilité d'expression en anglais
+  - Verbatim : "je pense qu’en anglais, c’est plus facile pour moi de penser à des trucs comme 'thank you'"
+
+**Thème 3 : Utilisation de ChatGPT pour la génération de contenu visuel**
+- Code 1 : Utilisation pour générer des schémas
+  - Verbatim : "J'ai vu aussi que tu l'as utilisé aussi pour générer des schémas"
+- Code 2 : Insatisfaction avec les résultats
+  - Verbatim : "Pas du tout. Ah non, alors vraiment... C'était catastrophique"
+- Code 3 : Difficulté à représenter les enjeux visuellement
+  - Verbatim : "il n'a pas saisi les enjeux, enfin, plutôt comment les mettre en images"
+- Code 4 : Limites de ChatGPT dans la création visuelle
+  - Verbatim : "Une ca-ta-strophe!"
+- Code 5 : Réactions à la qualité des schémas générés
+  - Verbatim : "Oui, j'imagine bien en voyant les schémas (rire)"
+
+**Thème 4 : Réflexion sur les pratiques et les limites de ChatGPT**
+- Code 1 : Réflexion sur l'utilité de ChatGPT
+  - Verbatim : "c’était plus pour la réflexion, en lisant ce qu’il m’avait dit"
+- Code 2 : Intégration de ChatGPT dans le processus de recherche
+  - Verbatim : "j’ai tout copié-collé dans un document que j’ai appelé 'discussion ChatGPT'"
+- Code 3 : Limites dans la génération de contenu visuel
+  - Verbatim : "C'était catastrophique"
+- Code 4 : Utilité pour la validation des idées
+  - Verbatim : "Je pense que ça m'a un peu confortée"
+- Code 5 : Exploration de nouvelles directions de recherche
+  - Verbatim : "ça m'a donné peut-être aussi d'autres mots-clés que je pouvais creuser"
+- Code 6 : Importance de la langue dans l'interaction
+  - Verbatim : "vu que les sociétés numériques, c'est en anglais"
+- Code 7 : Réflexion sur la formalité du langage
+  - Verbatim : "je fais quand même attention de ne pas être trop familier"
+- Code 8 : Utilisation comme outil de traduction
+  - Verbatim : "ChatGPT m’aide à faire le lien entre les mots en anglais et leur équivalent en français"
+- Code 9 : Perception des limites de ChatGPT
+  - Verbatim : "il n'a pas saisi les enjeux, enfin, plutôt comment les mettre en images"
+- Code 10 : Évaluation globale de l'expérience avec ChatGPT
+  - Verbatim : "En vrai, j’avais déjà ces idées, mais bon..."
+
+**Thème 5 : Stratégies d'adaptation et de gestion de l'interaction avec ChatGPT**
+- Code 1 : Adaptation de la langue en fonction du contexte
+  - Verbatim : "parfois je pense directement en anglais"
+- Code 2 : Gestion de la fatigue lors de l'utilisation
+  - Verbatim : "si je suis trop fatiguée et que j’arrive plus à suivre en anglais, là je switch en français"
+- Code 3 : Stratégie pour maintenir un langage académique
+  - Verbatim : "je fais quand même attention de ne pas être trop familier"
+- Code 4 : Réflexion sur les expressions de politesse
+  - Verbatim : "des fois ça me vient naturellement. Genre, dans ma tête, je me dis 'ah, merci'"
+- Code 5 : Utilisation de ChatGPT pour combler les lacunes linguistiques
+  - Verbatim : "ChatGPT m’aide à faire le lien entre les mots en anglais et leur équivalent en français"
+- Code 6 : Différences dans la formulation des questions
+  - Verbatim : "quand j'utilise l'anglais j'ai l'impression que des fois mes questions c'est plus informel"
+- Code 7 : Réflexion sur la clarté des réponses
+  - Verbatim : "J'ai l'impression que... les réponses de ChatGPT j'ai pas l'impression que c'est différent"
+- Code 8 : Satisfaction variable en fonction de la langue
+  - Verbatim : "des fois, ça me vient en français, et là, je suis pas trop satisfaite des résultats"
+- Code 9 : Importance de la réflexion personnelle
+  - Verbatim : "c’était plus pour la réflexion, en lisant ce qu’il m’avait dit"
+- Code 10 : Évaluation des résultats obtenus avec ChatGPT
+  - Verbatim : "C'était catastrophique"

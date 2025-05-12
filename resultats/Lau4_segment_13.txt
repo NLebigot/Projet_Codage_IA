@@ -1,0 +1,113 @@
+Pour analyser l'entretien donné, je vais suivre la méthode de codage qualitatif en identifiant les thèmes et les codes associés aux verbatim de l'enquêté(e). Voici mon analyse :
+
+### Thème 1 : Perception de l'usage de ChatGPT dans le travail académique
+- Code 1 : Utilité de ChatGPT
+- Verbatim : "c'est justement ce qui me fait gagner du temps"
+- Code 2 : Qualité du travail
+- Verbatim : "le texte sera moins bon"
+- Code 3 : Compensation pour les limitations
+- Verbatim : "je cherche à l'améliorer"
+- Code 4 : Alternative à ChatGPT
+- Verbatim : "je ne vais pas rendre ça, de toute façon je vais faire l'effort de relire moins"
+- Code 5 : Auto-évaluation
+- Verbatim : "je pense que j'arrive de toute façon à arriver à ce que je veux quand même avec ou sans Chat GPT"
+- Code 6 : Gain de temps
+- Verbatim : "ce qui me fait gagner du temps"
+- Code 7 : Comparaison avec un travail sans ChatGPT
+- Verbatim : "si je n'utilise pas ChatGPT"
+- Code 8 : Impact sur la qualité du travail
+- Verbatim : "pas la même qualité qu'un texte finalisé par moi uniquement"
+- Code 9 : Satisfaction
+- Verbatim : "j'en suis bien contente"
+- Code 10 : Adaptation
+- Verbatim : "je vais faire l'effort de relire moins"
+
+### Thème 2 : Rôle de ChatGPT dans la compréhension des tâches académiques
+- Code 1 : Perception du rôle de ChatGPT
+- Verbatim : "Ça ne joue pas vraiment de rôle là-dessus"
+- Code 2 : Compétences académiques
+- Verbatim : "Mes capacités académiques... restent les mêmes"
+- Code 3 : Utilité perçue
+- Verbatim : "c'est vraiment du confort, mais qui n'est pas lié à mes compétences"
+- Code 4 : Facilitation
+- Verbatim : "pour m'éviter une capacité... qui me demande plus d'effort"
+- Code 5 : Auto-évaluation des compétences
+- Verbatim : "je sais que je peux m'en passer"
+- Code 6 : Distinction entre confort et compétence
+- Verbatim : "c'est un plus, c'est vraiment du confort"
+- Code 7 : Impact sur les compétences
+- Verbatim : "je n'ai pas l'impression que ça influence mes capacités académiques"
+- Code 8 : Utilisation comme outil
+- Verbatim : "quand je dis que c'est un plus"
+- Code 9 : Limitations reconnues
+- Verbatim : "je ne sais pas si je m'explique clairement"
+- Code 10 : Perception de l'aide
+- Verbatim : "c'est une... Comment dire ? une capacité académique qui me demande plus d'effort"
+
+### Thème 3 : Formation académique et utilisation de ChatGPT
+- Code 1 : Acquisition des compétences avant ChatGPT
+- Verbatim : "j'ai quand même cette impression d'avoir acquis mes compétences académiques sans aide"
+- Code 2 : Utilisation de ChatGPT en master
+- Verbatim : "en master j'ai découvert que ça pouvait m'aider"
+- Code 3 : Complémentarité de ChatGPT
+- Verbatim : "mais pas remplacer un apprentissage de l'université"
+- Code 4 : Perception de la formation
+- Verbatim : "ma formation s'est faite sans"
+- Code 5 : Valeur ajoutée de ChatGPT
+- Verbatim : "ça pouvait m'aider"
+- Code 6 : Limite de ChatGPT
+- Verbatim : "pas remplacer un apprentissage de l'université"
+- Code 7 : Précédent académique
+- Verbatim : "ayant fait tout mon bachelor sans"
+- Code 8 : Évolution de l'usage
+- Verbatim : "j'ai découvert que ça pouvait m'aider"
+- Code 9 : Complémentarité
+- Verbatim : "m'aider, mais pas remplacer"
+- Code 10 : Perception de l'apprentissage
+- Verbatim : "j'ai acquis mes compétences académiques sans aide"
+
+### Thème 4 : Évaluation de l'impact de ChatGPT sur le parcours académique
+- Code 1 : Évaluation globale
+- Verbatim : "je pense avoir quand même compris les bases de ce qu'on attend à l'université"
+- Code 2 : Auto-évaluation positive
+- Verbatim : "je pense avoir compris sans ces trucs-là"
+- Code 3 : Perception de l'indépendance
+- Verbatim : "ayant acquis mes compétences académiques sans aide"
+- Code 4 : Distinction entre outils et compétences
+- Verbatim : "c'est un plus, c'est vraiment du confort"
+- Code 5 : Perception de la formation comme non terminée
+- Verbatim : "Ma formation, elle n'est pas terminée"
+- Code 6 : Évaluation de l'usage de ChatGPT
+- Verbatim : "j'ai découvert que ça pouvait m'aider"
+- Code 7 : Perception de la capacité à travailler sans ChatGPT
+- Verbatim : "je sais que je peux m'en passer"
+- Code 8 : Compréhension des attentes universitaires
+- Verbatim : "j'ai compris les bases de ce qu'on attend à l'université"
+- Code 9 : Indépendance dans le travail académique
+- Verbatim : "j'ai acquis mes compétences académiques sans aide"
+- Code 10 : Perception positive de l'expérience
+- Verbatim : "je pense avoir compris sans ces trucs-là"
+
+### Thème 5 : Manière d'utiliser ChatGPT dans le processus de travail
+- Code 1 : Moment d'utilisation
+- Verbatim : "en fin de travail"
+- Code 2 : Usage pour la relecture
+- Verbatim : "notamment pour tes relectures"
+- Code 3 : Utilisation en amont
+- Verbatim : "soit avant de travailler, soit au tout début"
+- Code 4 : Usage spécifique pour la reformulation
+- Verbatim : "tu pourrais directement ne pas utiliser Chat GPT, toi même reformuler"
+- Code 5 : Flexibilité dans l'usage
+- Verbatim : "je pense que j'arrive de toute façon à arriver à ce que je veux quand même avec ou sans Chat GPT"
+- Code 6 : Évaluation de l'utilité
+- Verbatim : "c'est un plus, c'est vraiment du confort"
+- Code 7 : Reconnaissance des limites
+- Verbatim : "pas la même qualité qu'un texte finalisé par moi uniquement"
+- Code 8 : Usage complémentaire
+- Verbatim : "pour m'éviter une capacité... qui me demande plus d'effort"
+- Code 9 : Perception de l'outil
+- Verbatim : "c'est un plus"
+- Code 10 : Adaptabilité
+- Verbatim : "je vais faire l'effort de relire moins"
+
+Chaque thème regroupe des codes qui s'insèrent dans une logique cohérente, permettant d'explorer différentes facettes de l'utilisation de ChatGPT par l'enquêté(e) dans son parcours académique.

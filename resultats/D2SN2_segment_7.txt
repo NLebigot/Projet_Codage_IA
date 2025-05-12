@@ -1,0 +1,111 @@
+**Analyse de l'entretien : Utilisation de ChatGPT et perceptions sociétales**
+
+### Thème 1 : Préoccupations environnementales et éthiques liées à l'utilisation de ChatGPT
+- Code 1 : Préoccupation écologique
+  - Verbatim : "Bah moi le premier problème c'est l'écologie. Parce que ça pollue énormément."
+- Code 2 : Utilisation responsable
+  - Verbatim : "Je me dis en vrai c'est con parce que je pourrais le faire moi-même peut-être parfois et ça polluerait moins."
+- Code 3 : Conscience de l'impact environnemental
+  - Verbatim : "Donc ça c'est mon plus gros problème avec chat GPT . C'est pour ça que ça fait quelques temps je me dis faut que j'arrête de l'utiliser un peu pour la planète surtout qu'on l'utilise de plus en plus et ça risque d'être un petit désastre écologique."
+- Code 4 : Éthique personnelle
+  - Verbatim : "Mais ça c'est moi, c'est mon éthique personnelle. Après, je vais pas juger quelqu'un qui le fait."
+- Code 5 : Limite d'utilisation
+  - Verbatim : "Pour moi, c'est pas OK, si je lui dis 'Est-ce que tu peux me faire un paragraphe de 300 mots ?' et je lui donne mon sujet et il le fait et je je relis juste, alors que j'ai pas de connaissance."
+- Code 6 : Valeur de l'apprentissage personnel
+  - Verbatim : "Je suis en mode 'Ah, est-ce qu'il faut que j'apprenne par moi-même ou est-ce qu'il faut que je laisse'."
+- Code 7 : Différenciation entre utilisation et triche
+  - Verbatim : "Non parce que je ne l'utilise pas en mode triche en fait. Donc au final c'est toujours mon travail par moi-même."
+- Code 8 : Contextualisation de l'utilisation
+  - Verbatim : "Euh je pense que c'est acceptable quand on lui demande de nous expliquer des trucs."
+- Code 9 : Utilisation pour la relecture
+  - Verbatim : "Je pense que c'est acceptable pour lui demander de nous relire."
+- Code 10 : Préoccupation pour la protection des données personnelles
+  - Verbatim : "Il ne sait pas où j'habite, ma famille, mes trucs même moi mon caractère."
+
+### Thème 2 : Perception et utilisation de ChatGPT par les pairs
+- Code 1 : Variabilité dans l'utilisation
+  - Verbatim : "Non, il y a pas de méthode très claire. Après moi, il y en a beaucoup qui l'utilisent pas du tout."
+- Code 2 : Compétence dans l'utilisation de ChatGPT
+  - Verbatim : "Donc qui font tout sans chat GPT parce que ils ont toujours fait sans chat GPT et ils réussissent très bien."
+- Code 3 : Expertise dans l'utilisation
+  - Verbatim : "Et après sinon les autres que je connais, c'est ceux qui savent très très bien l'utiliser ."
+- Code 4 : Connaissance technique
+  - Verbatim : "Bah qui sont hyper informés sur les logiciels qui marchent. Quel logiciel fait quoi etc et comment."
+- Code 5 : Utilisation experte
+  - Verbatim : "Moi j'ai un pote qui m'impressionne à chaque fois mais une de tes camarades doit l'avoir en entretien donc elle verra."
+- Code 6 : Importance de la formulation
+  - Verbatim : "Et en fait pareil on sait que la manière dont tu lui parles, il faut utiliser un certain type de vocabulaire pour qu'il te réponde en envoyant ton vocabulaire."
+- Code 7 : Impact de la qualité de la question sur la réponse
+  - Verbatim : "Par exemple, si tu parles, tu poses une question qui est mal écrite, pleine de fautes, bah il va avoir tendance à faire ses recherches dans des endroits qui sont mal écrits et plein de fautes."
+- Code 8 : Utilisation appropriée du vocabulaire
+  - Verbatim : "Faut savoir quel vocabulaire, un vocabulaire neutre et précis pour qu'il te réponde de manière neutre et précise."
+- Code 9 : Neutralité de ChatGPT
+  - Verbatim : "Chat GPT par contre, il est hyper neutre."
+- Code 10 : Utilisation pour améliorer la qualité du travail
+  - Verbatim : "Et là moi je suis en mode bon là moi je vais trancher mais dans ma copie il le saura pas."
+
+### Thème 3 : Cadre d'utilisation acceptable de ChatGPT
+- Code 1 : Explication et apprentissage
+  - Verbatim : "Euh je pense que c'est acceptable quand on lui demande de nous expliquer des trucs."
+- Code 2 : Relecture et correction
+  - Verbatim : "Je pense que c'est acceptable pour lui demander de nous relire."
+- Code 3 : Résumé de documents
+  - Verbatim : "Je lui donne des documents et je lui demande d'en faire des résumés et tout. Ça c'est bon."
+- Code 4 : Limites de l'utilisation acceptable
+  - Verbatim : "Pour moi, c'est pas OK, si je lui dis 'Est-ce que tu peux me faire un paragraphe de 300 mots ?' et je lui donne mon sujet et il le fait."
+- Code 5 : Éthique de l'utilisation
+  - Verbatim : "Mais ça c'est moi, c'est mon éthique personnelle."
+- Code 6 : Non-jugement des autres utilisateurs
+  - Verbatim : "Après, je vais pas juger quelqu'un qui le fait."
+- Code 7 : Danger de la dépendance
+  - Verbatim : "C'est juste que c'est plus dangereux pour lui parce que c'est là où il y a des erreurs."
+- Code 8 : Valeur de l'effort personnel
+  - Verbatim : "Je suis en mode 'Ah, est-ce qu'il faut que j'apprenne par moi-même ou est-ce qu'il faut que je laisse'."
+- Code 9 : Contextualisation de l'acceptabilité
+  - Verbatim : "Ça dépend du contexte, quoi."
+- Code 10 : Personnalisation de l'utilisation
+  - Verbatim : "Donc au final c'est toujours mon travail par moi-même et si je demande pas chat GPT , je fais les recherches sur internet quoi."
+
+### Thème 4 : Interaction avec ChatGPT et perception de son fonctionnement
+- Code 1 : Interaction basée sur le vocabulaire
+  - Verbatim : "Et en fait pareil on sait que la manière dont tu lui parles, il faut utiliser un certain type de vocabulaire pour qu'il te réponde."
+- Code 2 : Impact de la formulation sur les résultats
+  - Verbatim : "Par exemple, si tu parles, tu poses une question qui est mal écrite, pleine de fautes, bah il va avoir tendance à faire ses recherches dans des endroits qui sont mal écrits et plein de fautes."
+- Code 3 : Importance d'un vocabulaire neutre et précis
+  - Verbatim : "Faut savoir quel vocabulaire, un vocabulaire neutre et précis pour qu'il te réponde de manière neutre et précise."
+- Code 4 : Neutralité perçue de ChatGPT
+  - Verbatim : "Chat GPT par contre, il est hyper neutre."
+- Code 5 : Utilisation pour obtenir des retours
+  - Verbatim : "Et là moi je suis en mode bon là moi je vais trancher mais dans ma copie il le saura pas."
+- Code 6 : Limitations dans la compréhension de l'utilisateur
+  - Verbatim : "Il ne sait pas où j'habite, ma famille, mes trucs même moi mon caractère."
+- Code 7 : Perception de la capacité de ChatGPT à apprendre de l'utilisateur
+  - Verbatim : "Il apprend la pensée de Spinoza et Durkheim mais sur moi, il apprend pas tant que ça."
+- Code 8 : Utilisation pour des tâches spécifiques
+  - Verbatim : "Je lui fais relire des trucs qui donnent pas des infos sur moi."
+- Code 9 : Évaluation de la qualité des réponses
+  - Verbatim : "Donc par exemple mon mémoire de recherche il l'a pas."
+- Code 10 : Personnalisation de l'interaction
+  - Verbatim : "Moi j'ai un pote qui m'impressionne à chaque fois."
+
+### Thème 5 : Formation et règles d'utilisation de ChatGPT dans le contexte académique
+- Code 1 : Absence de règles claires
+  - Verbatim : "Non, il y a pas de méthode très claire."
+- Code 2 : Variabilité dans les pratiques des étudiants
+  - Verbatim : "Après moi, il y en a beaucoup qui l'utilisent pas du tout."
+- Code 3 : Réussite sans ChatGPT
+  - Verbatim : "Donc qui font tout sans chat GPT parce que ils ont toujours fait sans chat GPT et ils réussissent très bien."
+- Code 4 : Utilisation experte parmi les pairs
+  - Verbatim : "Et après sinon les autres que je connais, c'est ceux qui savent très très bien l'utiliser ."
+- Code 5 : Connaissance et compétence
+  - Verbatim : "Bah qui sont hyper informés sur les logiciels qui marchent."
+- Code 6 : Compétition ou émulation
+  - Verbatim : "Moi j'ai un pote qui m'impressionne à chaque fois."
+- Code 7 : Partage de connaissances et d'expériences
+  - Verbatim : "Mais une de tes camarades doit l'avoir en entretien donc elle verra."
+- Code 8 : Communauté d'utilisateurs
+  - Verbatim : "Et en fait pareil on sait que la manière dont tu lui parles."
+- Code 9 : Échange sur les meilleures pratiques
+  - Verbatim : "Faut savoir quel vocabulaire, un vocabulaire neutre et précis."
+- Code 10 : Intégration dans les pratiques académiques
+  - Verbatim : "Je lui fais relire des trucs."

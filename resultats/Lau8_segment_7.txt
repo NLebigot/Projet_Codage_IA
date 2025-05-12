@@ -1,0 +1,105 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Attentes et déception**
+ - Code 1 : Attentes élevées
+ - Verbatim : "je m'attendais à ce qu'il fasse vraiment des schémas, genre dessinés"
+ - Code 2 : Déception face aux résultats
+ - Verbatim : "ça m'a un peu déçue"
+ - Code 3 : Incompréhension des résultats
+ - Verbatim : "je comprenais rien"
+ - Code 4 : Manque de clarté
+ - Verbatim : "je me disais, mais qu'est-ce que c'est que ce truc ?"
+ - Code 5 : Utilisation limitée
+ - Verbatim : "je l'ai vite laissé de côté"
+ - Code 6 : Attentes non satisfaites
+ - Verbatim : "je pense que j'avais des attentes un peu poussées"
+ - Code 7 : Résultats non conformes aux attentes
+ - Verbatim : "il ne va pas dessiner un truc"
+ - Code 8 : Différence entre attentes et réalité
+ - Verbatim : "il génère des images. Enfin, il combine des choses"
+ - Code 9 : Frustration
+ - Verbatim : "je comprenais rien, donc je l'ai vite laissé de côté"
+ - Code 10 : Déception due au manque de compréhension
+
+**Thème 2 : Stratégies d'apprentissage**
+ - Code 1 : Utilisation de ressources alternatives
+ - Verbatim : "j'ai essayé de comprendre par les textes qu'il me donnait"
+ - Code 2 : Combinaison de ressources
+ - Verbatim : "j'ai combiné avec le site internet que j'avais trouvé aussi"
+ - Code 3 : Recherche d'aide
+ - Verbatim : "j'ai été chercher de l'aide ailleurs du coup ?"
+ - Code 4 : Utilisation de l'outil pour générer des exercices
+ - Verbatim : "je lui avais demandé une série d'exercices"
+ - Code 5 : Idée inspirée d'un tiers
+ - Verbatim : "cette idée m'est venue d'une amie avec qui je fais le master"
+ - Code 6 : Essai de mise en pratique
+ - Verbatim : "j'ai essayé de comprendre par les textes qu'il me donnait"
+ - Code 7 : Difficultés rencontrées
+ - Verbatim : "je comprenais vraiment pas les données"
+ - Code 8 : Incertitude
+ - Verbatim : "je savais pas s'il me fallait un logiciel Java sur mon ordi pour tester les codes"
+ - Code 9 : Exploration de solutions
+ - Verbatim : "j'ai été sur un site pour taper du code"
+ - Code 10 : Limite de l'outil
+
+**Thème 3 : Perception de l'enseignement**
+ - Code 1 : Cours théoriques
+ - Verbatim : "on apprend des concepts, des trucs un peu flous"
+ - Code 2 : Manque de pratique
+ - Verbatim : "on ne fait pas d'exercice, de code"
+ - Code 3 : Désir de mise en pratique
+ - Verbatim : "je voulais essayer de comprendre en fait, mettre en pratique ce que j'apprends en cours"
+ - Code 4 : Perception de l'inutilité de certains concepts
+ - Verbatim : "je sais pas trop à quoi ça sert"
+ - Code 5 : Demande d'exercices pour comprendre
+ - Verbatim : "je lui avais demandé des exercices pour essayer de comprendre à quoi ça peut ressembler dans la pratique"
+ - Code 6 : Contraste entre théorie et pratique
+ - Verbatim : "c’est très théorique"
+ - Code 7 : Utilité des exercices
+ - Verbatim : "je voulais voir un peu quelles pourraient être les applications"
+ - Code 8 : Limite de l'enseignement
+ - Verbatim : "les profs ne nous demandent pas ça"
+ - Code 9 : Routine de révision
+ - Verbatim : "ils nous demandent juste de recracher ce qu’on a appris"
+ - Code 10 : Besoin de compléter l'enseignement
+
+**Thème 4 : Examen et préparation**
+ - Code 1 : Examen à livres ouverts
+ - Verbatim : "on avait le droit à ce qu'on voulait, donc on avait le droit aux dias et aux notes"
+ - Code 2 : Préparation à l'examen
+ - Verbatim : "j'étais assez chill"
+ - Code 3 : Utilisation des ressources
+ - Verbatim : "j'ai vraiment que pris mes slides et notes de cours"
+ - Code 4 : Pas d'utilisation de ChatGPT pour l'examen
+ - Verbatim : "mes discussions de Chat GPT, non"
+ - Code 5 : Incertitude sur l'utilité de ChatGPT
+ - Verbatim : "je crois que j'aurais pas su quoi faire avec"
+ - Code 6 : Perception de l'aide apportée
+ - Verbatim : "je ne sais pas si ça m'a aidé à bien être préparée"
+ - Code 7 : Résultats de l'examen
+ - Verbatim : "c'était plus facile que ce que je pensais"
+ - Code 8 : Réussite à l'examen
+ - Code 9 : Pas de résultat à l'époque de l'entretien
+ - Verbatim : "on n'a pas eu les résultats encore"
+ - Code 10 : Perception positive de l'examen
+
+**Thème 5 : Interaction avec l'enquêteur**
+ - Code 1 : Partage de connaissances
+ - Verbatim : "je peux te conseiller Visual Studio Code, ou VS Code"
+ - Code 2 : Explication
+ - Verbatim : "c’est un logiciel et tu peux installer ça et après tu peux coder dessus"
+ - Code 3 : Interaction positive
+ - Verbatim : "ok, mais ça te fait des pages ?"
+ - Code 4 : Démonstration
+ - Verbatim : "attends, si tu veux, je peux te montrer"
+ - Code 5 : Curiosité
+ - Verbatim : "mais en fait, on ne fait pas ça, nous, dans notre master"
+ - Code 6 : Différence de parcours
+ - Verbatim : "il n'y a pas de... on apprend juste comment ça fonctionne"
+ - Code 7 : Compréhension mutuelle
+ - Verbatim : "je comprends"
+ - Code 8 : Clarification
+ - Verbatim : "mais du coup, pourquoi tu voulais coder ?"
+ - Code 9 : Explication de la démarche
+ - Verbatim : "je voulais essayer de comprendre en fait, mettre en pratique ce que j'apprends en cours"
+ - Code 10 : Échange instructif

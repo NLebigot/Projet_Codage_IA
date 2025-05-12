@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from groq import Groq
 import PyPDF2
 
-# Charger la clé API
+# Charger la clé API depuis le fichier .env
 load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
 if not api_key:

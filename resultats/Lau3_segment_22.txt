@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant la méthode de codage qualitatif demandée :
+
+### Thème 1 : Perception et Utilisation de l'IA dans le Milieu Éducatif
+- Code 1 : Perception négative de l'utilisation de ChatGPT
+  - Verbatim : "C'est mal vu, c'est même plus que mal vu, c'est juste... Comme j'ai dit, c'est un accord commun."
+- Code 2 : Règle tacite contre l'utilisation de ChatGPT
+  - Verbatim : "On n'utilise pas de chat GPT pour faire un travail."
+- Code 3 : Différence d'approche entre établissements éducatifs
+  - Verbatim : "J'ai l'impression qu'à l'HEP, c'est différent."
+- Code 4 : Utilisation de l'IA pour la création d'images
+  - Verbatim : "C'est très bon pour créer des images qui ne servent pas à un but de renseigner sur un sujet, mais qui sont là uniquement pour illustrer."
+- Code 5 : Utilisation pédagogique des images générées par l'IA
+  - Verbatim : "Typiquement, j'ai un enseignant à l'âge peu même qui utilise beaucoup d'images pour illustrer simplement un audio qui nous passe."
+- Code 6 : Intérêt pédagogique de l'IA
+  - Verbatim : "Ça aide parce qu'on nous apprend par exemple à l'HEP que les élèves sont beaucoup plus stimulés si tu fais un mélange de mots et d'images."
+- Code 7 : Limite de l'utilisation de l'IA
+  - Verbatim : "Mais l'image ne sert à rien en soi, elle sert à juste être là."
+- Code 8 : Danger potentiel de l'IA
+  - Verbatim : "Si elles servent à des fins politiques ou à des fins de transformation de la vérité, etc., là, encore une fois, l'IA est dangereuse."
+- Code 9 : Condition d'utilisation acceptable de l'IA
+  - Verbatim : "Les images ne doivent jamais, en aucun cas, servir à autre chose que l'illustration."
+- Code 10 : Perception variée de l'impact créatif de l'IA
+  - Verbatim : "Oui et non."
+
+### Thème 2 : Règles et Pratiques autour de l'Utilisation de ChatGPT
+- Code 1 : Absence de règle précise sur l'utilisation de ChatGPT
+  - Verbatim : "En tout cas, en lettre, c'est parce que c'est tellement d'actualité qu'il n'y a pas de règle précise là-dessus."
+- Code 2 : Accord commun contre l'utilisation de ChatGPT
+  - Verbatim : "C'est tellement nouveau et tellement invérifiable qu'il n'y a pas forcément de règle dessus. Mais c'est une sorte d'accord commun."
+- Code 3 : Pratique effective des enseignants à l'égard de ChatGPT
+  - Verbatim : "J'ai jamais eu un prof qui m'a dit « n'utilisez pas ChatGPT »."
+- Code 4 : Différence de politique entre les établissements
+  - Verbatim : "J'ai l'impression que c'est mal vu en général. Pas juste à l'HEP."
+- Code 5 : Flexibilité dans l'application des règles
+  - Verbatim : "En fait, c'est pas mal vu à l'HEP."
+- Code 6 : Cas d'utilisation autorisée par les enseignants
+  - Verbatim : "Mon prof m'a demandé à la classe d'utiliser le chat du BTS."
+- Code 7 : Perception d'une règle tacite
+  - Verbatim : "Il y a une règle tacite, donc... Je trouve, ouais."
+- Code 8 : Pratiques divergentes au sein des établissements
+  - Verbatim : "Mais à l'HEP, c'est genre, c'est mal vu, mais tout le monde l'utilise."
+- Code 9 : Impact de la nouveauté de l'outil sur les règles
+  - Verbatim : "C'est tellement nouveau qu'il n'y a pas de règle précise."
+- Code 10 : Rôle de l'institution dans la définition des règles
+  - Verbatim : "À l'HEP, il n'y a pas ce genre de choses-là."
+
+### Thème 3 : Impact Pédagogique et Créatif de l'IA
+- Code 1 : Stimulation des élèves par les contenus multimédias
+  - Verbatim : "Les élèves sont beaucoup plus stimulés si tu fais un mélange de mots et d'images."
+- Code 2 : Utilisation de l'IA pour la création de contenu pédagogique
+  - Verbatim : "ChatGPT pourrait être intéressant juste à ce niveau-là, simplement pour trouver des images à illustrer qui seraient gratuites."
+- Code 3 : Rôle de l'image dans l'apprentissage
+  - Verbatim : "Le fait d'avoir à regarder quelque chose fait qu'ils sont peut-être plus entraînés par la tâche en elle-même."
+- Code 4 : Limite de l'utilisation créative de l'IA
+  - Verbatim : "Mais cette image, elle ne sert à rien."
+- Code 5 : Utilisation de l'IA pour des tâches spécifiques
+  - Verbatim : "Ils cèdent beaucoup justement pour faire ces exercices, pour potentiellement créer des images aussi."
+- Code 6 : Intérêt de l'IA pour la génération d'images
+  - Verbatim : "C'est très bon pour créer des images qui ne servent pas à un but de renseigner sur un sujet."
+- Code 7 : Perception mitigée de l'apport créatif de l'IA
+  - Verbatim : "Oui et non."
+- Code 8 : Condition pour une utilisation pédagogique efficace
+  - Verbatim : "L'image ne sert à rien en soi, elle sert à juste être là."
+- Code 9 : Potentiel de l'IA pour enrichir l'enseignement
+  - Verbatim : "Ça aide d'une manière ludique."
+- Code 10 : Nécessité de contrôler l'usage de l'IA
+  - Verbatim : "Si elles servent à des fins politiques ou à des fins de transformation de la vérité, etc., là, encore une fois, l'IA est dangereuse."
+
+### Thème 4 : Risques et Limites de l'Utilisation de l'IA
+- Code 1 : Risque de manipulation par l'IA
+  - Verbatim : "Si elles servent à des fins politiques ou à des fins de transformation de la vérité, etc., là, encore une fois, l'IA est dangereuse."
+- Code 2 : Danger potentiel lié à la véracité de l'information
+  - Verbatim : "L'IA est dangereuse si elle sert à des fins de transformation de la vérité."
+- Code 3 : Nécessité de contrôle et de vigilance
+  - Verbatim : "Ça fait beaucoup d'éléments dangereux."
+- Code 4 : Limite de l'IA dans la génération de contenu
+  - Verbatim : "Les images ne doivent jamais, en aucun cas, servir à autre chose que l'illustration."
+- Code 5 : Risque d'utilisation détournée
+  - Verbatim : "Si on génère une image pour montrer, ça aide d'une manière ludique, mais..."
+- Code 6 : Perception du danger lié à l'IA
+  - Verbatim : "L'IA est dangereuse."
+- Code 7 : Importance de la contextualisation de l'IA
+  - Verbatim : "Il faut être prudent avec l'utilisation de l'IA."
+- Code 8 : Limite éthique de l'utilisation de l'IA
+  - Verbatim : "Il y a une règle tacite, donc... Je trouve, ouais."
+- Code 9 : Risque lié à la dépendance à l'IA
+  - Verbatim : "On n'utilise pas de chat GPT pour faire un travail."
+- Code 10 : Nécessité d'une réflexion éthique autour de l'IA
+  - Verbatim : "On pourrait discuter d'un point de vue politique des répercussions que ça pourrait avoir."
+
+### Thème 5 : Contextualisation de l'Utilisation de l'IA dans l'Éducation
+- Code 1 : Évolution des pratiques éducatives avec l'IA
+  - Verbatim : "C'est tellement d'actualité qu'il n'y a pas de règle précise là-dessus."
+- Code 2 : Nouveauté de l'IA et implications éducatives
+  - Verbatim : "C'est tellement nouveau et tellement invérifiable."
+- Code 3 : Adaptation des enseignants aux nouvelles technologies
+  - Verbatim : "Les enseignants cèdent beaucoup justement pour faire ces exercices."
+- Code 4 : Intégration de l'IA dans les pratiques pédagogiques
+  - Verbatim : "ChatGPT pourrait être intéressant pour trouver des images."
+- Code 5 : Rôle de l'institution dans l'encadrement de l'IA
+  - Verbatim : "À l'HEP, il n'y a pas ce genre de choses-là."
+- Code 6 : Variabilité des approches pédagogiques face à l'IA
+  - Verbatim : "J'ai l'impression qu'à l'HEP, c'est différent."
+- Code 7 : Impact de l'IA sur les méthodes d'enseignement
+  - Verbatim : "On nous apprend à l'HEP que les élèves sont beaucoup plus stimulés si tu fais un mélange de mots et d'images."
+- Code 8 : Perception de la nécessité d'une réglementation
+  - Verbatim : "Il n'y a pas de règle précise."
+- Code 9 : Contexte d'utilisation de l'IA dans l'éducation
+  - Verbatim : "En fait, c'est pas mal vu à l'HEP."
+- Code 10 : Diversité des expériences avec l'IA dans l'éducation
+  - Verbatim : "J'ai jamais eu un prof qui m'a dit « n'utilisez pas ChatGPT »."

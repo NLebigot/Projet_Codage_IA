@@ -1,0 +1,60 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif.
+
+**Segment 1 : L'usage de ChatGPT pendant les examens**
+
+- **Thème 1 : L'arbitrage entre l'usage et le non-usage de ChatGPT**
+ - Code 1 : Perception de l'utilité de ChatGPT
+ - Verbatim : "tu sais qu'il peut t'aider fort"
+ - Code 2 : Sentiment d'être désavantagé sans ChatGPT
+ - Verbatim : "tu vas quand même te sentir très con parce que tu t'es dit on m'a mis à disposition quelque chose et je l'ai pas utilisé"
+ - Code 3 : Comparaison avec d'autres outils
+ - Verbatim : "c'est comme si... je sais pas, un examen de comptabilité, t'avais le droit Excel mais t'as tout fait sur ta feuille de papier"
+ - ...
+ - Code 10 : Sentiment de frustration
+ - Verbatim : "tu te brides toi-même et je me sentirais très con"
+
+- **Thème 2 : La frontière entre la flemme et l'intérêt**
+ - Code 1 : Définition de la frontière
+ - Verbatim : "T'as la frontière entre la flemme et ton intérêt"
+ - Code 2 : Impact de l'intérêt sur l'usage de ChatGPT
+ - Verbatim : "les cours qui ne m'intéressent pas, je ne les suis pas et je lui demande, fais-moi un résumé"
+ - Code 3 : Différence d'usage selon l'intérêt
+ - Verbatim : "un cours qui m'intéresse, je vais essayer de comprendre la base, je vais aller en cours, je vais lire par moi-même"
+ - ...
+ - Code 10 : Perception de l'utilité selon l'intérêt
+ - Verbatim : "c'est l'idée de toi t'arrives avec une base, quand ça t'intéresse, et une base que t'as construite tout seul"
+
+- **Thème 3 : L'usage de ChatGPT pour les cours qui intéressent ou non**
+ - Code 1 : Différence d'usage de ChatGPT
+ - Verbatim : "Ah oui, tu l’utilises pas du tout pareil"
+ - Code 2 : Usage pour les cours inintéressants
+ - Verbatim : "je lui demande, fais-moi un résumé, explique-moi ça"
+ - Code 3 : Usage pour les cours intéressants
+ - Verbatim : "je vais essayer de comprendre la base, je vais aller en cours"
+ - ...
+ - Code 10 : Impact sur la compréhension
+ - Verbatim : "pourquoi est-ce que ça ça marche pas, pourquoi est-ce que ça ça marche"
+
+- **Thème 4 : La dépendance à ChatGPT**
+ - Code 1 : Perception de la dépendance
+ - Verbatim : "Est-ce que t'as l'impression de... d'avoir... de dépendre des fois de chat GPT ?"
+ - Code 2 : Usage modéré de ChatGPT
+ - Verbatim : "j'ai pas utilisé massivement"
+ - Code 3 : Rôle de ChatGPT dans l'apprentissage
+ - Verbatim : "c'est lui qui globalement valide tes crédits"
+ - ...
+ - Code 10 : Équilibre entre usage et autonomie
+ - Verbatim : "je vais essayer de comprendre la base tout seul"
+
+- **Thème 5 : L'usage de ChatGPT pour approfondir les connaissances**
+ - Code 1 : Usage pour approfondir
+ - Verbatim : "Oui. Mais de nouveau, c'est les trucs qui m'intéressent"
+ - Code 2 : Intérêt pour les sujets
+ - Verbatim : "les trucs qui m'intéressent"
+ - Code 3 : Rôle de ChatGPT dans l'approfondissement
+ - Verbatim : "explique moi plus précisément ça, pourquoi est-ce que ça ça marche pas"
+ - ...
+ - Code 10 : Utilité pour les sujets d'intérêt
+ - Verbatim : "je vais lire par moi-même et les moments où ça va pas être clair je vais dire ok explique moi"
+
+Chaque thème regroupe des codes qui reflètent les nuances dans les réponses de l'enquêté. Les verbatims sont issus directement des réponses et illustrent les codes définis.

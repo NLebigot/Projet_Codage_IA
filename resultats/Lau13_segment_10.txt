@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Dépendance à l'outil**
+- Code 1 : Sentiment de dépendance
+ - Verbatim : "Je suis un peu un menteur. J'en suis arrivé à ce point-là mais typiquement pour le C++."
+- Code 2 : Conscience de la dépendance
+ - Verbatim : "tu sais que tout repose sur les épaules de quelqu'un d'autre"
+- Code 3 : Inquiétude face à la dépendance
+ - Verbatim : "C'est pas un sentiment agréable."
+- Code 4 : Analogie avec d'autres situations de dépendance
+ - Verbatim : "C'est un peu comme quand tu passes de conduire tout le temps avec ton moniteur d'auto-école et que d'un coup t'as ton permis et que t'es tout seul."
+- Code 5 : Sentiment d'insécurité
+ - Verbatim : "t'as l'impression de... de pas être en sécurité, t'es pas serein."
+- Code 6 : Stress lié à la dépendance
+ - Verbatim : "T'as... t'as... t'as une peur. C'est un peu un stress différent que avant un examen"
+- Code 7 : Manque de contrôle
+ - Verbatim : "si Chat GPT marche pas t'es cuit, tu vois."
+- Code 8 : Conscience du risque
+ - Verbatim : "S'il y a un problème qui vient de... qui vient de lui, enfin... de l’IA t’es cuit."
+- Code 9 : Sentiment de vulnérabilité
+ - Verbatim : "t'as un deuxième pédalier pour te rattraper et à partir du moment où il disparaît totalement c'est tout sur toi."
+- Code 10 : Impact sur la confiance en soi
+ - Verbatim : "tu sais que toi tu peux rien faire tout seul."
+
+**Thème 2 : Impact sur le stress**
+- Code 1 : Réduction du stress
+ - Verbatim : "j'pense que t'as un niveau typique de stress qui est plus bas parce que t'es en mode j’ai un rendu dans deux jours t'as un thème que j'ai pas compris, je vais demander à Chat GPT"
+- Code 2 : Changement de référence pour le stress
+ - Verbatim : "C'est un peu comme si ça avait... Euh... Changer la... La baseline."
+- Code 3 : Nouveau niveau de stress de référence
+ - Verbatim : "Le niveau... Typique de stress."
+- Code 4 : Contexte influençant le stress
+ - Verbatim : "si t'as un cours où t'as rien pris et dans deux jours t'as un rendu, à l'époque ton niveau de stress il est énorme"
+- Code 5 : Comparaison avant/après l'utilisation de l'outil
+ - Verbatim : "Maintenant, j'pense que t'as un niveau typique de stress qui est plus bas"
+- Code 6 : Changement dans la gestion du stress
+ - Verbatim : "parce que t'es en mode j’ai un rendu dans deux jours t'as un thème que j'ai pas compris, je vais demander à Chat GPT et je vais être mieux"
+- Code 7 : Impact positif sur la gestion du stress
+ - Verbatim : "Donc genre ça l'abaisse en général dans des contextes comme ça."
+- Code 8 : Stress différent selon les situations
+ - Verbatim : "C'est un peu un stress différent que avant un examen ou t'as peur de l'examen"
+- Code 9 : Évaluation de l'impact sur le stress
+ - Verbatim : "Est-ce que t'as déjà observé le fait que le Chat GPT, ça a pu réduire ton stress par rapport à un rendu ou par rapport à une révision d'un examen"
+- Code 10 : Perception de l'avantage de l'outil
+ - Verbatim : "ouais, mais en fait, genre j'ai... C'est un peu comme si ça avait... Euh... Changer la... La baseline."
+
+**Thème 3 : Changement dans les méthodes de travail**
+- Code 1 : Impact sur la manière de travailler
+ - Verbatim : "Est-ce que du coup t'as observé, genre t'as l'impression que ça a modifié ta manière de travailler ?"
+- Code 2 : Évaluation de l'impact global
+ - Verbatim : "Oui, ouais quand même. Je sais pas, en fait je sais pas trop, c'est un peu flou."
+- Code 3 : Variation selon les cours
+ - Verbatim : "il y a des cours où t'es passé du tout au tout. Mais au global, c'est une petite partie de tes cours."
+- Code 4 : Exemple de cours où l'impact est différent
+ - Verbatim : "Bah typiquement j'avais un cours de SHS où ça avait rien changé."
+- Code 5 : Changement notable dans certains contextes
+ - Verbatim : "il y a des cours où t'es passé du tout au tout"
+- Code 6 : Évaluation nuancée de l'impact
+ - Verbatim : "Pas tant que ça. Au global. Parce qu'il y a plein de cours où ça sert à rien."
+- Code 7 : Différence entre les matières
+ - Verbatim : "Si tu prends un cours par cours, il y a des cours où t'es passé du tout au tout."
+- Code 8 : Utilité variable de l'outil
+ - Verbatim : "il y a plein de cours où ça sert à rien."
+- Code 9 : Exemple concret d'un cours
+ - Verbatim : "j'avais un cours de SHS où ça avait rien changé."
+- Code 10 : Perception de l'impact global sur le travail
+ - Verbatim : "Donc au final, c'est pas... Pas non plus de manière incroyable."
+
+**Thème 4 : Perception de l'outil et analogies**
+- Code 1 : Analogie avec la conduite accompagnée
+ - Verbatim : "C'est un peu comme quand tu passes de conduire tout le temps avec ton moniteur d'auto-école et que d'un coup t'as ton permis et que t'es tout seul."
+- Code 2 : Sentiment d'être en sécurité avec l'outil
+ - Verbatim : "t'as un deuxième pédalier pour te rattraper"
+- Code 3 : Perception de l'outil comme un filet de sécurité
+ - Verbatim : "à partir du moment où il disparaît totalement c'est tout sur toi."
+- Code 4 : Rôle de l'outil dans la réalisation des tâches
+ - Verbatim : "tu sais que tout repose sur les épaules de quelqu'un d'autre"
+- Code 5 : Analogie avec un moniteur d'auto-école
+ - Verbatim : "t'as un moniteur d'auto-école et que d'un coup t'as ton permis"
+- Code 6 : Sentiment de solitude sans l'outil
+ - Verbatim : "et que t'es tout seul."
+- Code 7 : Impact de la disparition de l'outil
+ - Verbatim : "à partir du moment où il disparaît totalement"
+- Code 8 : Perception de l'outil comme un soutien
+ - Verbatim : "t'as un deuxième pédalier pour te rattraper"
+- Code 9 : Rôle de l'outil dans la confiance en soi
+ - Verbatim : "C'est moi. C'est pas une très bonne analogie."
+- Code 10 : Limite de l'analogie
+ - Verbatim : "C'est pas une très bonne analogie."
+
+**Thème 5 : Évolution de l'utilisation de l'outil au fil du cursus**
+- Code 1 : Moment d'apparition de l'outil dans le cursus
+ - Verbatim : "Non. [...] Ouais."
+- Code 2 : Adaptation à l'outil
+ - Verbatim : "Quand t'as commencé l'EPFL, l'utilisation de Chat GPT elle était là ou pas ?"
+- Code 3 : Changement dans l'utilisation au fil du temps
+ - Verbatim : "Est-ce que du coup t'as observé, genre t'as l'impression que ça a modifié ta manière de travailler ?"
+- Code 4 : Évaluation de l'impact de l'outil sur le parcours
+ - Verbatim : "Oui, ouais quand même."
+- Code 5 : Perception de l'outil comme une nouveauté
+ - Verbatim : "Non."
+- Code 6 : Intégration de l'outil dans les habitudes
+ - Verbatim : "Je sais pas, en fait je sais pas trop, c'est un peu flou."
+- Code 7 : Évaluation de l'impact sur le parcours académique
+ - Verbatim : "Pas tant que ça. Au global."
+- Code 8 : Variation de l'impact selon les cours
+ - Verbatim : "il y a des cours où t'es passé du tout au tout."
+- Code 9 : Contexte influençant l'utilisation de l'outil
+ - Verbatim : "il y a plein de cours où ça sert à rien."
+- Code 10 : Perception de l'outil comme un élément nouveau dans le cursus
+ - Verbatim : "quand t'as commencé l'EPFL, l'utilisation de Chat GPT elle était là ou pas ?"

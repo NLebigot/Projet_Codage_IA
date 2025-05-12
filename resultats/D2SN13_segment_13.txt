@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée.
+
+**Segment 1 : L'utilisation de ChatGPT et les citations**
+
+- Thème : Perception de ChatGPT comme un outil
+ - Code 1 : Utilisation de ChatGPT sans citation
+ - Verbatim : "Non, j'ai jamais cité ChatGPT dans mes travaux et j'ai jamais eu l'idée de le faire pour être honnête."
+ - Code 2 : Comparaison avec d'autres outils
+ - Verbatim : "comme on aurait jamais cité genre Google je pense."
+ - Code 3 : Raisons de ne pas citer ChatGPT
+ - Verbatim : "parce que j'utilise genre mon logiciel de traitement texte, bah je vais pas le citer non plus."
+ - Code 4 : Perception de la création de contenu par ChatGPT
+ - Verbatim : "ChatGPT je le vois vraiment comme un outil et vu que pour moi il crée rien"
+ - Code 5 : Impact sur le travail
+ - Verbatim : "c'est vraiment ça qui est important et s'il crée rien bah je vais pas le citer quoi."
+ - Code 6 : Utilisation de métaphores pour décrire ChatGPT
+ - Verbatim : "comme un outil"
+ - Code 7 : Comparaison avec d'autres sources d'information
+ - Verbatim : "quand je prends des articles, je prends mes articles mais je cite pas Cairn."
+ - Code 8 : Neutralité dans l'utilisation
+ - Verbatim : "j'aurais jamais l'idée de citer mes outils"
+ - Code 9 : Acceptation de l'outil comme non-pertinent pour la citation
+ - Verbatim : "je vais pas citer euh je sais pas mes logiciels de traitement de texte"
+ - Code 10 : Perception de l'outil comme non-créateur
+ - Verbatim : "il crée rien"
+
+- Thème : Impact de ChatGPT sur l'apprentissage
+ - Code 1 : Déni de l'impact positif sur l'apprentissage
+ - Verbatim : "non, je pense que franchement comparé à avant ou quand on faisait des recherches Google et qu'on y passait plus de temps, finalement on retenait beaucoup plus d'informations qu'aujourd'hui."
+ - Code 2 : Comparaison avec les méthodes de recherche antérieures
+ - Verbatim : "quand on faisait des recherches Google et qu'on y passait plus de temps"
+ - Code 3 : Manque de rétention de l'information
+ - Verbatim : "Non, en vrai non. Enfin, là, je me souviens que au semestre dernier, je lui ai demandé de faire la biographie d'un auteur. Bah, je saurais rien dire."
+ - Code 4 : Utilisation de ChatGPT pour des tâches spécifiques
+ - Verbatim : "je lui ai demandé de faire la biographie d'un auteur"
+ - Code 5 : Satisfaction du résultat sans apprentissage
+ - Verbatim : "Donc bah je l'ai utilisé, je l'ai mis dans mon rendu, j'ai rendu mon papier et voilà."
+ - Code 6 : Perception de l'effet sur la rétention
+ - Verbatim : "je pense que oui"
+ - Code 7 : Conscience de l'impact sur la manière de travailler
+ - Verbatim : "ça va aussi changer la manière dont les étudiants ils travaillent"
+ - Code 8 : Accord avec l'idée que la rétention était meilleure avant
+ - Verbatim : "C'est vrai ouais ça je suis tout à fait d'accord."
+ - Code 9 : Reconnaissance de l'évolution des habitudes de recherche
+ - Verbatim : "avant comment on faisait le travail par nous-même de scroller par exemple les pages Google"
+ - Code 10 : Validation de l'idée que la répétition aidait à la rétention
+ - Verbatim : "peut-être que ça nous permettait de mieux retenir"
+
+**Segment 2 : Interaction avec ChatGPT et clarification des tâches**
+
+- Thème : Utilisation de ChatGPT pour clarifier les tâches
+ - Code 1 : Utilisation de ChatGPT pour des consignes spécifiques
+ - Verbatim : "je lui mets une consigne, il me fait son écrit et c'est pas du tout ce à quoi je m'attendais."
+ - Code 2 : Interaction avec ChatGPT pour ajuster le résultat
+ - Verbatim : "Du coup, il y a toujours une partie où je me dis 'Ah mais c'est peut-être moi qui ai pas compris la consigne.'"
+ - Code 3 : Direction de ChatGPT vers le résultat escompté
+ - Verbatim : "Et en fait bah après, vu que je connais mes profs et que c'est toujours le même travail en fait qu'on doit faire, bah je lui dis 'Non, tu as pas compris ou formule cette partie-là’"
+ - Code 4 : Perception de la capacité de ChatGPT à comprendre les consignes
+ - Verbatim : "j'hésite pas vraiment à lui dire que ce qu'il fait c'est pas bien et à l'aiguiller."
+ - Code 5 : Familiarité avec les attentes des enseignants
+ - Verbatim : "vu que je connais mes profs et que c'est toujours le même travail en fait qu'on doit faire"
+ - Code 6 : Utilisation de ChatGPT pour des tâches familières
+ - Verbatim : "le rendu c'est toujours la même chose : résumé, points positifs de l'article et points négatifs."
+ - Code 7 : Pas de problèmes de compréhension des consignes
+ - Verbatim : "j'ai jamais en fait j'ai pas de problème à comprendre les consignes."
+ - Code 8 : Perception de ChatGPT comme un outil d'assistance
+ - Verbatim : "il m'a jamais dit mais parce que je lui ai jamais demandé non plus quoi."
+ - Code 9 : Limite dans l'utilisation de ChatGPT pour la compréhension
+ - Verbatim : "Non, après euh je pense qu'il aurait pu mais vu que enfin vraiment nos… on a pas de… par exemple on a pas de partiel"
+ - Code 10 : Routine dans les tâches demandées
+ - Verbatim : "c'est toujours le même travail en fait qu'on doit faire"
+
+- Thème : Rôle de ChatGPT dans la compréhension et la clarification des attentes
+ - Code 1 : Perception du rôle de ChatGPT dans la clarification
+ - Verbatim : "est-ce que tu arrives à équilibrer gain procuré par ChatGPT et apprentissage personnel finalement?"
+ - Code 2 : Limite de ChatGPT dans l'explication des consignes
+ - Verbatim : "il m'a jamais expliqué une consigne initiale que j'avais pas trop comprise"
+ - Code 3 : Interaction avec ChatGPT pour la clarification
+ - Verbatim : "je lui dis 'Non, tu as pas compris ou formule cette partie-là’"
+ - Code 4 : Perception de la capacité de ChatGPT à clarifier
+ - Verbatim : "j'hésite pas vraiment à lui dire que ce qu'il fait c'est pas bien et à l'aiguiller."
+ - Code 5 : Compréhension des limites de ChatGPT
+ - Verbatim : "je lui ai jamais demandé non plus quoi."
+ - Code 6 : Utilisation de ChatGPT pour des tâches spécifiques sans clarification
+ - Verbatim : "je lui ai demandé de faire la biographie d'un auteur."
+ - Code 7 : Perception de l'utilité de ChatGPT dans les tâches routinières
+ - Verbatim : "le rendu c'est toujours la même chose : résumé, points positifs de l'article et points négatifs."
+ - Code 8 : Fiabilité dans l'utilisation de ChatGPT
+ - Verbatim : "j'ai jamais en fait j'ai pas de problème à comprendre les consignes."
+ - Code 9 : Routine dans les tâches demandées à ChatGPT
+ - Verbatim : "c'est toujours le même travail en fait qu'on doit faire"
+ - Code 10 : Acceptation des limites de ChatGPT dans la clarification
+ - Verbatim : "Non, après euh je pense qu'il aurait pu mais vu que enfin vraiment nos…"
+
+Ces thèmes et codes montrent la complexité de l'utilisation de ChatGPT par Léa, notamment dans sa perception de l'outil, son impact sur l'apprentissage, et son rôle dans la clarification des tâches et des attentes.

@@ -1,0 +1,113 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes et verbatims associés. Voici les résultats :
+
+**Thème 1 : Fiabilité de l'IA et production de texte**
+ - Code1 : Incertitude sur la véracité des informations
+ - Verbatim : "Y'a rien inventé, puis... Oui, alors ça, oui, ça tu pourrais dire c'est du ChatGPT, mais ce serait pour te donner un mode..."
+ - Code2 : Mélange de sources
+ - Verbatim : "Mais c'est débile, parce que t'as deux auteurs qui disent l'inverse, qui disent quelque chose, et tu te prends, tu suis dessus du milieu, 100 ans plus tard, qui mixte la mélange des deux, puis qui dit l'inverse de ce que disaient les deux autres avant."
+ - Code3 : Possibilité d'erreurs
+ - Verbatim : "Donc non, ouais, pour moi il faudrait prévenir qu'effectivement c'est une chose qui peut arriver, que l'IA peut se tromper, qu'il peut dire des choses fausses, volontairement ou non, je ne sais pas"
+ - Code4 : Génération de texte
+ - Verbatim : "et puis que l'IA peut générer du texte qui n'est pas de le sien, qui vient d'un article qui est reformulé"
+ - Code5 : Traduction et reformulation
+ - Verbatim : "tu prends un article anglais, tu demandes de le reformuler, ça se trouve il te fait une simple traduction."
+ - Code6 : Référence aux sources originales
+ - Verbatim : "Je cite l'article original"
+ - Code7 : Traduction personnelle
+ - Verbatim : "tu cites le fait que c'est toi même qui a proposé une traduction, tu vas voir."
+ - Code8 : Variabilité dans les pratiques de citation
+ - Verbatim : "Y a pas toujours."
+ - Code9 : Pratiques de citation dans le domaine scientifique
+ - Verbatim : "En tout cas, moi, dans mon domaine des sciences, j'ai rarement fait ça."
+ - Code10 : Simplicité dans la citation
+ - Verbatim : "Je cite l'article, point."
+
+**Thème 2 : Citation et normes de citation**
+ - Code1 : Obligation de citer l'IA
+ - Verbatim : "est-ce que tu serais plutôt pour ou plutôt contre le fait que, par exemple, ce soit une obligation, genre de citer ChatGPT dans les productions?"
+ - Code2 : Indifférence quant à la citation de l'IA
+ - Verbatim : "Ça me t'égale."
+ - Code3 : Normes de citation existantes
+ - Verbatim : "On me demande de citer un article en APA, en Vancouver ou autre, bah tu cites ton article, point barre."
+ - Code4 : Rôle des académiciens dans la définition des normes
+ - Verbatim : "qu'il y ait des gens, académiciens, que ça fasse de la branche intellectuelle, qu'ils définissent une norme, et j'utiliserai leur norme."
+ - Code5 : Spécialisation et division du travail
+ - Verbatim : "Moi mon boulot c'est de faire de la recherche sur l'antibiorésistance, ou sur est-ce que le biogaz ou l'éducation c'est bien."
+ - Code6 : Utilité relative des cours sur la citation
+ - Verbatim : "On m'a donné des cours sur ça en première année d'université, pour autant que ce soit utile, vu que j'ai mis en pratique ça seulement 4 ans plus tard"
+ - Code7 : Existence de références pour la citation
+ - Verbatim : "Il y a des références qui existent pour ça, il y a des gens qui se sont vus, ils ont parlé au travers d'un petit toast sur comment ils allaient faire, et puis voilà."
+ - Code8 : Limites de la responsabilité individuelle
+ - Verbatim : "C'est pas mon boulot de savoir comment est-ce qu'on doit citer un article scientifique"
+ - Code9 : Conformité aux normes établies
+ - Verbatim : "je t'écris, je t'envoie un sms."
+ - Code10 : Expertise et opinion sur la question
+ - Verbatim : "Je sais que moi, c'est pas ma place dans le monde de savoir comment on utilise l'IA."
+
+**Thème 3 : Pratiques académiques et utilisation de l'IA**
+ - Code1 : Utilisation de l'IA dans la recherche
+ - Verbatim : "quand tu parlais justement des textes historiques, ils t'avaient genre inventé de la ref ou mélangé deux refs"
+ - Code2 : Préoccupations relatives à l'intégrité académique
+ - Verbatim : "Donc non, ouais, pour moi il faudrait prévenir qu'effectivement c'est une chose qui peut arriver"
+ - Code3 : Spécificités du domaine de recherche
+ - Verbatim : "dans mon domaine des sciences"
+ - Code4 : Différences dans les pratiques de citation
+ - Verbatim : "Y a pas toujours."
+ - Code5 : Utilité des cours sur les méthodes de recherche
+ - Verbatim : "On m'a donné des cours sur ça en première année d'université"
+ - Code6 : Expérience pratique
+ - Verbatim : "j'ai mis en pratique ça seulement 4 ans plus tard"
+ - Code7 : Perception de l'IA comme un outil
+ - Verbatim : "l'IA peut générer du texte qui n'est pas de le sien"
+ - Code8 : Réflexion sur les implications éthiques
+ - Verbatim : "est-ce que tu serais plutôt pour ou plutôt contre le fait que, par exemple, ce soit une obligation, genre de citer ChatGPT dans les productions?"
+ - Code9 : Perception de la responsabilité
+ - Verbatim : "C'est pas mon boulot de définir ce genre de choses."
+ - Code10 : Attente envers les instances supérieures
+ - Verbatim : "qu'ils définissent une norme, et j'utiliserai leur norme."
+
+**Thème 4 : Attitudes envers la technologie et l'innovation**
+ - Code1 : Réactions mitigées envers l'IA
+ - Verbatim : "Mais c'est débile"
+ - Code2 : Perception de l'IA comme une entité à part
+ - Verbatim : "C'est lui qui l'a dit, c'est pas moi !"
+ - Code3 : Incertitude quant à l'avenir de l'IA
+ - Verbatim : "je ne sais pas"
+ - Code4 : Intérêt pour la recherche
+ - Verbatim : "Moi mon boulot c'est de faire de la recherche"
+ - Code5 : Neutralité face aux changements
+ - Verbatim : "Ça me t'égale."
+ - Code6 : Optimisme quant à l'établissement de normes
+ - Verbatim : "Il y a des références qui existent pour ça"
+ - Code7 : Pragmatisme
+ - Verbatim : "tu cites ton article, point barre."
+ - Code8 : Perception de la complexité de l'IA
+ - Verbatim : "l'IA peut générer du texte qui n'est pas de le sien, qui vient d'un article qui est reformulé"
+ - Code9 : Attente de clarification
+ - Verbatim : "il faudrait prévenir qu'effectivement c'est une chose qui peut arriver"
+ - Code10 : Satisfaction quant aux discussions
+ - Verbatim : "C'est toi qui pose les questions, donc non, c'est bon."
+
+**Thème 5 : Interaction et méthodologie de l'entretien**
+ - Code1 : Dynamique de l'entretien
+ - Verbatim : "C'est toi qui pose les questions"
+ - Code2 : Coopération
+ - Verbatim : "Tu me rappelles si t'as besoin de moi."
+ - Code3 : Clôture de l'entretien
+ - Verbatim : "Je pense, je t'écris, je t'envoie un sms."
+ - Code4 : Remerciements
+ - Verbatim : "Merci beaucoup."
+ - Code5 : Expression de bonne chance
+ - Verbatim : "Bonne chance."
+ - Code6 : Disponibilité
+ - Verbatim : "T'as mon mail."
+ - Code7 : Formule de politesse
+ - Verbatim : "De rien."
+ - Code8 : Satisfaction quant à l'échange
+ - Verbatim : "C'est bon."
+ - Code9 : Souhaits pour le travail à venir
+ - Verbatim : "Bonne chance."
+ - Code10 : Fin de l'interaction
+ - Verbatim : "D'accord, ça marche."
+
+Chaque thème est riche et structurant, avec une dizaine de codes et leurs verbatims associés, permettant une analyse sociologique approfondie de l'entretien.

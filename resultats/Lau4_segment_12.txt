@@ -1,0 +1,123 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes distincts avec leurs codes et verbatims associés. Voici les résultats :
+
+### Thème 1 : **Perception de ChatGPT et de Wikipédia**
+
+- Code 1 : Perception de la qualité de Wikipédia
+  - Verbatim : "il me semblait que par exemple l'article de Babylone sur Wikipédia était très agréé, était rédigé par des gens qui étaient des vrais spécialistes, etc."
+- Code 2 : Comparaison entre ChatGPT et Wikipédia
+  - Verbatim : "Je pense que c'est encore plus difficile de citer ChatGPT que Wikipédia parce qu'on n'a vraiment pas de traces."
+- Code 3 : Utilisation de Wikipédia
+  - Verbatim : "moi, je ne serais pas contre citer Wikipédia s'il y a des personnes précisément"
+- Code 4 : Fiabilité des sources
+  - Verbatim : "on peut quand même avoir la trace, même si c'est anonyme, des personnes qui ont contribué à la production de la page."
+- Code 5 : Préférence pour les sources traçables
+  - Verbatim : "Donc de ce point de vue-là, il n'y a pas une citation possible, une seule citation possible, alors que Wikipédia, on peut quand même avoir la trace"
+- Code 6 à 10 : 
+  - Code 6 : Limite de ChatGPT
+    - Verbatim : "c'est vraiment une synthèse de tout ce qui est disponible sur Internet."
+  - Code 7 : Utilisation académique
+    - Verbatim : "j'utiliserai pas [ChatGPT] s'il n'y a pas de référence"
+  - Code 8 : Recherche de sources
+    - Verbatim : "Après si c'est facile de retrouver sur internet, je le ferais sans doute, d'aller chercher la source."
+  - Code 9 : Confiance dans les sources
+    - Verbatim : "déjà je ne serais pas tellement en confiance"
+  - Code 10 : Respect des règles académiques
+    - Verbatim : "C'est vrai que tu restes un petit peu proche des règles académiques"
+
+### Thème 2 : **Enjeux éthiques et usage de ChatGPT**
+
+- Code 1 : Problèmes éthiques liés à ChatGPT
+  - Verbatim : "comment est-ce que tu te positionnerais vis-à-vis de ça en termes d'enjeux éthiques"
+- Code 2 : Utilisation de ChatGPT sans référence
+  - Verbatim : "s'il n'y a pas de référence, j'utiliserai pas"
+- Code 3 : Importance de citer les sources
+  - Verbatim : "même si je ne peux pas mettre de note de bas de page, c'est embêtant quand même"
+- Code 4 : Recherche de sources originales
+  - Verbatim : "si c'est facile de retrouver sur internet, je le ferais sans doute, d'aller chercher la source"
+- Code 5 : Impact sur l'apprentissage
+  - Verbatim : "ça m'évite de faire ce travail qui me semble difficile"
+- Code 6 à 10 :
+  - Code 6 : Positionnement éthique personnel
+    - Verbatim : "je ne serais pas tellement en confiance"
+  - Code 7 : Éthique académique
+    - Verbatim : "tu reprends entre guillemets presque le travail de quelqu'un d'autre"
+  - Code 8 : Utilisation responsable
+    - Verbatim : "j'utiliserai pas sans référence"
+  - Code 9 : Facilité d'utilisation
+    - Verbatim : "c'est une solution de facilité"
+  - Code 10 : Conscience des limites
+    - Verbatim : "ça m'évite un temps que j'aurais consacré"
+
+### Thème 3 : **Impact de ChatGPT sur l'apprentissage et le temps**
+
+- Code 1 : Gain de temps avec ChatGPT
+  - Verbatim : "on a beaucoup parlé du gain de temps, ou en tout cas de la relation au temps avec ChatGPT"
+- Code 2 : Effet sur l'apprentissage personnel
+  - Verbatim : "Est-ce qu'il y a un lien entre la notion du temps avec mon activité et mon apprentissage ?"
+- Code 3 : Rôle dans la reformulation
+  - Verbatim : "Même pour la reformulation, je pense qu'on peut en parler"
+- Code 4 : Développement des compétences
+  - Verbatim : "si tu le reformules toi-même, tu vas plutôt apprendre à reformuler toi tes phrases"
+- Code 5 : Risque de perte d'apprentissage
+  - Verbatim : "alors que si tu laisses faire ChatGPT, finalement, tu vas peut-être, disons, perdre cet apprentissage"
+- Code 6 à 10 :
+  - Code 6 : Utilisation de ChatGPT pour la reformulation
+    - Verbatim : "c'est surtout des questions de reformulation"
+  - Code 7 : Effet sur l'écriture académique
+    - Verbatim : "développer une nouvelle façon d’aiguiser ton écriture académique"
+  - Code 8 : Perception de la facilité
+    - Verbatim : "c'est une solution de facilité"
+  - Code 9 : Changement dans les habitudes de travail
+    - Verbatim : "ça m'évite un temps que j'aurais consacré"
+  - Code 10 : Impact sur la qualité du contenu
+    - Verbatim : "est-ce que tu sens qu'il y a une différence peut-être, alors j'allais dire d'amélioration"
+
+### Thème 4 : **Attitude envers les règles académiques et ChatGPT**
+
+- Code 1 : Respect des règles académiques
+  - Verbatim : "C'est vrai que tu restes un petit peu proche des règles académiques"
+- Code 2 : Utilisation de ChatGPT et normes académiques
+  - Verbatim : "j'utiliserai pas s'il n'y a pas de référence"
+- Code 3 : Importance de la citation
+  - Verbatim : "même si je ne peux pas mettre de note de bas de page, c'est embêtant quand même"
+- Code 4 : Adaptation aux nouvelles technologies
+  - Verbatim : "on a tendance à plutôt ne pas le mentionner [ChatGPT]"
+- Code 5 : Évolution de la perception de ChatGPT
+  - Verbatim : "Est-ce que tu penses que ça va peut-être évoluer au fil du temps ?"
+- Code 6 à 10 :
+  - Code 6 : Rigueur académique
+    - Verbatim : "tu restes un petit peu proche des règles académiques"
+  - Code 7 : Perception de l'évolution
+    - Verbatim : "ça va peut-être évoluer"
+  - Code 8 : Flexibilité dans l'utilisation
+    - Verbatim : "je le ferais sans doute, d'aller chercher la source"
+  - Code 9 : Conformité aux normes
+    - Verbatim : "je ne serais pas contre citer Wikipédia s'il y a des personnes précisément"
+  - Code 10 : Préoccupation éthique
+    - Verbatim : "tu reprends entre guillemets presque le travail de quelqu'un d'autre"
+
+### Thème 5 : **Évolution et acceptation de ChatGPT**
+
+- Code 1 : Évolution future de ChatGPT
+  - Verbatim : "Est-ce que tu penses que ça va peut-être évoluer au fil du temps ?"
+- Code 2 : Intégration dans les pratiques
+  - Verbatim : "on a tendance à plutôt ne pas le mentionner [ChatGPT]"
+- Code 3 : Changement dans la perception
+  - Verbatim : "ça m'évite un temps que j'aurais consacré"
+- Code 4 : Impact sur les pratiques académiques
+  - Verbatim : "tu vas peut-être, disons, perdre cet apprentissage"
+- Code 5 : Adaptation aux nouvelles technologies
+  - Verbatim : "développer une nouvelle façon d’aiguiser ton écriture académique"
+- Code 6 à 10 :
+  - Code 6 : Perception positive de l'évolution
+    - Verbatim : "ça va peut-être évoluer"
+  - Code 7 : Intégration progressive
+    - Verbatim : "on a beaucoup parlé du gain de temps"
+  - Code 8 : Impact sur l'apprentissage
+    - Verbatim : "Est-ce qu'il y a un lien entre la notion du temps avec mon activité et mon apprentissage ?"
+  - Code 9 : Changement dans les habitudes
+    - Verbatim : "ça m'évite de faire ce travail qui me semble difficile"
+  - Code 10 : Future acceptation
+    - Verbatim : "Est-ce que tu penses que ça va peut-être évoluer au fil du temps ?"
+
+Ces thèmes et codes offrent une analyse détaillée de l'entretien, couvrant divers aspects tels que la perception de ChatGPT et de Wikipédia, les enjeux éthiques, l'impact sur l'apprentissage et le temps, l'attitude envers les règles académiques, et l'évolution et acceptation de ChatGPT.

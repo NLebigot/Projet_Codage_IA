@@ -1,0 +1,93 @@
+Suite à l'analyse de l'entretien avec Soumaya, j'ai identifié plusieurs thèmes pertinents qui reflètent son expérience avec l'utilisation de ChatGPT dans son parcours académique. Voici les thèmes avec leurs codes et verbatims associés :
+
+**Thème 1 : Perception de l'utilisation de ChatGPT dans le milieu académique**
+- Code 1 : Tolérance variable des encadrants
+  - Verbatim : "Il y a des encadrants qui tolèrent un pourcentage d'utilisation, qui sont plus humains dans leur perception, et il y en a certains qui sont..."
+- Code 2 : Manque de clarté dans les règles
+  - Verbatim : "C'est vraiment, ce n'est pas vraiment très cadré."
+- Code 3 : Rôle de la chance
+  - Verbatim : "Il y a aussi le paramètre de chance."
+- Code 4 : Variabilité dans l'application des sanctions
+  - Verbatim : "Il y en a certains qui ont été, euh, comme moi, un bout, le bout d'émissaire pour donner l'exemple aux autres."
+- Code 5 : Exclusion pour utilisation de ChatGPT
+  - Verbatim : "On m'a dit qu'il y avait déjà 20 personnes qui ont été exclues pour 1 an."
+- Code 6 : Argumentation autour de la faute partagée
+  - Verbatim : "Ce n'est pas la faute aux étudiants seuls, c'est la faute aux encadrants aussi."
+- Code 7 : Problèmes d'accompagnement
+  - Verbatim : "Je n'étais pas très bien accompagné par mon encadrant pour m'aider à résoudre les problèmes que j'avais eus par rapport à la programmation et tout."
+- Code 8 : Double punition
+  - Verbatim : "C'était une double punition : les 18 mois pour avoir ce recours pour les programmations et pour la bibliographie."
+- Code 9 : Utilisation de ChatGPT pour des tâches spécifiques
+  - Verbatim : "J'avais fait recours à ChatGPT pour faire mes régressions et mes algorithmes."
+- Code 10 : Sentiment d'injustice
+  - Verbatim : "Donc je pense que c'était ça.."
+
+**Thème 2 : Impact de ChatGPT sur les méthodes de travail**
+- Code 1 : Réduction du temps de réflexion
+  - Verbatim : "Il a raccourci la durée de réflexion pour moi personnellement."
+- Code 2 : Délégation de tâches à ChatGPT
+  - Verbatim : "Je lui délègue à peu près 60% de mon travail."
+- Code 3 : Supervision et remise en question des résultats
+  - Verbatim : "Moi, je ne fais que superviser la qualité, et bien sûr, je remets en question tout ce qu'il me génère."
+- Code 4 : Amélioration de la qualité du travail
+  - Verbatim : "Pour donner un travail que je dirais de qualité, un travail plus soigné que celui que je pourrais faire moi-même."
+- Code 5 : Organisation du temps
+  - Verbatim : "Oui. Et ça diminue la période nécessaire pour faire une tâche."
+- Code 6 : Facilitation du travail
+  - Verbatim : "Donc, ça m'a facilité énormément la vie."
+- Code 7 : Utilisation pour des tâches complexes
+  - Verbatim : "Des tâches supplémentaires qui requièrent souvent trop de temps."
+- Code 8 : Gain de temps
+  - Verbatim : "ChatGPT m'économise énormément de temps."
+- Code 9 : Réduction du stress lié aux échéances
+  - Verbatim : "Donc, ça réduit le stress lié aux échéances académiques."
+- Code 10 : Meilleure gestion du temps académique
+  - Verbatim : "Oui, académiques, vu qu'il m'économise du temps."
+
+**Thème 3 : Qualité et fiabilité de ChatGPT**
+- Code 1 : Capacité d'explication et de simplification
+  - Verbatim : "ChatGPT a une capacité d'explication et aussi de simplification."
+- Code 2 : Connaissances générales étendues
+  - Verbatim : "Il a trop de connaissances sur n'importe quel sujet que je lui pose."
+- Code 3 : Fiabilité perçue
+  - Verbatim : "Il les connaît très bien, il les comprend mieux que moi."
+- Code 4 : Utilisation pour comprendre les sujets abordés
+  - Verbatim : "Bien sûr, ChatGPT a une capacité d'explication et aussi de simplification."
+- Code 5 : Simplification des concepts complexes
+  - Verbatim : "Quand je lui donne des consignes pour simplifier des mots, il effectue très bien la tâche."
+- (Les codes 6 à 10 pourraient être complétés par d'autres aspects de la qualité et de la fiabilité, mais l'entretien n'en fournit pas davantage sur ce thème spécifique.)
+
+**Thème 4 : Effets psychologiques et émotionnels de l'utilisation de ChatGPT**
+- Code 1 : Réduction du stress
+  - Verbatim : "Donc, ça réduit le stress lié aux échéances académiques."
+- Code 2 : Impact sur la confiance en soi
+  - (Pas de verbatim direct, mais on peut inférer que la délégation de tâches pourrait avoir un impact sur la confiance en soi.)
+- Code 3 : Perception de l'aide apportée par ChatGPT
+  - Verbatim : "Il a raccourci la durée de réflexion pour moi personnellement, parce que je ne réfléchis pas trop quand je sais qu'il va me donner des idées plus innovantes que les miennes."
+- Code 4 : Sentiment de facilitation
+  - Verbatim : "Donc, ça m'a facilité énormément la vie."
+- Code 5 : Émotions liées à l'expérience avec ChatGPT
+  - Verbatim : "Je suis vraiment désolé pour ce qui s'est passé avec toi."
+- (Les codes 6 à 10 pourraient explorer davantage les aspects émotionnels et psychologiques, mais nécessiteraient des données supplémentaires.)
+
+**Thème 5 : Enjeux académiques et éthiques**
+- Code 1 : Sanctions pour utilisation de ChatGPT
+  - Verbatim : "On m'a dit qu'il y avait déjà 20 personnes qui ont été exclues pour 1 an."
+- Code 2 : Question de la faute partagée
+  - Verbatim : "Ce n'est pas la faute aux étudiants seuls, c'est la faute aux encadrants aussi."
+- Code 3 : Problèmes d'accompagnement des étudiants
+  - Verbatim : "Je n'étais pas très bien accompagné par mon encadrant."
+- Code 4 : Défis liés à l'utilisation de nouveaux outils
+  - Verbatim : "Des tâches sous recommandation, disons, de mon encadrant, euh, de faire des études quantitatives qualitatives avec des logiciels comme R Studio."
+- Code 5 : Conséquences académiques
+  - Verbatim : "C'était une double punition."
+- Code 6 : Nécessité de clarification des règles
+  - Verbatim : "C'est vraiment, ce n'est pas vraiment très cadré."
+- Code 7 : Implications éthiques de l'utilisation de ChatGPT
+  - (Pas de verbatim direct, mais le sujet est sous-jacent dans la discussion sur les sanctions et la responsabilité partagée.)
+- Code 8 : Responsabilité des encadrants
+  - Verbatim : "C'est la faute aux encadrants aussi, parce que étant d'un parcours en finance, et non pas d'un parcours statistique ou tech."
+- Code 9 : Impact sur la formation des étudiants
+  - (Pas de verbatim direct, mais on peut discuter de l'impact sur la formation.)
+- Code 10 : Équité dans l'application des règles
+  - Verbatim : "Il y en a certains qui ont fait tout le rapport, vraiment tout le rapport, et ils ont pu passer leur, euh, leur mémoire."

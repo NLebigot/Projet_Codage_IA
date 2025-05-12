@@ -1,0 +1,87 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici les résultats :
+
+**Segment 1 : L'apprentissage avec ChatGPT**
+
+- Thème 1 : Utilisation de ChatGPT pour la rédaction
+  - Code 1 : Simplification des phrases
+    - Verbatim : "Chatty, c'est vraiment bien pour ça parce qu'il permet de vraiment simplifier quelque chose"
+  - Code 2 : Adaptation au destinataire
+    - Verbatim : "il faut savoir ce qu'on souhaite écrire, connaître le destinataire, et puis s’adapter en fonction"
+  - Code 3 : Différence entre les types de rédaction
+    - Verbatim : "Ecrire une dissertation, ce n’est pas la même chose qu'écrire un mail"
+  - Code 4 : Difficulté à être concis
+    - Verbatim : "pour moi, c'est difficile d'être très concis en une ou deux phrases"
+  - Code 5 : Utilisation de ChatGPT pour améliorer la concision
+    - Verbatim : "j’utilise ça comme un outil pour comprendre comment raccourcir les phrases et les simplifier"
+  - Code 6 : Importance de la syntaxe
+    - Verbatim : "et puis la syntaxe aussi"
+  - Code 7 : Développement de l'écriture académique
+    - Verbatim : "je commence à développer, à vouloir approfondir le truc"
+  - Code 8 : Changement dans l'écriture grâce à ChatGPT
+    - Verbatim : "Chatty peut me montrer qu'en trois lignes, le message est le même"
+  - Code 9 : Utilisation de ChatGPT pour les mails
+    - Verbatim : "même dans un mail, je peux écrire un mail de 20 lignes"
+  - Code 10 : Gain en termes de clarté
+    - Verbatim : "pour ne pas qu'il y ait de confusion"
+
+- Thème 2 : Interaction avec ChatGPT
+  - Code 1 : Demande de reformulation
+    - Verbatim : "je lui dis reformule s’il te plaît !"
+  - Code 2 : Utilisation de ChatGPT pour développer
+    - Verbatim : "soit je reprends un bout du paragraphe qui était intéressant pour moi et puis je lui demande de développer"
+  - Code 3 : Commandes fréquentes
+    - Verbatim : "les mots que je lui demande c'est souvent développer, reformuler de manière plus concise"
+  - Code 4 : Utilisation de synonymes
+    - Verbatim : "utiliser d'autres mots, reformuler avec d'autres termes"
+  - Code 5 : Demande d'alternatives
+    - Verbatim : "une autre version, une autre version s'il te plaît"
+
+**Segment 2 : Impact de ChatGPT sur l'organisation et le planning**
+
+- Thème 3 : Gain de temps avec ChatGPT
+  - Code 1 : Utilisation de ChatGPT pour les résumés
+    - Verbatim : "si je lui donne déjà les données et puis je lui demande de me formuler un texte"
+  - Code 2 : Réduction du temps de travail
+    - Verbatim : "ça peut être un gain de temps"
+  - Code 3 : Importance de la qualité de l'input
+    - Verbatim : "il faut quand même prendre le temps de lui donner les bonnes informations"
+  - Code 4 : Limite de l'utilisation de ChatGPT
+    - Verbatim : "si on se dit : « gain de temps, gain de temps » et puis qu'on ne prend pas le temps de relire par après"
+  - Code 5 : Perte de personnalité dans l'écriture
+    - Verbatim : "il n’y a plus de personnalité dans ce qu'il dit, il n'y a plus de caractère"
+  - Code 6 : Différence entre l'écrit et la réflexion
+    - Verbatim : "la réflexion ne sera pas aussi poussée que si je l'avais fait moi-même"
+  - Code 7 : Nécessité de vérifier le travail
+    - Verbatim : "il faut prendre le temps de relire par après ce qu'il nous produit"
+  - Code 8 : Utilisation de ChatGPT comme outil
+    - Verbatim : "je le considère comme un outil qui me permet de gagner du temps"
+  - Code 9 : Importance du travail personnel
+    - Verbatim : "ce n'est pas parce qu'il y a Chatty, qu'il ne faut pas que je lise les textes"
+  - Code 10 : Équilibre entre utilisation de ChatGPT et travail personnel
+    - Verbatim : "je vais juste faire ce que j'ai à faire et puis après, pour gagner un peu de temps à des endroits je vais l'utiliser"
+
+- Thème 4 : Organisation du travail avec ChatGPT
+  - Code 1 : Nécessité de planifier
+    - Verbatim : "c’est important de faire les choses qu'on a à faire"
+  - Code 2 : Utilisation de ChatGPT dans le planning
+    - Verbatim : "je vais l'utiliser pour gagner un peu de temps"
+  - Code 3 : Limite à l'utilisation de ChatGPT
+    - Verbatim : "jamais je vais dire : je vais juste utiliser ChatGPT et ne rien faire"
+  - Code 4 : Importance du brouillon
+    - Verbatim : "ce n'est pas parce qu'il y a ça qu'il ne faut pas que je fasse un brouillon"
+  - Code 5 : Gestion du temps avec ChatGPT
+    - Verbatim : "pour gagner un peu de temps à des endroits"
+
+- Thème 5 : Perception de ChatGPT
+  - Code 1 : ChatGPT comme outil
+    - Verbatim : "je le considère comme un outil"
+  - Code 2 : Utilité de ChatGPT
+    - Verbatim : "c'est vraiment bien pour ça"
+  - Code 3 : Limitations de ChatGPT
+    - Verbatim : "la réflexion ne sera pas aussi poussée que si je l'avais fait moi-même"
+  - Code 4 : Importance de l'interaction avec ChatGPT
+    - Verbatim : "je lui dis reformule s’il te plaît !"
+  - Code 5 : Perception positive de ChatGPT
+    - Verbatim : "c'est vraiment bien"
+
+Ces thèmes et codes illustrent comment l'étudiant utilise ChatGPT pour améliorer son écriture, sa perception de cet outil, et comment il intègre ChatGPT dans son processus de travail et son organisation.

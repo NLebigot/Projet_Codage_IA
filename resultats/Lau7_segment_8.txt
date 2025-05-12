@@ -1,0 +1,111 @@
+Je vais procéder à l'analyse de l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Utilisation de ChatGPT dans le contexte académique**
+ - Code 1 : Utilisation pour la correction de texte
+ - Verbatim : "tu lui as demandé une correction de texte que tu avais toi-même écrit"
+ - Code 2 : Satisfaction variable selon l'importance de la tâche
+ - Verbatim : "si c'était un rendu, un autre rendu plus sérieux, peut-être que j'aurais été moins satisfaite"
+ - Code 3 : Utilisation pour la mise en forme de notes
+ - Verbatim : "je remets juste en forme, mais je touche pas au contenu"
+ - Code 4 : Confiance dans les réponses de ChatGPT
+ - Verbatim : "je lui fais confiance et je prends sa réponse"
+ - Code 5 : Organisation des conversations par cours
+ - Verbatim : "j'ai l'impression que je suis plus organisée, structurée"
+ - Code 6 : Préférence pour une conversation par cours
+ - Verbatim : "je préfère faire ça parce que j'ai l'impression que je suis plus organisée"
+ - Code 7 : Facilité d'utilisation pour les tâches académiques
+ - Verbatim : "pour ce cours, ça faisait l'affaire"
+ - Code 8 : Utilisation dans différents cours
+ - Verbatim : "dans le cours « Réaliser un mémoire en sciences sociales »... dans le cours Psycho de la santé en milieu médical"
+ - Code 9 : Variation dans la longueur des discussions
+ - Verbatim : "la discussion, elle est plutôt longue comparé aux autres discussions"
+ - Code 10 : Retour sur les discussions
+ - Verbatim : "je suis revenue plusieurs fois dessus"
+
+**Thème 2 : Perception de ChatGPT et de son efficacité**
+ - Code 1 : Satisfaction générale
+ - Verbatim : "je crois que j'ai utilisé la chose telle qu'elle"
+ - Code 2 : Limitations perçues pour les tâches importantes
+ - Verbatim : "si c'était un rendu, un autre rendu plus sérieux, peut-être que j'aurais été moins satisfaite"
+ - Code 3 : Capacité à améliorer le contenu
+ - Verbatim : "il arrive assez bien à écrire formellement"
+ - Code 4 : Problèmes avec la formulation
+ - Verbatim : "je l'ai trouvé un peu cringe dans sa façon de formuler les choses"
+ - Code 5 : Amélioration de ChatGPT au fil du temps
+ - Verbatim : "soit il a été mieux développé, soit il me connaît mieux, je n'en sais rien"
+ - Code 6 : Meilleure utilisation grâce à l'expérience
+ - Verbatim : "maintenant, je sais aussi mieux comment lui poser des questions"
+ - Code 7 : Perception d'une amélioration dans la compréhension de l'utilisateur
+ - Verbatim : "il sait mieux ce que j'attends, à mon avis"
+ - Code 8 : Combinaison de facteurs pour une meilleure utilisation
+ - Verbatim : "c'est un mélange des deux, de l’avancée technologique, et ma manière d’utiliser ChatGpt"
+ - Code 9 : Évolution de la relation avec ChatGPT
+ - Verbatim : "je pense qu'il me connaît mieux aussi"
+ - Code 10 : Impact sur l'organisation personnelle
+ - Verbatim : "j'aime bien être organisée, je suis un peu psycho-rigide, je pense"
+
+**Thème 3 : Utilisation de ChatGPT pour la communication**
+ - Code 1 : Utilisation pour la rédaction de messages
+ - Verbatim : "j'ai demandé d'améliorer et puis après j’étais vraiment pas satisfaite"
+ - Code 2 : Insatisfaction avec les suggestions de ChatGPT
+ - Verbatim : "ça ne m’a toujours pas convenu"
+ - Code 3 : Décision de ne pas utiliser les suggestions
+ - Verbatim : "j'ai pas pris du tout ce message-là"
+ - Code 4 : Utilisation occasionnelle pour les emails
+ - Verbatim : "pour les mails, non, ça ne m'arrive pas"
+ - Code 5 : Raisons de la non-utilisation pour les emails
+ - Verbatim : "écrire formellement, il arrive assez bien"
+ - Code 6 : Exceptions pour les emails moins formels
+ - Verbatim : "ça n'avait pas besoin d'être super formel"
+ - Code 7 : Problèmes avec la formulation dans les emails
+ - Verbatim : "je l'ai trouvé un peu cringe dans sa façon de formuler les choses"
+ - Code 8 : Utilisation de ChatGPT pour améliorer les emails
+ - Verbatim : "j'ai demandé d'améliorer"
+ - Code 9 : Évaluation de l'utilité de ChatGPT pour les emails
+ - Verbatim : "il arrive assez bien à écrire formellement"
+ - Code 10 : Changement dans la perception de l'utilité de ChatGPT
+ - Verbatim : "avant, ça m'arrivait plus que maintenant"
+
+**Thème 4 : Impact de ChatGPT sur les pratiques d'apprentissage**
+ - Code 1 : Anticipation de l'impact de ChatGPT sur l'apprentissage
+ - Verbatim : "comment est-ce que tu penses que les outils comme ChatGPT vont transformer les pratiques d'apprentissage"
+ - Code 2 : Perception de l'évolution des pratiques d'apprentissage
+ - Verbatim : "je pense que, ouais, c'est un mélange des deux, de l’avancée technologique, et ma manière d’utiliser ChatGpt"
+ - Code 3 : Meilleure organisation grâce à ChatGPT
+ - Verbatim : "j'ai l'impression que je suis plus organisée, structurée"
+ - Code 4 : Effet sur la confiance dans l'utilisation de ChatGPT
+ - Verbatim : "je lui fais confiance et je prends sa réponse"
+ - Code 5 : Changement dans la manière d'utiliser ChatGPT
+ - Verbatim : "je sais aussi mieux comment lui poser des questions"
+ - Code 6 : Évolution de ChatGPT
+ - Verbatim : "soit il a été mieux développé, soit il me connaît mieux, je n'en sais rien"
+ - Code 7 : Impact sur l'apprentissage personnel
+ - Verbatim : "j'aime bien être organisée"
+ - Code 8 : Perception de l'utilité de ChatGPT dans le futur
+ - Verbatim : "les outils comme ChatGPT vont transformer les pratiques d'apprentissage"
+ - Code 9 : Effet sur la relation entre l'utilisateur et ChatGPT
+ - Verbatim : "il sait mieux ce que j'attends, à mon avis"
+ - Code 10 : Combinaison des facteurs pour une utilisation efficace
+ - Verbatim : "c'est un mélange des deux"
+
+**Thème 5 : Comportement et attitude envers ChatGPT**
+ - Code 1 : Confiance dans ChatGPT
+ - Verbatim : "je lui fais confiance et je prends sa réponse"
+ - Code 2 : Organisation dans l'utilisation de ChatGPT
+ - Verbatim : "j'aime bien être organisée, je suis un peu psycho-rigide, je pense"
+ - Code 3 : Flexibilité dans l'utilisation
+ - Verbatim : "je préfère faire ça parce que j'ai l'impression que je suis plus organisée"
+ - Code 4 : Satisfaction variable
+ - Verbatim : "si c'était un rendu, un autre rendu plus sérieux, peut-être que j'aurais été moins satisfaite"
+ - Code 5 : Utilisation stratégique
+ - Verbatim : "je sais aussi mieux comment lui poser des questions"
+ - Code 6 : Perception positive de l'évolution de ChatGPT
+ - Verbatim : "il sait mieux ce que j'attends, à mon avis"
+ - Code 7 : Attitude positive envers la technologie
+ - Verbatim : "c'est un mélange des deux, de l’avancée technologique, et ma manière d’utiliser ChatGpt"
+ - Code 8 : Auto-évaluation de l'utilisation
+ - Verbatim : "je suis revenue plusieurs fois dessus"
+ - Code 9 : Évaluation de l'utilité
+ - Verbatim : "pour ce cours, ça faisait l'affaire"
+ - Code 10 : Conscience de ses propres limites et de celles de ChatGPT
+ - Verbatim : "je l'ai trouvé un peu cringe dans sa façon de formuler les choses"

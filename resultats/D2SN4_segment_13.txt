@@ -1,0 +1,116 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+### Thème 1 : L'acceptabilité de l'utilisation de ChatGPT
+
+* Code 1 : Condition d'utilisation
+ Verbatim : "c'est tout à fait ok d'utiliser chatGPT la plupart du temps sauf quand il va s'agir de texte qui vont être publiés"
+* Code 2 : Limite de l'utilisation
+ Verbatim : "si la moitié du texte est écrit par chatGPT [...] ben ça peut poser d’énormes problèmes"
+* Code 3 : Importance de la citation
+ Verbatim : "ça doit être cité, ça doit être correctement référencé"
+* Code 4 : Problème de fiabilité
+ Verbatim : "ChatGPT ne cite pas ses sources"
+* Code 5 : Utilisation acceptable
+ Verbatim : "c'est tout à fait OK" pour "augmenter ses connaissances"
+* Code 6 : Différence entre usage personnel et publication
+ Verbatim : "Ca s'arrête d’être problématique si c'est pour faire de la musique dans son coin ou pour apprendre des choses"
+* Code 7 : Analogie avec la musique
+ Verbatim : "c'est comme si ça reste gênant d'utiliser la musique de quelqu'un d'autre dans un album qui va être publié"
+* Code 8 : Condition de légitimité
+ Verbatim : "quand le travail en lui-même c'est la production de quelque chose et cette production est faite par chatGPT alors c'est absolument pas légitime"
+* Code 9 : Utilisation comme outil d'aide
+ Verbatim : "chatGPT est simplement utilisé comme un moteur de recherche bien plus avancé"
+* Code 10 : Acceptation selon le contexte
+ Verbatim : "tout est acceptable" si utilisé "comme un moteur de recherche bien plus avancé"
+
+### Thème 2 : Expérience personnelle et dilemme moral
+
+* Code 1 : Sentiment de dilemme
+ Verbatim : "j'ai déjà ressenti ça quand on avait un travail à effectuer"
+* Code 2 : Utilisation de ChatGPT pour une tâche spécifique
+ Verbatim : "j'ai demandé à chatGPT d'écrire le code"
+* Code 3 : Résultat satisfaisant
+ Verbatim : "le code qui a été utilisé à la fin parce que ce code marche très bien"
+* Code 4 : Manque de connaissance
+ Verbatim : "je connaisse pas trop comment on doit faire ça"
+* Code 5 : Décision d'utilisation
+ Verbatim : "j'ai dû demander à chatGPT de le faire"
+* Code 6 : Pas de profond dilemme moral
+ Verbatim : "le dilemme moral il est pas vraiment très profond"
+* Code 7 : Contexte de l'utilisation
+ Verbatim : "on avait un travail à effectuer il fallait faire de l'interpolation en une dimension"
+* Code 8 : Contrainte de temps
+ Verbatim : "je n’avais plus vraiment de temps"
+* Code 9 : Satisfaction du résultat
+ Verbatim : "le résultat était correct"
+* Code 10 : Décision finale
+ Verbatim : "je l’ai rendu comme ça"
+
+### Thème 3 : Perception de l'évolution de ChatGPT et son impact
+
+* Code 1 : Impact sur l'apprentissage
+ Verbatim : "des outils comme ça vont changer la façon dont on apprend dans les années à venir"
+* Code 2 : Évolution future
+ Verbatim : "comment tu vois ça évoluer ?"
+* Code 3 : Changement dans les pratiques
+ Verbatim : "changer la façon dont on apprend"
+* Code 4 : Perception positive
+ Verbatim : "c'est tout à fait OK" pour certaines utilisations
+* Code 5 : Intégration dans les pratiques existantes
+ Verbatim : "chatGPT est simplement utilisé comme un moteur de recherche bien plus avancé"
+* Code 6 : Potentiel de l'outil
+ Verbatim : "aller plus vite pour moi tout est acceptable"
+* Code 7 : Limites actuelles
+ Verbatim : "ChatGPT ne cite pas ses sources"
+* Code 8 : Évolution des mentalités
+ Verbatim : "ça s'arrête d’être problématique si c'est pour [...] apprendre des choses"
+* Code 9 : Utilisation future
+ Verbatim : "des outils comme ça vont changer"
+* Code 10 : Adaptation nécessaire
+ Verbatim : "il faut lui demander et puis on n'est pas vraiment sûr de la citation"
+
+### Thème 4 : Frontières entre utilisation légitime et illégitime
+
+* Code 1 : Définition de la légitimité
+ Verbatim : "c'est absolument pas légitime" si "la production est faite par chatGPT"
+* Code 2 : Critère de distinction
+ Verbatim : "quand le travail en lui-même c'est la production de quelque chose"
+* Code 3 : Importance de la compréhension
+ Verbatim : "je connaisse pas trop comment on doit faire ça"
+* Code 4 : Rôle de l'utilisateur
+ Verbatim : "chatGPT est simplement utilisé comme un moteur de recherche"
+* Code 5 : Limite éthique
+ Verbatim : "ça doit être cité, ça doit être correctement référencé"
+* Code 6 : Usage personnel vs. publication
+ Verbatim : "c'est tout à fait OK" pour un usage personnel
+* Code 7 : Problème de propriété intellectuelle
+ Verbatim : "c'est comme si ça reste gênant d'utiliser la musique de quelqu'un d'autre"
+* Code 8 : Équilibre entre aide et production
+ Verbatim : "chatGPT [...] permet d'aller plus vite"
+* Code 9 : Contextualisation de l'utilisation
+ Verbatim : "tout est acceptable" dans certains contextes
+* Code 10 : Responsabilité de l'utilisateur
+ Verbatim : "on n'est pas vraiment sûr de la citation"
+
+### Thème 5 : Contextualisation de l'utilisation de ChatGPT
+
+* Code 1 : Contexte d'utilisation
+ Verbatim : "pour faire de la musique dans son coin ou pour apprendre des choses"
+* Code 2 : Objectif de l'utilisation
+ Verbatim : "augmenter ses connaissances"
+* Code 3 : Type de tâche
+ Verbatim : "faire de l'interpolation en une dimension"
+* Code 4 : Niveau de difficulté
+ Verbatim : "c'est pas forcément très facile à écrire ou très facile à comprendre"
+* Code 5 : Disponibilité de l'outil
+ Verbatim : "chatGPT [...] permet d'aller plus vite"
+* Code 6 : Contrainte temporelle
+ Verbatim : "je n’avais plus vraiment de temps"
+* Code 7 : Satisfaction du résultat
+ Verbatim : "le résultat était correct"
+* Code 8 : Évaluation de l'outil
+ Verbatim : "c'est tout à fait ok d'utiliser chatGPT"
+* Code 9 : Condition d'acceptabilité
+ Verbatim : "sauf quand il va s'agir de texte qui vont être publiés"
+* Code 10 : Évolution de l'utilisation
+ Verbatim : "des outils comme ça vont changer la façon dont on apprend"

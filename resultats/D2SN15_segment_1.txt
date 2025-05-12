@@ -1,0 +1,113 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Contexte et présentation de l'entretien**
+
+- Code 1 : [Cadre de l'entretien]
+- Verbatim : "Avant de commencer, je te rappelle que je vais tout retranscrire, comme je te l’avais déjà mentionné."
+- Code 2 : [Anonymisation des données]
+- Verbatim : "Et les données personnelles seront anonymisées."
+- Code 3 : [Objectif de l'étude]
+- Verbatim : "L'objectif de notre étude, c’est de comprendre l’utilisation et la pratique des IA par les étudiants en sciences humaines."
+- Code 4 : [Absence de jugement]
+- Verbatim : "Il n’y a pas de bonne ou de mauvaise réponse aux questions."
+- Code 5 : [Présentation de l'enquêtrice]
+- Verbatim : "Je me présente rapidement : je suis Tania, étudiante en master 2 Data Science et Société Numérique à l’université Gustave Eiffel."
+- Code 6 : [Consentement de l'enquêté]
+- Verbatim : "Est-ce que tu as des questions avant de commencer ?"
+- Code 7 : [Modalités de participation]
+- Verbatim : "Tu peux refuser de répondre à certaines questions si tu veux."
+- Code 8 : [Relance sur certains sujets]
+- Verbatim : "Il peut arriver que je te relance sur certains sujets."
+- Code 9 : [Tutorat]
+- Verbatim : "Est-ce que je peux te tutoyer ?"
+- Code 10 : [Familiarité avec les entretiens]
+- Verbatim : "Moi, j’ai voulu tout de suite participer parce que je fais souvent passer des entretiens."
+
+**Thème 2 : Parcours scolaire et formation**
+
+- Code 1 : [Niveau d'études]
+- Verbatim : "J’ai fait 3 ans de classes préparatoires en D2, c’est le CPGE Paris-Saclay D2."
+- Code 2 : [Établissements fréquentés]
+- Verbatim : "J’ai fait 2 ans à Montpellier et 1 an à Rennes."
+- Code 3 : [Concours réussis]
+- Verbatim : "J’ai obtenu le concours de l’ENS Paris-Saclay."
+- Code 4 : [Spécialisations]
+- Verbatim : "Moi, j’ai choisi de faire histoire et sociologie."
+- Code 5 : [Cursus en parallèle]
+- Verbatim : "En parallèle de l’ENS, j’étais à la Sorbonne pour l'histoire et la sociologie."
+- Code 6 : [Détails sur la formation]
+- Verbatim : "Les cours d’histoire ne sont pas tous dispensés par l’ENS, donc on est envoyé à la Sorbonne pour certains cours."
+- Code 7 : [Diplômes préparés]
+- Verbatim : "Cette année, j’ai intégré le master 1 EOS (Économie, Organisation et Société) à Paris-Saclay."
+- Code 8 : [Parcours complexe]
+- Verbatim : "Ce n’est pas vraiment une double licence, c'est un peu un parcours assez complexe."
+- Code 9 : [Origine géographique]
+- Verbatim : "Je suis originaire de l’Aveyron, dans le sud de la France."
+- Code 10 : [Âge et niveau d'étude]
+- Verbatim : "J'ai 22 ans, bientôt 23."
+
+**Thème 3 : Utilisation des IA génératives**
+
+- Code 1 : [Usage de ChatGPT]
+- Verbatim : "Euh je n’utilise que ChatGPT."
+- Code 2 : [Connaissance d'autres IA]
+- Verbatim : "Tu n’utilises pas, par exemple, DeepSeek ?"
+- Code 3 : [Découverte de nouvelles IA]
+- Verbatim : "Il est assez nouveau, je l’avoue."
+- Code 4 : [Préférences]
+- Verbatim : "Donc tu n’utilises pas, par exemple, Copilot ?"
+- Code 5 : [Fréquence d'utilisation]
+- Verbatim : "Quels sont les IA génératifs que tu utilises souvent ?"
+- Code 6 : [Usage dans les études]
+- Verbatim : "On mène une étude sur l’impact des IA génératives sur le travail et surtout sur l’apprentissage."
+- Code 7 : [IA génératives connues]
+- Verbatim : "Des IA génératives, comme ChatGPT, Copilot, etc."
+- Code 8 : [Impact sur l'apprentissage]
+- Verbatim : "L'objectif de notre étude, c’est de comprendre... la pratique des IA par les étudiants en sciences humaines."
+- Code 9 : [Utilisation dans le futur]
+- Verbatim : Non disponible dans ce segment.
+- Code 10 : [Intégration dans les pratiques]
+
+**Thème 4 : Échanges et interactions**
+
+- Code 1 : [Premier contact]
+- Verbatim : "J'ai vu ton message sur LinkedIn, je l'ai vu un peu tard."
+- Code 2 : [Réponse à l'invitation]
+- Verbatim : "Ah oui, j'avais oublié de répondre."
+- Code 3 : [Relance]
+- Verbatim : "Je pourrais te relancer sur LinkedIn si besoin."
+- Code 4 : [Accord pour la communication]
+- Verbatim : "Pas de souci."
+- Code 5 : [Tonalité de l'échange]
+- Verbatim : "Pas de stress."
+- Code 6 : [Familiarisation]
+- Verbatim : "Est-ce que je peux te tutoyer ?"
+- Code 7 : [Contexte de l'invitation]
+- Verbatim : "J’avais fait sans faire exprès."
+- Code 8 : [Formulation de la demande]
+- Verbatim : "Je te rappelle qu’il n’y a pas de bonne ou de mauvaise réponse."
+- Code 9 : [Plaisir de participer]
+- Verbatim : "Ça me fait plaisir."
+- Code 10 : [Motivation pour participer]
+
+**Thème 5 : Perception et attitude envers les entretiens**
+
+- Code 1 : [Expérience préalable des entretiens]
+- Verbatim : "Moi, j’ai voulu tout de suite participer parce que je fais souvent passer des entretiens."
+- Code 2 : [Sentiment à l'égard de l'entretien]
+- Verbatim : "Donc en vrai, ça me fait plaisir."
+- Code 3 : [Disponibilité]
+- Verbatim : "Non, pas du tout."
+- Code 4 : [Attitude positive]
+- Verbatim : "C’est avec plaisir !"
+- Code 5 : [Motivation]
+- Verbatim : "Étant en sciences sociales, je n’ai aucune raison de refuser."
+- Code 6 : [Raisons de la participation]
+- Verbatim : "Parce que je fais souvent passer des entretiens."
+- Code 7 : [Sentiment de confort]
+- Verbatim : "Pas de stress."
+- Code 8 : [Réactions]
+- Code 9 : [Perception de l'exercice]
+- Code 10 : [Implication]
+
+Il semble que certains thèmes soient encore perfectibles quant au nombre de codes et à leur répartition. Aussi, certains verbatim pourraient être mieux choisis ou reformulés pour une meilleure représentation du contenu.

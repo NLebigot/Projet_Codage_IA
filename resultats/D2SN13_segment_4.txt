@@ -1,0 +1,55 @@
+Pour analyser l'entretien fourni en suivant une méthode rigoureuse de codage qualitatif, nous allons dégager des thèmes et des codes associés aux verbatim des enquêtés, Léa et Mathilda. Nous nous assurerons de varier les angles d'analyse sociologique et de produire des thèmes distincts et riches.
+
+### Thème 1 : Perception de l'usage de ChatGPT dans le contexte académique
+- Code 1 : Acceptation de l'usage de ChatGPT
+  - Verbatim : "ils nous ont dit on est conscients que vous allez utiliser ChatGPT"
+- Code 2 : Utilisation encadrée
+  - Verbatim : "faites attention parce que il ne créera jamais quelque chose"
+- Code 3 : Rôle de l'étudiant
+  - Verbatim : "il faut que ça reste vraiment un outil et qui se substitue pas à l'étudiant"
+- Code 4 : Encadrement par les professeurs
+  - Verbatim : "ils nous le font utiliser d'une bonne manière"
+- Code 5 : Réflexion critique
+  - Verbatim : "en discutant sur les réponses de ChatGPT, est-ce qu'elles sont bonnes ou pas"
+
+### Thème 2 : Expériences spécifiques d'utilisation de ChatGPT
+- Code 1 : Utilisation pour les exposés
+  - Verbatim : "vous pouvez demander à ChatGPT donc de mettre le fichier dans ChatGPT et lui demander ben citez-moi 3 atouts et 3 inconvénients de cet article"
+- Code 2 : Analyse critique des productions de ChatGPT
+  - Verbatim : "on a dit ouais il fait des phrases vagues en fait ça veut rien dire c'est pas précis"
+- Code 3 : Découverte des limites de ChatGPT
+  - Verbatim : "ça nous a aussi permis de nous rendre compte que bah à première vue c'est super ChatGPT mais en fait si on creuse vraiment parfois il fait des phrases qui ne veulent rien dire"
+- Code 4 : Intégration dans les cours
+  - Verbatim : "chaque cours en fait y’a une personne qui passe en exposé sur un article"
+- Code 5 : Utilisation pour apprendre à rédiger des abstracts
+  - Verbatim : "en cours d'anglais on apprenait à faire les abstracts dans les articles"
+
+### Thème 3 : Attitudes des étudiants et des enseignants envers ChatGPT
+- Code 1 : Ouverture des enseignants
+  - Verbatim : "c'est vraiment rare les cours qui sont comme ça où les profs acceptent vraiment qu'on utilise finalement ChatGPT"
+- Code 2 : Perception positive de l'approche
+  - Verbatim : "c'est plutôt intéressant comme approche je trouve"
+- Code 3 : Conscience de l'usage de ChatGPT
+  - Verbatim : "ils sont assez conscients que tout le monde l'utilise"
+- Code 4 : Utilisation proactive
+  - Verbatim : "je l'utilise plutôt pour faire de la rédaction, pour rédiger, pour résumer par exemple, reformuler des phrases"
+
+### Thème 4 : Limites et potentialités de ChatGPT dans l'apprentissage
+- Code 1 : Limites créatives
+  - Verbatim : "il ne créera jamais quelque chose"
+- Code 2 : Utilisation comme outil d'assistance
+  - Verbatim : "il ne peut que vous aider avec vos idées à vous"
+- Code 3 : Développement de la pensée critique
+  - Verbatim : "on en discute, est-ce que c'est une bonne réponse, est-ce que c'est pertinent"
+- Code 4 : Découverte des limites par l'usage
+  - Verbatim : "parfois il fait des phrases qui ne veulent rien dire et qui sont un peu louche"
+- Code 5 : Potentialité pour la rédaction et la reformulation
+  - Verbatim : "pour faire de la rédaction, pour rédiger, pour résumer par exemple, reformuler des phrases"
+
+### Thème 5 : Alternatives et compléments à ChatGPT
+- Code 1 : Absence de recommandations alternatives
+  - Verbatim : "Non" (en réponse à la question sur d'autres logiciels ou intelligences artificielles recommandés)
+- Code 2 : Usage centré sur ChatGPT
+  - Verbatim : "est-ce qu'ils vous ont recommandé d'autres logiciels par exemple ou d'autres intelligences artificielles à utiliser à la place de ChatGPT ?"
+
+Chaque thème regroupe des codes qui reflètent différents aspects de l'entretien, allant de la perception et de l'expérience d'utilisation de ChatGPT à ses limites et potentialités dans le contexte académique. Les verbatim associés offrent un aperçu direct des propos des enquêtés, permettant une analyse qualitative riche et nuancée.

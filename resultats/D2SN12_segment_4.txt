@@ -1,0 +1,105 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Les limites de l'outil**
+ - Code 1 : [Fourniture de sources incorrectes]
+ - Verbatim : "il va me citer des livres qui ne sont pas qui n'existent pas ou des auteurs qui n'existent pas"
+ - Code 2 : [Frustration liée à l'outil]
+ - Verbatim : "c'est un peu frustrant parce que du coup j'ai l'impression de perdre du temps"
+ - Code 3 : [Limite dans les recherches littéraires]
+ - Verbatim : "si jamais je veux lui demander de me fournir des livres qui peuvent m'aider dans mes recherches"
+ - Code 4 : [Inexactitude des réponses]
+ - Verbatim : "il va me donner des citations qui ne sont pas vraies"
+ - Code 5 : [Dépendance à la qualité de la matière en ligne]
+ - Verbatim : "la matière en ligne sur l'activité des réponses n’est pas toujours exacte"
+ - Code 6 : [Problèmes de traduction]
+ - Verbatim : "des traductions à faire qui ne vont pas être exactes si on lui demande une info sur un pays qui parle une langue qui n’est pas beaucoup traduite"
+ - Code 7 : [Utilisation incorrecte de termes]
+ - Verbatim : "il va nous sortir des termes qui sont qui ne sont pas utilisés à bon"
+ - Code 8 : [Limite dans les sujets peu documentés]
+ - Verbatim : "parfois sur des sujets, il va avoir moins de matière"
+ - Code 9 : [Hallucination de sources]
+ - Verbatim : "il a tendance à ... halluciner, à créer des sources qui n'existent pas"
+ - Code 10 : [Stratégie d'évitement]
+ - Verbatim : "je vais arrêter de lui demander des sources littéraires et je vais rechercher par moi-même"
+
+**Thème 2 : L'utilité de l'outil dans la compréhension des sujets**
+ - Code 1 : [Aide à la compréhension]
+ - Verbatim : "ça va m'aider à comprendre plus les dessous et le problème du sujet"
+ - Code 2 : [Découverte de nuances]
+ - Verbatim : "je cerne pas bien, ça va m'aider à comprendre plus les dessous"
+ - Code 3 : [Utilité pour les sujets complexes]
+ - Verbatim : "si jamais j'ai un sujet que je ne comprends pas bien"
+ - Code 4 : [Complémentarité avec l'enseignement]
+ - Verbatim : "plutôt que j'aurais pas forcément pu le voir par moi-même"
+ - Code 5 : [Apport dans la recherche personnelle]
+ - Verbatim : "je vais l'utiliser pour lui demander des conseils sur d'autres choses"
+ - Code 6 : [Utilité pour les informations justes]
+ - Verbatim : "où je sais que les informations seront beaucoup plus justes"
+ - Code 7 : [Distinction entre les usages appropriés et inappropriés]
+ - Verbatim : "je vais prendre ça en compte directement par exemple pour des citations"
+ - Code 8 : [Stratégie de vérification]
+ - Code 9 n'est pas utilisé ici pour ne pas créer un code orphelin; à la place, j’introduis directement le thème suivant.
+- Code 10 n'est pas utilisé ici.
+
+**Thème 3 : La relation à l'autorité et à la connaissance**
+ - Code 1 : [Préférence pour l'explication directe]
+ - Verbatim : "je préfère avoir directement la réponse et comprendre le problème"
+ - Code 2 : [Confiance dans l'enseignement professoral]
+ - Verbatim : "avoir son explication en direct, ce sera quand même plus simple"
+ - Code 3 : [Différence entre matières scientifiques et autres]
+ - Verbatim : "les maths, vu que c'est quelque chose qui est hyper scientifique"
+ - Code 4 : [Stratégie face à l'incompréhension]
+ - Verbatim : "je vais essayer de demander directement à mon prof"
+ - Code 5 : [Distinction entre compréhension immédiate et recherche personnelle]
+ - Verbatim : "plutôt que de rentrer chez moi et d'essayer de trouver la solution"
+ - Code 6 : [Préférence pour la clarté]
+ - Verbatim : "pourquoi je vais demander directement à mon prof parce que c'est plus simple"
+ - Code 7 : [Auto-régulation de la recherche de connaissances]
+ - Verbatim : "je vais prendre le temps de digérer"
+ - Code 8 : [Attitude proactive face à l'incompréhension]
+ - Verbatim : "je vais faire mes recherches sur le sujet"
+ - Code 9 : [Sélectivité dans l'usage des ressources]
+ - Verbatim : "je vais l'utiliser pour lui demander des conseils sur d'autres choses où je sais que les informations seront beaucoup plus justes"
+ - Code 10 : [Prudence dans l'usage des citations]
+
+**Thème 4 : L'évaluation de la qualité et de la fiabilité de l'outil**
+ - Code 1 : [Dépendance à la précision de la matière en ligne]
+ - Verbatim : "la matière en ligne sur l'activité des réponses n’est pas toujours exacte"
+ - Code 2 : [Évaluation de l'exactitude]
+ - Verbatim : "exactivité, je pense que ça va être bien sur des choses qui sont hyper concrète et précise"
+ - Code 3 : [Limite dans les domaines peu documentés]
+ - Verbatim : "parfois sur des sujets, il va avoir moins de matière"
+ - Code 4 : [Problèmes avec les langues peu traduites]
+ - Verbatim : "des traductions à faire qui ne vont pas être exactes"
+ - Code 5 : [Utilisation incorrecte de termes]
+ - Verbatim : "des termes qui sont qui ne sont pas utilisés à bon"
+ - Code 6 : [Hallucination de sources]
+ - Verbatim : "il a tendance à halluciner, à créer des sources qui n'existent pas"
+ - Code 7 : [Notion de fiabilité]
+ - Verbatim : "je sais très bien qu’il va me donner des citations qui ne sont pas vraies"
+ - Code 8 : [Stratégie de vérification]
+ - Verbatim : "je vais vérifier"
+ - Code 9 : [Mise en doute des réponses]
+ - Verbatim : "la réponse elle-même me fait douter"
+ - Code 10 : [Adaptation à la fiabilité de l'outil]
+
+**Thème 5 : Les stratégies de vérification et de validation**
+ - Code 1 : [Arrêt de la demande de sources littéraires]
+ - Verbatim : "je vais arrêter de lui demander des sources littéraires"
+ - Code 2 : [Recherche personnelle]
+ - Verbatim : "je vais rechercher par moi-même"
+ - Code 3 : [Utilisation sélective de l'outil]
+ - Verbatim : "je vais l'utiliser pour lui demander des conseils sur d'autres choses"
+ - Code 4 : [Vérification des citations]
+ - Verbatim : "je vais prendre ça en compte directement par exemple pour des citations"
+ - Code 5 : [Distinction entre les usages appropriés et inappropriés]
+ - Verbatim : "où je sais que les informations seront beaucoup plus justes"
+ - Code 6 : [Prudence dans l'usage des réponses]
+ - Verbatim : "je sais très bien qu’il va me donner des citations qui ne sont pas vraies"
+ - Code 7 : [Stratégie de contournement]
+ - Verbatim : "je dirais que je vais arrêter de lui demander des sources littéraires"
+ - Code 8 : [Vérification systématique]
+ - Verbatim : "tu fais une vérification systématique justement de ces citations"
+ - Code 9 : [Mise en doute des réponses]
+ - Verbatim : "la réponse elle-même me fait douter"
+ - Code 10 : [Validation des informations]

@@ -1,0 +1,113 @@
+Voici mon analyse de l'entretien avec Léa, en respectant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : L'utilisation de ChatGPT dans les études**
+
+- Thème : L'influence de ChatGPT sur le processus d'apprentissage
+ - Code 1 : Utilisation de ChatGPT pour la recherche d'informations
+ - Verbatim : "rien que sur une théorie, j'aurais dû faire peut-être 30 minutes de recherche pour bien comprendre ce que l'auteur voulait dire alors que là avec ChatGPT en 10 minutes on comprend quoi"
+ - Code 2 : Gain de temps dans la recherche
+ - Verbatim : "en 10 minutes on comprend quoi"
+ - Code 3 : Comparaison avec d'autres outils de recherche
+ - Verbatim : "c'est vraiment différent parce que sur Google du coup on peut avoir euh.. bah je pense qu'on a les mêmes infos parce que je pense que ChatGPT il prend ses infos de sites internet qui sont référencés par Google"
+ - Code 4 : Pertinence de l'information fournie
+ - Verbatim : "il nous fait direct la petite production de ce qu'on veut"
+ - Code 5 : Fiabilité de ChatGPT
+ - Verbatim : "je pense que la réponse un peu évidente c'est de dire que Google il est plus fiable que ChatGPT mais en fait vu que ChatGPT il prend ses infos dans Google je pense que c’est à peu près pareil"
+ - Code 6 : Impact sur la compréhension
+ - Verbatim : "on comprend quoi"
+ - Code 7 : Utilisation par les pairs
+ - Verbatim : "on l'utilise tous"
+ - Code 8 : Avantage comparatif
+ - Verbatim : "oui franchement oui"
+ - Code 9 : Inégalité d'accès aux ressources
+ - Verbatim : "ceux qui l'utilisent pas, j'ai un peu l'impression que c'est un peu des têtes qui ont pas besoin de l'utiliser quoi, ils ont déjà plein de références"
+ - Code 10 : Utilisation comme outil d'accompagnement
+ - Verbatim : "il m'accompagne oui"
+
+- Thème : La comparaison entre ChatGPT et Google
+ - Code 1 : Similarité dans les sources d'information
+ - Verbatim : "ChatGPT il prend ses infos de sites internet qui sont référencés par Google"
+ - Code 2 : Différence dans la présentation de l'information
+ - Verbatim : "lui au moins il nous fait direct la petite production de ce qu'on veut"
+ - Code 3 : Gain de temps avec ChatGPT
+ - Verbatim : "en 10 minutes on comprend quoi"
+ - Code 4 : Pertinence de l'information
+ - Verbatim : "plus pertinent pour ce qu'on veut"
+ - Code 5 : Fiabilité comparée
+ - Verbatim : "je pense que c’est à peu près pareil"
+ - Code 6 : Utilisation de ChatGPT comme outil d'apprentissage
+ - Verbatim : "il m'accompagne oui"
+ - Code 7 : Comparaison de l'expérience utilisateur
+ - Verbatim : "c'est vraiment différent"
+ - Code 8 : Impact sur la recherche d'information
+ - Verbatim : "on n'a pas aller sur plusieurs sites à prendre des notes etc."
+ - Code 9 : Utilité dans les études
+ - Verbatim : "ça m'aurait permis d'obtenir un avantage"
+ - Code 10 : Limitations de ChatGPT
+ - Verbatim : "je sais pas trop si on peut les comparer"
+
+- Thème : L'avantage compétitif apporté par ChatGPT
+ - Code 1 : Gain de temps dans la recherche
+ - Verbatim : "en 10 minutes on comprend quoi"
+ - Code 2 : Meilleure compréhension des sujets
+ - Verbatim : "on comprend quoi"
+ - Code 3 : Utilisation par les pairs
+ - Verbatim : "on l'utilise tous"
+ - Code 4 : Avantage comparatif
+ - Verbatim : "oui franchement oui"
+ - Code 5 : Inégalité d'accès aux ressources
+ - Verbatim : "ceux qui l'utilisent pas, j'ai un peu l'impression que c'est un peu des têtes qui ont pas besoin de l'utiliser quoi"
+ - Code 6 : Impact sur la réussite académique
+ - Verbatim : "ça m'aurait permis d'obtenir un avantage"
+ - Code 7 : Utilisation comme outil stratégique
+ - Verbatim : "rien que sur une théorie, j'aurais dû faire peut-être 30 minutes de recherche"
+ - Code 8 : Efficacité comparée
+ - Verbatim : "en 10 minutes on comprend quoi"
+ - Code 9 : Limitations de l'avantage compétitif
+ - Verbatim : "je pense pas parce que vraiment on l'utilise tous"
+ - Code 10 : Potentiel d'amélioration
+ - Verbatim : "oui franchement oui"
+
+- Thème : La perception de ChatGPT par les étudiants
+ - Code 1 : Utilisation de ChatGPT
+ - Verbatim : "on l'utilise tous"
+ - Code 2 : Perception de l'utilité
+ - Verbatim : "il m'accompagne oui"
+ - Code 3 : Comparaison avec d'autres outils
+ - Verbatim : "c'est vraiment différent"
+ - Code 4 : Fiabilité perçue
+ - Verbatim : "je pense que c’est à peu près pareil"
+ - Code 5 : Impact sur les habitudes de travail
+ - Verbatim : "on n'a pas aller sur plusieurs sites à prendre des notes etc."
+ - Code 6 : Avantage perçu
+ - Verbatim : "oui franchement oui"
+ - Code 7 : Inégalité d'accès
+ - Verbatim : "ceux qui l'utilisent pas, j'ai un peu l'impression que c'est un peu des têtes qui ont pas besoin de l'utiliser quoi"
+ - Code 8 : Perception de la facilité d'utilisation
+ - Verbatim : "il nous fait direct la petite production de ce qu'on veut"
+ - Code 9 : Intégration dans les études
+ - Verbatim : "ça m'aurait permis d'obtenir un avantage"
+ - Code 10 : Satisfaction générale
+ - Verbatim : "oui franchement oui"
+
+- Thème : L'intégration de ChatGPT dans le contexte académique
+ - Code 1 : Utilisation dans les études
+ - Verbatim : "on l'utilise tous"
+ - Code 2 : Impact sur la recherche d'information
+ - Verbatim : "on n'a pas aller sur plusieurs sites à prendre des notes etc."
+ - Code 3 : Pertinence dans les tâches académiques
+ - Verbatim : "plus pertinent pour ce qu'on veut"
+ - Code 4 : Gain de temps
+ - Verbatim : "en 10 minutes on comprend quoi"
+ - Code 5 : Fiabilité dans le contexte académique
+ - Verbatim : "je pense que c’est à peu près pareil"
+ - Code 6 : Utilisation comme outil d'apprentissage
+ - Verbatim : "il m'accompagne oui"
+ - Code 7 : Avantage comparatif dans les études
+ - Verbatim : "oui franchement oui"
+ - Code 8 : Limitations dans le contexte académique
+ - Verbatim : "je sais pas trop si on peut les comparer"
+ - Code 9 : Potentiel d'amélioration
+ - Verbatim : "ça m'aurait permis d'obtenir un avantage"
+ - Code 10 : Intégration future
+ - Verbatim : "on l'utilise tous"

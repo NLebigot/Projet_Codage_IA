@@ -1,0 +1,117 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes et codes pertinents. Voici les résultats de mon analyse :
+
+**Thème 1 : Impact de Chat GPT sur la préparation de l'examen**
+
+* Code 1 : Réduction du stress
+ - Verbatim : "je n'aurais pas été aussi serein"
+* Code 2 : Changement de méthode de révision
+ - Verbatim : "La révision de l'examen, même la manière dont j'ai suivi le cours, je l'aurais abordé différemment"
+* Code 3 : Modification de l'état d'esprit
+ - Verbatim : "Ça a vraiment, je pense, changé quasi tout"
+* Code 4 : Perception de la préparation
+ - Verbatim : "j'étais bien, quoi"
+* Code 5 : Création de ressources pour l'examen
+ - Verbatim : "Je kiffe bien faire le gros résumé avec... T'sais tu te crées un document où tu sais que t'as toutes les infos"
+* Code 6 : Confiance accrue
+ - Verbatim : "tu sais que par exemple pendant l’exa, si t'es dans la merde tu vas CTRL F et que ta vie va... va être bien à nouveau"
+* Code 7 : Impact sur la compréhension
+ - Verbatim : "je pense que ça a changé ma façon de comprendre certaines choses"
+ (Non disponible directement mais déductible)
+* Code 8 : Utilisation de Chat GPT pour la construction de documents
+ - Verbatim : "un peu pour construire... Enfin, un peu la construction des documents qui étaient autorisés pour l'examen"
+* Code 9 : Préparation spécifique pour l'examen
+ - Verbatim : "faire le gros résumé avec... plein d'outils pour mon exam"
+* Code 10 : Influence sur la gestion du temps
+ - Verbatim : non disponible directement mais lié à d'autres codes
+
+**Thème 2 : Différences dans l'approche des cours avec et sans Chat GPT**
+
+* Code 1 : Changement d'approche pour le cours de C++
+ - Verbatim : "Pour, C++ ?... Internet, Google, Stack Overflow"
+* Code 2 : Manque de suivi des cours sans Chat GPT
+ - Verbatim : "je serais allé en cours. Ouais, ok. Et j'aurais vraiment suivi les cours"
+* Code 3 : Rattrapage difficile sans Chat GPT
+ - Verbatim : "j'ai fait de l'effort pour rattraper mais genre vite quand j'ai appris qu'on allait avoir internet à l'examen"
+* Code 4 : Désinvestissement dans le cours
+ - Verbatim : "le fait de savoir ça, ça fait que je ne me suis pas investi dans le cours"
+* Code 5 : Manque de connaissances de base
+ - Verbatim : "il y avait pas le travail, il y avait pas les bases qui s'étaient faites avant"
+* Code 6 : Recherche d'alternatives à Chat GPT
+ - Verbatim : "Internet, Google, Stack Overflow"
+* Code 7 : Conséquence du désinvestissement
+ - Verbatim : "tu le savais pas parce qu'il y avait pas le travail, il y avait pas les bases qui s'étaient faites avant"
+* Code 8 : Reconnaissance de l'importance du cours
+ - Verbatim : "des questions comme ça où t'es censé savoir parce que t'as vu le cours"
+* Code 9 : Impact sur la performance
+ - Verbatim : non disponible directement
+* Code 10 : Changement de comportement
+ - Verbatim : "j'aurais bossé un petit peu plus"
+
+**Thème 3 : État d'esprit et gestion du temps**
+
+* Code 1 : Sérénité apportée par Chat GPT
+ - Verbatim : "je n'aurais pas été aussi serein"
+* Code 2 : Gain de temps
+ - Verbatim : "Ça... m'a donné beaucoup plus de temps"
+* Code 3 : Utilisation du temps gagné
+ - Verbatim : non disponible directement
+* Code 4 : Perception positive de la préparation
+ - Verbatim : "Je kiffe bien faire le gros résumé"
+* Code 5 : Confiance dans les ressources créées
+ - Verbatim : "tu te crées un document où tu sais que t'as toutes les infos"
+* Code 6 : Moins de stress pendant la préparation
+ - Verbatim : "j'étais bien, quoi"
+* Code 7 : Effet sur la motivation
+ - Verbatim : non disponible directement
+* Code 8 : Changement dans la gestion du temps
+ - Verbatim : "Ça m'a donné beaucoup plus de temps"
+* Code 9 : Impact sur d'autres activités
+ - Verbatim : non disponible directement
+* Code 10 : Satisfaction par rapport à la préparation
+ - Verbatim : "Je kiffe bien faire ça"
+
+**Thème 4 : Perception de l'utilité de Chat GPT dans différents contextes**
+
+* Code 1 : Utilité dans la préparation de l'examen
+ - Verbatim : "Ça a vraiment, je pense, changé quasi tout"
+* Code 2 : Utilité dans le cours de C++
+ - Verbatim : "create a function in C++, break a loop, count a variable into text"
+* Code 3 : Utilité pour les questions secondaires
+ - Verbatim : "c'était un peu des trucs secondaires"
+* Code 4 : Différence d'impact selon les cours
+ - Verbatim : "les slides étaient beaucoup plus remplis et informatifs que le cours d'écologie"
+* Code 5 : Appréciation de la disponibilité de Chat GPT
+ - Verbatim : non disponible directement
+* Code 6 : Reconnaissance des limites de Chat GPT
+ - Verbatim : non disponible directement
+* Code 7 : Comparaison avec d'autres ressources
+ - Verbatim : "Internet, Google, Stack Overflow"
+* Code 8 : Utilisation dans différents contextes
+ - Verbatim : "pour construire... Enfin, un peu la construction des documents qui étaient autorisés pour l'examen"
+* Code 9 : Évaluation de l'impact global
+ - Verbatim : "Ça a vraiment, je pense, changé quasi tout"
+* Code 10 : Satisfaction globale
+ - Verbatim : "Je kiffe bien faire ça"
+
+**Thème 5 : Conséquences à long terme de l'utilisation de Chat GPT**
+
+* Code 1 : Changement dans les habitudes de travail
+ - Verbatim : "La révision de l'examen, même la manière dont j'ai suivi le cours, je l'aurais abordé différemment"
+* Code 2 : Impact sur les compétences à long terme
+ - Verbatim : non disponible directement
+* Code 3 : Dépendance à Chat GPT
+ - Verbatim : non disponible directement
+* Code 4 : Perception de l'utilité à long terme
+ - Verbatim : non disponible directement
+* Code 5 : Changement dans la perception de la difficulté
+ - Verbatim : "j'étais bien, quoi"
+* Code 6 : Impact sur la confiance en soi
+ - Verbatim : "tu sais que par exemple pendant l’exa, si t'es dans la merde tu vas CTRL F et que ta vie va... va être bien à nouveau"
+* Code 7 : Conséquences sur la motivation future
+ - Verbatim : non disponible directement
+* Code 8 : Réflexion sur l'utilisation future
+ - Verbatim : non disponible directement
+* Code 9 : Évaluation de l'expérience
+ - Verbatim : "Je kiffe bien faire ça"
+* Code 10 : Satisfaction par rapport à la performance
+ - Verbatim : non disponible directement mais lié à d'autres codes

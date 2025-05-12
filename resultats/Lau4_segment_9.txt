@@ -1,0 +1,116 @@
+Voici l'analyse du texte avec 5 thèmes distincts, chacun contenant environ 10 codes avec leur verbatim associé.
+
+**Thème 1 : Utilisation de Chat GPT comme outil d'aide**
+
+* Code 1 : Demande de reformulation
+ - Verbatim : "Je vais demander de reformuler."
+* Code 2 : Utilisation pour clarifier les messages
+ - Verbatim : "soit je vais demander de reformuler, soit je vais réécrire un autre message en changeant ma propre formulation pour que ce soit plus clair encore."
+* Code 3 : Aide à la reformulation
+ - Verbatim : "une aide que je pourrais formuler à une relectrice ou à un relecteur."
+* Code 4 : Utilisation précise
+ - Verbatim : "j'ai des demandes assez précises"
+* Code 5 : Assistance dans la rédaction
+ - Verbatim : "c'est vraiment une aide."
+* Code 6 : Utilisation comme un outil
+ - Verbatim : "J'ai vraiment l'impression que c'est l'ordinateur qui traite ma demande."
+* Code 7 : Perception de l'objectivité
+ - Verbatim : "j'ai l'impression en tout cas que c'est plus objectif"
+* Code 8 : Comparaison avec un humain
+ - Verbatim : "chaque personne aura sa propre manière de synthétiser"
+* Code 9 : Logique et synthèse
+ - Verbatim : "l'esprit de synthèse et de logique."
+* Code 10 : Utilisation spécifique à la manière de travailler
+ - Verbatim : "Je le vois comme une aide vraiment spécifique à ma manière de travailler."
+
+**Thème 2 : Perception de l'objectivité et de la subjectivité dans l'utilisation de Chat GPT**
+
+* Code 1 : Perception de l'objectivité de Chat GPT
+ - Verbatim : "j'ai l'impression en tout cas que c'est plus objectif"
+* Code 2 : Comparaison avec la subjectivité humaine
+ - Verbatim : "chaque personne aura sa propre manière de synthétiser en même propos"
+* Code 3 : Biais potentiels dans l'utilisation de Chat GPT
+ - Verbatim : "même s'il y en a forcément."
+* Code 4 : Perception de la logique dans les réponses
+ - Verbatim : "l'esprit de synthèse et de logique."
+* Code 5 : Utilisation comme un outil neutre
+ - Verbatim : "J'ai vraiment l'impression que c'est l'ordinateur qui traite ma demande."
+* Code 6 : Conscience des limites de l'objectivité
+ - Verbatim : "il y aura un biais de toute façon"
+* Code 7 : Perception de la différence entre Chat GPT et un humain
+ - Verbatim : "l'ordinateur dans le sens intelligence artificielle, qui n'a pas ses propres biais"
+* Code 8 : Conscience de la subjectivité potentielle
+ - Verbatim : "il y aurait une part de subjectivité dans ce que la personne te dit"
+* Code 9 : Perception de la spécificité de Chat GPT
+ - Verbatim : "une autre alternative"
+* Code 10 : Réflexion sur les biais potentiels
+ - Verbatim : "la personne va sélectionner des informations qu'il ou elle trouve plus intéressantes"
+
+**Thème 3 : Utilisation de Chat GPT dans un contexte académique**
+
+* Code 1 : Utilisation dans la préparation d'un mémoire
+ - Verbatim : "dans le cadre de mon mémoire"
+* Code 2 : Perception de l'utilité de Chat GPT
+ - Verbatim : "c'est vraiment une aide."
+* Code 3 : Comparaison avec d'autres étudiants
+ - Verbatim : "je pense que beaucoup l'utilisent"
+* Code 4 : Perception de l'avantage potentiel
+ - Verbatim : "Je crois pas [que j'ai un avantage]"
+* Code 5 : Utilisation comme un outil d'aide
+ - Verbatim : "une aide que je pourrais formuler à une relectrice ou à un relecteur."
+* Code 6 : Spécificité de l'utilisation
+ - Verbatim : "Je le vois comme une aide vraiment spécifique à ma manière de travailler."
+* Code 7 : Perception de l'utilité pour d'autres
+ - Verbatim : "peut-être que pour d'autres personnes, ce que je demande est inutile."
+* Code 8 : Adaptation de Chat GPT aux demandes
+ - Verbatim : "une espèce d'adaptation de ChatGPT vis-à-vis des demandes et des personnes qui l'utilisent"
+* Code 9 : Utilisation dans un contexte de rédaction
+ - Verbatim : "soit je vais demander de reformuler, soit je vais réécrire un autre message"
+* Code 10 : Perception de la valeur de Chat GPT
+ - Verbatim : "c'est l'instantanéité et l'esprit de synthèse et de logique."
+
+**Thème 4 : L'instantanéité et la synthèse dans l'utilisation de Chat GPT**
+
+* Code 1 : Appréciation de l'instantanéité
+ - Verbatim : "c'est l'instantanéité et l'esprit de synthèse et de logique."
+* Code 2 : Perception de la capacité de synthèse
+ - Verbatim : "l'esprit de synthèse"
+* Code 3 : Utilisation pour clarifier les messages
+ - Verbatim : "soit je vais demander de reformuler, soit je vais réécrire un autre message en changeant ma propre formulation pour que ce soit plus clair encore."
+* Code 4 : Comparaison avec un humain
+ - Verbatim : "chaque personne aura sa propre manière de synthétiser"
+* Code 5 : Perception de la logique dans les réponses
+ - Verbatim : "l'esprit de synthèse et de logique."
+* Code 6 : Appréciation de la capacité de synthèse de Chat GPT
+ - Verbatim : "l'ordinateur dans le sens intelligence artificielle, qui n'a pas ses propres biais"
+* Code 7 : Perception de la rapidité des réponses
+ - Verbatim : "l'instantanéité"
+* Code 8 : Utilisation comme un outil de facilitation
+ - Verbatim : "une aide que je pourrais formuler à une relectrice ou à un relecteur."
+* Code 9 : Perception de la spécificité de Chat GPT
+ - Verbatim : "une autre alternative"
+* Code 10 : Réflexion sur les avantages de Chat GPT
+ - Verbatim : "c'est l'instantanéité et l'esprit de synthèse et de logique."
+
+**Thème 5 : L'adaptation de Chat GPT aux besoins des utilisateurs**
+
+* Code 1 : Perception de l'adaptation de Chat GPT
+ - Verbatim : "une espèce d'adaptation de ChatGPT vis-à-vis des demandes et des personnes qui l'utilisent"
+* Code 2 : Utilisation spécifique à la manière de travailler
+ - Verbatim : "Je le vois comme une aide vraiment spécifique à ma manière de travailler."
+* Code 3 : Perception de la flexibilité de Chat GPT
+ - Verbatim : "peut-être que pour d'autres personnes, ce que je demande est inutile."
+* Code 4 : Utilisation comme un outil personnalisable
+ - Verbatim : "une aide que je pourrais formuler à une relectrice ou à un relecteur."
+* Code 5 : Perception de la capacité de Chat GPT à répondre à des demandes précises
+ - Verbatim : "j'ai des demandes assez précises"
+* Code 6 : Utilisation dans différents contextes
+ - Verbatim : "dans le cadre de mon mémoire"
+* Code 7 : Perception de la valeur de Chat GPT pour les utilisateurs
+ - Verbatim : "c'est l'instantanéité et l'esprit de synthèse et de logique."
+* Code 8 : Réflexion sur les limites de Chat GPT
+ - Verbatim : "il y aura un biais de toute façon"
+* Code 9 : Perception de la spécificité de Chat GPT par rapport à d'autres outils
+ - Verbatim : "une autre alternative"
+* Code 10 : Conscience de la variabilité dans l'utilisation de Chat GPT
+ - Verbatim : "chaque personne aura sa propre manière de synthétiser"

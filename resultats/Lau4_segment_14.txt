@@ -1,0 +1,113 @@
+Après avoir lu et analysé l'entretien, j'ai identifié cinq thèmes principaux avec leurs codes et verbatims associés. Voici l'analyse :
+
+**Thème 1 : Évolution des outils et impact sur les générations futures**
+ - Code 1 : Changement dans l'utilisation des outils
+ - Verbatim : "quand toi et moi on était en bachelor, ces outils-là n'existaient pas vraiment encore"
+ - Code 2 : Démocratisation des outils
+ - Verbatim : "ils n'étaient pas aussi démocratisés que maintenant"
+ - Code 3 : Utilisation par les nouvelles générations
+ - Verbatim : "je pense qu'il y a sûrement des premières années qui vont l'utiliser dès le début"
+ - Code 4 : Différence entre le gymnase et l'université
+ - Verbatim : "je vois quand même une grande différence entre le gymnase et l'université"
+ - Code 5 : Inquiétude concernant la dépendance
+ - Verbatim : "il y aura peut-être plus la dépendance dont tu parlais"
+ - Code 6 : Changement dans le rapport avec l'Université
+ - Verbatim : "est-ce que ça va changer leur rapport directement avec l'Uni ?"
+ - Code 7 : Perte de compétences
+ - Verbatim : "ce serait un peu dommage de directement se reposer sur Chat GPT pour certaines tâches"
+ - Code 8 : Capacités développées à l'université
+ - Verbatim : "la capacité d'analyse, de synthèse, de rédaction, esprit critique"
+ - Code 9 : Importance de l'exercice des compétences
+ - Verbatim : "mais de s'exercer vraiment, c'est autre chose"
+ - Code 10 : Impact sur les compétences universitaires
+ - Verbatim : "ces compétences qu'on acquiert à l'université ne vont pas disparaître, mais vont pâtir"
+
+**Thème 2 : Légitimité de l'utilisation de ChatGPT selon les domaines d'étude**
+ - Code 1 : Différence d'usage selon les domaines
+ - Verbatim : "je pense que les usages sont vraiment très différents selon les domaines de recherche"
+ - Code 2 : Utilisation en sciences
+ - Verbatim : "si c'est des travaux scientifiques à rendre, les demandes de ChatGPT, en tout cas l'usage, sera sûrement différent"
+ - Code 3 : Utilisation en lettres
+ - Verbatim : "qu'en lettres, par exemple, la réflexion est quand même de toute façon subjective"
+ - Code 4 : Utilisation pour les exercices de maths ou physique
+ - Verbatim : "si j'ai un exercice de maths ou de physique à rendre, j'essaierai de m'en servir"
+ - Code 5 : Limite de ChatGPT en lettres
+ - Verbatim : "il y aurait une espèce de réflexion que de toute façon ChatGPT peut pas vraiment, en tout cas pour l'instant, remplacer"
+ - Code 6 : Espoir de maintenir une différence
+ - Verbatim : "j'espère quand même que c'est ça qui fait la différence"
+ - Code 7 : Usage plus important dans certains domaines
+ - Verbatim : "on pourrait avoir un usage un peu plus important"
+ - Code 8 : Différence de nature des travaux
+ - Verbatim : "je pense que si c'est des travaux scientifiques... sera sûrement différent qu'en lettres"
+ - Code 9 : Rôle de la subjectivité
+ - Verbatim : "la réflexion est quand même de toute façon subjective"
+ - Code 10 : Attentes différentes
+ - Verbatim : "les demandes de ChatGPT... sera sûrement différent"
+
+**Thème 3 : Risques et considérations éthiques liés à l'utilisation de ChatGPT**
+ - Code 1 : Risque de plagiat
+ - Verbatim : "le risque principal, c'est le plagiat"
+ - Code 2 : Difficulté de plagier ChatGPT
+ - Verbatim : "je ne vois pas tellement comment c'est possible de plagier ChatGPT"
+ - Code 3 : Références non fiables
+ - Verbatim : "déjà les références ne sont pas fiables"
+ - Code 4 : Définition du plagiat
+ - Verbatim : "plagier quand même on a l'idée de voler le travail de quelqu'un"
+ - Code 5 : L'intelligence artificielle n'est pas une personne
+ - Verbatim : "là ce n'est pas le travail d'une personne"
+ - Code 6 : Question de la légitimité de citer une IA
+ - Verbatim : "on revient à citer l'intelligence artificielle"
+ - Code 7 : Complexité éthique
+ - Verbatim : "c'est assez intéressant ce que tu dis"
+ - Code 8 : Tricherie
+ - Verbatim : "tandis que pour du coup un exercice pur, là c'est même plus une aide, c'est de la triche"
+ - Code 9 : Variations selon les cas
+ - Verbatim : "suivant les cas, je pense, oui"
+ - Code 10 : Dépendance au contexte
+ - Verbatim : "je pense qu'en lettres, c'est difficile de tricher"
+
+**Thème 4 : Impact sur les compétences et les pratiques académiques**
+ - Code 1 : Compétences universitaires
+ - Verbatim : "la capacité d'analyse, de synthèse, de rédaction, esprit critique"
+ - Code 2 : Référencement
+ - Verbatim : "les références, évidemment, avoir le réflexe de référencer, de citer"
+ - Code 3 : Importance de l'exercice
+ - Verbatim : "mais de s'exercer vraiment, c'est autre chose"
+ - Code 4 : Risque de dépendance à ChatGPT
+ - Verbatim : "il y aura peut-être plus la dépendance dont tu parlais"
+ - Code 5 : Changement dans les pratiques
+ - Verbatim : "ce serait un peu dommage de directement se reposer sur Chat GPT pour certaines tâches"
+ - Code 6 : Développement des compétences
+ - Verbatim : "ils vont apprendre aussi, de toute façon"
+ - Code 7 : Évaluation de l'impact
+ - Verbatim : "ces compétences qu'on acquiert à l'université ne vont pas disparaître, mais vont pâtir"
+ - Code 8 : Variation selon les domaines
+ - Verbatim : "les usages sont vraiment très différents selon les domaines de recherche"
+ - Code 9 : Réflexion sur l'usage légitime
+ - Verbatim : "est-ce que t'estimerais que l'utilisation de Chat GPT est peut-être plus légitime pour certains travaux académiques, mais non pour d'autres"
+ - Code 10 : Adaptabilité
+ - Verbatim : "j'essaierai de m'en servir"
+
+**Thème 5 : Perception de ChatGPT et de son évolution**
+ - Code 1 : Outils en évolution
+ - Verbatim : "ces outils-là n'existaient pas vraiment encore"
+ - Code 2 : Perception de la démocratisation
+ - Verbatim : "ils n'étaient pas aussi démocratisés que maintenant"
+ - Code 3 : Évaluation de l'impact sur l'apprentissage
+ - Verbatim : "ce serait un peu dommage de directement se reposer sur Chat GPT pour certaines tâches"
+ - Code 4 : Espoir pour le futur
+ - Verbatim : "j'espère quand même que c'est ça qui fait la différence"
+ - Code 5 : Limitations actuelles
+ - Verbatim : "ChatGPT peut pas vraiment, en tout cas pour l'instant, remplacer"
+ - Code 6 : Limite des références
+ - Verbatim : "déjà les références ne sont pas fiables"
+ - Code 7 : Évolution future
+ - Verbatim : "on peut penser bien sûr à quand Chat GPT en lui-même parle de quelque chose qu'il a appris ailleurs"
+ - Code 8 : Incertitude
+ - Verbatim : "je ne suis pas sûre qu'on puisse vraiment plagier ChatGPT"
+ - Code 9 : Complexité
+ - Verbatim : "c'est assez intéressant ce que tu dis"
+ - Code 10 : Acceptation
+ - Verbatim : "oui justement, moi je ne suis pas sûre"
+
+Chaque thème est riche de codes et verbatims qui offrent une analyse approfondie de l'entretien, respectant ainsi les critères demandés.

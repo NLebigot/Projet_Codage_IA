@@ -1,0 +1,116 @@
+Après avoir analysé l'entretien, j'ai identifié plusieurs thèmes distincts. Voici les résultats de l'analyse :
+
+**Thème 1 : La relation enseignant-étudiant en ligne**
+
+* Code 1 : Intérêt pour la relation enseignant-étudiant en ligne
+ Verbatim : "La relation entre l'enseignant et les étudiants. Comment est-ce qu'ils construisent une relation à travers les outils numériques ?"
+* Code 2 : Importance de la construction de la relation
+ Verbatim : "Comment est-ce que ça se crée ?"
+* Code 3 : Perception des rôles en ligne
+ Verbatim : "Comment est-ce que les enseignants se voient en tant qu'enseignants avec ces outils numériques ?"
+* Code 4 : Pratique d'enseignement en ligne
+ Verbatim : "Tout ce qui fait leur pratique d'enseignement ou de relation en fait."
+* Code 5 : Université en ligne comme objet d'étude
+ Verbatim : "Je pense me tourner vers... vers le... Ah, comment s'appelle ? Université en ligne euh… de Suisse."
+* Code 6 : Unidistance comme exemple
+ Verbatim : "Unidistance, voilà. Je pense me tourner vers des enseignants là-bas."
+* Code 7 : Construction de la relation en l'absence de présentiel
+ Verbatim : "Parce que finalement, ils ne se voient pas en présentiel."
+* Code 8 : Imaginaire sur la relation en ligne
+ Verbatim : "Enfin en tout cas, c'est ce que j'imagine."
+* Code 9 : Nécessité de préciser le sujet
+ Verbatim : "Ouais, mais c'est encore très vague donc il faut que je précise."
+* Code 10 : Encadrement par un directeur de recherche
+ Verbatim : "Je suis tout le temps avec elle pour tout mes travaux (rire). Déjà le travail de Bachelor."
+
+**Thème 2 : Définition et compréhension de Chat GPT et de l'intelligence artificielle**
+
+* Code 1 : Définition de Chat GPT
+ Verbatim : "C'est un chatbot. Si la personne ne sait pas ce que c'est, je dirais que c'est une discussion que tu as avec un robot euh… qui, en fait, te répond à tes questions."
+* Code 2 : Base de données de Chat GPT
+ Verbatim : "Il se base sur une très grande base de données, de trucs qu'on lui a donné (rire), qu'il a ingéré et qu’il tra- enfin retravaille pour te donner une réponse euh plus ou moins, enfin qui ferait sens en fait pour l'humain."
+* Code 3 : Limites de Chat GPT
+ Verbatim : "Il faut toujours prendre ses précautions et faire attention aussi à ce qu’on dit et aussi à ce qu'il dit, parce que tu peux aussi enfin essayer quand-même de croiser avec d'autres sources"
+* Code 4 : Utilité de Chat GPT
+ Verbatim : "C'est un outil très utile… Je pense. Et je conseillerais, je pense, si certaines personnes l'utilisent."
+* Code 5 : Définition de l'intelligence artificielle
+ Verbatim : "C'est comme, ouais, c'est reproduire en fait... Enfin, ça a été conçu pour reproduire une so- une forme d'intelligence humaine et pour faire justement des connexions entre des choses et pis... Et pis voilà, donner des réponses sur des choses."
+* Code 6 : Lien avec le master en Digital Society
+ Verbatim : "Vu avec mon master en Digital Society, on en parle beaucoup de l'IA."
+* Code 7 : Input et output dans l'IA
+ Verbatim : "On parle beaucoup de input et d’output. Et euh donc voilà. C'est vraiment quelque chose qu'on donne à cette machine de calcul et de statistiques et de probabilités."
+* Code 8 : Résultat de l'IA
+ Verbatim : "Et pis, il te donne un output euh… sen-enfin normalement sensé (rire)."
+* Code 9 : Conception de l'IA
+ Verbatim : "C'est reproduire en fait... Enfin, ça a été conçu pour reproduire une so- une forme d'intelligence humaine"
+* Code 10 : Compréhension de l'IA comme un outil
+ Verbatim : "C'est vraiment quelque chose qu'on donne à cette machine de calcul et de statistiques et de probabilités."
+
+**Thème 3 : Découverte de Chat GPT et sources d'information**
+
+* Code 1 : Découverte de Chat GPT
+ Verbatim : "Je pense que c'était les informations sur les réseaux sociaux."
+* Code 2 : Rôle de Hugo Décrypte dans la découverte
+ Verbatim : "Bah, il y a Hugo Décrypte, je pense que c'est par lui."
+* Code 3 : Discussion avec les proches
+ Verbatim : "Après, est-ce que j'en ai entendu parler par mes proches ? Enfin, en fait, c'est un peu mélangé."
+* Code 4 : Mélange des sources d'information
+ Verbatim : "Je sais pas... Je sais pas le début, mais en tout cas, c'est mélangé entre les discussions avec les proches et pis les news."
+* Code 5 : Partage d'information sur Chat GPT
+ Verbatim : "La première personne qui voit la news, elle te dit, ah, t'as vu, machin."
+* Code 6 : Réseaux sociaux comme source d'information
+ Verbatim : "Sur les réseaux, ouais."
+* Code 7 : Découverte par les étudiants
+ Verbatim : "Et aussi avec des étudiants j’imagine?"
+* Code 8 : Transmission de l'information
+ Verbatim : "Du coup, forcément, ça se mélange un peu."
+* Code 9 : Sources multiples
+ Verbatim : "C'est un peu mélangé entre les discussions avec les proches et pis les news."
+* Code 10 : Incertitude sur la source première
+ Verbatim : "Je sais pas le début"
+
+**Thème 4 : Perception de l'IA et de Chat GPT dans l'apprentissage**
+
+* Code 1 : Vérification des informations
+ Verbatim : "Surtout si c'est des questions euh… qui… Ouais auxquels si tu dois faire ton travail, de vérifier quand-même si c'est vrai ce qu'il dit"
+* Code 2 : Utilisation de Chat GPT dans les études
+ Verbatim : "Demander à Chat GPT s'il y a des noms que tu peux rechercher pour vérifier ce qu'il dit."
+* Code 3 : Perception de l'utilité de Chat GPT
+ Verbatim : "C'est un outil très utile… Je pense."
+* Code 4 : Limite de la confiance en Chat GPT
+ Verbatim : "Il faut toujours prendre ses précautions et faire attention aussi à ce qu’on dit et aussi à ce qu'il dit"
+* Code 5 : Importance de recouper les sources
+ Verbatim : "Essayer quand-même de croiser avec d'autres sources, ou essayer de faire des recherches ailleurs, et pas que forcément que sur Chat GPT."
+* Code 6 : Rôle de l'IA dans l'apprentissage
+ Verbatim : "Donner des réponses sur des choses."
+* Code 7 : Conception de l'apprentissage avec l'IA
+ Verbatim : "C'est vraiment quelque chose qu'on donne à cette machine de calcul et de statistiques et de probabilités."
+* Code 8 : Utilisation de l'IA dans la formation
+ Verbatim : "Tout ce qui fait leur pratique d'enseignement ou de relation en fait."
+* Code 9 : Intégration de l'IA dans les études
+ Verbatim : "Vu avec mon master en Digital Society, on en parle beaucoup de l'IA."
+* Code 10 : Confiance modérée en Chat GPT
+ Verbatim : "Je conseillerais, je pense, si certaines personnes l'utilisent."
+
+**Thème 5 : Rôle du directeur de recherche et encadrement**
+
+* Code 1 : Rôle de Madame Dubois
+ Verbatim : "Je suis tout le temps avec elle pour tout mes travaux (rire). Déjà le travail de Bachelor."
+* Code 2 : Encadrement pour les travaux
+ Verbatim : "Je suis tout le temps avec elle pour tout mes travaux"
+* Code 3 : Présence d'un directeur de recherche
+ Verbatim : "Tu fais avec Madame Dubois ?"
+* Code 4 : Relation avec le directeur de recherche
+ Verbatim : "Oui. Je suis tout le temps avec elle pour tout mes travaux (rire)."
+* Code 5 : Encadrement pour le travail de Bachelor
+ Verbatim : "Déjà le travail de Bachelor."
+* Code 6 : Soutien pour les études
+ Verbatim : "Je suis tout le temps avec elle"
+* Code 7 : Rôle de guidance
+ Verbatim : "Tu fais avec Madame Dubois ?"
+* Code 8 : Relation de travail
+ Verbatim : "Oui. Je suis tout le temps avec elle pour tout mes travaux"
+* Code 9 : Importance de l'encadrement
+ Verbatim : "Je suis tout le temps avec elle pour tout mes travaux"
+* Code 10 : Confiance en le directeur de recherche
+ Verbatim : "Oui (rire)."

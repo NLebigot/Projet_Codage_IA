@@ -1,0 +1,119 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif demandée.
+
+**Segment 1 : Perception de l'utilisation de ChatGPT**
+
+- Thème 1 : Confiance et vérification
+ - Code 1 : Vérification des réponses
+ - Verbatim : "j'essaie toujours de double check tout ce que me dit ChatGPT"
+ - Code 2 : Réécriture des réponses
+ - Verbatim : "j'essaie de réécrire un peu tout avec les mots"
+ - Code 3 : Perception de plagiat
+ - Verbatim : "des fois on a l'impression de faire du plagiat"
+ - Code 4 : Authenticité
+ - Verbatim : "il faut que je le mette quelque chose de plus humain"
+ - Code 5 : Révision pour une touche personnelle
+ - Verbatim : "rajouter une erreur ou deux, petite faute d'orthographe"
+ - Code 6 : Modifications pour une apparence naturelle
+ - Verbatim : "petite maladresse tu sais"
+ - Code 7 : Satisfaction de personnaliser
+ - Verbatim : (non directement disponible mais implicite dans la discussion)
+ - Code 8 : Inquiétude de copier-coller
+ - Verbatim : "les mots qu'il a fait c'est tellement les mots parfaits"
+ - Code 9 : Besoin d'ajouter une touche humaine
+ - Verbatim : "bon ce mot est trop beau"
+ - Code 10 : Valeur accordée à l'originalité
+ - Verbatim : (sous-entendu dans la nécessité de réécrire)
+
+- Thème 2 : Utilisation selon les tâches
+ - Code 1 : Variation d'utilisation selon l'intérêt pour le cours
+ - Verbatim : "si j'ai un cours qui me... comment dire... ben typique"
+ - Code 2 : Moins d'utilisation pour les cours intéressants
+ - Verbatim : "si c'est un cours qui m'intéresse, je vais plus faire l'effort moi-même"
+ - Code 3 : Davantage d'utilisation pour les tâches ingrates
+ - Verbatim : "j'aurai moins de mal à utiliser ChatGPT"
+ - Code 4 : Sentiment de respect en tant qu'étudiant
+ - Verbatim : "tu te sens pas un peu respecté en tant qu'étudiant"
+ - Code 5 : Intérêt pour la matière
+ - Verbatim : "si j'ai un cours qui m'intéresse"
+ - Code 6 : Utilisation en master vs bachelor
+ - Verbatim : "j'ai commencé beaucoup à utiliser ChatGPT en master"
+ - Code 7 : Rôle de ChatGPT dans l'apprentissage
+ - Verbatim : "je n'ai jamais vraiment utilisé ChatGPT à la place d'apprendre quelque chose"
+ - Code 8 : Remplacement de tâches fastidieuses
+ - Verbatim : "quand tu dois faire une lecture qui t'intéresse pas"
+ - Code 9 : Préférence pour l'effort personnel
+ - Verbatim : "je vais plus faire l'effort moi-même de lire, de rédiger des commentaires"
+ - Code 10 : Perception de l'utilité de ChatGPT
+ - Verbatim : "je l'aurais faite si j'avais eu le temps"
+
+**Segment 2 : Impact sur la gêne et la valorisation**
+
+- Thème 3 : Gêne et confort avec ChatGPT
+ - Code 1 : Gêne réduite avec ChatGPT
+ - Verbatim : "j'ai moins de gêne de demander à ChatGPT"
+ - Code 2 : Absence de jugement
+ - Verbatim : "personne pour te juger"
+ - Code 3 : Réponses encourageantes de ChatGPT
+ - Verbatim : "il répond toujours par 'Bien sûr !'"
+ - Code 4 : Valorisation par ChatGPT
+ - Verbatim : "tu te sens un peu valorisée ?"
+ - Code 5 : Commentaires positifs
+ - Verbatim : "'C'est une question très intéressante.'"
+ - Code 6 : Effet sur la confiance
+ - Verbatim : (implicite dans la discussion sur la valorisation)
+ - Code 7 : Reconnaissance de la qualité du travail
+ - Verbatim : "'Votre méthodologie est déjà très bien écrite et complète.'"
+ - Code 8 : Plaisir de recevoir des compliments
+ - Verbatim : "'Merci.'"
+ - Code 9 : Effet de la rétroaction positive
+ - Verbatim : "t'étais là genre, ouais"
+ - Code 10 : Impact sur l'estime de soi
+ - Verbatim : (sous-entendu dans la réaction positive aux compliments)
+
+- Thème 4 : Utilisation pour des questions basiques
+ - Code 1 : Utilisation pour les questions honteuses
+ - Verbatim : "j'ai posé des questions que t'as un peu honte de poser"
+ - Code 2 : Clarification sur des sujets vastes
+ - Verbatim : "pourquoi est-ce que les résultats des élections américaines influencent la situation en Europe"
+ - Code 3 : Explication de concepts complexes
+ - Verbatim : "comment fonctionne la bourse"
+ - Code 4 : Besoin de comprendre sans honte
+ - Verbatim : "tu sais que c'est des enjeux hyper vastes"
+ - Code 5 : Utilité de ChatGPT pour ces questions
+ - Verbatim : "j'utilise quand même pour certains trucs"
+ - Code 6 : Sentiment de honte initial
+ - Verbatim : "t'es un peu la honte de demander"
+ - Code 7 : Gain de confiance avec ChatGPT
+ - Verbatim : (implicite dans le fait de poser des questions sans honte)
+ - Code 8 : Réponses satisfaisantes
+ - Verbatim : (non directement disponible mais sous-entendu)
+ - Code 9 : Exploration de sujets divers
+ - Verbatim : "des choses comme ça, tu sais"
+ - Code 10 : Ouverture à l'exploration
+ - Verbatim : (présent dans la discussion sur les sujets variés)
+
+**Segment 3 : Perception rétrospective et préférence**
+
+- Thème 5 : Regard rétrospectif sur l'utilisation
+ - Code 1 : Perception de l'absence de ChatGPT au bachelor
+ - Verbatim : "je pense, je pense….Je sais pas si c'est bien ou pas"
+ - Code 2 : Neutralité initiale
+ - Verbatim : "c'était pas là, donc je l’utilisais pas"
+ - Code 3 : Réflexion sur l'utilité potentielle
+ - Verbatim : "est-ce que ça t’aurait aider à mieux comprendre des cours ?"
+ - Code 4 : Considération pour l'apprentissage
+ - Verbatim : "des sujets discutés ?"
+ - Code 5 : Ambivalence
+ - Verbatim : "je sais pas si c'est bien ou pas"
+ - Code 6 : Évaluation de l'impact
+ - Verbatim : (sous-entendu dans la discussion sur l'utilité)
+ - Code 7 : Acceptation de la situation
+ - Verbatim : "c'était pas là"
+ - Code 8 : Manque de certitude
+ - Verbatim : "je pense"
+ - Code 9 : Regard sur le passé
+ - Verbatim : "au bachelor"
+ - Code 10 : Questionnement sur l'avantage
+ - Verbatim : "est-ce que ça t’aurait aider"
+
+Ces thèmes et codes offrent une analyse détaillée des points abordés dans l'entretien, permettant d'identifier les attitudes et perceptions de l'enquêté concernant l'utilisation de ChatGPT dans son parcours académique.

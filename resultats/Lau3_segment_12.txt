@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Je vais identifier 5 thèmes distincts avec environ 10 codes chacun, accompagnés de verbatim représentatifs.
+
+**Thème 1 : Utilisation de ChatGPT dans l'enseignement**
+ - Code 1 : Utilisation de ChatGPT pour structurer les cours
+ - Verbatim : "il m'aide à structurer ou m'aider à vérifier mes infos."
+ - Code 2 : Limites de ChatGPT dans la planification
+ - Verbatim : "Ça marche pas trop ces planifs parce qu'elles prennent pas..."
+ - Code 3 : Comparaison entre ChatGPT et les profs
+ - Verbatim : "ChatGPT est un peu comme nos profs."
+ - Code 4 : Nécessité de vérifier les informations fournies par ChatGPT
+ - Verbatim : "il faut toujours, toujours, toujours vérifier ce qu'il fait"
+ - Code 5 : Utilisation de ChatGPT pour des sujets techniques
+ - Verbatim : "C'est un sujet très technique."
+ - Code 6 : Difficultés avec les sujets complexes
+ - Verbatim : "Quand c'est un sujet qui parle plus, par exemple, de l'aspect... c'est un peu plus compliqué avec lui."
+ - Code 7 : Rôle de ChatGPT dans la préparation des cours
+ - Verbatim : "En amont, préparer un truc, avoir de l'aide pour t'aider à structurer"
+ - Code 8 : Autonomie dans l'utilisation de ChatGPT
+ - Verbatim : "je donne mon cours comme moi je le sens"
+ - Code 9 : Vérification des résultats fournis par ChatGPT
+ - Verbatim : "je revois toujours ce qu'il me dit."
+ - Code 10 : Utilisation limitée de ChatGPT
+ - Verbatim : "je peux pas lui faire complètement confiance, au final, je finis par tout faire moi-même."
+
+**Thème 2 : Perception de l'utilité de ChatGPT**
+ - Code 1 : Utilité de ChatGPT dans la préparation
+ - Verbatim : "Il m'aide énormément"
+ - Code 2 : Limites de l'utilité de ChatGPT
+ - Verbatim : "ChatGPT m'aide pas tant que ça."
+ - Code 3 : Contradiction dans l'utilité perçue de ChatGPT
+ - Verbatim : "Alors, ça contredit un peu tout ce que je viens de dire"
+ - Code 4 : Rôle de soutien de ChatGPT
+ - Verbatim : "il est là pour m'aider à structurer ou m'aider à vérifier mes infos."
+ - Code 5 : Dépendance à ChatGPT
+ - Verbatim : "je peux pas lui faire complètement confiance"
+ - Code 6 : Autonomie malgré l'utilisation de ChatGPT
+ - Verbatim : "je finis par tout faire moi-même."
+ - Code 7 : Utilité dans les cas particuliers
+ - Verbatim : "Je lui demande souvent son aide sur des cas particuliers"
+ - Code 8 : Perception mitigée de ChatGPT
+ - Verbatim : "C'est ni une mauvaise, ni une bonne chose nécessairement."
+ - Code 9 : Importance de la vérification
+ - Verbatim : "il faut toujours vérifier ce qu'il fait"
+ - Code 10 : Utilisation nuancée de ChatGPT
+ - Verbatim : "simplement, il est là pour m'aider"
+
+**Thème 3 : Structuration et planification des cours**
+ - Code 1 : Planification idéalisée
+ - Verbatim : "pendant les 10 premières minutes tu fais une introduction sur tel sujet"
+ - Code 2 : Difficultés dans la planification
+ - Verbatim : "planifs parce qu'elles prennent pas..."
+ - Code 3 : Réalisme vs idéalisme dans la planification
+ - Verbatim : "il a la vision d'un monde idéal alors que dans la réalité, tu fais la moitié de ce que tu avais prévu de faire."
+ - Code 4 : Flexibilité nécessaire dans la planification
+ - Verbatim : "tu fais la moitié de ce que tu avais prévu de faire"
+ - Code 5 : Importance de la structure
+ - Verbatim : "structurer avec les élèves les idées."
+ - Code 6 : Outils pour la structuration
+ - Verbatim : "Tu vas faire un tableau, tu vas faire un schéma avec eux."
+ - Code 7 : Rôle de l'enseignant dans la structuration
+ - Verbatim : "Je le fais moi-même."
+ - Code 8 : Utilisation de ChatGPT pour des informations spécifiques
+ - Verbatim : "Est-ce qu'il y a une règle spécifique pour, je sais pas, le plus que parfait ?"
+ - Code 9 : Gestion du temps
+ - Verbatim : "pendant les 15 prochaines minutes tu les lances dans les exercices"
+ - Code 10 : Adaptabilité dans l'enseignement
+ - Verbatim : "je donne mon cours comme moi je le sens"
+
+**Thème 4 : Interaction avec ChatGPT et autonomie**
+ - Code 1 : Interaction avec ChatGPT pour des clarifications
+ - Verbatim : "Je lui demande souvent son aide sur des cas particuliers"
+ - Code 2 : Autonomie dans l'enseignement
+ - Verbatim : "je donne mon cours comme moi je le sens"
+ - Code 3 : Vérification des informations
+ - Verbatim : "il faut toujours, toujours, toujours vérifier ce qu'il fait"
+ - Code 4 : Confiance limitée en ChatGPT
+ - Verbatim : "je peux pas lui faire complètement confiance"
+ - Code 5 : Responsabilité de l'enseignant
+ - Verbatim : "je finis par tout faire moi-même."
+ - Code 6 : Utilisation de ChatGPT comme un outil
+ - Verbatim : "il est là pour m'aider à structurer ou m'aider à vérifier mes infos."
+ - Code 7 : Décision finale de l'enseignant
+ - Verbatim : "je revois toujours ce qu'il me dit."
+ - Code 8 : Limite de la dépendance à ChatGPT
+ - Verbatim : "je peux pas lui faire complètement confiance, au final, je finis par tout faire moi-même."
+ - Code 9 : Préparation active
+ - Verbatim : "En amont, préparer un truc, avoir de l'aide pour t'aider à structurer"
+ - Code 10 : Engagement personnel dans l'enseignement
+ - Verbatim : "je fais moi-même."
+
+**Thème 5 : Aspects pédagogiques et didactiques**
+ - Code 1 : Aspect technique des sujets
+ - Verbatim : "C'est un sujet très technique."
+ - Code 2 : Complexité de certains sujets
+ - Verbatim : "Quand c'est un sujet qui parle plus, par exemple, de l'aspect... c'est un peu plus compliqué avec lui."
+ - Code 3 : Nécessité d'adaptation pédagogique
+ - Verbatim : "Tu vas faire un tableau, tu vas faire un schéma avec eux."
+ - Code 4 : Utilisation de méthodes pédagogiques variées
+ - Verbatim : "Comment toi tu vas structurer avec les élèves les idées."
+ - Code 5 : Difficultés avec certains concepts
+ - Verbatim : "la concordance des temps, c'est un peu plus compliqué avec lui."
+ - Code 6 : Rôle de l'enseignant dans la pédagogie
+ - Verbatim : "Je le fais moi-même."
+ - Code 7 : Utilisation de ChatGPT pour des questions spécifiques
+ - Verbatim : "Est-ce qu'il y a une règle spécifique pour, je sais pas, le plus que parfait ?"
+ - Code 8 : Gestion de l'incertitude
+ - Verbatim : "En fait, c'est toujours si j'ai des doutes."
+ - Code 9 : Préparation des exercices
+ - Verbatim : "si tu devais passer du temps pour faire les exercices, tu y passerais des plombes."
+ - Code 10 : Engagement dans la préparation
+ - Verbatim : "je revois toujours ce qu'il me dit."

@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Utilisation de l'IA dans la préparation des cours**
+
+* Code 1 : Structuration du cours
+ Verbatim : "Et ça m'aide souvent à juste, moi-même, me structurer comment je vais faire mon cours."
+* Code 2 : Formulation de questions précises
+ Verbatim : "Souvent, je lui pose la question très précise de ce dont j'ai besoin à ce moment-là."
+* Code 3 : Vérification des connaissances
+ Verbatim : "Je vérifie avec lui pour être sûr que lui, il est d'accord avec moi."
+* Code 4 : Utilisation pour les détails grammaticaux
+ Verbatim : "Ou alors j'ai un doute tout à coup sur une phrase, comment on accorde tel participe, par exemple."
+* Code 5 : Fiabilité de l'IA
+ Verbatim : "Je lui dis, tu peux m'accorder ça ?"
+* Code 6 : Contrôle des réponses
+ Verbatim : "Et souvent, il m'accorde juste."
+* Code 7 : Vérification de la justesse
+ Verbatim : "Des fois, je fais juste pour vérifier."
+* Code 8 : Connaissance de la grammaire
+ Verbatim : "En mode, je connais comment on conjugue."
+* Code 9 : Interaction avec l'IA
+ Verbatim : "Je lui dis, mais t'es sûr ? La règle, c'est comme ça."
+* Code 10 : Limites de l'IA
+ Verbatim : "Et bon, après, il se reprend, mais... là encore, c'est une limite."
+
+**Thème 2 : Manipulation de l'IA pour en tester les limites**
+
+* Code 1 : Définition de la manipulation
+ Verbatim : "Je dis manipuler parce que j'ai conscience que c'est une IA et j'essaye de manière contournée de vérifier la fiabilité de cette IA."
+* Code 2 : Exercices pour tester l'IA
+ Verbatim : "Ce que je fais souvent, c'est que des fois, je lui demande de faire une série d'exercices, simplement de la faire."
+* Code 3 : Étapes pour tester l'IA
+ Verbatim : "Deuxième étape, de faire les exercices lui-même, d'y répondre. Et troisième étape, de corriger et de se noter."
+* Code 4 : Résultats inattendus
+ Verbatim : "Et c'est très marrant parce qu'il le fait et il se met jamais tout juste."
+* Code 5 : Auto-évaluation de l'IA
+ Verbatim : "Il se met jamais 10 sur 10. Il considère que c'est jamais assez bien."
+* Code 6 : Interrogation sur les résultats
+ Verbatim : "Ouais, et c'est assez marrant et moi je me demande mais pourquoi tu te mets pas 10 sur 10 ?"
+* Code 7 : Attentes envers l'IA
+ Verbatim : "T'es censé tout savoir."
+* Code 8 : Vérification des réponses de l'IA
+ Verbatim : "Et du coup je vérifie par moi-même, je regarde un peu comment il a..."
+* Code 9 : Intérêt de l'exercice
+ Verbatim : "Mais je ne sais pas à quel point ça peut être intéressant dans l'étude de JJPT"
+* Code 10 : Humour et surprise
+ Verbatim : "C'est marrant de se rendre compte que lui-même, même en ayant tout juste, il ne se met pas 10 sur 10."
+
+**Thème 3 : Perception de l'IA et de ses limites**
+
+* Code 1 : Perception de l'IA comme débile
+ Verbatim : "Il est un peu débile parfois."
+* Code 2 : Limites de la compréhension de l'IA
+ Verbatim : "Pourquoi tu dis que c'est de manipuler le truc ?"
+* Code 3 : Compréhension des réponses de l'IA
+ Verbatim : "Alors que l'exercice ne demande pas du tout à expliquer par exemple."
+* Code 4 : Auto-correction de l'IA
+ Verbatim : "Tchatché Pété, quand tu lui dis qu'il a faux, il se reprend toujours, quitte à faire faux lui-même."
+* Code 5 : Problème avec la correction
+ Verbatim : "Et ça, c'est un problème."
+* Code 6 : Évaluation de la performance de l'IA
+ Verbatim : "Il se reprend toujours, quitte à faire faux lui-même."
+* Code 7 : Réflexion sur l'amélioration de l'IA
+ Verbatim : "Qu'est-ce qu'il dit déjà ?"
+* Code 8 : Justification des réponses de l'IA
+ Verbatim : "J'aurais pu mieux expliquer."
+* Code 9 : Attentes envers l'IA
+ Verbatim : "T'es censé tout savoir."
+* Code 10 : Analyse de la performance de l'IA
+ Verbatim : "Même en ayant tout juste, il ne se met pas 10 sur 10."
+
+**Thème 4 : Interaction avec l'IA et jeux de rôles**
+
+* Code 1 : Interaction ludique avec l'IA
+ Verbatim : "Je lui dis, salut Tchad, ça va aujourd'hui ? Non, je rigole."
+* Code 2 : Jeux de rôles avec l'IA
+ Verbatim : "Des fois, ça peut m'arriver pour la blague."
+* Code 3 : Utilisation de l'humour
+ Verbatim : "Voilà, nickel."
+* Code 4 : Vérification de la compréhension de l'IA
+ Verbatim : "Je lui demande de faire une série d'exercices"
+* Code 5 : Prise de conscience de la différence entre l'IA et l'humain
+ Verbatim : "J'ai conscience que c'est une IA"
+* Code 6 : Simulation de situations réelles
+ Verbatim : "Je lui demande de faire les exercices lui-même, d'y répondre."
+* Code 7 : Évaluation de la performance de l'IA
+ Verbatim : "Et troisième étape, de corriger et de se noter."
+* Code 8 : Analyse de la réaction de l'IA
+ Verbatim : "Il se met jamais tout juste."
+* Code 9 : Réflexion sur la différence entre l'IA et l'humain
+ Verbatim : "C'est marrant de se rendre compte que lui-même, même en ayant tout juste, il ne se met pas 10 sur 10."
+* Code 10 : Divertissement avec l'IA
+ Verbatim : "C'est très marrant parce qu'il le fait"
+
+**Thème 5 : Fiabilité et limites de l'IA dans la préparation des cours**
+
+* Code 1 : Vérification de la fiabilité de l'IA
+ Verbatim : "Je vérifie avec lui pour être sûr que lui, il est d'accord avec moi."
+* Code 2 : Limites de la compréhension de l'IA
+ Verbatim : "Et bon, après, il se reprend, mais... là encore, c'est une limite."
+* Code 3 : Problèmes avec la correction
+ Verbatim : "Tchatché Pété, quand tu lui dis qu'il a faux, il se reprend toujours, quitte à faire faux lui-même."
+* Code 4 : Évaluation de la performance de l'IA
+ Verbatim : "Il se met jamais 10 sur 10."
+* Code 5 : Analyse de la réaction de l'IA
+ Verbatim : "Il considère que c'est jamais assez bien."
+* Code 6 : Réflexion sur l'amélioration de l'IA
+ Verbatim : "Pourquoi tu te mets pas 10 sur 10 ? T'es censé tout savoir."
+* Code 7 : Justification des réponses de l'IA
+ Verbatim : "J'aurais pu mieux expliquer."
+* Code 8 : Attentes envers l'IA
+ Verbatim : "T'es censé tout savoir."
+* Code 9 : Comparaison entre l'IA et l'humain
+ Verbatim : "C'est marrant de se rendre compte que lui-même, même en ayant tout juste, il ne se met pas 10 sur 10."
+* Code 10 : Fiabilité de l'IA
+ Verbatim : "Je dis manipuler parce que j'ai conscience que c'est une IA et j'essaye de manière contournée de vérifier la fiabilité de cette IA."

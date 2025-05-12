@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Utilisation de Chat GPT**
+
+- Thème : Avantages de Chat GPT
+ - Code 1 : Disponibilité
+ - Verbatim : "il est tout le temps disponible"
+ - Code 2 : Rapidité
+ - Verbatim : "il répond très vite"
+ - Code 3 : Gain de temps
+ - Verbatim : "je ne suis pas obligé de d'essayer de trouver un bon emploi du temps"
+ - Code 4 : Facilité d'utilisation
+ - Verbatim : "je peux directement dépendre à GPT"
+ - Code 5 : Autonomie
+ - Verbatim : "je ne suis pas obligé de matcher avec la personne pour la réponse"
+
+- Thème : Contexte d'utilisation
+ - Code 1 : Utilisation en cours
+ - Verbatim : "ça m'arrive en cours"
+ - Code 2 : Complément au professeur
+ - Verbatim : "si je ne comprends pas un point et que le professeur n'a pas le temps"
+ - Code 3 : Utilisation personnelle
+ - Verbatim : "c'est juste chez vous quand il faut faire des rendus"
+ - Code 4 : Recherche d'information
+ - Verbatim : "je peux directement dépendre à GPT ou voir sur Google la réponse"
+
+**Segment 2 : Impact de Chat GPT sur les études**
+
+- Thème : Avantage compétitif
+ - Code 1 : Accès égalitaire
+ - Verbatim : "tout le monde l’utilise actuellement donc il n’y a pas vraiment d'avantage"
+ - Code 2 : Différence dans l'utilisation
+ - Verbatim : "c'est juste la manière d'utiliser qui change"
+ - Code 3 : Version payante
+ - Verbatim : "Même sans la version payante en général , c'est plutôt , c'est même très bien"
+ - Code 4 : Gain de temps
+ - Verbatim : "il y aurait peut-être un avantage de gain de temps mais c'est tout"
+
+- Thème : Impact sur la réflexion et la qualité
+ - Code 1 : Pas d'impact sur la réflexion
+ - Verbatim : "non je ne pense pas"
+ - Code 2 : Pas d'impact sur la qualité
+ - Verbatim : "non je ne pense pas . Vraiment purement temporel"
+
+**Segment 3 : Dépendance et stress**
+
+- Thème : Dépendance à Chat GPT
+ - Code 1 : Pas de dépendance
+ - Verbatim : "C’est un assistant , c’est tout, donc pas de dépendance"
+ - Code 2 : Utilisation contrôlée
+ - Verbatim : "je ne suis pas dépendant"
+
+- Thème : Impact sur le stress
+ - Code 1 : Pas de réduction du stress
+ - Verbatim : "Non pas du tout"
+ - Code 2 : Source du stress
+ - Verbatim : "Le stress provient de l ’examen en lui-même ou du rendu"
+
+**Segment 4 : Perception et légitimité de Chat GPT**
+
+- Thème : Perception de Chat GPT
+ - Code 1 : Outil neutre
+ - Verbatim : "c'est un outil comme un autre"
+ - Code 2 : Évolution technologique
+ - Verbatim : "Ce sont juste les moyens qui augmentent avec la technologie"
+ - Code 3 : Légitimité
+ - Verbatim : "il n’y a pas à être légitime ou pas je pense"
+
+- Thème : Réglementation et encadrement
+ - Code 1 : Nécessité de réglementer
+ - Verbatim : "ça doit être réglementé encadrer et c'est ça le plus important"
+ - Code 2 : Utilisation abusive
+ - Verbatim : "si je ne sais pas, j'étais au collège même en primaire j'avais GPT pour faire toutes mes dissertations"
+ - Code 3 : Encadrement pour une utilisation appropriée
+ - Verbatim : "si c'est bien encadré juste pour essayer de comprendre les cours ça peut le faire"
+
+**Segment 5 : Adaptation de l'université et responsabilités**
+
+- Thème : Adaptation de l'université
+ - Code 1 : Retard dans l'adaptation
+ - Verbatim : "la France est toujours un peu en retard"
+ - Code 2 : Solutions pour une utilisation sécurisée
+ - Verbatim : "il y a plein de solutions"
+ - Code 3 : Utilisation de GPT spécialisés
+ - Verbatim : "des GPT spéciaux à l'entreprise qui limitent donc l'utilisation"
+
+- Thème : Responsabilités
+ - Code 1 : Rôle de l'université
+ - Verbatim : "l'université ils sont là pour ça"
+ - Code 2 : Rôle des parents
+ - Verbatim : "les parents, je n’y crois pas trop"
+ - Code 3 : Responsabilité partagée
+ - Verbatim : "il y aurait une utilisation à vérifier de la part des universités à croître mais aussi des parents"
+
+Ces thèmes et codes offrent une analyse sociologique de l'entretien, mettant en lumière les aspects positifs et négatifs de l'utilisation de Chat GPT dans le contexte universitaire, ainsi que les préoccupations concernant la dépendance, le stress, la légitimité et la réglementation.

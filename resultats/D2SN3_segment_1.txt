@@ -1,0 +1,121 @@
+Je vais procéder à l'analyse de l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Présentation et contexte**
+
+- Thème 1 : Contexte de l'entretien
+ - Code 1 : Anonymat
+ - Verbatim : "vos réponses seront anonymes et resteront toujours anonymes"
+ - Code 2 : Liberté de réponse
+ - Verbatim : "il y a une liberté de réponse. Vous pouvez choisir de ne pas répondre à certaines questions aussi."
+ - Code 3 : Consentement
+ - Verbatim : "est-ce que je peux enregistrer cette conversation ?"
+ - Code 4 : Objectif de l'entretien
+ - Verbatim : "l'objectif est de comprendre comment cet outil est utilisé et perçu"
+ - Code 5 : Confidentialité
+ - Verbatim : "par rapport à la confidentialité, vos réponses seront anonymes"
+
+- Thème 2 : Présentation de l'enquêté
+ - Code 1 : Parcours éducatif
+ - Verbatim : "j'ai fait 2 années de classe préparatoire, j'ai intégré l'ISCAE au Maroc et puis je suis venue en France pour un double diplôme à l'ISEG"
+ - Code 2 : Domaine d'étude
+ - Verbatim : "j'ai fait un double diplôme en finance d'entreprise"
+ - Code 3 : Expérience avec Chat GPT
+ - Verbatim : "j'ai eu un gros dilemme, une grande problématique avec Chat GPT lors de ma recherche académique lors de mon mémoire de fin d'étude"
+
+**Segment 2 : Perception de Chat GPT**
+
+- Thème 1 : Définition de l'intelligence artificielle
+ - Code 1 : Définition de l'intelligence artificielle
+ - Verbatim : "l'intelligence artificielle c'est un outil qui a pu se développer lui-même et imiter l'intelligence humaine"
+ - Code 2 : Capacités de Chat GPT
+ - Verbatim : "la vitesse, le style d'écriture, les idées innovantes"
+ - Code 3 : Impact sur les étudiants
+ - Verbatim : "les étudiants utilisent Chat GPT comme un outil principal au lieu de faire l'effort eux-mêmes"
+ - Code 4 : Effets sur la motivation
+ - Verbatim : "ça crée une dynamique de paresse. On devient paresseux"
+ - Code 5 : Perception de l'intelligence de Chat GPT
+ - Verbatim : "on est impressionné par son intelligence qu'on pense qu'on peut pas donner un meilleur résultat nous-même"
+
+- Thème 2 : Découverte de Chat GPT
+ - Code 1 : Première utilisation
+ - Verbatim : (en attente de la réponse de Soumaya)
+ - Code 2 : Contexte de découverte
+ - Verbatim : (en attente de la réponse de Soumaya)
+
+Cependant, comme la réponse de Soumaya à la question "quand et comment avez-vous découvert Chat GPT?" n'est pas fournie, je ne peux pas compléter les codes pour ce thème.
+
+Je vais donc me concentrer sur les éléments disponibles.
+
+**Thèmes et codes complets pour les segments analysés**
+
+**Segment 1**
+
+- Thème 1 : Contexte de l'entretien
+ - Code 1 : Anonymat
+ - Verbatim : "vos réponses seront anonymes et resteront toujours anonymes"
+ - Code 2 : Liberté de réponse
+ - Verbatim : "il y a une liberté de réponse. Vous pouvez choisir de ne pas répondre à certaines questions aussi."
+ - Code 3 : Consentement
+ - Verbatim : "est-ce que je peux enregistrer cette conversation ?"
+ - Code 4 : Objectif de l'entretien
+ - Verbatim : "l'objectif est de comprendre comment cet outil est utilisé et perçu"
+ - Code 5 : Confidentialité
+ - Verbatim : "par rapport à la confidentialité, vos réponses seront anonymes"
+ - Code 6 : Enregistrement de la conversation
+ - Verbatim : "l'enregistrement sera supprimé après l'étude"
+ - Code 7 : Explication du contexte
+ - Verbatim : "je suis étudiante en M2 en data science et société numérique à l'université Gustave Eiffel"
+ - Code 8 : Introduction
+ - Verbatim : "Bonjour Soumaya. J'espère que vous allez bien"
+ - Code 9 : Présentation
+ - Verbatim : "je me présente, je suis étudiante en M2"
+ - Code 10 : Préambule
+ - Verbatim : "avant de commencer, j'aimerais bien vous faire quelques précisions"
+
+- Thème 2 : Présentation de l'enquêté
+ - Code 1 : Parcours éducatif
+ - Verbatim : "j'ai fait 2 années de classe préparatoire, j'ai intégré l'ISCAE au Maroc et puis je suis venue en France pour un double diplôme à l'ISEG"
+ - Code 2 : Domaine d'étude
+ - Verbatim : "j'ai fait un double diplôme en finance d'entreprise"
+ - Code 3 : Expérience avec Chat GPT
+ - Verbatim : "j'ai eu un gros dilemme, une grande problématique avec Chat GPT lors de ma recherche académique lors de mon mémoire de fin d'étude"
+ - Code 4 : Age
+ - Verbatim : "je suis une jeune fille de 22 ans"
+ - Code 5 : Contexte international
+ - Verbatim : "j'ai étudié dans un contexte international au Maroc et en France"
+ - Code 6 : Partage d'expérience
+ - Verbatim : "ça sera un plaisir de partager mon expérience avec vous pour l'étudier et analyser ce sujet"
+ - Code 7 : Relation avec Chat GPT
+ - Verbatim : "mon cas est vraiment très relatif à l'essor de Chat GPT par rapport à l'usage de Chat GPT par les études"
+ - Code 8 : Recherche académique
+ - Verbatim : "l'impact de Chat GPT sur la recherche académique"
+ - Code 9 : Mémoire de fin d'étude
+ - Verbatim : "lors de mon mémoire de fin d'étude"
+ - Code 10 : Problématique rencontrée
+ - Verbatim : "j'ai eu un gros dilemme, une grande problématique avec Chat GPT"
+
+**Segment 2**
+
+- Thème 1 : Définition de l'intelligence artificielle
+ - Code 1 : Définition de l'intelligence artificielle
+ - Verbatim : "l'intelligence artificielle c'est un outil qui a pu se développer lui-même et imiter l'intelligence humaine"
+ - Code 2 : Capacités de Chat GPT
+ - Verbatim : "la vitesse, le style d'écriture, les idées innovantes"
+ - Code 3 : Impact sur les étudiants
+ - Verbatim : "les étudiants utilisent Chat GPT comme un outil principal au lieu de faire l'effort eux-mêmes"
+ - Code 4 : Effets sur la motivation
+ - Verbatim : "ça crée une dynamique de paresse. On devient paresseux"
+ - Code 5 : Perception de l'intelligence de Chat GPT
+ - Verbatim : "on est impressionné par son intelligence qu'on pense qu'on peut pas donner un meilleur résultat nous-même"
+ - Code 6 : Utilisation abusive
+ - Verbatim : "on abuse de Chat GPT surtout pour les étudiants"
+ - Code 7 : Contexte d'utilisation
+ - Verbatim : "j'ai étudié dans un contexte international au Maroc et en France dans un contexte bilatéral"
+ - Code 8 : Comparaison entre étudiants
+ - Verbatim : "l'usage est le même par les étudiants"
+ - Code 9 : Effet sur la créativité
+ - Verbatim : "les idées innovantes"
+ - Code 10 : Dépendance à Chat GPT
+ - Verbatim : "on fait toujours recours à Chat GPT"
+
+Ces thèmes et codes offrent une analyse qualitative de l'entretien, en mettant en évidence les perceptions et expériences de l'enquêté concernant Chat GPT et son impact sur le travail et l'apprentissage.

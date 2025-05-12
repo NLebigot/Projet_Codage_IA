@@ -1,0 +1,116 @@
+Voici mon analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif. J'ai identifié 5 thèmes distincts avec environ 10 codes chacun.
+
+**Thème 1 : Utilisation de ChatGPT pour les tâches universitaires**
+
+* Code 1 : Utilisation pour les TP de programmation
+ Verbatim : "j'avais un TP à rendre en Python il y a deux semaines et je ne comprenais pas"
+* Code 2 : Demande d'aide pour comprendre les concepts
+ Verbatim : "je lui ai envoyé la consigne, je lui ai envoyé la base du code que j'avais fait"
+* Code 3 : Spécification des besoins pour obtenir des réponses pertinentes
+ Verbatim : "je lui ai dit il faut que tu utilises ces concepts-là en Python parce que autrement ça va pas"
+* Code 4 : Utilisation pour obtenir des réponses rapides
+ Verbatim : "je passe directement sur ChatGPT"
+* Code 5 : Satisfaction mitigée quant aux résultats
+ Verbatim : "au final ça marchait pas mais bon voilà"
+* Code 6 : Utilisation pour les tâches complexes
+ Verbatim : "quand je dois avoir le truc mieux fait possible"
+* Code 7 : Aide à la mise en place de Zotero
+ Verbatim : "j'ai dit bon on va essayer et en fait je voyais que tout le monde suivait des cours pour installer Zotero"
+* Code 8 : Utilisation pour résoudre des problèmes techniques
+ Verbatim : "j'arrivais pas à installer un plugin"
+* Code 9 : Débogage avec ChatGPT
+ Verbatim : "j'ai essayé de déboguer le truc, mais ça marchait pas"
+* Code 10 : Évaluation positive de l'utilité de ChatGPT
+ Verbatim : "c'est pas la faute de ChatGPT, je pense"
+
+**Thème 2 : Perception de ChatGPT et de son utilité**
+
+* Code 1 : Découverte de nouvelles fonctionnalités
+ Verbatim : "j'avais oublié qu'il faisait ça"
+* Code 2 : Surprise quant aux capacités de ChatGPT
+ Verbatim : "j'avais jamais utilisé comme ça"
+* Code 3 : Utilité pour les recherches
+ Verbatim : "je passe directement sur ChatGPT"
+* Code 4 : Confiance limitée dans les réponses de ChatGPT
+ Verbatim : "on m'avait dit qu'il fallait faire attention"
+* Code 5 : Expérience positive avec ChatGPT
+ Verbatim : "ça m'a fait très rire"
+* Code 6 : Utilisation pour les définitions et les explications
+ Verbatim : "j'ai dit bon, je vais essayer de demander à ChatGPT"
+* Code 7 : Gain de temps avec ChatGPT
+ Verbatim : "c'est tellement pratique"
+* Code 8 : Simplification des tâches complexes
+ Verbatim : "il me faisait la base directement"
+* Code 9 : ChatGPT comme outil de dernier recours
+ Verbatim : "quand je ne comprends rien"
+* Code 10 : Évaluation positive de l'expérience avec ChatGPT
+ Verbatim : "c'est très drôle"
+
+**Thème 3 : Limites et erreurs de ChatGPT**
+
+* Code 1 : Réponses incorrectes ou incomplètes
+ Verbatim : "je donnais des mauvaises réponses parce qu'ils me donnaient des mauvaises réponses sur Google"
+* Code 2 : Problèmes de compréhension de la part de ChatGPT
+ Verbatim : "il ne comprenait pas"
+* Code 3 : Titres des conversations en espagnol
+ Verbatim : "les titres, ils me les mettaient en espagnol alors que toute ma conversation était en anglais ou en français"
+* Code 4 : Problèmes de fiabilité
+ Verbatim : "on m'avait dit qu'il fallait faire attention"
+* Code 5 : ChatGPT n'est pas toujours représentatif
+ Verbatim : "c'est pas forcément très représentatif"
+* Code 6 : Erreurs dans les réponses de ChatGPT
+ Verbatim : "je trouvais rien sur ça"
+* Code 7 : Limitations dans la compréhension des concepts
+ Verbatim : "il ne pouvait pas avoir ces réponses-là parce que c'est des concepts que je connais pas encore"
+* Code 8 : Nécessité de vérifier les réponses de ChatGPT
+ Verbatim : "je pense qu'il faut vérifier"
+* Code 9 : Problèmes de cohérence dans les réponses
+ Verbatim : "des fois ils me mettaient"
+* Code 10 : Limites dans la capacité de ChatGPT à résoudre les problèmes
+ Verbatim : "ça marchait pas"
+
+**Thème 4 : Contextualisation de l'utilisation de ChatGPT**
+
+* Code 1 : Utilisation dans le cadre des études
+ Verbatim : "dans le cadre des TP que je dois rendre pour Piton"
+* Code 2 : Stress et pression liés aux tâches universitaires
+ Verbatim : "quand je dois avoir le truc mieux fait possible"
+* Code 3 : Utilisation pour les recherches personnelles
+ Verbatim : "je faisais des recherches, puis j'arrête pas de tomber sur médiévalisme"
+* Code 4 : Changement de comportement dans les recherches
+ Verbatim : "je passe directement sur ChatGPT"
+* Code 5 : Influence de l'environnement sur l'utilisation de ChatGPT
+ Verbatim : "tout le monde me dit de faire ça"
+* Code 6 : Échange avec ChatGPT comme une conversation
+ Verbatim : "je lui ai dit, il m'a dit"
+* Code 7 : Contexte de stress et de pression
+ Verbatim : "quand je suis dans un moment un peu de stress"
+* Code 8 : Utilisation pour les tâches spécifiques
+ Verbatim : "pour faire les bases"
+* Code 9 : Influence des conseils des autres sur l'utilisation de ChatGPT
+ Verbatim : "tout le monde m'a dit de faire ça"
+* Code 10 : Changement dans les habitudes de recherche
+ Verbatim : "je ne fais plus de recherches sur Google, presque"
+
+**Thème 5 : Évolution de l'utilisation de ChatGPT**
+
+* Code 1 : Changement dans les habitudes d'utilisation
+ Verbatim : "je passe directement sur ChatGPT"
+* Code 2 : Augmentation de la confiance dans ChatGPT
+ Verbatim : "j'ai dit bon, je vais essayer de demander à ChatGPT"
+* Code 3 : Élargissement des domaines d'utilisation
+ Verbatim : "j'ai utilisé ChatGPT pour les lettres"
+* Code 4 : Évolution de la perception de ChatGPT
+ Verbatim : "c'est très drôle"
+* Code 5 : Utilisation plus fréquente de ChatGPT
+ Verbatim : "je l'ai utilisé plusieurs fois"
+* Code 6 : Découverte de nouvelles fonctionnalités
+ Verbatim : "j'avais oublié qu'il faisait ça"
+* Code 7 : Intégration de ChatGPT dans les habitudes de travail
+ Verbatim : "je l'utilise pour les TP"
+* Code 8 : Changement dans la manière de rechercher des informations
+ Verbatim : "je ne fais plus de recherches sur Google, presque"
+* Code 9 : Utilisation de ChatGPT pour les tâches complexes
+ Verbatim : "quand je ne comprends rien"
+* Code 10 : Satisfaction globale quant à l'utilisation de ChatGPT
+ Verbatim : "c'est tellement pratique"

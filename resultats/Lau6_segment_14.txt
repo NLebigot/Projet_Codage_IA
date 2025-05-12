@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en suivant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Dépendance aux outils numériques**
+
+- Code 1 : Utilisation de ChatGPT pour comprendre les cours
+  - Verbatim : "Pour moi c’est utile aussi que quand dans un cours j’ai rien compris, du coup, au lieu de le demander au cours, je suis allée regarder sur ChatGPT et puis c'est bon, tu vois."
+- Code 2 : Sentiment de validation par les outils numériques
+  - Verbatim : "C'est horrible ce sentiment de validité que t'as besoin en fait."
+- Code 3 : Utilisation de ChatGPT comme référence
+  - Verbatim : "Ça peut être une encyclopédie qui t'as juste dans la poche en fait."
+- Code 4 : Besoin d'accompagnement
+  - Verbatim : "C'est peut-être que… ça joue un peu ce rôle d'accompagnant que tu trouves un peu nulle part."
+- Code 5 : Confiance dans les outils numériques
+  - Verbatim : "Ouais, c'est ça. Puis ça sert à ça aussi, quoi."
+- Code 6 : Utilisation pour des questions de base
+  - Verbatim : "Pour des questions de base, vraiment, tu sais, quand t'oublies certains trucs, des concepts de base et tout, c'est vrai."
+- Code 7 : Rôle de suppléance
+  - Verbatim : "Tu ne vas pas aller vers l'assistant, vers les profs…"
+- Code 8 : Préférence pour les outils numériques
+  - Verbatim : "Puis je me dis bon, c'est pas grave. Parce que de toute façon, je demanderais ChatGPT."
+- Code 9 : Utilisation en cas de difficulté
+  - Verbatim : "Quand t'oublies certains trucs, des concepts de base et tout, c'est vrai."
+- Code 10 : Facilité d'accès
+  - Verbatim : "Ça peut être une encyclopédie qui t'as juste dans la poche en fait."
+
+**Thème 2 : Relation avec les enseignants et les outils numériques**
+
+- Code 1 : Manque de réponse des enseignants
+  - Verbatim : "Surtout pas moi qui ne me répond jamais [rire]."
+- Code 2 : Attentes déçues
+  - Verbatim : "Mais oui, en vrai au début c'est bien allé, il me répondait assez vite."
+- Code 3 : Frustration face à l'absence de réponse
+  - Verbatim : "J'ai son numéro, il ne me répond pas. À quoi ça sert, finalement ?"
+- Code 4 : Dépendance aux réponses des enseignants
+  - Verbatim : "J'ai besoin qu'il me réponde pour que je m'inscrive, tu vois."
+- Code 5 : Impact sur les décisions
+  - Verbatim : "Je me suis inscrite quand même, puis je changerai la date en fonction de lui."
+- Code 6 : Sentiment d'abandon
+  - Verbatim : "Il me répond toutes les trois semaines… il laisse les élèves libres."
+- Code 7 : Utilité des enseignants
+  - Verbatim : "Quand je le voyais, il était ultra utile, tu vois."
+- Code 8 : Contraste entre l'utilité et la disponibilité
+  - Verbatim : "Mais entre, laisse tomber."
+- Code 9 : Relance pour obtenir une réponse
+  - Verbatim : "J'ai envoyé un mail de relance aujourd'hui d'ailleurs."
+- Code 10 : Impact sur la planification
+  - Verbatim : "Je peux le faire pendant le semestre prochain, mais j'ai les diplômes 6 mois après."
+
+**Thème 3 : Considérations éthiques dans l'utilisation de ChatGPT**
+
+- Code 1 : Acceptation de l'utilisation de ChatGPT
+  - Verbatim : "Ouais, enfin, dans le sens que pour moi, c'est clairement... OK d'utiliser ChatGPT, dans le sens que c'est là, donc autant l'utiliser."
+- Code 2 : Condition d'utilisation acceptable
+  - Verbatim : "Tant que tu l'utilises comme un outil et que c'est pas lui qui fait tout ton travail, c'est ça qui est important."
+- Code 3 : Humanisation du travail
+  - Verbatim : "Mais d'humaniser ton travail un peu…Tu te rends compte que tu camoufles un peu l'utilisation alors que peut-être qu'on ne devrait pas forcément tant que ça."
+- Code 4 : Transparence dans l'utilisation
+  - Verbatim : "Tu camoufles un peu l'utilisation alors que peut-être qu'on ne devrait pas forcément tant que ça."
+- Code 5 : Frontière entre aide et plagiat
+  - Verbatim : "Tant que tu l'utilises comme un outil et que c'est pas lui qui fait tout ton travail..."
+- Code 6 : Réflexion éthique
+  - Verbatim : "Tu te rends compte que tu camoufles un peu l'utilisation..."
+- Code 7 : Perception de l'outil
+  - Verbatim : "C'est clairement... OK d'utiliser ChatGPT..."
+- Code 8 : Limite d'utilisation
+  - Verbatim : "C'est pas lui qui fait tout ton travail..."
+- Code 9 : Modification du travail
+  - Verbatim : "D'humaniser ton travail un peu…"
+- Code 10 : Questionnement sur les pratiques
+  - Verbatim : "Peut-être qu'on ne devrait pas forcément tant que ça."
+
+**Thème 4 : Évolution des pratiques d'apprentissage avec ChatGPT**
+
+- Code 1 : Anticipation de changements
+  - Verbatim : "Comment tu penses que dans les prochaines années, ChatGPT ça va changer, les pratiques d'apprentissage ?"
+- Code 2 : Impact sur les pratiques actuelles
+  - Verbatim : "Ça peut être une encyclopédie qui t'as juste dans la poche en fait."
+- Code 3 : Intégration dans les habitudes
+  - Verbatim : "Puis je me dis bon, c'est pas grave. Parce que de toute façon, je demanderais ChatGPT."
+- Code 4 : Changement dans la manière d'apprendre
+  - Verbatim : "Pour moi c’est utile aussi que quand dans un cours j’ai rien compris..."
+- Code 5 : Adaptation aux outils numériques
+  - Verbatim : "Tant que tu l'utilises comme un outil..."
+- Code 6 : Évolution de l'utilisation de ChatGPT
+  - (Pas de verbatim direct, mais la question posée indique une anticipation de l'évolution.)
+- Code 7 : Impact sur l'enseignement
+  - (Pas de verbatim direct, mais le sujet est abordé indirectement.)
+- Code 8 : Changement dans les besoins
+  - Verbatim : "C'est peut-être que… ça joue un peu ce rôle d'accompagnant que tu trouves un peu nulle part."
+- Code 9 : Rôle de ChatGPT dans l'avenir
+  - (Pas de verbatim direct, mais la discussion suggère une intégration croissante.)
+- Code 10 : Réflexion sur l'avenir
+  - Verbatim : "Comment tu penses que dans les prochaines années, ChatGPT ça va changer, les pratiques d'apprentissage ?"
+
+**Thème 5 : Sentiment de solitude et d'accompagnement dans les études**
+
+- Code 1 : Manque d'accompagnement
+  - Verbatim : "C'est peut-être que… ça joue un peu ce rôle d'accompagnant que tu trouves un peu nulle part."
+- Code 2 : Rôle de ChatGPT comme accompagnant
+  - Verbatim : "C'est peut-être que… ça joue un peu ce rôle d'accompagnant..."
+- Code 3 : Sentiment de solitude
+  - Verbatim : "Tu ne vas pas aller vers l'assistant, vers les profs…"
+- Code 4 : Difficulté à trouver de l'aide
+  - Verbatim : "Surtout pas moi qui ne me répond jamais [rire]."
+- Code 5 : Impact sur la motivation
+  - Verbatim : "Puis je me dis bon, c'est pas grave. Parce que de toute façon, je demanderais ChatGPT."
+- Code 6 : Recherche d'alternatives
+  - Verbatim : "Je suis allée regarder sur ChatGPT..."
+- Code 7 : Perception de l'outil comme solution
+  - Verbatim : "Ça peut être une encyclopédie qui t'as juste dans la poche en fait."
+- Code 8 : Satisfaction de l'usage de ChatGPT
+  - Verbatim : "Ouais, c'est ça. Puis ça sert à ça aussi, quoi."
+- Code 9 : Utilisation en cas de besoin
+  - Verbatim : "Quand t'oublies certains trucs, des concepts de base et tout, c'est vrai."
+- Code 10 : Sentiment de réconfort
+  - Verbatim : "Puis je me dis bon, c'est pas grave."

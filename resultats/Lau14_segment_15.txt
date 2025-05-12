@@ -1,0 +1,113 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes sociologiques pertinents. Voici les résultats de mon analyse, structurés en 5 thèmes distincts avec environ 10 codes chacun.
+
+### Thème 1 : Perception de l'IA dans la recherche et l'éducation
+- Code 1 : Acceptation conditionnelle de l'IA
+- Verbatim : "Tant que ça va avec mon éthique personnelle, oui."
+- Code 2 : Limite éthique dans l'utilisation de l'IA
+- Verbatim : "C'est le jour où je dois effectivement tuer quelqu'un pour faire une recherche. Là, on réfléchira."
+- Code 3 : Perception de l'IA comme un outil
+- Verbatim : "C'est un moteur de recherche un peu plus plus. Point."
+- Code 4 : Réticence initiale face à l'IA
+- Verbatim : "J'imagine à ton cours, oui, il y avait des sociologues, ils étaient très gentils et très contre"
+- Code 5 : Évolution de la perception de l'IA
+- Verbatim : "mais pour moi, l'utilisation de l'IA n'est pas du tout une redline dans le cadre de la recherche."
+- Code 6 : Richesse analytique des interactions avec l'IA
+- Verbatim : "Rien que d'avoir lu tes convs avec Chat GPT, c'est hyper riche d'analyses"
+- Code 7 : Intégration de l'IA dans les pratiques de recherche
+- Verbatim : "faire un dossier sur l'IA, de faire un dossier sur l'antibio-résistance, de faire un dossier sur la bioindication."
+- Code 8 : Impact perçu de l'IA sur le travail universitaire
+- Verbatim : "Comment est-ce que tu as l'impression que des outils comme chatGPT... ça va changer un peu la manière de travailler au niveau universitaire à l'avenir ?"
+- Code 9 : Incertitude sur l'avenir
+- Verbatim : "les conséquences, elles sont difficiles à prévoir, en fait."
+- Code 10 : Comparaison avec des événements passés (COVID-19)
+- Verbatim : "Pendant le Covid et le confinement, on pensait pas que les gens iraient se ruer sur le PQ et les pâtes."
+
+### Thème 2 : Éthique et responsabilité dans l'utilisation de l'IA
+- Code 1 : Responsabilité individuelle
+- Verbatim : "S'il y en a qui se brûlent les ailes en utilisant trop l'IA... c'est ces gens-là d'assumer les conséquences de leur acte."
+- Code 2 : Principe de sélection naturelle
+- Verbatim : "Je suis biologiste je crois en la sélection naturelle"
+- Code 3 : Non-interventionnisme
+- Verbatim : "Je ne pleurerais pas un étudiant qui a fait un usage inconsidéré de l'IA dans son travail et qui a une mauvaise note à cause de ça."
+- Code 4 : Principe de prudence
+- Verbatim : "intégrer avec prudence et en instruisant vraiment les gens à son usage"
+- Code 5 : Liberté d'usage
+- Verbatim : "pour moi, c'est ces gens-là d'assumer les conséquences de leur acte."
+- Code 6 : Éducation à l'usage de l'IA
+- Verbatim : "instruisant vraiment les gens à son usage"
+- Code 7 : Conséquences de l'usage abusif
+- Verbatim : "qui se font chopper par plagiat"
+- Code 8 : Impact sur la qualité du travail
+- Verbatim : "qui ne rédigent plus leurs travaux parce qu'ils se sentent trop malins"
+- Code 9 : Rôle de l'utilisateur
+- Verbatim : "les gens... vont moins chercher à apprendre, mais plus à comprendre."
+- Code 10 : Neutralité face aux conséquences
+- Verbatim : "honnêtement, c'est pas mon problème, en fait."
+
+### Thème 3 : Impact de l'IA sur les pratiques universitaires et scolaires
+- Code 1 : Changement dans la manière de travailler
+- Verbatim : "ça va changer un peu la manière de travailler au niveau universitaire à l'avenir ?"
+- Code 2 : Futur incertain
+- Verbatim : "les conséquences, elles sont difficiles à prévoir, en fait."
+- Code 3 : Hypothèses sur l'impact
+- Verbatim : "les gens vont devenir extrêmement intelligents, vont faire de la recherche de qualité, ou alors ils vont devenir débiles"
+- Code 4 : Changement dans l'approche de l'apprentissage
+- Verbatim : "les gens, ils vont moins... chercher à apprendre, mais plus à comprendre."
+- Code 5 : Rôle de l'IA dans l'éducation
+- Verbatim : "mettre l'IA dans le fonctionnement scolaire ou académique"
+- Code 6 : Absence de certitude
+- Verbatim : "on sait pas."
+- Code 7 : Comparaison avec des situations passées
+- Verbatim : "Pendant le Covid et le confinement... on pensait pas que les gens iraient se ruer sur le PQ et les pâtes."
+- Code 8 : Potentiel d'amélioration ou de déclin
+- Verbatim : "les gens vont devenir extrêmement intelligents... ou alors ils vont devenir débiles"
+- Code 9 : Possibilité de non-conformité
+- Verbatim : "ils vont pas plus savoir se faire cuire un œuf"
+- Code 10 : Impact sur la présence en cours
+- Verbatim : "ils vont tous, par exemple, ne plus aller en cours."
+
+### Thème 4 : Positionnement personnel sur l'IA
+- Code 1 : Acceptation de l'IA
+- Verbatim : "l'utilisation de l'IA n'a pas... ne m'a pas poussé au retranchement de ma considération morale personnelle."
+- Code 2 : Éthique personnelle
+- Verbatim : "Tant que ça va avec mon éthique personnelle, oui."
+- Code 3 : Limite personnelle
+- Verbatim : "C'est le jour où je dois effectivement tuer quelqu'un pour faire une recherche."
+- Code 4 : Perception positive de l'IA
+- Verbatim : "c'est hyper riche d'analyses"
+- Code 5 : Utilisation modérée
+- Verbatim : "tu serais partisan de quoi? Plutôt de l'intégrer avec prudence"
+- Code 6 : Éducation à l'usage
+- Verbatim : "instruisant vraiment les gens à son usage"
+- Code 7 : Libertarianisme
+- Verbatim : "Je suis biologiste je crois en la sélection naturelle"
+- Code 8 : Non-intervention
+- Verbatim : "Je ne pleurerais pas un étudiant qui a fait un usage inconsidéré de l'IA dans son travail"
+- Code 9 : Responsabilité
+- Verbatim : "c'est ces gens-là d'assumer les conséquences de leur acte."
+- Code 10 : Neutralité
+- Verbatim : "honnêtement, c'est pas mon problème, en fait."
+
+### Thème 5 : Débat et discussions autour de l'IA
+- Code 1 : Présence de débats
+- Verbatim : "il y avait des sociologues, ils étaient très gentils et très contre"
+- Code 2 : Résistance initiale
+- Verbatim : "ils étaient très gentils et très contre"
+- Code 3 : Richesse des discussions
+- Verbatim : "c'est hyper riche d'analyses"
+- Code 4 : Potentiel d'exploration
+- Verbatim : "j'ai plein plein plein de pistes à explorer"
+- Code 5 : Échanges fructueux
+- Verbatim : "dans tous les cas pour moi c'est hyper riche cette discussion."
+- Code 6 : Positionnements variés
+- Verbatim : "un biologiste, il était complètement contre"
+- Code 7 : Valeur des interactions
+- Verbatim : "Rien que d'avoir lu tes convs avec Chat GPT"
+- Code 8 : Impact sur la recherche
+- Verbatim : "faire un dossier sur l'IA"
+- Code 9 : Exploration de nouveaux sujets
+- Verbatim : "j'ai plein plein plein de pistes à explorer"
+- Code 10 : Appréciation positive
+- Verbatim : "c'est méga cool."
+
+Ces thèmes et codes offrent une vue détaillée des discussions autour de l'IA, mettant en lumière les nuances de la perception, de l'éthique, et des impacts potentiels de l'IA dans l'éducation et la recherche.

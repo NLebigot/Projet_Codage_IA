@@ -1,0 +1,111 @@
+Pour analyser l'entretien suivant en respectant une méthode rigoureuse de codage qualitatif, j'ai identifié plusieurs thèmes et codes pertinents. Voici les résultats de mon analyse :
+
+### Thème 1 : Utilisation et perception de ChatGPT
+- Code 1 : Découverte et utilisation spontanée
+- Verbatim : "c'est une utilisation en lettres, mais qui est venue un peu spontanément sur le moment."
+- Code 2 : Nouvelle pratique
+- Verbatim : "C'est une nouvelle pratique, disons."
+- Code 3 : Évolution de l'utilisation
+- Verbatim : "j'ai toujours plus tendance à essayer de l'utiliser au mieux."
+- Code 4 : Utilisation première pour le codage
+- Verbatim : "Donc avec le coding, oui."
+- Code 5 : Exploration au-delà du codage
+- Verbatim : "j'ai commencé à ajouter toujours plus d'autres choses."
+- Code 6 : Perception positive
+- Verbatim : "je me dis que ça peut toujours plus me faciliter la vie."
+- Code 7 : Intégration dans les pratiques
+- Verbatim : "ça fait partie de mes nouvelles pratiques sur ChatGPT."
+- Code 8 : Développement des compétences
+- Verbatim : "j'ai appris à écrire du code avec ChatGPT."
+- Code 9 : Évolution future
+- Verbatim : "je pense qu'elle s'élargit, en vrai, toujours plus."
+- Code 10 : Utilisation centrée sur le codage
+- Verbatim : "la partie codage, qui est toujours la plupart de mon utilisation."
+
+### Thème 2 : Impact de ChatGPT sur le travail et l'apprentissage
+- Code 1 : Gain de temps
+- Verbatim : "C'est clairement plus rapide."
+- Code 2 : Amélioration de la qualité du travail
+- Verbatim : "ça m'aide à comprendre les codes, à écrire le code, à le corriger quand il ne marche pas."
+- Code 3 : Compensation d'un manque de background
+- Verbatim : "j'ai pas de background de code."
+- Code 4 : Modification des techniques d'apprentissage
+- Verbatim : "ça a clairement changé toutes les techniques d'apprentissage."
+- Code 5 : Facilitation de l'apprentissage
+- Verbatim : "ChatGPT le fait pour toi."
+- Code 6 : Autonomie dans l'apprentissage
+- Verbatim : "j'ose pas sortir le chatGPT."
+- Code 7 : Différence avec l'aide professorale
+- Verbatim : "le prof, il donne pas la réponse."
+- Code 8 : Impact sur le rapport au temps de travail
+- Verbatim : "je le ferai beaucoup plus rapidement."
+- Code 9 : Influence sur le choix des cours
+- Verbatim : "j'aurais jamais fait tout ça."
+- Code 10 : Prémisse à l'utilisation
+- Verbatim : "ça dépend des cours, ça dépend des choses."
+
+### Thème 3 : Relation avec les enseignants et l'institution
+- Code 1 : Attitude des enseignants face à ChatGPT
+- Verbatim : "les professeurs, ils se rendent compte de ça."
+- Code 2 : Variabilité dans la politique institutionnelle
+- Verbatim : "il y en a qui bloquent là-dessus."
+- Code 3 : Autorisation ou interdiction d'utiliser ChatGPT
+- Verbatim : "il y en a d'autres où tu peux mettre dans les rendus de code."
+- Code 4 : Transparence dans l'utilisation de ChatGPT
+- Verbatim : "on n'aura pas toute l'identité."
+- Code 5 : Impact sur la documentation et les rendus
+- Verbatim : "on peut pas dans les rendus dire j'ai utilisé chatGPT pour faire ça."
+- Code 6 : Perception de l'utilisation par les pairs
+- Verbatim : "tout le monde sait que tout le monde l'utilise."
+- Code 7 : Influence sur la pédagogie
+- Verbatim : "ça change la donne."
+- Code 8 : Réflexion sur l'usage approprié
+- Verbatim : "ça dépend des choses."
+- Code 9 : Évaluation de l'impact
+- Verbatim : "je pense que."
+- Code 10 : Adaptation nécessaire
+- Verbatim : "ils se rendent compte."
+
+### Thème 4 : Changement dans les pratiques et l'apprentissage
+- Code 1 : Nouveauté de la pratique de codage
+- Verbatim : "j'avais pas du tout la pratique du codage avant."
+- Code 2 : Début de l'utilisation de ChatGPT pour le codage
+- Verbatim : "j'ai commencé à faire du coding, à utiliser ChatGPT en même temps."
+- Code 3 : Évolution dans l'utilisation
+- Verbatim : "j'ajoute des choses."
+- Code 4 : Utilité dans le processus d'apprentissage
+- Verbatim : "ça m'aide à comprendre."
+- Code 5 : Comparaison avec d'autres sources d'aide
+- Verbatim : "le prof, il donne pas la réponse."
+- Code 6 : Gain de productivité
+- Verbatim : "c'est plus rapide."
+- Code 7 : Impact sur la compréhension
+- Verbatim : "ça m'aide à comprendre les codes."
+- Code 8 : Modification de l'approche pédagogique
+- Verbatim : "ça change les techniques d'apprentissage."
+- Code 9 : Évaluation positive de l'outil
+- Verbatim : "ça améliore vraiment."
+- Code 10 : Répercussions sur la manière de travailler
+- Verbatim : "je le ferai beaucoup plus rapidement."
+
+### Thème 5 : Limites et potentialités de ChatGPT
+- Code 1 : Facilitation du travail
+- Verbatim : "ça me facilite la vie."
+- Code 2 : Assistance dans le codage
+- Verbatim : "ça m'aide à écrire le code."
+- Code 3 : Correction des erreurs
+- Verbatim : "à le corriger quand il ne marche pas."
+- Code 4 : Exploration de nouvelles fonctionnalités
+- Verbatim : "j'ai commencé à ajouter toujours plus d'autres choses."
+- Code 5 : Limite dans l'utilisation
+- Verbatim : "pour l'instant, ça n'a pas forcément d'influence encore."
+- Code 6 : Utilisation complémentaire
+- Verbatim : "en lettres, j'utilise pas vraiment comme ça."
+- Code 7 : Évolution potentielle
+- Verbatim : "je pense qu'elle s'élargit."
+- Code 8 : Intégration dans la routine
+- Verbatim : "ça fait partie de mes pratiques."
+- Code 9 : Satisfaction de l'utilisateur
+- Verbatim : "c'est clairement plus rapide."
+- Code 10 : Potentiel d'amélioration
+- Verbatim : "ça peut toujours plus me faciliter la vie."

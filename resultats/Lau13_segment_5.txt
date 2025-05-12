@@ -1,0 +1,107 @@
+Voici l'analyse de l'entretien en 5 thèmes distincts, chacun contenant environ 10 codes avec leur verbatim associé.
+
+**Thème 1 : Les sources de frustration lors de l'utilisation de Chat GPT**
+
+* Code 1 : Frustration liée au code qui ne fonctionne pas
+ Verbatim : "C'est quand ça fait 3h que tu codes et qu'il y a rien qui marche. Mais là ce qui te rend fou c'est le code qui marche pas."
+* Code 2 : Frustration envers les assistants
+ Verbatim : "Les assistants ils sont là mais ils peuvent pas faire grand chose."
+* Code 3 : Sentiment d'être au fond mentalement
+ Verbatim : "T'es mentalement au fond."
+* Code 4 : Réponse insatisfaisante de l'assistant
+ Verbatim : "Il doit y avoir un problème avec votre code."
+* Code 5 : Frustration due à la complexité du code
+ Verbatim : "Le code est tellement long et incompréhensible"
+* Code 6 : Manque de compréhension de la part de l'assistant
+ Verbatim : "La personne en qui tu remets tous tes espoirs te répond des trucs comme ça"
+* Code 7 : Environnement d'apprentissage frustrant
+ Verbatim : "T'as un cours de prog... Le code est tellement long et incompréhensible"
+* Code 8 : Sentiment d'impuissance
+ Verbatim : "T'as envie de tout casser"
+* Code 9 : Dépendance à l'égard de l'assistant
+ Verbatim : "La personne en qui tu remets tous tes espoirs"
+* Code 10 : Limite de l'assistanat
+ Verbatim : "Il y a assez peu d'assistants pour beaucoup d'élèves"
+
+**Thème 2 : L'utilisation de Chat GPT comme outil d'apprentissage**
+
+* Code 1 : Utilisation de Chat GPT pour résoudre des problèmes
+ Verbatim : "J'aurais quand même le réflexe de d'abord regarder sur demander à Chat GPT"
+* Code 2 : Préférence pour Chat GPT par rapport aux assistants
+ Verbatim : "Je demande à Chat GPT avant de demander à un assistant"
+* Code 3 : Utilisation de Chat GPT en dernier recours
+ Verbatim : "Si vraiment je comprends pas, les gens avec qui je travaille ils comprennent pas, bah là je demande à un assistant"
+* Code 4 : Abandon du cours si personne ne comprend
+ Verbatim : "Si l'assistant il comprend pas, bah tu abandonnes le cours"
+* Code 5 : Changement de comportement vis-à-vis de l'utilisation de Chat GPT
+ Verbatim : "C'est un peu devenu l'inverse"
+* Code 6 : Routine d'utilisation de Chat GPT
+ Verbatim : "J'aurais quand même le réflexe de d'abord regarder sur demander à Chat GPT"
+* Code 7 : Contextualisation de l'utilisation de Chat GPT
+ Verbatim : "Ça dépend parce que ça faisait longtemps que je n'étais plus en session d'assistanat"
+* Code 8 : Autonomie dans l'apprentissage
+ Verbatim : "Je regarde sur demander à Chat GPT"
+* Code 9 : Collaboration avec les pairs
+ Verbatim : "Les gens avec qui je travaille"
+* Code 10 : Hiérarchie des ressources d'apprentissage
+ Verbatim : "D'abord Chat GPT, puis l'assistant"
+
+**Thème 3 : La formulation des questions et le changement de langue**
+
+* Code 1 : Conscientisation du changement de langue
+ Verbatim : "C'est quelque chose de conscient, de genre changer de langue"
+* Code 2 : Influence de la langue sur la formulation
+ Verbatim : "Il y a des mots qui existent en anglais mais pas en français"
+* Code 3 : Réflexion en anglais due à la théorie en anglais
+ Verbatim : "Tous les exos étaient en anglais, toute la théorie était en anglais"
+* Code 4 : Habitude de réfléchir en anglais
+ Verbatim : "J'ai un peu pris l'habitude des fois réfléchir en anglais"
+* Code 5 : Changement de langue en fonction du contexte
+ Verbatim : "Des fois, je commence à réfléchir et je... Bah oui, en fait... Non, mais c'est... Bah là, justement"
+* Code 6 : Conscience de la signification des mots en français
+ Verbatim : "J'ai plus de conscience de la signification des mots en français qu'en anglais"
+* Code 7 : Effort conscient pour écrire en français
+ Verbatim : "Je faisais un effort conscient d'écrire en français"
+* Code 8 : Contexte de lecture en anglais
+ Verbatim : "Je lisais des PDF qui étaient en anglais"
+* Code 9 : Objectif de compréhension en français
+ Verbatim : "Je voulais avoir, c'était bah typiquement des définitions, je voulais les avoir en français"
+* Code 10 : Interaction entre la langue et la compréhension
+
+**Thème 4 : L'expérience d'apprentissage à l'étranger**
+
+* Code 1 : Expérience d'apprentissage au Danemark
+ Verbatim : "J'étais au Danemark pendant un an"
+* Code 2 : Cours en anglais
+ Verbatim : "Tous les cours étaient en anglais"
+* Code 3 : Influence de l'environnement d'apprentissage sur la langue
+ Verbatim : "Tous les exos étaient en anglais, toute la théorie était en anglais"
+* Code 4 : Adaptation à un nouvel environnement d'apprentissage
+ Verbatim : "J'ai un peu pris l'habitude des fois réfléchir en anglais"
+* Code 5 : Impact de l'expérience à l'étranger sur la langue
+ Verbatim : "Je réfléchis en anglais"
+* Code 6 : Expérience positive de l'apprentissage à l'étranger
+* Code 7 : Acquisition de nouvelles compétences linguistiques
+ Verbatim : "J'ai plus de conscience de la signification des mots en français qu'en anglais"
+* Code 8 : Comparaison entre les environnements d'apprentissage
+* Code 9 : Développement de la capacité à gérer les différences linguistiques
+ Verbatim : "Je faisais un effort conscient d'écrire en français"
+* Code 10 : Intégration de l'expérience à l'étranger dans l'apprentissage actuel
+
+**Thème 5 : Perception de Chat GPT et son intégration dans l'apprentissage**
+
+* Code 1 : Perception positive de Chat GPT
+* Code 2 : Intégration de Chat GPT dans la routine d'apprentissage
+ Verbatim : "J'aurais quand même le réflexe de d'abord regarder sur demander à Chat GPT"
+* Code 3 : Utilisation de Chat GPT comme référence
+ Verbatim : "Je demande à Chat GPT avant de demander à un assistant"
+* Code 4 : Chat GPT comme outil de premier recours
+ Verbatim : "D'abord Chat GPT, puis l'assistant"
+* Code 5 : Évaluation de l'efficacité de Chat GPT
+* Code 6 : Comparaison entre Chat GPT et les assistants
+ Verbatim : "Les assistants ils sont là mais ils peuvent pas faire grand chose"
+* Code 7 : Contextualisation de l'utilisation de Chat GPT
+ Verbatim : "Ça dépend parce que ça faisait longtemps que je n'étais plus en session d'assistanat"
+* Code 8 : Impact de Chat GPT sur la dynamique d'apprentissage
+* Code 9 : Perception de Chat GPT comme un outil complémentaire
+* Code 10 : Évolution de la perception de Chat GPT avec l'expérience

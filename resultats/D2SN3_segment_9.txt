@@ -1,0 +1,85 @@
+Je vais analyser l'entretien avec Soumaya en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats de mon analyse, segmentés en plusieurs thèmes.
+
+**Segment 1 : Le dilemme moral lié à l'utilisation de ChatGPT**
+
+- Thème 1 : Conflit intérieur et intégrité académique
+ - Code 1 : Hésitation entre satisfaction et culpabilité
+ - Verbatim : "je me dis que oui, je suis satisfaite de mon travail... mais en même temps, je me dis que peut-être que j'ai triché"
+ - Code 2 : Questionnement sur l'originalité
+ - Verbatim : "ce n'est pas moi-même qui ai eu toutes ces idées innovantes"
+ - Code 3 : Débat interne sur l'utilisation de ressources externes
+ - Verbatim : "peut-être que l'objectif est d'exploiter toutes les ressources disponibles, y compris GPT"
+ - Code 4 : Valeur accordée à l'effort personnel
+ - Verbatim : "il faut rester traditionnel dans la méthode d'apprentissage, faire tout par nous-mêmes"
+ - Code 5 : Perception de tricherie
+ - Verbatim : "je me dis que peut-être que j'ai triché"
+ - Code 6 : Satisfaction du travail accompli avec ChatGPT
+ - Verbatim : "mon travail est parfait"
+ - Code 7 : Incertitude sur la bonne approche
+ - Verbatim : "voilà le dilemme qui se pose lorsque je fais face à cette situation"
+ - Code 8 : Rôle de ChatGPT dans le processus d'apprentissage
+ - Verbatim : "j'ai couvert tous les points grâce à GPT"
+ - Code 9 : Auto-évaluation de l'utilisation de ChatGPT
+ - Verbatim : "je me dis que oui, je suis satisfaite de mon travail"
+ - Code 10 : Conflit entre facilitation et authenticité
+ - Verbatim : "l'objectif est d'exploiter toutes les ressources disponibles"
+
+- Thème 2 : Impact sur l'identité et la perception de soi
+ - Code 1 : Sentiment d'inauthenticité
+ - Verbatim : "ce n'est pas moi-même qui ai eu toutes ces idées innovantes"
+ - Code 2 : Satisfaction malgré le doute
+ - Verbatim : "je suis satisfaite de mon travail"
+ - Code 3 : Auto-questionnement sur la responsabilité
+ - Verbatim : "peut-être que j'ai triché"
+ - Code 4 : Réflexion sur l'utilisation de l'outil
+ - Verbatim : "l'objectif est d'exploiter toutes les ressources disponibles"
+ - Code 5 : Perception de compromission
+ - Verbatim : "compromettre l’intégrité académique"
+
+**Segment 2 : L'impact futur de ChatGPT sur les pratiques d'apprentissage**
+
+- Thème 3 : Transformation des pratiques d'apprentissage
+ - Code 1 : Perception de révolution technologique
+ - Verbatim : "ChatGPT est un outil révolutionnaire"
+ - Code 2 : Impact sur le rôle de l'enseignant
+ - Verbatim : "ça va mettre en péril le métier d’enseignant"
+ - Code 3 : Prédominance future de ChatGPT
+ - Verbatim : "ChatGPT sera le maître qui nous apprend"
+ - Code 4 : Gain de temps et d'efficacité
+ - Verbatim : "économiser tellement de ressources et surtout économiser le temps"
+ - Code 5 : Changement dans le paradigme éducatif
+ - Verbatim : "il sera très instauré, vraiment radicalement instauré dans les processus d’apprentissage"
+ - Code 6 : Rôle de superviseur attribué à ChatGPT
+ - Verbatim : "il sera lui-même l’enseignant et le superviseur"
+ - Code 7 : Incertitude face à l'avenir
+ - Verbatim : "je ne pourrais pas tout imaginer"
+ - Code 8 : Prédiction d'une domination de ChatGPT
+ - Verbatim : "ChatGPT va dominer les processus d’enseignement"
+ - Code 9 : Analyse des conséquences
+ - Verbatim : "plusieurs scénarios peuvent se poser"
+ - Code 10 : Impact sur l'enseignement
+ - Verbatim : "va compromettre le métier d’enseignant"
+
+- Thème 4 : Nécessité d'une analyse continue de ChatGPT
+ - Code 1 : Développement rapide de ChatGPT
+ - Verbatim : "il est en train de se développer très rapidement"
+ - Code 2 : Besoin d'une analyse continue
+ - Verbatim : "on doit vraiment le saisir, saisir son impact d’une manière constante"
+ - Code 3 : Incertitude sur les impacts futurs
+ - Verbatim : "notre analyse actuelle ne peut être comparable à une analyse dans un point X du futur"
+ - Code 4 : Analyse et supervision nécessaires
+ - Verbatim : "il sera très judicieux de saisir son impact et de l’analyser et surtout de contrôler et de superviser son développement"
+ - Code 5 : Perception de danger potentiel
+ - Verbatim : "ChatGPT met en péril l’influence humaine"
+ - Code 6 : Rôle de l'être humain face à ChatGPT
+ - Verbatim : "qui sera le plus intelligent, ChatGPT ou l’être humain ?"
+ - Code 7 : Questionnement sur le futur
+ - Verbatim : "je prédis que ChatGPT sera très révolutionnel"
+ - Code 8 : Importance de la remise en question
+ - Verbatim : "il faut toujours être à jour, toujours le remettre en question"
+ - Code 9 : Préoccupation pour l'avenir
+ - Verbatim : "les rôles seront bouleversés"
+ - Code 10 : Nécessité de vigilance
+ - Verbatim : "faut vraiment examiner ces rapports de force dans le futur"
+
+Ces thèmes et codes offrent une analyse détaillée des préoccupations et réflexions de Soumaya concernant l'utilisation de ChatGPT dans son parcours académique et son impact potentiel sur l'avenir de l'éducation.

@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif. J'ai identifié 5 thèmes distincts avec environ 10 codes chacun.
+
+**Thème 1 : Impact de ChatGPT sur le travail universitaire**
+
+* Code 1 : Gain de temps
+ - Verbatim : "Ça me fait gagner beaucoup de temps."
+* Code 2 : Efficacité accrue
+ - Verbatim : "Je suis plus rapide dans le sens où à la place de passer plusieurs heures ou minutes sur une base de données à chercher des articles, en trois phrases écrites, donc en 45 secondes, tu peux avoir une liste d'articles qui correspond à tes topics."
+* Code 3 : Tri et résumé d'informations
+ - Verbatim : "À la place de les lire moi, ou en entier, ou de lire l'abstract comme font la majorité des scientifiques, « résume-moi l'abstract »."
+* Code 4 : Fiabilité des résultats
+ - Verbatim : "Je pense qu'on passe à côté de certaines informations, je pense qu'on n'a pas une full picture, mais on a, je pense, 80 à 90% de corrects en fait."
+* Code 5 : Satisfaction personnelle
+ - Verbatim : "Moi, ça me satisfait. N'étant pas quelqu'un d'extrême perfectionniste, moi ça me satisfait, oui."
+* Code 6 : Utilisation dans la recherche
+ - Verbatim : "Je passe très peu de temps à l'université, je passe plus de temps à faire d'autres choses, d'autres loisirs, ou alors des emplois pour survivre dans ce monde de dingue."
+* Code 7 : Changement dans les habitudes de travail
+ - Verbatim : "Ça change un peu ta manière de travailler au niveau de l'uni ?"
+* Code 8 : Rapidité dans la recherche d'articles
+ - Verbatim : "En trois phrases écrites, donc en 45 secondes, tu peux avoir une liste d'articles qui correspond à tes topics."
+* Code 9 : Utilisation de l'IA pour la synthèse
+ - Verbatim : "« Résume-moi l'abstract ». Est-ce que l'abstract rentre dans mon thème ? Puis lui, il va faire le tri en fait."
+* Code 10 : Perception de l'efficacité
+ - Verbatim : "Les deux. Je suis plus rapide..."
+
+**Thème 2 : Utilisation de ChatGPT dans la vie quotidienne**
+
+* Code 1 : Écriture de mails
+ - Verbatim : "J'écris des mails. Donc, j'utilise aussi GPT pour relire les mails."
+* Code 2 : Correction orthographique
+ - Verbatim : "Avant de connaître le chat, j'utilisais d'autres IA ou d'autres programmes qui corrigeaient mon orthographe."
+* Code 3 : Gain d'efficience professionnelle
+ - Verbatim : "Donc oui, pour moi, il y a un gain de temps et un gain d'efficience au niveau académique et professionnel."
+* Code 4 : Création de contenu
+ - Verbatim : "J'ai pu créer des nouveaux projets avec elle."
+* Code 5 : Planification de contenu sur les réseaux sociaux
+ - Verbatim : "Typiquement, on sort du domaine académique, mais j'ai pu créer des projections sur 9 mois de publications sur Instagram pour un compte, pour un projet personnel que j'avais."
+* Code 6 : Génération de texte
+ - Verbatim : "Je dis « génère-moi du texte », et moi je lui décrivais les photos que j'allais envoyer..."
+* Code 7 : Amélioration de la qualité du contenu
+ - Verbatim : "Ça a permis de l'alimenter et puis ça a rendu, ça a donné du contenu, à mon sens, plus qualitatif."
+* Code 8 : Perception de l'originalité
+ - Verbatim : "Très peu de gens, en fait, ont remarqué que c'était un contenu IA-générated plutôt qu'écrit par moi."
+* Code 9 : Remarques sur la qualité du contenu généré
+ - Verbatim : "Certains m'ont dit, il y a moins de fautes d'orthographe."
+* Code 10 : Personnalisation du contenu généré
+ - Verbatim : "Oui. C'est peut-être pour ça que les gens n'ont pas forcément remarqué que c'était quelqu'un d'autre qui avait produit ça ?"
+
+**Thème 3 : Perception de l'IA et de son impact**
+
+* Code 1 : Sentiment de satisfaction
+ - Verbatim : "Moi, ça me satisfait."
+* Code 2 : Perception de la fiabilité
+ - Verbatim : "Je pense qu'on passe à côté de certaines informations, je pense qu'on n'a pas une full picture, mais on a, je pense, 80 à 90% de corrects en fait."
+* Code 3 : Impact sur les habitudes de travail
+ - Verbatim : "Ça change un peu ta manière de travailler au niveau de l'uni ?"
+* Code 4 : Perception de l'utilité
+ - Verbatim : "Donc oui, pour moi, il y a un gain de temps et un gain d'efficience au niveau académique et professionnel."
+* Code 5 : Comparaison avec d'autres outils
+ - Verbatim : "Avant de connaître le chat, j'utilisais d'autres IA ou d'autres programmes qui corrigeaient mon orthographe."
+* Code 6 : Confiance dans l'IA
+ - Verbatim : "Je suis plus rapide dans le sens où à la place de passer plusieurs heures ou minutes sur une base de données à chercher des articles..."
+* Code 7 : Limitations perçues
+ - Verbatim : "Je pense qu'on passe à côté de certaines informations..."
+* Code 8 : Intégration dans les pratiques quotidiennes
+ - Verbatim : "J'utilise aussi GPT pour relire les mails."
+* Code 9 : Évaluation de l'impact sur la qualité du travail
+ - Verbatim : "Ça a donné du contenu, à mon sens, plus qualitatif."
+* Code 10 : Perception de l'originalité du contenu généré
+ - Verbatim : "Très peu de gens, en fait, ont remarqué que c'était un contenu IA-générated plutôt qu'écrit par moi."
+
+**Thème 4 : Expérience avec ChatGPT**
+
+* Code 1 : Découverte et apprentissage
+ - Verbatim : "Tu t'es informé un peu sur comment elle fonctionnait et comment être efficient en fait en l'utilisant avant de starter en fait, son utilisation ?"
+* Code 2 : Utilisation dans différents contextes
+ - Verbatim : "Donc oui, pour moi, il y a un gain de temps et un gain d'efficience au niveau académique et professionnel."
+* Code 3 : Personnalisation de l'utilisation
+ - Verbatim : "Je lui décrivais les photos que j'allais envoyer, c'était à l'époque où je ne pouvais pas encore lui envoyer la photo elle-même..."
+* Code 4 : Perception de l'aide apportée par l'IA
+ - Verbatim : "Ça me fait gagner beaucoup de temps."
+* Code 5 : Ressenti par rapport à la génération de contenu
+ - Verbatim : "Ça a permis de l'alimenter et puis ça a rendu, ça a donné du contenu, à mon sens, plus qualitatif."
+* Code 6 : Comparaison avec les capacités humaines
+ - Verbatim : "À la place de les lire moi, ou en entier, ou de lire l'abstract comme font la majorité des scientifiques..."
+* Code 7 : Intégration de l'IA dans les routines
+ - Verbatim : "J'utilise aussi GPT pour relire les mails."
+* Code 8 : Utilisation pour la créativité
+ - Verbatim : "J'ai pu créer des nouveaux projets avec elle."
+* Code 9 : Perception de la valeur ajoutée
+ - Verbatim : "Donc oui, pour moi, il y a un gain de temps et un gain d'efficience..."
+* Code 10 : Satisfaction globale
+ - Verbatim : "Moi, ça me satisfait."
+
+**Thème 5 : Limites et nuances dans l'utilisation de ChatGPT**
+
+* Code 1 : Limitations dans la précision
+ - Verbatim : "Je pense qu'on passe à côté de certaines informations, je pense qu'on n'a pas une full picture..."
+* Code 2 : Perception de la qualité du contenu généré
+ - Verbatim : "On a, je pense, 80 à 90% de corrects en fait."
+* Code 3 : Risques de dépendance
+ - Verbatim : "Je passe très peu de temps à l'université, je passe plus de temps à faire d'autres choses..."
+* Code 4 : Impact sur la créativité personnelle
+ - Verbatim : "J'ai pu créer des nouveaux projets avec elle."
+* Code 5 : Nuances dans la perception de l'IA
+ - Verbatim : "Typiquement, on sort du domaine académique, mais j'ai pu créer des projections sur 9 mois de publications sur Instagram..."
+* Code 6 : Perception de la différence entre contenu généré et contenu humain
+ - Verbatim : "Très peu de gens, en fait, ont remarqué que c'était un contenu IA-générated plutôt qu'écrit par moi."
+* Code 7 : Limitations techniques
+ - Verbatim : "C'était à l'époque où je ne pouvais pas encore lui envoyer la photo elle-même..."
+* Code 8 : Adaptabilité de l'IA
+ - Verbatim : "Je lui décrivais les photos que j'allais envoyer..."
+* Code 9 : Perception de la nécessité de vérifier les résultats
+ - Verbatim : "Je pense qu'on passe à côté de certaines informations..."
+* Code 10 : Évaluation de l'utilité globale
+ - Verbatim : "Donc oui, pour moi, il y a un gain de temps et un gain d'efficience au niveau académique et professionnel."

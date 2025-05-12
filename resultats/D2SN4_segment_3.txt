@@ -1,0 +1,70 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Relation entre l'étudiant et les nouvelles technologies**
+
+- Thème : L'intérêt pour les nouvelles technologies
+ - Code 1 : Intérêt personnel pour les nouvelles technologies
+ - Verbatim : "j'adore les nouvelles technologies personnellement"
+ - Code 2 : Utilisation limitée dans la filière
+ - Verbatim : "dans ma filière - donc dans la physique - on demande pas spécifiquement d'utiliser chatGPT ou un logiciel quelconque"
+ - Code 3 : Apprentissage théorique
+ - Verbatim : "c'est surtout de l'apprentissage “brut” de l'apprentissage très théorique"
+ - Code 4 : Utilisation de papier et crayon
+ - Verbatim : "c'est quelque chose qui va être de l'ordre de papier crayon"
+ - Code 5 : Pas d'utilisation spécifique de chatGPT
+ - Verbatim : "tu n’utilises pas trop chatGPT pour des activités spécifiques à ton école"
+
+**Thème : Perception de l'utilité de chatGPT dans les études**
+
+- Code 6 : Utilité limitée pour les devoirs
+ - Verbatim : "j'utilise pas nécessairement beaucoup dans le cadre de mes études pour par exemple rendre des devoirs maison"
+ - Code 7 : Intérêt limité pour les exercices calculatoires
+ - Verbatim : "c'est calculatoire ou bien ça permet de comprendre un phénomène en profondeur"
+ - Code 8 : Pas d'intérêt à utiliser chatGPT pour les exercices
+ - Verbatim : "si on fait avec chat GPT il y a aucun intérêt à faire l'exercice"
+ - Code 9 : Utilité pour la recherche d'information
+ - Verbatim : "pour la recherche d'information et en particulier pour le parcours recherche qu'on peut avoir ici c'est vraiment très pratique"
+ - Code 10 : Limite de la mise à jour des données
+ - Verbatim : "les données sont pas mises à jour depuis 2021 sur chatGPT"
+
+**Segment 2 : Expérience d'utilisation de chatGPT**
+
+- Thème : Utilisation de chatGPT pour résoudre un problème spécifique
+ - Code 1 : Oubli d'une formule
+ - Verbatim : "j'ai complètement oublié ce que c'était il y avait plus aucun moyen de m'en souvenir"
+ - Code 2 : Utilisation de chatGPT pour retrouver l'information
+ - Verbatim : "j'ai demandé à chatGPT à ce moment-là ça va assez vite très rapidement"
+ - Code 3 : Résolution du problème
+ - Verbatim : "dans la réponse il y a écrit la formule de Faà di Bruno et boum c'est parti je me rappelle"
+ - Code 4 : Utilité de chatGPT dans la recherche
+ - Verbatim : "c'est vraiment très très pratique de pouvoir avoir une description simple du problème"
+ - Code 5 : Facilité d'accès aux sources
+ - Verbatim : "et de pouvoir aller voir les sources assez facilement"
+
+**Thème : Contextes d'utilisation de chatGPT**
+
+- Code 6 : Deux types de sessions
+ - Verbatim : "Moi j'ai deux types de session, la plupart du temps c'est des sessions pour un travail et où des sessions pour des choses personnelles"
+ - Code 7 : Réutilisation de sessions précédentes
+ - Verbatim : "je me ramène souvent à des sessions que j'ai déjà utilisé quand j'ai un problème qui est similaire"
+ - Code 8 : Adaptation de la réponse de chatGPT
+ - Verbatim : "je sais qu'en retournant dans cette session là pas la réponse elle va être plus adaptée"
+ - Code 9 : Pas d'utilisation dans les moments de stress
+ - Verbatim : "je vais pas l’utiliser dans un moment de stress pas vraiment"
+ - Code 10 : Effet contre-productif du stress
+ - Verbatim : "l'utilisation de chatGPT dans un moment de stress pour moi c'est vraiment encore plus stressant"
+
+**Segment 3 : Stratégies d'utilisation**
+
+- Thème : Stratégies de gestion du stress
+ - Code 1 : Recadrage et recentrage
+ - Verbatim : "je sais plutôt me recadrer, me reconcentrer"
+ - Code 2 : Éviter l'utilisation de chatGPT sous stress
+ - Verbatim : "l'utilisation de chatGPT dans un moment de stress pour moi c'est vraiment encore plus stressant"
+ - Thème : Personnalisation de l'utilisation de chatGPT
+ - Code 3 : Création de sessions spécifiques
+ - Verbatim : "j'ai une session qui va être un peu plus mathématique plus orienté formule"
+ - Code 4 : Amélioration de la réponse de chatGPT
+ - Verbatim : "la réponse elle va être plus adaptée elle va être plus simple pour chatGPT à comprendre"
+
+Ces thèmes et codes permettent d'analyser en profondeur l'entretien et de mettre en évidence les différents aspects de l'utilisation de chatGPT par l'étudiant.

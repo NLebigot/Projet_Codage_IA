@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Légitimité de l'utilisation de ChatGPT**
+- Code 1 : Perception de l'utilisation de ChatGPT comme légitime
+- Verbatim : "Je perçois son utilisation comme légitime, car tout le monde l’utilise"
+- Code 2 : Utilisation dans différents contextes
+- Verbatim : "que ce soit à l’université ou dans le monde professionnel"
+- Code 3 : Nécessité d'encadrer son utilisation
+- Verbatim : "je pense qu’il faudrait encadrer son utilisation pour les générations futures"
+- Code 4 : Impact potentiel sur les compétences
+- Verbatim : "Si je l’avais eu dès le début de mon cursus, il aurait peut-être légèrement affecté mon niveau de rédaction"
+- Code 5 : Utilisation comme un outil
+- Verbatim : "C’est un outil global et pas juste propre aux étudiants"
+- Code 6 : Évolution de l'utilisation avec le temps
+- Verbatim : "il faut apprendre à l’utiliser et à l’appréhender de plus en plus tôt"
+- Code 7 : Perception de l'utilisation par les enseignants
+- Verbatim : "les enseignants savent qu’on l’utilise, et ils nous encouragent"
+- Code 8 : Variation dans la réaction des enseignants
+- Verbatim : "cela dépend des enseignants, mais je peux dire que la majorité d’entre eux nous encouragent à l’utiliser"
+- Code 9 : Raisons de l'encouragement
+- Verbatim : "ils savent que c’est un outil et qu’il faut apprendre à l’utiliser"
+- Code 10 : Impact sur le rendement de travail
+- Verbatim : "pour améliorer notre rendement de travail et, parfois, même la qualité de nos productions"
+
+**Thème 2 : Réactions des enseignants et arguments**
+- Code 1 : Connaissance de l'utilisation de ChatGPT par les enseignants
+- Verbatim : "Oui, les enseignants savent qu’on l’utilise"
+- Code 2 : Encouragement par les enseignants
+- Verbatim : "ils nous encouragent à l’utiliser"
+- Code 3 : Arguments des enseignants en faveur de ChatGPT
+- Verbatim : "Ceux qui nous encouragent savent que c’est un outil et qu’il faut apprendre à l’utiliser"
+- Code 4 : Arguments contre l'utilisation de ChatGPT
+- Verbatim : "Ceux qui sont contre sont, je dirais, plutôt de la vieille école"
+- Code 5 : Raisons de la réticence
+- Verbatim : "leur argument principal est que nous sommes dans une institution académique où il faut apprendre par soi-même"
+- Code 6 : Impact de la correction instantanée par l'IA
+- Verbatim : "l’erreur corrigée instantanément par une IA n’est pas la meilleure façon d’assimiler les notions"
+- Code 7 : Divergence d'opinions parmi les enseignants
+- Verbatim : "cela dépend des enseignants"
+- Code 8 : Évolution de la perception des enseignants
+- Verbatim : "la majorité d’entre eux nous encouragent à l’utiliser"
+- Code 9 : Rôle de l'encouragement dans l'utilisation
+- Verbatim : "ils nous encouragent à l’utiliser pour améliorer notre rendement de travail"
+- Code 10 : Importance de l'apprentissage autonome
+- Verbatim : "il faut apprendre par soi-même"
+
+**Thème 3 : Enjeux éthiques et utilisation responsable**
+- Code 1 : Perception de l'enjeu éthique
+- Verbatim : "Pour son utilisation, qu’il soit mentionné ou non qu’il a été utilisé, je pense que ça importe peu"
+- Code 2 : Utilisation comme partie du professionnalisme
+- Verbatim : "le fait de savoir l’utiliser fait partie du professionnalisme et du niveau de son utilisateur"
+- Code 3 : Reformulation des réponses
+- Verbatim : "même le fait de savoir l’utiliser fait partie du professionnalisme"
+- Code 4 : Comparaison avec les capacités humaines
+- Verbatim : "si une IA peut rivaliser avec le niveau d’écriture d’un écrivain, pourquoi s’en priver ?"
+- Code 5 : Perception de la responsabilité dans l'utilisation
+- Verbatim : "Si quelqu’un obtient un très bon rendu, cela ne retire rien à son mérite"
+- Code 6 : Risques liés à l'utilisation de ChatGPT
+- Verbatim : "on n’est jamais à l’abri d’une fuite de données"
+- Code 7 : Exemple de fuite de données
+- Verbatim : "comme cela s’est déjà produit avec Samsung"
+- Code 8 : Importance de la prudence
+- Verbatim : "il faut faire attention à ce que l’on écrit"
+- Code 9 : Équilibre entre utilisation et responsabilité
+- Verbatim : "le fait de savoir l’utiliser fait partie du professionnalisme"
+- Code 10 : Gestion des risques
+- Verbatim : "il faut faire attention"
+
+**Thème 4 : Impact sur l'apprentissage et le travail**
+- Code 1 : Perception de l'impact sur l'apprentissage
+- Verbatim : "je ne ressens pas de tension, car en soi, je me sers de la base qui est mon travail"
+- Code 2 : Utilisation de ChatGPT pour finaliser le travail
+- Verbatim : "lui ne fait que le finaliser, pas le générer entièrement"
+- Code 3 : Gain de temps
+- Verbatim : "je bénéficie plus du gain de temps sans que cela nuise à mon apprentissage"
+- Code 4 : Rôle dans la compréhension initiale des tâches
+- Verbatim : "il m'arrive de lui demander de me faire des suggestions"
+- Code 5 : Utilisation pour clarifier les attentes
+- Verbatim : "pour que moi-même je puisse mieux comprendre la thématique"
+- Code 6 : Aide à la recherche d'informations
+- Verbatim : "de lui demander de me chercher d'anciens travaux liés à mon projet et de les résumer"
+- Code 7 : Utilisation pour obtenir un plan global
+- Verbatim : "ou de me sortir le plan global"
+- Code 8 : Limite dans l'utilisation pour la compréhension initiale
+- Verbatim : "je ne dirais pas qu'il joue un rôle dans ma compréhension initiale"
+- Code 9 : Utilisation complémentaire
+- Verbatim : "je lui demande très rarement, voire jamais, de m'expliquer directement ce qui est attendu"
+- Code 10 : Amélioration de la compréhension grâce à ChatGPT
+- Verbatim : "pour que moi-même je puisse mieux comprendre la thématique"
+
+**Thème 5 : Contextes d'utilisation acceptable ou non**
+- Code 1 : Légitimité selon le type de travail
+- Verbatim : "cela dépend du type de travail à réaliser"
+- Code 2 : Utilisation dans les contextes académique et professionnel
+- Verbatim : "dans un contexte académique ou éducatif, il est normal de l’utiliser, et même dans un contexte professionnel"
+- Code 3 : Impact sur la qualité des travaux
+- Verbatim : "son utilisation est légitime en vue de son impact pour accroître et améliorer le niveau des travaux"
+- Code 4 : Prévention des dérives
+- Verbatim : "il donne une base au travail, même quand on ne connaît rien au résultat final que l'on doit soumettre"
+- Code 5 : Risques de fuite de données
+- Verbatim : "il faut faire attention à ce que l’on écrit, on n’est jamais à l’abri d’une fuite de données"
+- Code 6 : Exemple de risque réalisé
+- Verbatim : "comme cela s’est déjà produit avec Samsung"
+- Code 7 : Nécessité de prudence
+- Verbatim : "il faut faire attention"
+- Code 8 : Utilisation responsable
+- Verbatim : "le fait de savoir l’utiliser fait partie du professionnalisme"
+- Code 9 : Équilibre entre avantages et risques
+- Verbatim : "pourquoi s’en priver si une IA peut rivaliser avec le niveau d’écriture d’un écrivain"
+- Code 10 : Adaptation au contexte
+- Verbatim : "cela dépend du type de travail à réaliser"

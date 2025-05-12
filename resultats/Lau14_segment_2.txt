@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en respectant la méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Définition et utilisation de ChatGPT**
+
+- Thème : Perception de ChatGPT
+ - Code 1 : Définition de ChatGPT
+ - Verbatim : "c'est une intelligente artificielle, donc c'est un programme qui est spécialisé dans la génération de textes."
+ - Code 2 : Capacités de ChatGPT
+ - Verbatim : "il est en capacité de créer du texte ou de comprendre du texte et ou d'en traduire et ou de le reformuler."
+ - Code 3 : Utilité de ChatGPT
+ - Verbatim : "il peut te corriger."
+ - Code 4 : Langues supportées par ChatGPT
+ - Verbatim : "des textes de langue, français, anglais et d'autres langues naturelles"
+ - Code 5 : Compréhension du langage machine par ChatGPT
+ - Verbatim : "il comprend extrêmement bien le langage machine"
+ - Code 6 : Utilisation de ChatGPT pour le codage et les statistiques
+ - Verbatim : "lorsque, par exemple, tu veux faire du codage, des statistiques ou tu veux comprendre des trucs un peu plus techniques en termes de IT."
+ - Code 7 : Puissance de ChatGPT
+ - Verbatim : "c'est un super ordinateur super puissant"
+ - Code 8 : Interaction avec ChatGPT
+ - Verbatim : "tu peux parler avec lui."
+ - Code 9 : Comparaison avec d'autres outils
+ - Verbatim : "d'autres intelligences artificielles ou d'autres programmes, genre screaming, DeepL, ils peuvent très bien faire ça."
+ - Code 10 : Évolution de ChatGPT
+ - Verbatim : "j'ai commencé à l'utiliser, c'était... GPT2."
+
+- Thème : Utilisation de ChatGPT dans le travail universitaire
+ - Code 1 : Fréquence d'utilisation de ChatGPT
+ - Verbatim : "j'utilise facile 2 à 3 fois par semaine."
+ - Code 2 : Moment où James a commencé à utiliser ChatGPT
+ - Verbatim : "je dirais que ça fait un an, un an et demi que j'utilise."
+ - Code 3 : Version de ChatGPT utilisée
+ - Verbatim : "j'utilise le 4 quand c'est gratuit."
+ - Code 4 : Contournement des limitations de ChatGPT
+ - Verbatim : "j'écris plusieurs comptes."
+ - Code 5 : Avantages de la méthode de contournement
+ - Verbatim : "j'ai plus d'accès à GPT4"
+ - Code 6 : Limitations de ChatGPT
+ - Verbatim : "il y a une histoire d'IP ou je ne sais pas comment ça marche, mais il bloque."
+ - Code 7 : Inconvénients de la méthode de contournement
+ - Verbatim : "il n'a pas le suivi des autres comptes."
+ - Code 8 : Utilisation de différentes versions de ChatGPT
+ - Verbatim : "j'utilise le 3.5 quand j'ai besoin de trucs plus simples."
+ - Code 9 : Capacités de la version 3.5 de ChatGPT
+ - Verbatim : "il peut relire un e-mail."
+ - Code 10 : Évaluation de la version 3.5 de ChatGPT
+ - Verbatim : "ça va très bien."
+
+**Segment 2 : Utilisation de ChatGPT dans le master**
+
+- Thème : Utilisation de ChatGPT pour les tâches universitaires
+ - Code 1 : Utilisation de ChatGPT pour le codage et l'IT
+ - Verbatim : "il était compétent pour tout ce qui est un petit peu codage, IT, machine, etc."
+ - Code 2 : Besoin d'utiliser des technologies dans le master
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 3 : Utilisation de ChatGPT pour les tâches de traitement de données
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 4 : Utilisation de ChatGPT pour la rédaction de documents
+ - Verbatim : "résume-moi ce document."
+ - Code 5 : Utilisation de ChatGPT pour l'analyse de documents
+ - Verbatim : "tu lui balances un PDF ou une image ou un Excel."
+ - Code 6 : Utilisation de ChatGPT pour la communication
+ - Verbatim : "relis-moi un e-mail."
+ - Code 7 : Évaluation de l'utilité de ChatGPT dans le master
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 8 : Comparaison avec d'autres outils utilisés dans le master
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 9 : Impact de ChatGPT sur le travail universitaire
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 10 : Futur usage de ChatGPT dans le master
+ - Verbatim : (à compléter avec la réponse de James)
+
+- Thème : Perception de l'impact de ChatGPT sur le travail universitaire
+ - Code 1 : Perception de l'impact de ChatGPT sur la qualité du travail
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 2 : Perception de l'impact de ChatGPT sur la charge de travail
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 3 : Perception de l'impact de ChatGPT sur la manière de travailler
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 4 : Évaluation de l'utilité de ChatGPT pour les étudiants
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 5 : Limitations de ChatGPT dans le contexte universitaire
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 6 : Améliorations possibles de ChatGPT pour le contexte universitaire
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 7 : Perception de l'avenir de ChatGPT dans le contexte universitaire
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 8 : Impact potentiel de ChatGPT sur les compétences des étudiants
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 9 : Rôle de ChatGPT dans la formation des étudiants
+ - Verbatim : (à compléter avec la réponse de James)
+ - Code 10 : Évaluation de la responsabilité de l'utilisation de ChatGPT
+ - Verbatim : (à compléter avec la réponse de James)
+
+La suite de l'analyse nécessiterait la réponse complète de James à la question de Thalia concernant son utilisation de ChatGPT dans son master.

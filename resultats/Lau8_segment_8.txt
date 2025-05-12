@@ -1,0 +1,113 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+### Thème 1 : Utilisation de ChatGPT pour la compréhension du cours
+- Code 1 : Utilité de ChatGPT pour comprendre les bases
+  - Verbatim : "j’étais contente que ChatGPT m’explique un peu les bases"
+- Code 2 : Compréhension des concepts complexes
+  - Verbatim : "revoir des bases ou essayer de comprendre des trucs genre... mais c’est quoi, une structure de données ?"
+- Code 3 : Sentiment de confort avec le sujet
+  - Verbatim : "Ça m’a aidée à me sentir un peu plus à l’aise avec le thème"
+- Code 4 : Alternative aux supports de cours
+  - Verbatim : "si j’avais travaillé toute seule avec juste les dias, j’aurais pas su par où commencer"
+- Code 5 : Supplémentarité de ChatGPT
+  - Verbatim : "j’y connaissais tellement rien que j’étais contente que ChatGPT m’explique un peu les bases"
+- Code 6 : Facilité d'apprentissage
+  - Verbatim : "rendre l’apprentissage un peu plus logique"
+- Code 7 : Besoin de clarification
+  - Verbatim : "j’avais l’impression que c’était pas mon domaine"
+- Code 8 : Dépendance à ChatGPT
+  - Verbatim : "je sais pas comment j’aurais fait s’il n’y avait pas eu ChatGPT"
+- Code 9 : Nouveauté et adaptation
+  - Verbatim : "tout est nouveau. Avec les choses qu’on voit en digital society, c’est un nouveau thème"
+- Code 10 : Changement dans la méthode de travail
+  - Verbatim : "ça a changé. Parce que, bah, tout est nouveau"
+
+### Thème 2 : Interaction avec les professeurs et les pairs
+- Code 1 : Inaccessibilité du professeur
+  - Verbatim : "mon prof il est... Enfin le prof de ce cours là il est pas accessible du tout"
+- Code 2 : Manque de temps pour les questions
+  - Verbatim : "je me vois pas du tout lui poser des questions. J’ai l’impression qu’il a pas le temps"
+- Code 3 : Contenu dense du cours
+  - Verbatim : "on a genre 5 ou 10 minutes, parce qu’il a trop de contenu à nous donner"
+- Code 4 : Alternatives pour obtenir de l'aide
+  - Verbatim : "j’ai une amie qui fait le master aussi. Elle m’a dit que ce cours-là, il l’a fait en deux heures, mais elle, elle l’a fait en un semestre"
+- Code 5 : Difficulté à demander de l'aide
+  - Verbatim : "je pense que c’est une question de temps. Et puis, je saurais pas vraiment comment poser mes questions"
+- Code 6 : Disponibilité des pairs
+  - Verbatim : "j’aurais pu lui demander. Mais je pense qu’elle avait d’autres choses à faire aussi"
+- Code 7 : Présence d'autres ressources
+  - Verbatim : "j’ai aussi mon frère qui est ingénieur en informatique, donc j’aurais pu lui demander"
+- Code 8 : Préférence pour ChatGPT
+  - Verbatim : "je me suis dit, vu que j’ai ChatGPT, je vais utiliser ça"
+- Code 9 : Raisons de ne pas demander de l'aide
+  - Verbatim : "faudrait qu’on prenne un vrai moment face à face où je lui explique tout ce que j’ai comme questions"
+- Code 10 : Utilisation de ChatGPT par défaut
+  - Verbatim : "j’ai ChatGPT, je vais utiliser ça. Et si vraiment je comprends rien, là je lui demanderai"
+
+### Thème 3 : Perception et limites de ChatGPT
+- Code 1 : Réponses trop détaillées
+  - Verbatim : "j’ai l’impression qu’il développe trop"
+- Code 2 : Besoin de réponses concises
+  - Verbatim : "j’ai juste besoin de quelqu’un qui me... au lieu de donner trop d’infos, me synthétise les choses"
+- Code 3 : Sélection de l'information pertinente
+  - Verbatim : "je prends juste ce qui m’intéresse. Et si je vois que finalement il me répond un truc que je savais déjà, ou que je comprends toujours pas, ou que je trouve pas ça utile, bah j’arrête tout simplement de lire"
+- Code 4 : Gestion de la réponse
+  - Verbatim : "des fois, ça m’énerve un peu parce que… Je sais pas si c’est lié à la façon dont je pose mes questions"
+- Code 5 : Utilisation sélective
+  - Verbatim : "je ne lisais pas tout ce qu’il me disait"
+- Code 6 : Perception de la qualité de la réponse
+  - Verbatim : "je m’en fous un peu de tout ce qu’il raconte parfois"
+- Code 7 : Dépendance à la formulation des questions
+  - Verbatim : "je sais pas si, à un moment, j’ai dit dans une discussion, « donne-moi une réponse courte »"
+- Code 8 : Adaptation à ChatGPT
+  - Verbatim : "je lis pas jusqu’à la fin"
+- Code 9 : Satisfaction partielle
+  - Verbatim : "je prends juste ce qui m’intéresse"
+- Code 10 : Critique implicite
+  - Verbatim : "il va trop dans les détails"
+
+### Thème 4 : Impact de ChatGPT sur les habitudes de travail
+- Code 1 : Changement dans la manière de travailler
+  - Verbatim : "ça a changé. Parce que, bah, tout est nouveau"
+- Code 2 : Paresse et dépendance
+  - Verbatim : "je me disais, Clara, tu deviens trop paresseuse"
+- Code 3 : Réflexion personnelle vs. utilisation de ChatGPT
+  - Verbatim : "je me disais, ah, mais je peux juste laisser ChatGPT réfléchir à ma place quoi"
+- Code 4 : Manque d'initiative
+  - Verbatim : "j’avais la flemme de les écrire moi-même, je pense"
+- Code 5 : Réalisation de la dépendance
+  - Verbatim : "souvent, je me rends compte qu’avant, peut-être le semestre dernier ou il y a deux semestres, je me disais, j’ai la flemme de réfléchir"
+- Code 6 : Préférence pour une réponse directe
+  - Verbatim : "je posais mes questions directement à ChatGPT au lieu de creuser par moi-même"
+- Code 7 : Conscientisation de la nécessité de réfléchir
+  - Verbatim : "je me suis dit, non, là, Clara, stop, tu t’arrêtes, tu réfléchis un peu"
+- Code 8 : Changement de comportement
+  - Verbatim : "alors que j’aurais pu, moi-même, réfléchir et mettre par écrit"
+- Code 9 : Reconnaissance de l'utilité de ChatGPT
+  - Verbatim : "il me donnait, par exemple, les rôles des enseignants ou ce genre de trucs"
+- Code 10 : Équilibre entre utilisation de ChatGPT et réflexion personnelle
+  - Verbatim : "je pense que ça avait changé ma manière de réfléchir"
+
+### Thème 5 : Contexte du cours et difficultés rencontrées
+- Code 1 : Difficulté du cours
+  - Verbatim : "compliqué"
+- Code 2 : Contenu dense
+  - Verbatim : "c’est large, et j’ai une amie qui fait le master aussi. Elle m’a dit que ce cours-là, il l’a fait en deux heures, mais elle, elle l’a fait en un semestre"
+- Code 3 : Charge de travail
+  - Verbatim : "c’est hyper condensé. Ouais, c’est pas facile"
+- Code 4 : Comparaison avec d'autres expériences
+  - Verbatim : "elle m’a dit que ce cours-là, il l’a fait en deux heures, mais elle, elle l’a fait en un semestre"
+- Code 5 : Perception de la difficulté
+  - Verbatim : "je m’étais dit que je pourrais lui demander, parce qu’elle a déjà fait des cours d’informatique"
+- Code 6 : Sentiment d'être dépassé
+  - Verbatim : "j’ai l’impression que c’était pas mon domaine"
+- Code 7 : Recherche d'aide
+  - Verbatim : "j’aurais pu lui demander. Mais je pense qu’elle avait d’autres choses à faire aussi"
+- Code 8 : Stratégies d'adaptation
+  - Verbatim : "je me suis dit, vu que j’ai ChatGPT, je vais utiliser ça"
+- Code 9 : Difficultés à gérer le temps
+  - Verbatim : "je pense que c’est une question de temps"
+- Code 10 : Satisfaction avec les ressources disponibles
+  - Verbatim : "j’ai aussi mon frère qui est ingénieur en informatique"
+
+Chaque thème est riche et structurant, avec des codes qui reflètent fidèlement les verbatims de l'enquêté. Les thèmes sont variés et offrent des angles d'analyse sociologique différents.

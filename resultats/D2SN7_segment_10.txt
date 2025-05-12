@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Perception de ChatGPT**
+
+- Thème : Utilité et limites de ChatGPT
+ - Code 1 : Utilité pour la programmation
+ - Verbatim : "c'est vraiment très puissant et pour ce que je fais en tout cas"
+ - Code 2 : Limite en production d'anglais
+ - Verbatim : "il reste encore complètement à côté de la plaque"
+ - Code 3 : Nécessité de guider ChatGPT
+ - Verbatim : "faut toujours faire attention de le guider"
+ - Code 4 : Extrapolation
+ - Verbatim : "il aime extrapoler"
+ - Code 5 : Répétition
+ - Verbatim : "ça se répète pas mal"
+ - Code 6 : Dépendance à la formulation des questions
+ - Verbatim : "si c'est nul, c'est que tu l'utilises mal quoi"
+ - Code 7 : Niveau variable selon les thématiques
+ - Verbatim : "son niveau c’est variables en fonction de différentes thématiques"
+ - Code 8 : Utilisation incorrecte
+ - Verbatim : "tu l'utilises mal quoi"
+ - Code 9 : Responsabilité de l'utilisateur
+ - Verbatim : "c'est de ta faute"
+ - Code 10 : Potentiel à exploiter
+ - Verbatim : "c'est vraiment très puissant"
+
+- Thème : Frustration face aux limites de ChatGPT et de l'enseignement
+ - Code 1 : Frustration envers l'enseignement de l'anglais
+ - Verbatim : "c’est pas une enfin la personne a jamais fait de sociologie"
+ - Code 2 : Déception face aux cours d'anglais
+ - Verbatim : "c'est vraiment des cours d'anglais de collège quoi"
+ - Code 3 : Manque de cohérence
+ - Verbatim : "ça n'a aucun intérêt"
+ - Code 4 : Irritation face aux tâches demandées
+ - Verbatim : "tu as l'impression c'est juste un peu débile"
+ - Code 5 : Critique de la maquette pédagogique
+ - Verbatim : "j’en veux aux personnes qui on t fait cette maquette"
+ - Code 6 : Sentiment d'inadéquation
+ - Verbatim : "c'est exactement l'intérêt de la fac c'est de pas faire ça quoi"
+ - Code 7 : Répétition dans les réponses de ChatGPT
+ - Verbatim : "il veut juste dire la même chose quoi"
+ - Code 8 : Perception négative de certaines productions
+ - Verbatim : "c'est à côté de la plaque"
+ - Code 9 : Attente d'un niveau supérieur
+ - Verbatim : "c'est pas non plus c'est pas non plus en production encore génialissime"
+ - Code 10 : Exaspération face aux limites de ChatGPT
+ - Verbatim : "il explose totalement"
+
+**Segment 2 : Stratégies d'interaction avec ChatGPT**
+
+- Thème : Vérification et validation des informations
+ - Code 1 : Utilisation de son propre jugement
+ - Verbatim : "je me dis Bah ça c'est moche comme phrase ça, je sais que c'est faux"
+ - Code 2 : Pas de techniques spécifiques
+ - Verbatim : "non, pas spécialement quoi"
+ - Code 3 : Utilisation des sources fournies par ChatGPT
+ - Verbatim : "il me donne les sources"
+ - Code 4 : Limite dans la vérification
+ - Verbatim : "je dirais que c'est plutôt ça quoi"
+ - Code 5 : Confiance relative dans ChatGPT
+ - Verbatim : "je m'utilise moi-même"
+ - Code 6 : Vérification implicite
+ - Verbatim : "des fois je me dis Bah ça c'est moche comme phrase"
+ - Code 7 : Autonomie dans la vérification
+ - Verbatim : "je dirais que c'est plutôt ça quoi"
+ - Code 8 : Exhaustivité limitée
+ - Verbatim : "lui demande pas non plus énormément de trucs"
+ - Code 9 : Utilisation modérée
+ - Verbatim : "les recherches d'informations on fait comme oui à part les recherches de stat"
+ - Code 10 : Acceptation des limites
+ - Verbatim : "je dirais que c'est plutôt ça quoi"
+
+- Thème : Formulation des questions et interaction
+ - Code 1 : Langage familier
+ - Verbatim : "j'dirais pas soutenu"
+ - Code 2 : Adaptation au contexte
+ - Verbatim : "est-ce que tu prends un langage ? Très, je dirais pas soutenu"
+ - Code 3 : Interaction naturelle
+ - Verbatim : "où est-ce que t'es plutôt familier avec ton ChatGPT ?"
+ - Code 4 : Souplesse dans l'interaction
+ - Verbatim : "je dirais pas soutenu"
+ - Code 5 : Absence de formalisme
+ - Verbatim : "plutôt familier"
+ - Code 6 : Interaction usuelle
+ - Verbatim : "avec ton ChatGPT"
+ - Code 7 : Connexion avec l'outil
+ - Verbatim : "ton ChatGPT"
+ - Code 8 : Fluidité
+ - Verbatim : "je dirais pas soutenu"
+ - Code 9 : Naturalité
+ - Verbatim : "plutôt familier"
+ - Code 10 : Interaction courante
+ - Verbatim : "avec ton ChatGPT"
+
+Ces thèmes et codes offrent une analyse nuancée de la perception et de l'utilisation de ChatGPT par l'enquêté, ainsi que de ses stratégies d'interaction avec l'outil.

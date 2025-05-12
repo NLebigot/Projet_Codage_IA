@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse du texte avec 5 thèmes distincts, chacun contenant environ 10 codes avec leur verbatim associé.
+
+**Thème 1 : Utilisation de R et de l'informatique dans le parcours universitaire**
+- Code 1 : Utilisation de R pour un projet spécifique
+- Verbatim : "Je vais faire un tout petit truc avec R."
+- Code 2 : Demande d'aide pour écrire un script R
+- Verbatim : "Je demanderai de m'écrire le script mais sinon pour mon mémoire, je l'utilise pas du tout."
+- Code 3 : Nombre de cours sur R dans le cursus
+- Verbatim : "On en avait deux le semestre dernier et là il y en a un ce semestre."
+- Code 4 : Changement de master et son impact sur l'utilisation de R
+- Verbatim : "L'année prochaine comme moi je change de master."
+- Code 5 : Différence de contenu entre les cours
+- Verbatim : "Ce sera le prof d'éco et de socio."
+- Code 6 : Présence de mathématiques et de statistiques dans le futur cursus
+- Verbatim : "Un tout petit peu mais plus éco, les grandes théories."
+- Code 7 : Orientation vers l'économie
+- Verbatim : "Je vais faire de l'éco."
+- Code 8 : Combinaison de disciplines
+- Verbatim : "Économie et sociologie."
+- Code 9 : Impact du changement de master sur l'utilisation des outils informatiques
+- Verbatim : "J'espère qu'il y en a pas [de cours sur R]."
+- Code 10 : Évolution des attentes en fonction du parcours
+- Verbatim : "On verra."
+
+**Thème 2 : Interaction avec ChatGPT et sa perception**
+- Code 1 : Utilisation de ChatGPT pour les cours
+- Verbatim : "Moi j'interagis avec lui que vraiment pour les cours."
+- Code 2 : Évaluation de la pertinence des réponses de ChatGPT
+- Verbatim : "Je lis ce qu'il a fait, si ça me paraît pertinent ou pas."
+- Code 3 : Vérification des références fournies par ChatGPT
+- Verbatim : "S'il met des références, je les recherche."
+- Code 4 : Connaissance des limites de ChatGPT
+- Verbatim : "Je pense que je commence à savoir comment bien l'utiliser là où il est fort, là où il est pas moins fort etc."
+- Code 5 : Danger de trop utiliser ChatGPT
+- Verbatim : "Le danger, c'est justement de pas tout faire avec lui."
+- Code 6 : Préoccupation d'apprendre par soi-même
+- Verbatim : "Je veux pas augmenter en je veux pas faire plus avec lui parce que je veux continuer à faire des trucs moi-même."
+- Code 7 : Perception de l'utilité de ChatGPT
+- Verbatim : "Si je fais tout faire à ChatGPT, ça sert à rien que je sois en master quoi."
+- Code 8 : Comparaison de ses capacités avec celles de ChatGPT
+- Verbatim : "J'espère quand même que je suis meilleur que ChatGPT pour un peu de temps."
+- Code 9 : Originalité dans le travail
+- Verbatim : "Je serais plus original."
+- Code 10 : Limite de ChatGPT
+- Verbatim : "Il met pas trop de connecteur logique entre les phrases."
+
+**Thème 3 : Impact de ChatGPT sur la méthode de travail et l'apprentissage**
+- Code 1 : Utilisation de ChatGPT pour des points précis
+- Verbatim : "Je demande à ChatGPT des points précis que je mets dans mon approche."
+- Code 2 : Maintien de sa méthode de travail
+- Verbatim : "J'ai déjà ma méthode et mon approche."
+- Code 3 : Complémentarité entre ChatGPT et le travail personnel
+- Verbatim : "Il fait pas mon travail à ma place."
+- Code 4 : Évaluation de l'impact de ChatGPT sur sa façon de travailler
+- Verbatim : "Suite aux réponses générées par ChatGPT, tu modifies parfois ton approche d’un sujet ou ta méthode de travail ?"
+- Code 5 : Continuité dans la méthode de travail
+- Verbatim : "Toujours t’as gardé ta méthode en fait."
+- Code 6 : Perception de l'avantage procuré par ChatGPT
+- Verbatim : "Je pense que ça crée un avantage parce que je sais sur quoi il est bon, sur quoi il est pas bon."
+- Code 7 : Différence dans l'utilisation de ChatGPT parmi les étudiants
+- Verbatim : "Il y a ceux qui savent l'utiliser, ceux qui ne savent pas l'utiliser."
+- Code 8 : Formation à l'utilisation de ChatGPT à l'ENS
+- Verbatim : "On a eu un cours là-dessus où il expliquait comment l'utiliser."
+- Code 9 : Awareness des inégalités créées par ChatGPT
+- Verbatim : "Ça crée des inégalités entre les étudiants."
+- Code 10 : Perception de l'utilité de la formation reçue
+- Verbatim : "On nous a donné très vite les clés pour comment l'utiliser."
+
+**Thème 4 : Outils numériques et inégalités**
+- Code 1 : Découverte de nouveaux outils à l'ENS
+- Verbatim : "En étant à l'ENS, on m'a recommandé plein de logiciels, plein de trucs qui sont efficaces."
+- Code 2 : Utilisation de logiciels spécifiques (Whisper, Zotero)
+- Verbatim : "Il y a un logiciel qui s'appelle Whisper... Il y a un truc s'appelle Zotero."
+- Code 3 : Perception de l'avantage procuré par la connaissance de ces outils
+- Verbatim : "Ça crée un avantage par rapport aux autres étudiants qui savent pas que ça existe."
+- Code 4 : Inégalités dans l'accès à l'information
+- Verbatim : "Il y a une notion d'accès à l'information en fait."
+- Code 5 : Découverte de Zotero
+- Verbatim : "Je savais pas que ça existait avant de venir ici quoi."
+- Code 6 : Utilité de Zotero
+- Verbatim : "C'est hyper pratique, ça permet de prendre des notes en parallèle du texte."
+- Code 7 : Variété des outils recommandés
+- Verbatim : "Plein de logiciels, plein de trucs qui sont efficaces."
+- Code 8 : Perception positive des recommandations de l'ENS
+- Verbatim : "On m'a recommandé."
+- Code 9 : Impact sur la pratique universitaire
+- Verbatim : "Ça change la donne."
+- Code 10 : Élargissement des connaissances informatiques
+- Verbatim : "Je sais qu’il y a un pote qui est assez fort."
+
+**Thème 5 : Perception de soi et de ses capacités par rapport aux autres**
+- Code 1 : Comparaison avec les autres étudiants de l'ENS
+- Verbatim : "Tous les gens qui sont à l’ENS sont hyper forts."
+- Code 2 : Sentiment d'infériorité initial
+- Verbatim : "J'ai eu tendance, comme tous les gens qui sont à l’ENS sont hyper forts, au début je me suis dit merde moi ce que je fais ça doit forcément être moins bien."
+- Code 3 : Perception de sa propre valeur avant et après l'ENS
+- Verbatim : "Avant, en fait j'étais hyper forte, donc je m'en fichais de ChatGPT."
+- Code 4 : Évolution de la confiance en soi
+- Verbatim : "Maintenant, je pense qu’en ayant eu en fait l’ENS."
+- Code 5 : Reconnaissance de ses limites
+- Verbatim : "Je sais pas du tout utiliser ça."
+- Code 6 : Perception de l'impact de la prépa sur les capacités
+- Verbatim : "J'ai pas fait de prépa."
+- Code 7 : Comparaison avec les autres
+- Verbatim : "Ils sont tous super forts."
+- Code 8 : Évolution de l'utilisation de ChatGPT en fonction de la confiance en soi
+- Verbatim : "J'avais tendance à beaucoup l’utiliser en me disant il faut qu'il m'aide."
+- Code 9 : Réajustement de la perception de soi
+- Verbatim : "Je m'en fichais de ChatGPT avant."
+- Code 10 : Valorisation de l'originalité
+- Verbatim : "Je serais plus original."

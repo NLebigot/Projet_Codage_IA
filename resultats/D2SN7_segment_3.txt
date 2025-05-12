@@ -1,0 +1,55 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Perception de la sociologie et de l'utilisation de l'informatique**
+
+- Thème : La sociologie et l'usage de l'informatique
+ - Code 1 : Perception de la sociologie
+ - Verbatim : "Ouais, enfin sociologie, on pourrait se dire que non, mais en fait, voilà, il faut quand même faire du R faut quand même."
+ - Code 2 : Compétence informatique
+ - Verbatim : "Moi je trouve, ça va. Enfin, je me, je m'en sors bien quoi."
+ - Code 3 : Utilisation de l'ordinateur au quotidien
+ - Verbatim : "J'étais dans un lycée un peu , où on nous demandait d'utiliser pas mal l'ordi, donc ouais voilà."
+ 
+- Thème : L'aisance avec l'informatique et les outils numériques
+ - Code 4 : Familiarité avec l'ordinateur
+ - Verbatim : "Je m'en sors bien quoi."
+ - Code 5 : Utilisation antérieure de l'ordinateur
+ - Verbatim : "J'étais dans un lycée où on nous demandait d'utiliser pas mal l'ordi."
+ - Code 6 : Perception de sa propre compétence
+ - Verbatim : "Je suis relativement à l'aise quand même."
+ 
+**Segment 2 : Utilisation de ChatGPT pour les activités universitaires**
+
+- Thème : Les usages de ChatGPT dans le contexte académique
+ - Code 7 : Utilisation pour la rédaction de mails
+ - Verbatim : "Je vais me servir de Deepl et tout même si c'est pas de chat GPT, mais c'est quand même de un peu de l’IA."
+ - Code 8 : Résolution de problèmes de rédaction
+ - Verbatim : "Je mets sur chat GPT et souvent ça me débloque un peu et après je peux retravailler à partir de ça."
+ - Code 9 : Utilisation pour la production écrite
+ - Verbatim : "J'ai dit à ChatGPT , voilà, imagine que tu veux devenir prof de SES. J'ai donné les consignes, il m'a sorti un truc qui était vraiment hyper bien."
+ 
+- Thème : Les bénéfices de ChatGPT pour la production académique
+ - Code 10 : Gain de temps
+ - Verbatim : "Ça m'a fait gagner un temps fou."
+ - Code 11 : Qualité du résultat
+ - Verbatim : "J’ai eu 17 en plus donc j’étais ravi."
+ - Code 12 : Utilisation pour la synthèse d'articles
+ - Verbatim : "J'ai mis les infos principales et je lui ai dit bah voilà c'est mon texte , je dois résumer ça en une page."
+ 
+**Segment 3 : Utilisation spécifique de ChatGPT pour les révisions et les partiels**
+
+- Thème : L'aide de ChatGPT pour la révision et les partiels
+ - Code 13 : Explication de concepts complexes
+ - Verbatim : "Il m'a super bien expliqué les trucs de stat."
+ - Code 14 : Utilisation pour les révisions de stats
+ - Verbatim : "Je lui ai donné des slides et il m'a hyper bien expliqué."
+ - Code 15 : Perception de l'utilité de ChatGPT selon la discipline
+ - Verbatim : "Je suis quasiment certain que je pense que ça me viendrait même pas à l'esprit de lui demander pour un cours de sociologie."
+ 
+- Thème : Les limites de ChatGPT pour certaines tâches
+ - Code 16 : Utilisation moins fréquente pour les révisions
+ - Verbatim : "Pour les révisions, j'utilise pas trop."
+ - Code 17 : Perception de la complexité des sujets
+ - Verbatim : "Les stats c'est plus complexe et il arrive mieux à les expliquer."
+ 
+Ces thèmes et codes offrent une analyse nuancée de l'entretien, mettant en lumière les différents aspects de l'utilisation de ChatGPT par l'étudiant pour ses activités universitaires, ainsi que sa perception de la sociologie et de son aisance avec l'informatique.

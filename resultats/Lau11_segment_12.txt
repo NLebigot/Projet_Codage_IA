@@ -1,0 +1,118 @@
+Pour analyser l'entretien donné en respectant une méthode rigoureuse de codage qualitatif, je vais dégager des thèmes et des codes associés aux verbatims de l'enquêté. Voici mon analyse :
+
+### Thème 1 : Perception de l'Impact de l'IA et des Technologies de Manipulation d'Images
+
+- Code 1 : Préoccupation concernant la véracité des contenus numériques
+  - Verbatim : "faire attention aux fake news et des trucs comme ça"
+- Code 2 : Manipulation avancée avec l'IA
+  - Verbatim : "tu peux créer des choses qui n'existent pas"
+- Code 3 : Changement d'ère dans la perception de la réalité
+  - Verbatim : "on est dans une ère où ce qu'on voit, c'est pas forcément la réalité"
+- Code 4 : Niveau de manipulation dépassant les capacités humaines précédentes
+  - Verbatim : "l'IA, c'est un level au-dessus"
+- Code 5 : Difficulté à discerner la réalité de la création artificielle
+  - Verbatim : "si tu ne sais pas que c'est de l'IA, tu ne peux même pas te dire que ça a été inventé"
+- Code 6 : Prévalence des fausses informations et images manipulées
+  - Verbatim : "les fausses photos, les photos retouchées et tout"
+- Code 7 : Nécessité d'une sensibilisation
+  - Verbatim : "il faudrait sensibiliser les plus jeunes"
+- Code 8 : Évolution de la notion de réalité visuelle
+  - Verbatim : "jusqu'à avant, ce qu'on voyait, c'était plus ou moins la réalité"
+- Code 9 : Impact potentiellement compromettant
+  - Verbatim : "ça peut être un peu quelque chose d'un peu compromettant"
+- Code 10 : Réflexion sur l'ère numérique et la réalité
+  - Verbatim : "pas maintenant, on est dans une ère où ce qu'on voit, c'est pas forcément la réalité"
+
+### Thème 2 : Utilisation de ChatGPT dans les Études
+
+- Code 1 : Utilisation comme outil de gain de temps
+  - Verbatim : "c'est utilisé comme un outil de gain de temps"
+- Code 2 : Utilisation machinale pour des tâches spécifiques
+  - Verbatim : "machinalement je lui demande reformule-moi ça ou résume-moi ça"
+- Code 3 : Utilisation réflexive pour approfondir la réflexion
+  - Verbatim : "je pose des questions sur les problématiques ou sur des développements de questionnement"
+- Code 4 : Dualité dans l'utilisation de ChatGPT
+  - Verbatim : "je dirais que c'est un mélange des deux [machinal et réflexif]"
+- Code 5 : Utilisation pour la rédaction et l'organisation de notes
+  - Verbatim : "je vais prendre ce qu'il me dit tel quel, plus ou moins, et puis je vais le garder dans mes notes"
+- Code 6 : Utilisation contextuelle
+  - Verbatim : "c'est très contextuel, en fait"
+- Code 7 : Aide à la réflexion lors de périodes d'incertitude
+  - Verbatim : "notamment en période de commencement du mémoire où j'ai pas de piste définie"
+- Code 8 : Perception positive de l'outil
+  - Verbatim : "je trouve que c'est vraiment un super outil"
+- Code 9 : Nécessité d'une utilisation prudente
+  - Verbatim : "apprendre avec des pincettes de ouf"
+- Code 10 : Risque d'imprécision lié à l'utilisation de ChatGPT
+  - Verbatim : "ça peut aussi être source à des imprécisions"
+
+### Thème 3 : Réflexivité et Mécanisation dans l'Usage des Outils Numériques
+
+- Code 1 : Distinction entre utilisation machinale et réflexive
+  - Verbatim : "un mélange des deux [machinal et réflexif]"
+- Code 2 : Automatisation des tâches répétitives
+  - Verbatim : "machinalement je lui demande reformule-moi ça ou résume-moi ça"
+- Code 3 : Aide à la réflexion avec ChatGPT
+  - Verbatim : "pour m'aider à la réflexion, surtout là, notamment en période de commencement du mémoire"
+- Code 4 : Conscience de la dépendance aux outils numériques
+  - Verbatim : "ça ne m'aide pas à pousser ma propre réflexion"
+- Code 5 : Utilisation nuancée selon les besoins
+  - Verbatim : "en fonction de ce que je cherche à obtenir avec la question que je pose à Chatty"
+- Code 6 : Valeur ajoutée de l'outil dans le processus d'apprentissage
+  - Verbatim : "comme guide de piste de développement"
+- Code 7 : Potentialité de l'outil à améliorer ou détériorer le travail
+  - Verbatim : "au lieu d'aider ton travail à avoir une meilleure qualité, ça peut aussi faire le contraire"
+- Code 8 : Adaptation de l'outil aux besoins spécifiques de l'utilisateur
+  - Verbatim : "il y a deux usages différents, en fonction de ce que je cherche à obtenir"
+- Code 9 : Complexité dans l'évaluation de l'efficacité de l'outil
+  - Verbatim : "ça peut aussi être source à des imprécisions"
+- Code 10 : Stratégie d'utilisation de l'outil pour maximiser son efficacité
+  - Verbatim : "apprendre avec des pincettes de ouf"
+
+### Thème 4 : Évolution de la Relation entre Technologie et Réalité
+
+- Code 1 : Impact de l'IA sur la perception de la réalité
+  - Verbatim : "on est dans une ère où ce qu'on voit, c'est pas forcément la réalité"
+- Code 2 : Changement dans la nature des contenus numériques
+  - Verbatim : "l'IA, c'est un level au-dessus"
+- Code 3 : Rôle de la technologie dans la construction de la réalité
+  - Verbatim : "tu peux créer des choses qui n'existent pas"
+- Code 4 : Influence de la technologie sur les comportements sociaux
+  - Verbatim : "faire attention aux fake news et des trucs comme ça"
+- Code 5 : Nécessité d'une adaptation sociétale
+  - Verbatim : "il faudrait sensibiliser les plus jeunes"
+- Code 6 : Conscience de la frontière entre réalité et fiction
+  - Verbatim : "si tu ne sais pas que c'est de l'IA, tu ne peux même pas te dire que ça a été inventé"
+- Code 7 : Rôle de l'éducation dans la navigation de cette nouvelle réalité
+  - Verbatim : "sensibiliser les plus jeunes à se dire qu'en fait, pas maintenant"
+- Code 8 : Évolution des compétences nécessaires pour naviguer dans cette ère
+  - Verbatim : "c'est pas forcément la réalité, quoi"
+- Code 9 : Défis posés par les avancées technologiques
+  - Verbatim : "ça peut être un peu quelque chose d'un peu compromettant"
+- Code 10 : Réflexion sur le futur et l'intégration de l'IA dans la société
+  - Verbatim : "on est dans une ère où ce qu'on voit, c'est pas forcément la réalité"
+
+### Thème 5 : Ambivalence de l'Usage des Outils d'Intelligence Artificielle
+
+- Code 1 : Perception positive de l'utilité de ChatGPT
+  - Verbatim : "je trouve que c'est vraiment un super outil"
+- Code 2 : Reconnaissance des limites et des risques
+  - Verbatim : "ça peut aussi être source à des imprécisions"
+- Code 3 : Utilisation dépendante du contexte
+  - Verbatim : "c'est très contextuel, en fait"
+- Code 4 : Variation dans les modes d'utilisation
+  - Verbatim : "il y a deux usages différents, en fonction de ce que je cherche à obtenir"
+- Code 5 : Nécessité d'une utilisation prudente et critique
+  - Verbatim : "apprendre avec des pincettes de ouf"
+- Code 6 : Impact potentiel sur la qualité du travail
+  - Verbatim : "au lieu d'aider ton travail à avoir une meilleure qualité, ça peut aussi faire le contraire"
+- Code 7 : Dualité entre gain de temps et approfondissement de la réflexion
+  - Verbatim : "un mélange des deux [machinal et réflexif]"
+- Code 8 : Rôle de l'outil dans l'amélioration des processus de travail
+  - Verbatim : "comme guide de piste de développement"
+- Code 9 : Conscience des biais et des limites de l'outil
+  - Verbatim : "ça peut aussi être source à des imprécisions"
+- Code 10 : Stratégie d'intégration de l'outil dans les pratiques quotidiennes
+  - Verbatim : "je vais prendre ce qu'il me dit tel quel, plus ou moins, et puis je vais le garder dans mes notes"
+
+Chaque thème regroupe des codes qui reflètent différents aspects de la perception et de l'utilisation des technologies d'intelligence artificielle, notamment ChatGPT, et de leur impact sur la société et les individus. Les verbatims associés à ces codes offrent un aperçu des réflexions et des préoccupations de l'enquêté concernant ces sujets.

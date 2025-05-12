@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Perception de soi et rôle dans la société**
+- Code 1 : Auto-perception en tant que penseur
+  - Verbatim : "Je me considère comme un penseur, le légo du type."
+- Code 2 : Réflexion sur la place dans la société
+  - Verbatim : "Est-ce que là je ne prends pas la place d'un n'importe quel penseur ?"
+- Code 3 : Rôle dans les révolutions
+  - Verbatim : "quelqu'un qui réfléchit et qui se pose des questions sur les révolutions de n'importe quel autre siècle."
+- Code 4 : Conscience de l'impact des outils technologiques
+  - Verbatim : "Quand on pense par exemple au cinéma, où tout le monde se rendait compte que c'était la mort de l'art et que c'était extrêmement dangereux comme outil"
+- Code 5 : Humilité et conscience de l'évolution des idées
+  - Verbatim : "je suis dans le rôle de celui qui, dans des années, les gens vont se dire, mais t'es complètement débile de penser comme ça."
+- Code 6 : Acceptation de l'incertitude
+  - Verbatim : "Et pourtant, je le pense actuellement, donc voilà."
+- Code 7 : Réflexion sur l'intégration des nouvelles technologies
+  - Verbatim : "Est-ce que Tchatchépeté, Tchatchépeté, l'IA en général, va pas devenir un outil ou même une entité à part entière, qui va être complètement acceptée par la société"
+- Code 8 : Conscience de son propre niveau de connaissance
+  - Verbatim : "Là, je suis dans le rôle de celui qui n'y connaît rien"
+- Code 9 : Anticipation de l'avenir
+  - Verbatim : "les gens vont se dire, mais t'es complètement débile de penser comme ça."
+- Code 10 : Introspection
+  - Verbatim : "Et pourtant, je le pense actuellement"
+
+**Thème 2 : Impact de l'IA sur la société et l'université**
+- Code 1 : Nécessité de critique de l'IA à l'université
+  - Verbatim : "un pied dans l'étrier sur la mise en critique à l'université de l'intelligence artificielle."
+- Code 2 : Utilisation future de l'IA
+  - Verbatim : "dans le futur, tout le monde va être amené à l'utiliser."
+- Code 3 : Importance de l'apprentissage de l'IA
+  - Verbatim : "qu'il faut apprendre très vite à savoir l'utiliser, à apprendre à l'utiliser"
+- Code 4 : Risques liés à l'IA
+  - Verbatim : "pas que ça amène aux dérives qu'on connaît, qui peuvent être dangereuses"
+- Code 5 : Impact sur la réflexion et la santé mentale
+  - Verbatim : "pour notre manière de réfléchir, notre propre réflexion, et sur notre aspect mental, psychologique, et notre santé, en général."
+- Code 6 : Risque de désinformation
+  - Verbatim : "on pourrait très bien imaginer des I.A. qui, en fait, sont hackés et juste racontent n'importe quoi en prétendant dire la vérité."
+- Code 7 : Existence potentielle de l'IA malveillante
+  - Verbatim : "Et je suis très... Et je suis sûr que ça existe déjà."
+- Code 8 : Monde de la désinformation
+  - Verbatim : "Donc le monde de la désinformation, voilà."
+- Code 9 : Utilisation de l'IA pour solidifier les connaissances
+  - Verbatim : "garder ça dans un rapport où ça sert à solidifier des connaissances qui sont déjà acquises à un certain niveau."
+- Code 10 : Vérification et gain de temps
+  - Verbatim : "qui permettent de vérifier, qui permettent de gagner du temps"
+
+**Thème 3 : Perception et utilisation de l'IA (Tchad GPT)**
+- Code 1 : Utilité de Tchad GPT
+  - Verbatim : "Tchad GPT, c'est un outil merveilleux."
+- Code 2 : Capacité à structurer les réponses
+  - Verbatim : "ChatJPT, il va te donner non seulement la réponse, mais il va la structurer."
+- Code 3 : Comparaison avec la recherche sur internet
+  - Verbatim : "que si tu poses sur internet, Google va te répondre n'importe comment, enfin va te donner des pages qui répondent pas forcément à ta question."
+- Code 4 : Avantages dans la recherche d'information
+  - Verbatim : "Il va dire pourquoi, comment, comment t'y prendre, les pistes et tout."
+- Code 5 : Nécessité de réflexion critique
+  - Verbatim : "Maintenant, il faut se dire, je vais pas tout prendre, je vais réfléchir à comment je m'y prends."
+- Code 6 : Outil incroyable
+  - Verbatim : "Donc c'est un outil incroyable."
+- Code 7 : Utilisation pour la vérification
+  - Verbatim : "tu peux vérifier par toi-même en regardant les réponses que Tchad te donne."
+- Code 8 : Rassurance dans l'utilisation
+  - Verbatim : "dans le sens où tu es sûr que tu racontes pas n'importe quoi"
+- Code 9 : Gain de temps
+  - Verbatim : "qui permettent de gagner du temps"
+- Code 10 : Potentiel de l'outil
+  - Verbatim : "avoir un outil comme ça"
+
+**Thème 4 : Changements et adaptations nécessaires**
+- Code 1 : Changement dans le milieu académique
+  - Verbatim : "ça change beaucoup dans le sens où, dans le futur, tout le monde va être amené à l'utiliser."
+- Code 2 : Adaptation à l'IA
+  - Verbatim : "qu'il faut apprendre très vite à savoir l'utiliser, à apprendre à l'utiliser"
+- Code 3 : Risques et dérives
+  - Verbatim : "pas que ça amène aux dérives qu'on connaît, qui peuvent être dangereuses"
+- Code 4 : Impact sur la santé mentale et la réflexion
+  - Verbatim : "pour notre manière de réfléchir, notre propre réflexion, et sur notre aspect mental, psychologique, et notre santé, en général."
+- Code 5 : Nécessité de mise en critique
+  - Verbatim : "un pied dans l'étrier sur la mise en critique à l'université de l'intelligence artificielle."
+- Code 6 : Utilisation future
+  - Verbatim : "dans le futur, tout le monde va être amené à l'utiliser."
+- Code 7 : Importance de la réflexion critique
+  - Verbatim : "il faut apprendre très vite à savoir l'utiliser, à apprendre à l'utiliser, et pas que ça amène aux dérives"
+- Code 8 : Adaptation au changement
+  - Verbatim : "Changer beaucoup dans le sens où, dans le futur"
+- Code 9 : Conscience des risques
+  - Verbatim : "qui peuvent être dangereuses, et pour notre manière de réfléchir"
+- Code 10 : Proactivité
+  - Verbatim : "qu'il faut apprendre très vite à savoir l'utiliser"
+
+**Thème 5 : Réflexions philosophiques et sociétales**
+- Code 1 : Rôle du penseur
+  - Verbatim : "Je me considère comme un penseur, le légo du type."
+- Code 2 : Impact sociétal des nouvelles technologies
+  - Verbatim : "Quand on pense par exemple au cinéma, où tout le monde se rendait compte que c'était la mort de l'art et que c'était extrêmement dangereux comme outil"
+- Code 3 : Intégration des nouvelles technologies
+  - Verbatim : "Est-ce que Tchatchépeté, Tchatchépeté, l'IA en général, va pas devenir un outil ou même une entité à part entière, qui va être complètement acceptée par la société"
+- Code 4 : Conscience de l'incertitude
+  - Verbatim : "je suis dans le rôle de celui qui, dans des années, les gens vont se dire, mais t'es complètement débile de penser comme ça."
+- Code 5 : Réflexion sur la place de l'individu
+  - Verbatim : "Est-ce que là je ne prends pas la place d'un n'importe quel penseur ?"
+- Code 6 : Évolution des idées
+  - Verbatim : "Et pourtant, je le pense actuellement, donc voilà."
+- Code 7 : Société et technologie
+  - Verbatim : "l'IA en général, va pas devenir un outil ou même une entité à part entière, qui va être complètement acceptée par la société"
+- Code 8 : Changement sociétal
+  - Verbatim : "changer beaucoup dans le sens où, dans le futur, tout le monde va être amené à l'utiliser."
+- Code 9 : Impact sur l'humanité
+  - Verbatim : "pour notre manière de réfléchir, notre propre réflexion, et sur notre aspect mental, psychologique, et notre santé, en général."
+- Code 10 : Avenir et incertitude
+  - Verbatim : "dans des années, les gens vont se dire, mais t'es complètement débile de penser comme ça."

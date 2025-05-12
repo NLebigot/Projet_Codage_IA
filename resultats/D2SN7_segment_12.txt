@@ -1,0 +1,113 @@
+Après avoir lu et relu l'entretien avec Gabriel, j'ai identifié plusieurs thèmes qui ressortent de ses réponses concernant son expérience avec ChatGPT. Voici les thèmes et les codes associés avec leurs verbatims respectifs :
+
+### Thème 1 : Perception de l'originalité et de la qualité des réponses de ChatGPT
+- Code 1 : Manque d'originalité
+  - Verbatim : "il est pas révolutionnaire donc en fait, à aucun moment je me suis dit « Ah wow, c'est fou ce qui ce qui donne » quoi."
+- Code 2 : Raisonnement basé sur des connaissances existantes
+  - Verbatim : "Les idées étaient déjà là. Quoi, il est pas révolutionnaire"
+- Code 3 : Qualité de la formulation
+  - Verbatim : "il te ressort des phrases qui sont qui sont bien é crits, quoi."
+- Code 4 : Limites de la créativité
+  - Verbatim : "c'est du raisonnement qui a déjà été créé."
+- Code 5 : Dépendance aux données d'entraînement
+  - Verbatim : "son raisonnement enfin son rayonnement est moyen dans tous les sens du terme, c'est à dire qu'on dit tout à l'heure c'est que il a raison de probabilité donc moyen quoi."
+- Code 6 : Acceptation des limites
+  - Verbatim : "Mais bon, c'est pas …"
+- Code 7 : Compréhension du fonctionnement
+  - Verbatim : "je sais que pas trop parce qu'en fait moi ChatGPT il se base enfin quand je travaille sur les le ChatGPT il se base sur des trucs"
+- Code 8 : Réponses probabilistes
+  - Verbatim : "il a raison de probabilité donc moyen quoi."
+- Code 9 : Pas de remise en question profonde
+  - Verbatim : "il m'a jamais ouvert les yeux sur je sais pas."
+- Code 10 : Critique implicite de l'outil
+  - Verbatim : "il se … même la façon dont il commence quoi"
+
+### Thème 2 : Rôle d'accompagnement et d'aide de ChatGPT
+- Code 1 : Reconnaissance d'un rôle d'accompagnement
+  - Verbatim : "Ouais, en vrai un rôle d'accompagnement. Bah oui, hein oui que tu peux pas trouver ailleurs."
+- Code 2 : Utilité dans la programmation
+  - Verbatim : "par exemple, ouais, la programmation, c'est encore un exemple quoi."
+- Code 3 : Alternative aux ressources traditionnelles
+  - Verbatim : "j'aurais dû chercher dans des bouquins et tout."
+- Code 4 : Accès à des réponses spécifiques
+  - Verbatim : "je suis même pas sûr que ma question très spécifique, j'aurais été euh déjà la réponse aurait été quelque part sur internet ou sur un livre"
+- Code 5 : Gain de temps et d'effort
+  - Verbatim : "alors que chat GPT va trouver la réponse quoi."
+- Code 6 : Reconnaissance de l'aide fournie
+  - Verbatim : "Donc oui, c'est un truc pour le coup que tu peux pas trouver ailleurs."
+- Code 7 : Difficulté à trouver l'information ailleurs
+  - Verbatim : "soit ça existe pas, soit j'aurais été pas capable de le trouver quoi."
+- Code 8 : Satisfaction par rapport à l'aide reçue
+  - Verbatim : "Donc oui. Non, tout à fait."
+- Code 9 : Utilité pour des tâches spécifiques
+  - Verbatim : "les résumés de textes et les synthèses par exemple."
+- Code 10 : Valeur ajoutée de l'outil
+  - Verbatim : "j'aurais pas pu trouver ailleurs."
+
+### Thème 3 : Impact sur la pensée critique et les perspectives
+- Code 1 : Pas d'impact significatif sur la pensée critique
+  - Verbatim : "il m'a jamais ouvert les yeux sur je sais pas."
+- Code 2 : Limite dans la remise en question
+  - Verbatim : "il a jamais été très critique non plus"
+- Code 3 : Acceptation des réponses sans réflexion approfondie
+  - Verbatim : "tu peux lui donner un mail qui n'a aucun sens, pour continuer sur l’exemple du mail ni queue ni tête, Et il va te dire « super Voici une version légèrement améliorée »"
+- Code 4 : Modification des réponses sans critique
+  - Verbatim : "et en fait, il a tout changé parce que bon ta version initiale était nulle quoi."
+- Code 5 : Manque de stimulation critique
+  - Verbatim : "à aucun moment je me suis dit « Ah wow, c'est fou ce qui ce qui donne » quoi."
+- Code 6 : Pas d'élargissement des perspectives
+  - Verbatim : "il m'a jamais ouvert les yeux sur je sais pas."
+- Code 7 : Réponses mécaniques
+  - Verbatim : "il te ressort des phrases qui sont qui sont bien é crits, quoi."
+- Code 8 : Perception de la valeur ajoutée
+  - Verbatim : "c'est du raisonnement qui a déjà été créé."
+- Code 9 : Satisfaction de la réponse
+  - Verbatim : "Mais bon, c'est pas …"
+- Code 10 : Limite de la machine
+  - Verbatim : "son rayonnement est moyen dans tous les sens du terme"
+
+### Thème 4 : Fiabilité et limites de ChatGPT
+- Code 1 : Limite dans la compréhension
+  - Verbatim : "tu peux lui donner un mail qui n'a aucun sens"
+- Code 2 : Modification des entrées
+  - Verbatim : "il va te dire « super Voici une version légèrement améliorée » et en fait, il a tout changé"
+- Code 3 : Dépendance à la qualité de l'entrée
+  - Verbatim : "parce que bon ta version initiale était nulle quoi."
+- Code 4 : Limite de créativité et d'originalité
+  - Verbatim : "c'est pas révolutionnaire"
+- Code 5 : Raisonnement basé sur des probabilités
+  - Verbatim : "il a raison de probabilité donc moyen quoi."
+- Code 6 : Compréhension des limites de l'outil
+  - Verbatim : "je sais que pas trop parce qu'en fait moi ChatGPT il se base enfin quand je travaille sur les le ChatGPT il se base sur des trucs"
+- Code 7 : Perception de la fiabilité
+  - Verbatim : "son rayonnement est moyen dans tous les sens du terme"
+- Code 8 : Limite dans la pensée critique
+  - Verbatim : "il a jamais été très critique non plus"
+- Code 9 : Utilisation comme un outil
+  - Verbatim : "c'est un truc pour le coup que tu peux pas trouver ailleurs."
+- Code 10 : Acceptation des résultats
+  - Verbatim : "Donc oui. Non, tout à fait."
+
+### Thème 5 : Contexte d'utilisation et avantages
+- Code 1 : Utilisation dans la programmation
+  - Verbatim : "la programmation, c'est encore un exemple quoi."
+- Code 2 : Gain de temps
+  - Verbatim : "alors que chat GPT va trouver la réponse quoi."
+- Code 3 : Alternative aux ressources
+  - Verbatim : "j'aurais dû chercher dans des bouquins et tout."
+- Code 4 : Utilité pour des tâches spécifiques
+  - Verbatim : "les résumés de textes et les synthèses par exemple."
+- Code 5 : Avantage dans l'accès à l'information
+  - Verbatim : "je suis même pas sûr que ma question très spécifique, j'aurais été euh déjà la réponse aurait été quelque part sur internet ou sur un livre"
+- Code 6 : Satisfaction par rapport à l'outil
+  - Verbatim : "Donc oui. Non, tout à fait."
+- Code 7 : Reconnaissance de la valeur ajoutée
+  - Verbatim : "c'est un truc pour le coup que tu peux pas trouver ailleurs."
+- Code 8 : Utilisation pratique
+  - Verbatim : "Bah oui, hein oui que tu peux pas trouver ailleurs."
+- Code 9 : Efficacité
+  - Verbatim : "chat GPT va trouver la réponse quoi."
+- Code 10 : Intégration dans les pratiques
+  - Verbatim : "par exemple, ouais, la programmation"
+
+Ces thèmes offrent une vue d'ensemble sur l'expérience de Gabriel avec ChatGPT, mettant en lumière à la fois les avantages et les limites de cet outil dans son utilisation quotidienne, notamment en termes de programmation et de traitement de l'information.

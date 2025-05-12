@@ -1,0 +1,104 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici les thèmes et codes extraits du segment :
+
+### Segment : Introduction et présentation
+
+**Thème 1 : Contexte de l'entretien**
+ - Code 1 : Anonymat
+ - Verbatim : "ton nom et ton prénom seront anonymisés en tout cas ils seront utilisés vraiment que pour cet entretien."
+ - Code 2 : Objectif de l'entretien
+ - Verbatim : "l'enjeu c'est vraiment d'en savoir plus en fait sur ton utilisation, tes pratiques de ChatGPT et des intelligences artificielles."
+ - Code 3 : Préparation de l'entretien
+ - Verbatim : "je vais prendre quelques notes pour faire quelques relances c’est un peu plus pratique."
+ - ... 
+ - Code 10 : Consentement
+ - Verbatim : "y'a pas de souci."
+
+**Thème 2 : Présentation de l'enquêté**
+ - Code 1 : Parcours universitaire
+ - Verbatim : "j'ai fait une L3 à l’ENS qui était économie et sociologie."
+ - Code 2 : Origine géographique
+ - Verbatim : "je viens du Sud de la France donc j’ai… j'étais au lycée dans une moyenne ville de la France qui s'appelle Aubagne"
+ - Code 3 : Formation antérieure
+ - Verbatim : "j'ai fait une prépa ENS D2."
+ - Code 4 : Expérience universitaire
+ - Verbatim : "après 2 ans de prépa j'ai réussi le concours de l'ENS Paris Saclay"
+ - Code 5 : Disciplines étudiées
+ - Verbatim : "c'est un Master d'économie hétérodoxe et un peu de sociologie aussi"
+ - Code 6 : Établissement d'enseignement supérieur
+ - Verbatim : "l'ENS Paris Saclay"
+ - Code 7 : Niveau d'études
+ - Verbatim : "Master économie organisation et société"
+ - Code 8 : Intérêts académiques
+ - Verbatim : "économie et sociologie"
+ - Code 9 : Parcours académique antérieur
+ - Verbatim : "2 ans de prépa"
+ - Code 10 : Évolution du parcours
+ - Verbatim : "j'ai intégré l’ENS après mes 2 ans prépa"
+
+**Thème 3 : Perception des intelligences artificielles**
+ - Code 1 : Définition des intelligences artificielles
+ - Verbatim : "pour moi une intelligence artificielle c'est un outil avant tout, qui permet de nous aider dans plein de choses"
+ - Code 2 : Utilité des intelligences artificielles
+ - Verbatim : "le travail scolaire, universitaire, professionnel, mais aussi des choses de la vie quotidienne"
+ - Code 3 : Difficulté de définition
+ - Verbatim : "intelligence artificielle ben je sais pas trop en vrai comment définir ça, j'avoue que ça me pose un peu de problème."
+ - Code 4 : Premières associations
+ - Verbatim : "les premières choses qui te viendraient à l'esprit quand on te dirait ChatGPT ou intelligence artificielle"
+ - Code 5 : Perception générale
+ - Verbatim : "un outil avant tout"
+ - Code 6 : Champ d'application
+ - Verbatim : "travail scolaire, universitaire, professionnel, vie quotidienne"
+ - Code 7 : Limite de la compréhension
+ - Verbatim : "j'avoue que ça me pose un peu de problème"
+ - Code 8 : Réponse émotionnelle
+ - Verbatim : "j'avoue que ça me pose un peu de problème"
+ - Code 9 : Élément de réponse
+ - Verbatim : "un outil qui permet de nous aider"
+ - Code 10 : Besoin de clarification
+ - Verbatim : "je sais pas trop en vrai comment définir ça"
+
+**Thème 4 : Connaissance et utilisation de ChatGPT**
+ - Code 1 : Connaissance de ChatGPT
+ - Verbatim : "ChatGPT ou intelligence artificielle"
+ - Code 2 : Utilisation de ChatGPT
+ - Verbatim : "tes pratiques de ChatGPT"
+ - Code 3 : Association à l'intelligence artificielle
+ - Verbatim : "ChatGPT ou intelligence artificielle"
+ - Code 4 : Premières impressions
+ - Verbatim : "les premières choses qui te viendraient à l'esprit"
+ - Code 5 : Contexte d'utilisation
+ - Verbatim : "(non disponible dans ce segment)"
+ - Code 6 : Fréquence d'utilisation
+ - Verbatim : "(non disponible dans ce segment)"
+ - Code 7 : Manière d'utiliser
+ - Verbatim : "(non disponible dans ce segment)"
+ - Code 8 : Avantages perçus
+ - Verbatim : "(non disponible dans ce segment)"
+ - Code 9 : Inconvénients perçus
+ - Verbatim : "(non disponible dans ce segment)"
+ - Code 10 : Impact sur les études ou le travail
+ - Verbatim : "(non disponible dans ce segment)"
+
+**Thème 5 : Interaction et dynamiques de l'entretien**
+ - Code 1 : Consentement pour l'enregistrement
+ - Verbatim : "aucun problème pour moi"
+ - Code 2 : Dynamique de l'échange
+ - Verbatim : "si jamais t'as des questions avant de commencer, n'hésite pas."
+ - Code 3 : Préoccupations éthiques
+ - Verbatim : "ton nom et ton prénom seront anonymisés"
+ - Code 4 : Clarté des explications
+ - Verbatim : "pour que je puisse le retranscrire"
+ - Code 5 : Coopération
+ - Verbatim : "y'a pas de souci"
+ - Code 6 : Disponibilité
+ - Verbatim : "je suis prête pour qu'on commence"
+ - Code 7 : Facilité de communication
+ - Verbatim : "pas de souci"
+ - Code 8 : Cadre de l'entretien
+ - Verbatim : "l'enjeu c'est vraiment d'en savoir plus"
+ - Code 9 : Rôle de l'enquêteur
+ - Verbatim : "je vais prendre quelques notes"
+ - Code 10 : Attente de l'enquêté
+ - Verbatim : "OK, euh non moi, ça on peut commencer"
+
+Ces thèmes et codes permettent d'analyser finement le contenu de l'entretien et de faire émerger les éléments significatifs de la discussion entre Mathilda et Léa.

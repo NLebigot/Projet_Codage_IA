@@ -1,0 +1,71 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Perception de l'utilisation de l'IA dans le monde académique**
+
+- Thème : Utilisation de l'IA et fraude académique
+ - Code 1 : Connaissance de cas de fraude
+ - Verbatim : "j'ai entendu des histoires d'étudiants qui ont été convoqués parce que c'était un peu trop évident qu'ils ont utilisé de l'IA."
+ - Code 2 : Manque de détails sur les cas de fraude
+ - Verbatim : "je ne connais pas forcément les détails, je ne connais pas les personnes concernées."
+ - Code 3 : Existence de cas de fraude
+ - Verbatim : "je sais qu'il y a eu des cas comme ça."
+ - Code 4 : Perception de l'IA comme outil de fraude
+ - Verbatim : "c'était un peu trop évident qu'ils ont utilisé de l'IA."
+ - Code 5 : Pas de cas précis
+ - Verbatim : "Pas vraiment de cas précis"
+
+**Segment 2 : Enjeux éthiques liés à l'utilisation de ChatGPT**
+
+- Thème : Problèmes éthiques liés au copyright et à la propriété intellectuelle
+ - Code 1 : Utilisation de sources protégées par copyright
+ - Verbatim : "ces sources-là ont été utilisées pour fournir justement... Ouais, pour nourrir la franchise ChatGPT quoi, et que ça, ça a un peu créé des soucis."
+ - Code 2 : Indifférence au problème du copyright
+ - Verbatim : "je m'en fiche un peu."
+ - Code 3 : Problème éthique majeur
+ - Verbatim : "l'utilisation des données des utilisateurs, des utilisatrices, en gros sans leur consentement."
+ - Code 4 : Risque de dépendance
+ - Verbatim : "pour les plus jeunes, il puisse y avoir un peu un rapport de dépendance qui, sur le long terme, qui pourraient être destructifs, contre-productifs."
+ - Code 5 : Génération d'images et de vidéos problématiques
+ - Verbatim : "des gens ont créé des images et même des vidéos érotiques, en se basant sur le visage de personnes réelles mais sans leur consentement."
+
+- Thème : Risques pour la démocratie et la vie privée
+ - Code 6 : Utilisation de l'IA pour manipuler l'opinion publique
+ - Verbatim : "l'utilisation de ces outils pour générer des vidéos, des photos, par exemple de politiciens qui sont en train de faire ou en train de dire des choses que peut-être ils n'ont jamais dit ou fait"
+ - Code 7 : Risque pour la démocratie
+ - Verbatim : "ça pourrait potentiellement changer en fait le cours d'une élection."
+ - Code 8 : Atteinte à l'autonomie du corps
+ - Verbatim : "c'est quand même une invasion de l'autonomie du corps d'autres personnes qui est totalement inacceptable."
+ - Code 9 : Problème de réalité vs. fiction
+ - Verbatim : "ces images, ces vidéos sont difficilement distinguables de la réalité."
+ - Code 10 : Danger pour la vie démocratique
+ - Verbatim : "pour la vie démocratique, c'est absolument terrible."
+
+**Segment 3 : Intégration de ChatGPT dans les travaux académiques**
+
+- Thème : Solutions pour une utilisation responsable de ChatGPT
+ - Code 1 : Définition d'une limite proportionnelle de texte généré par l'IA
+ - Verbatim : "de définir une sorte de limite proportionnelle de texte qui peut être généré par de l'IA"
+ - Code 2 : Obligation de citer l'utilisation de l'IA
+ - Verbatim : "une obligation de citer cette utilisation."
+ - Code 3 : Approche réaliste et prometteuse
+ - Verbatim : "je pense que ça c'est bien, ça paraît une approche tout à fait réaliste, qui est prometteuse, à mon avis."
+ - Code 4 : Réglementation de l'utilisation de l'IA
+ - Verbatim : "la solution qui est actuellement envisagée par la section de XYZ"
+ - Code 5 : Responsabilité dans l'utilisation de l'IA
+ - Verbatim : "je pense que ça c'est bien"
+
+**Segment 4 : Tensions entre le gain de temps et l'apprentissage personnel**
+
+- Thème : Utilisation de ChatGPT comme outil d'aide à la compréhension
+ - Code 1 : Utilité de ChatGPT pour comprendre des textes complexes
+ - Verbatim : "si un outil peut m'aider à déchiffrer ça, je ne me gêne pas."
+ - Code 2 : Frustration face à des textes difficiles
+ - Verbatim : "certains auteurs, ils écrivent un peu comme des merdes."
+ - Code 3 : Gain de temps
+ - Verbatim : "ça sert à rien de se casser la tête sur un texte qu'on n'a pas compris"
+ - Code 4 : Perception de l'utilité de ChatGPT
+ - Verbatim : "je ne me gêne pas."
+ - Code 5 : Priorité à la compréhension plutôt qu'à l'effort
+ - Verbatim : "ça sert à rien de vouloir... les déchiffrer, ils n'avaient qu'à mieux écrire."
+
+Ces thèmes et codes offrent une analyse détaillée des préoccupations et des perceptions de l'enquêté concernant l'utilisation de ChatGPT, ainsi que des enjeux éthiques et des solutions potentielles pour une utilisation responsable dans le contexte académique.

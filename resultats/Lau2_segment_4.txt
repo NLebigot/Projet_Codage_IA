@@ -1,0 +1,116 @@
+Je vais analyser l'entretien en respectant une méthode rigoureuse de codage qualitatif. Voici les résultats de mon analyse :
+
+**Thème 1 : Utilisation de ChatGPT pour les études**
+
+- Code 1 : Demande de conseil pour l'utilisation de mots-clés
+  - Verbatim : "j'ai quand même demandé conseil à ChatGPT pour savoir comment utiliser au mieux cette méthode de mots-clés."
+- Code 2 : Filtrage des éléments du corpus
+  - Verbatim : "pour éviter d'avoir un corpus trop énorme avec des éléments qui n'ont rien à voir avec mon domaine de recherche"
+- Code 3 : Formulation de requêtes
+  - Verbatim : "comment, en fait, formuler au mieux la requête dans l'outil de recherche de la base de données."
+- Code 4 : Structuration du mémoire
+  - Verbatim : "je lui ai un peu demandé de me donner une structure possible."
+- Code 5 : Recherche de sources
+  - Verbatim : "en posant la question à ChatGPT et en reposant la question plusieurs fois."
+- Code 6 : Utilisation pour le doctorat
+  - Verbatim : "j'imagine aussi pouvoir faire ça pour mon doctorat si nécessaire."
+- Code 7 : Démarrage du travail
+  - Verbatim : "je pense que ça m'a un peu permis de démarrer."
+- Code 8 : Modification de la structure suggérée
+  - Verbatim : "je l'ai beaucoup changé. Je ne suis pas tout à fait resté sur ce modèle-là"
+- Code 9 : Intégration de sources trouvées
+  - Verbatim : "j'arrive à retrouver la source et du coup à intégrer ça"
+- Code 10 : Gain de temps
+  - Verbatim : "l'objectif, toujours, c'était de me faire gagner du temps"
+
+**Thème 2 : Objectifs et motivations**
+
+- Code 1 : Gain de temps
+  - Verbatim : "l'objectif, toujours, c'était de me faire gagner du temps"
+- Code 2 : Recherche de sources
+  - Verbatim : "au lieu de me casser la tête à essayer de trouver moi-même la source que j'avais en tête"
+- Code 3 : Réalisation d'exercices de grammaire
+  - Verbatim : "au lieu de faire à la main des exercices de grammaire pour mes élèves"
+- Code 4 : Utilisation pour les études
+  - Verbatim : "dans un contexte et dans un objectif de me faire gagner du temps"
+- Code 5 : Confiance limitée
+  - Verbatim : "j'avais pas trop confiance dans le fait que je puisse reformuler ça d'une manière qui puisse paraître naturelle et authentique"
+- Code 6 : Peur du plagiat
+  - Verbatim : "j'avais peur que ça serait considéré comme du plagiat"
+- Code 7 : Utilisation pour un rendu
+  - Verbatim : "je dois avouer que j'ai toujours eu un peu peur d'utiliser ChatGPT vraiment pour des rendus à proprement parler"
+- Code 8 : Suggestion de contenus
+  - Verbatim : "peut-être de me suggérer peut-être une conclusion ou comme ça"
+- Code 9 : Authenticité
+  - Verbatim : "reformuler ça d'une manière qui puisse paraître naturelle et authentique par rapport à moi"
+- Code 10 : Limites de l'utilisation
+  - Verbatim : "pas forcément pour des rendus, mais en tout cas pas des rendus notés, ça c'est sûr"
+
+**Thème 3 : Contexte d'utilisation de ChatGPT**
+
+- Code 1 : Enseignement à temps partiel
+  - Verbatim : "c'est en majorité des moments où tu as utilisé ChatGPT pour ton enseignement à temps partiel"
+- Code 2 : Travail rémunéré vs études
+  - Verbatim : "tu dirais que tu as moins de scrupules, on va dire, à utiliser ChatGPT pour un travail rémunéré que pour tes études?"
+- Code 3 : Contextes d'utilisation différents
+  - Verbatim : "plutôt pour faire des recherches, pour trouver des sources, ça oui"
+- Code 4 : Objectifs différents
+  - Verbatim : "toujours un peu dans un contexte et dans un objectif de me faire gagner du temps"
+- Code 5 : Utilisation pour des tâches spécifiques
+  - Verbatim : "pour mes élèves, pour mes étudiants, de demander l'aide de ChatGPT"
+- Code 6 : Perception de l'outil
+  - Verbatim : "j'avais pas trop confiance dans le fait que je puisse reformuler ça d'une manière qui puisse paraître naturelle et authentique"
+- Code 7 : Evolution de l'utilisation
+  - Verbatim : "sûrement j'ai déjà dû demander, par exemple quand j'écrivais un travail écrit"
+- Code 8 : Adaptation à la situation
+  - Verbatim : "plutôt pour faire des recherches"
+- Code 9 : Préférence pour certaines utilisations
+  - Verbatim : "pour mon doctorat si nécessaire"
+- Code 10 : Flexibilité dans l'utilisation
+  - Verbatim : "j'imagine aussi pouvoir faire ça pour mon doctorat si nécessaire"
+
+**Thème 4 : Perception et limites de ChatGPT**
+
+- Code 1 : Confiance limitée
+  - Verbatim : "j'avais pas trop confiance dans le fait que je puisse reformuler ça d'une manière qui puisse paraître naturelle et authentique"
+- Code 2 : Peur du plagiat
+  - Verbatim : "j'avais peur que ça serait considéré comme du plagiat"
+- Code 3 : Authenticité
+  - Verbatim : "reformuler ça d'une manière qui puisse paraître naturelle et authentique par rapport à moi"
+- Code 4 : Limites pour les rendus notés
+  - Verbatim : "pas forcément pour des rendus, mais en tout cas pas des rendus notés, ça c'est sûr"
+- Code 5 : Utilisation pour des tâches spécifiques
+  - Verbatim : "plutôt pour faire des recherches, pour trouver des sources, ça oui"
+- Code 6 : Perception de l'outil comme assistant
+  - Verbatim : "demander l'aide de ChatGPT"
+- Code 7 : Reticence à utiliser pour des rendus
+  - Verbatim : "j'ai toujours eu un peu peur d'utiliser ChatGPT vraiment pour des rendus à proprement parler"
+- Code 8 : Acceptation pour certaines tâches
+  - Verbatim : "pour faire des recherches, pour trouver des sources"
+- Code 9 : Préoccupation éthique
+  - Verbatim : "j'avais peur que ça serait considéré comme du plagiat"
+- Code 10 : Utilisation nuancée
+  - Verbatim : "sûrement j'ai déjà dû demander, par exemple quand j'écrivais un travail écrit, peut-être de me suggérer peut-être une conclusion"
+
+**Thème 5 : Evolution et adaptation**
+
+- Code 1 : Evolution de l'utilisation
+  - Verbatim : "sûrement j'ai déjà dû demander, par exemple quand j'écrivais un travail écrit"
+- Code 2 : Adaptation à la situation
+  - Verbatim : "plutôt pour faire des recherches"
+- Code 3 : Préférence pour certaines utilisations
+  - Verbatim : "pour mon doctorat si nécessaire"
+- Code 4 : Flexibilité dans l'utilisation
+  - Verbatim : "j'imagine aussi pouvoir faire ça pour mon doctorat si nécessaire"
+- Code 5 : Nouveaux usages
+  - Verbatim : "pour mon doctorat si nécessaire"
+- Code 6 : Intégration dans les pratiques
+  - Verbatim : "j'arrive à retrouver la source et du coup à intégrer ça"
+- Code 7 : Évolution des besoins
+  - Verbatim : "en fonction de ce que moi je voulais réaliser"
+- Code 8 : Capacité à changer d'approche
+  - Verbatim : "je l'ai beaucoup changé. Je ne suis pas tout à fait resté sur ce modèle-là"
+- Code 9 : Expérimentation
+  - Verbatim : "j'ai quand même demandé conseil à ChatGPT"
+- Code 10 : Personnalisation de l'outil
+  - Verbatim : "en fonction de ce que moi je voulais réaliser, je lui ai un peu demandé de me donner une structure possible"

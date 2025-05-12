@@ -1,0 +1,105 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Utilisation de Chat GPT comme assistant**
+
+- Thème : Rôle de Chat GPT dans le travail académique
+ - Code 1 : Assistant
+ - Verbatim : "C'est vraiment juste un assistant"
+ - Code 2 : Aide ponctuelle
+ - Verbatim : "Je vais lui demander mais je ne vais pas lui dire de tout faire"
+ - Code 3 : Débats et discussions
+ - Verbatim : "Je lui demande d'avoir des réflexions pour débattre"
+ - Code 4 : Limite de l'automatisation
+ - Verbatim : "Je ne vais pas lui demander de faire tout le travail à ma place"
+ - Code 5 : Utilisation ciblée
+ - Verbatim : "Je lui demande les tâches où j'ai du mal ou que j'ai besoin d'un aide"
+
+- Thème : Perception de l'utilité de Chat GPT
+ - Code 1 : Apport informationnel
+ - Verbatim : "Pour avoir plus d'informations ou vraiment d'autres idées"
+ - Code 2 : Utilité pour les tâches complexes
+ - Verbatim : "Si j'ai une tâche où j'ai du mal"
+ - Code 3 : Complémentarité
+ - Verbatim : "Je fais une analyse de mon côté et ensuite, je demande à GPT d'analyser de son côté"
+ - Code 4 : Valeur ajoutée
+ - Verbatim : "C'est bien, c'est assez pertinent"
+ - Code 5 : Fiabilité
+ - Verbatim : "Ça me parait assez fiable"
+
+**Segment 2 : Impact de Chat GPT sur le stress et la compréhension des cours**
+
+- Thème : Impact sur le stress académique
+ - Code 1 : Stress non lié à Chat GPT
+ - Verbatim : "Le niveau de stress ce n’est pas lié à GPT, c'est lié à moi"
+ - Code 2 : Multiples facteurs de stress
+ - Verbatim : "Il y a d'autres facteurs à prendre en compte qui affecte le stress"
+ - Code 3 : Perception de l'aide
+ - Verbatim : "Ça ne me permet pas de déstresser"
+ - Code 4 : Neutralité de l'impact
+ - Verbatim : "Ça ne change pas trop mon rapport au cours"
+ - Code 5 : Utilisation comme une ressource
+ - Verbatim : "C'est juste une manière différente d'utiliser vos sources disponibles"
+
+- Thème : Compréhension et analyse des sujets académiques
+ - Code 1 : Analyse personnelle
+ - Verbatim : "Je préfère faire une analyse de mon côté"
+ - Code 2 : Comparaison des analyses
+ - Verbatim : "Je demande à GPT d'analyser de son côté, voir son point de vue"
+ - Code 3 : Débat intérieur
+ - Verbatim : "Je fais une sorte de discussion comme un débat avec chat GPT, enfin dans ma tête"
+ - Code 4 : Enrichissement
+ - Verbatim : "Pour avoir plus d'informations ou vraiment d'autres idées"
+ - Code 5 : Autonomie
+ - Verbatim : "Je ne vais pas lui demander de faire tout le travail à ma place"
+
+**Segment 3 : Évaluation de Chat GPT et stratégies d'utilisation**
+
+- Thème : Qualité et fiabilité des réponses de Chat GPT
+ - Code 1 : Pertinence des réponses
+ - Verbatim : "C'est bien, c'est assez pertinent"
+ - Code 2 : Fiabilité
+ - Verbatim : "Ça me parait assez fiable"
+ - Code 3 : Nécessité de vérification
+ - Verbatim : "Il faut juste faire vraiment attention, bien relire"
+ - Code 4 : Stratégie de vérification
+ - Verbatim : "Je lui demande les sources"
+ - Code 5 : Validation externe
+ - Verbatim : "Je vais aussi vérifier de mon côté avoir d'autres avis"
+
+- Thème : Stratégies d'interaction avec Chat GPT
+ - Code 1 : Demande ciblée
+ - Verbatim : "Je lui demande les tâches où j'ai du mal"
+ - Code 2 : Utilisation flexible
+ - Verbatim : "Ça dépend de mes besoins"
+ - Code 3 : Limite de l'automatisation
+ - Verbatim : "Je ne lui demande pas de réaliser des projets entiers pour me macher le travail"
+ - Code 4 : Personnalisation
+ - Verbatim : "Je préfère rédiger mes propres réponses"
+ - Code 5 : Vérification des sources
+ - Verbatim : "Il faut vérifier les sources qui vous donnent"
+
+**Segment 4 : Impact de Chat GPT sur la pensée critique et l'autonomie**
+
+- Thème : Influence sur la pensée critique
+ - Code 1 : Incitation à la réflexion
+ - Verbatim : "Avoir un avis en fonction de données directement de chatgpt m'a déjà fait réfléchir"
+ - Code 2 : Réévaluation
+ - Verbatim : "Et même reconsidérer certains sujets"
+ - Code 3 : Complémentarité
+ - Verbatim : "Je fais une analyse de mon côté et ensuite, je demande à GPT d'analyser de son côté"
+ - Code 4 : Discussion et débat
+ - Verbatim : "Je lui demande d'avoir des réflexions pour débattre"
+ - Code 5 : Approche différente
+ - Verbatim : "C'est une approche différente"
+
+- Thème : Autonomie et originalité dans le travail académique
+ - Code 1 : Personnalisation des réponses
+ - Verbatim : "Je préfère rédiger mes propres réponses"
+ - Code 2 : Originalité
+ - Verbatim : "Je ne fais pas de copier-coller dans mes réponses"
+ - Code 3 : Risque de détection
+ - Verbatim : "Pas pris le risque honnêtement"
+ - Code 4 : Valeur de l'effort personnel
+ - Verbatim : "J'aimerais bien parfois pour alléger encore la charge de travail"
+ - Code 5 : Responsabilité
+ - Verbatim : "Il faut faire vraiment attention, bien relire"

@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Utilisation de ChatGPT pour les études et la productivité**
+- Code 1 : Gain de temps
+- Verbatim : "tout ce qui est la partie mise en commun, de plein de parties, etc. Je sens que ça va beaucoup plus vite."
+- Code 2 : Productivité accrue
+- Verbatim : "ça pourrait booster la productivité et faire plus de choses."
+- Code 3 : Utilisation pour les études
+- Verbatim : "je l'utilise plus pour les études"
+- Code 4 : Priorisation des tâches
+- Verbatim : "ça te permet de prioritiser des choses que tu trouves plus importantes aussi"
+- Code 5 : Réduction du stress
+- Verbatim : "moins de stress parce que je sens que je vais avoir plus de temps pour relire"
+- Code 6 : Utilisation pour la révision
+- Verbatim : "je lui ai demandé de faire un planning de révision ou des choses comme ça."
+- Code 7 : Augmentation de la qualité du travail
+- Verbatim : "ça me permet de plus travailler tout ce qui est analyse, tout ce qui est réflexion."
+- Code 8 : Libération de temps pour des tâches importantes
+- Verbatim : "ça permet juste de libérer plus de temps pour finir le travail."
+- Code 9 : Utilisation pour des tâches administratives
+- Verbatim : "tout ce qui est mise en page, relecture, ça prend énormément de temps en fait."
+- Code 10 : Impact sur la gestion du temps
+- Verbatim : "je sens que ça prend toujours le même temps parce que c'est un gros travail qui..."
+
+**Thème 2 : Perception de ChatGPT comme outil**
+- Code 1 : Utilité pratique
+- Verbatim : "c'est un outil pratique on va dire"
+- Code 2 : Limitations de ChatGPT
+- Verbatim : "il connait les limites aussi"
+- Code 3 : Comparaison avec une interaction humaine
+- Verbatim : "les réponses qu'un humain peut te donner, il n'y a pas de bonnes réponses."
+- Code 4 : Frustration et satisfaction
+- Verbatim : "il y a un côté un peu frustrant, mais un côté un peu jouissif aussi."
+- Code 5 : Utilisation pour des tâches spécifiques
+- Verbatim : "je lui pose des questions un peu en mode... un peu existentielle, des choses comme ça."
+- Code 6 : Réponses basiques
+- Verbatim : "les conseils très basiques, quoi, que tu pourrais retrouver sur des forums ou sur Internet."
+- Code 7 : Utilisation pour des brainstormings
+- Verbatim : "je sais que tu peux l'utiliser, en vrai, pour faire ça aussi."
+- Code 8 : Perception de l'aide fournie
+- Verbatim : "c'est des trucs très pratiques."
+- Code 9 : Évaluation de la qualité des réponses
+- Verbatim : "il fait des choses bien ?"
+- Code 10 : Interaction avec l'outil
+- Verbatim : "je lui demande de faire ça, ça marche pas, comment tu le dirais ?"
+
+**Thème 3 : Découverte et apprentissage de ChatGPT**
+- Code 1 : Découverte par l'intermédiaire d'une tierce personne
+- Verbatim : "c'est mon copain qui m'a montré."
+- Code 2 : Connaissance de l'IA par le copain
+- Verbatim : "il est ingénieur en intelligence artificielle, en gros."
+- Code 3 : Rôle du copain dans l'apprentissage
+- Verbatim : "je sais comment l'utiliser aussi, un peu grâce à lui aussi."
+- Code 4 : Demande d'aide au copain
+- Verbatim : "je lui demande à mon copain des fois des trucs, si t'es pas contente avec comment ChatGPT t’a aidé ?"
+- Code 5 : Discussion sur les limites de ChatGPT
+- Verbatim : "il connait les limites aussi."
+- Code 6 : Utilisation des connaissances du copain
+- Verbatim : "il va entraîner des IA et tout ça, comment utiliser ça."
+- Code 7 : Partage de connaissances
+- Verbatim : "il l'apprend. comment mettre en place..."
+- Code 8 : Expertise du copain
+- Verbatim : "lui il sait comment ça fonctionne"
+- Code 9 : Demande de conseils
+- Verbatim : "j'ai demandé de faire ça, ça marche pas, comment tu le dirais ?"
+- Code 10 : Limites de l'outil discutées avec le copain
+- Verbatim : "il me dira non"
+
+**Thème 4 : Impact de ChatGPT sur le travail et la vie**
+- Code 1 : Impact sur la productivité future
+- Verbatim : "on peut l'utiliser pour avoir plusieurs projets professionnels en même temps."
+- Code 2 : Changement dans la gestion du temps
+- Verbatim : "ça permet juste de libérer plus de temps pour finir le travail."
+- Code 3 : Perception d'une augmentation de la charge de travail
+- Verbatim : "qu'on va rajouter des autres trucs à faire…."
+- Code 4 : Utilisation future
+- Verbatim : "à terme, on peut l'utiliser pour avoir plusieurs projets professionnels en même temps."
+- Code 5 : Changement dans la manière de travailler
+- Verbatim : "ça me permet de plus travailler tout ce qui est analyse, tout ce qui est réflexion."
+- Code 6 : Impact sur la qualité du travail
+- Verbatim : "ça permet de prioritiser des choses que tu trouves plus importantes aussi"
+- Code 7 : Utilisation pour des questions existentielles
+- Verbatim : "je lui pose des questions un peu en mode... un peu existentielle, des choses comme ça."
+- Code 8 : Réponses à des questions larges
+- Verbatim : "comment savoir le domaine qui nous intéresse"
+- Code 9 : Perception de l'utilité pour des tâches variées
+- Verbatim : "c'est des trucs très pratiques."
+- Code 10 : Impact sur la vie professionnelle
+- Verbatim : "on peut l'utiliser pour avoir plusieurs projets professionnels en même temps."
+
+**Thème 5 : Interactions et échanges autour de ChatGPT**
+- Code 1 : Interaction avec le copain
+- Verbatim : "je lui demande à mon copain des fois des trucs"
+- Code 2 : Discussion sur les limites
+- Verbatim : "il connait les limites aussi."
+- Code 3 : Demande de conseils au copain
+- Verbatim : "j'ai demandé de faire ça, ça marche pas, comment tu le dirais ?"
+- Code 4 : Partage de connaissances avec le copain
+- Verbatim : "il l'apprend. comment mettre en place..."
+- Code 5 : Discussion sur l'utilisation de ChatGPT
+- Verbatim : "je sais comment l'utiliser aussi, un peu grâce à lui aussi."
+- Code 6 : Échange sur les possibilités de l'outil
+- Verbatim : "je lui pose des questions un peu en mode... un peu existentielle, des choses comme ça."
+- Code 7 : Interaction avec ChatGPT
+- Verbatim : "je lui demande de faire ça, ça marche pas"
+- Code 8 : Comparaison des réponses
+- Verbatim : "les réponses qu'un humain peut te donner, il n'y a pas de bonnes réponses."
+- Code 9 : Discussion sur l'aide fournie par ChatGPT
+- Verbatim : "c'est des trucs très pratiques."
+- Code 10 : Engagement avec l'outil
+- Verbatim : "je lui pose des questions"

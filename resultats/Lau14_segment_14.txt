@@ -1,0 +1,59 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Perception de l'utilisation de l'IA dans l'apprentissage**
+
+- Thème : Impact de l'IA sur l'apprentissage
+ - Code 1 : Changement de paradigme dans l'apprentissage
+ - Verbatim : "Ça me fait apprendre différemment."
+ - Code 2 : Réduction du temps consacré à la mémorisation
+ - Verbatim : "Je passe moins de temps à purement apprendre et à mémoriser le concept."
+ - Code 3 : Utilisation de l'IA pour optimiser le temps
+ - Verbatim : "Le temps que je le mets à profit, j'apprends d'autres choses, ou des choses différemment."
+ - Code 4 : Valeur accordée à la capacité de retrouver l'information
+ - Verbatim : "Savoir la retrouver [l'information] plutôt que la savoir."
+ - Code 5 : Perception positive de l'utilisation de l'IA
+ - Verbatim : "Pour moi, c'est clairement une plus-value."
+
+**Segment 2 : Questionnement sur l'utilisation de l'IA et considérations morales**
+
+- Thème : Considérations morales et règles dans l'utilisation de l'IA
+ - Code 1 : Conformité aux règles si elles sont justifiées
+ - Verbatim : "Si le prof justifie d'une manière correcte... je respecte les règles."
+ - Code 2 : Importance de comprendre le sens des règles
+ - Verbatim : "À partir du moment où j'en comprends le sens, je respecte les règles."
+ - Code 3 : Critique de l'interdiction de l'IA sans justification
+ - Verbatim : "C'est comme si tu disais à un peintre, tu n'utilises pas de pinceau."
+ - Code 4 : Perception de l'ancienne génération face au progrès
+ - Verbatim : "Les profs un peu cons qui veulent pas utiliser ChatGPT... parce qu'à leur époque on utilisait un becherel et puis un dictionnaire."
+ - Code 5 : Conscience de la différence entre les individus
+ - Verbatim : "Pas tout le monde est comme moi, voire même pas grand monde."
+
+**Segment 3 : Position éthique et règles**
+
+- Thème : Position éthique face aux règles et au système académique
+ - Code 1 : Vision critique du système académique
+ - Verbatim : "Le système académique, il en est un reflet très, très flagrant [des règles à contourner]."
+ - Code 2 : Expérience personnelle et critique de l'institution
+ - Verbatim : "Le nombre d'enseignants qui ont commis des délits... et qui sont encore en enseignement."
+ - Code 3 : Perception de la nécessité de contourner les règles
+ - Verbatim : "Toutes les règles sont là pour être contournées."
+ - Code 4 : Caractère opportuniste
+ - Verbatim : "Je suis quelqu'un d'opportuniste. Pour moi, c'est... J'ai une mission, je fais la mission, point."
+ - Code 5 : Priorité accordée aux résultats
+ - Verbatim : "Je m'en fous un peu des moyens tant que la fin est là."
+
+**Segment 4 : Nuances dans la position éthique**
+
+- Thème : Nuances dans la position éthique et perception de soi
+ - Code 1 : Perception de sa propre moralité
+ - Verbatim : "Je ne suis pas gris, je suis noir et blanc."
+ - Code 2 : Discussion sur la nuance entre le noir et blanc et le gris
+ - Verbatim : "Tu prends ce qu'il y a de bien dans le blanc, tu prends ce qu'il y a de bien dans le noir, tu shakes, ça fait gris."
+ - Code 3 : Acceptation de la complexité de sa position
+ - Verbatim : "Je suis quelqu'un d'opportuniste."
+ - Code 4 : Flexibilité dans l'application des principes
+ - Verbatim : "Je fais la mission, point."
+ - Code 5 : Perception positive de sa flexibilité
+ - Verbatim : "C'est hyper pertinent."
+
+Chaque thème regroupe des codes qui explorent différentes facettes de l'entretien, allant de la perception de l'IA dans l'apprentissage aux considérations morales et éthiques. Les verbatim associés offrent un aperçu direct des réponses de l'enquêté, illustrant la richesse et la complexité de ses opinions.

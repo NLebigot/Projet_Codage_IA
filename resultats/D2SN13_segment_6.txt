@@ -1,0 +1,113 @@
+Pour analyser l'entretien entre Léa et Mathilda concernant l'influence de ChatGPT sur l'organisation du travail de Léa, nous allons extraire les thèmes et les codes pertinents de manière rigoureuse.
+
+### Thème 1 : Perception de l'influence de ChatGPT sur l'organisation du travail
+- Code 1 : Perception générale de l'influence
+  - Verbatim : "je pense qu'elle l’influence pas trop"
+- Code 2 : Changement dans la gestion du temps
+  - Verbatim : "je vais quand même plus vite"
+- Code 3 : Organisation quotidienne
+  - Verbatim : "je fais toujours sur une journée mes petits emplois du temps"
+- Code 4 : Impact sur les loisirs
+  - Verbatim : "je me consacre à plus de loisirs"
+- Code 5 : Difficulté à quantifier l'impact
+  - Verbatim : "je saurais pas trop"
+- Code 6 : Comparaison avec d'autres périodes
+  - Verbatim : "la charge du travail en Master et en L3 elle est différente"
+- Code 7 : Evolution de la charge de travail
+  - Verbatim : "en prépa c'était beaucoup d'apprentissage"
+- Code 8 : Utilité de ChatGPT selon la charge de travail
+  - Verbatim : "en Master, j'avoue que charge de travail, y en a pas beaucoup"
+- Code 9 : Utilisation de ChatGPT pour le mémoire
+  - Verbatim : "ChatGPT est vraiment utile pour mon mémoire"
+- Code 10 : Analyse des entretiens avec ChatGPT
+  - Verbatim : "j'avais mis sur un document PDF tous mes entretiens à la suite et je lui ai dit ben vas-y compare"
+
+### Thème 2 : Charge de travail et utilité de ChatGPT selon les périodes d'études
+- Code 1 : Charge de travail en prépa
+  - Verbatim : "c'était beaucoup d'apprentissage"
+- Code 2 : Utilité de ChatGPT en prépa
+  - Verbatim : "ChatGPT il sert à rien"
+- Code 3 : Charge de travail en L3
+  - Verbatim : "j'avais des matières qui étaient très quantitatives"
+- Code 4 : Utilité de ChatGPT en L3
+  - Verbatim : "ChatGPT, il était parfois utile quand j'avais des questions"
+- Code 5 : Charge de travail en Master
+  - Verbatim : "on a peu de choses à faire à part le mémoire"
+- Code 6 : Utilité de ChatGPT pour le mémoire
+  - Verbatim : "ChatGPT est vraiment utile pour mon mémoire"
+- Code 7 : Satisfaction concernant l'aide de ChatGPT
+  - Verbatim : "y a une idée qui m'a été utile"
+- Code 8 : Limitations de ChatGPT
+  - Verbatim : "des fois, c'était des trucs qui m'ont pas convaincu"
+- Code 9 : Comparaison des charges de travail
+  - Verbatim : "la charge de travail en Master et en L3 elle est différente"
+- Code 10 : Évolution de l'utilité de ChatGPT
+  - Verbatim : "ça dépend de ce que je faisais"
+
+### Thème 3 : Utilisation spécifique de ChatGPT pour l'analyse d'entretiens
+- Code 1 : Utilisation pour l'analyse
+  - Verbatim : "j'avais mis sur un document PDF tous mes entretiens"
+- Code 2 : Résultats obtenus
+  - Verbatim : "il m'a donné 4 points communs et 4 points divergents"
+- Code 3 : Utilité des suggestions
+  - Verbatim : "y a une idée qui m'a été utile"
+- Code 4 : Vérification des suggestions
+  - Verbatim : "je peux revérifier puisque j'ai ChatGPT à côté de moi"
+- Code 5 : Limitations dans l'analyse
+  - Verbatim : "des fois, c'était des trucs qui m'ont pas convaincu"
+- Code 6 : Comparaison avec son propre travail
+  - Verbatim : "j'avais déjà commencé de mon côté"
+- Code 7 : Avantages de l'utilisation
+  - Verbatim : "ça m'a aidé pour l'analyse"
+- Code 8 : Nombre de suggestions
+  - Verbatim : "il m'a donné 4 idées à chaque fois"
+- Code 9 : Sélection des idées
+  - Verbatim : "j'en ai retenu qu'une à chaque fois"
+- Code 10 : Facilité d'utilisation
+  - Verbatim : "je lui ai dit ben vas-y compare"
+
+### Thème 4 : Gestion du temps et productivité
+- Code 1 : Gain de temps
+  - Verbatim : "je vais quand même plus vite"
+- Code 2 : Organisation du temps
+  - Verbatim : "je fais toujours sur une journée mes petits emplois du temps"
+- Code 3 : Loisirs
+  - Verbatim : "je me consacre à plus de loisirs"
+- Code 4 : Charge de travail variable
+  - Verbatim : "la charge du travail en Master et en L3 elle est différente"
+- Code 5 : Préférences personnelles
+  - Verbatim : "j'ai un peu hérité ça de la prépa"
+- Code 6 : Impact sur la productivité
+  - Verbatim : "peut-être que je vais plus vite"
+- Code 7 : Difficulté à évaluer l'impact
+  - Verbatim : "je saurais pas trop"
+- Code 8 : Comparaison entre périodes
+  - Verbatim : "en prépa, c'était beaucoup d'apprentissage"
+- Code 9 : Utilité de ChatGPT
+  - Verbatim : "ChatGPT est vraiment utile pour mon mémoire"
+- Code 10 : Effet sur les habitudes de travail
+  - Verbatim : "je pense pas que ça ait influencé la manière dont j'organise mon emploi du temps"
+
+### Thème 5 : Évolution de l'utilité de ChatGPT
+- Code 1 : Changement dans l'utilité
+  - Verbatim : "ça dépend de ce que je faisais"
+- Code 2 : Prépa vs. L3 vs. Master
+  - Verbatim : "la charge de travail en Master et en L3 elle est différente"
+- Code 3 : Augmentation de l'utilité
+  - Verbatim : "en Master, ChatGPT est vraiment utile"
+- Code 4 : Diminution de l'utilité
+  - Verbatim : "en prépa, ChatGPT il sert à rien"
+- Code 5 : Évolution personnelle
+  - Verbatim : "j'ai un peu hérité ça de la prépa"
+- Code 6 : Adaptation à ChatGPT
+  - Verbatim : "j'ai commencé à l'utiliser pour certaines tâches"
+- Code 7 : Limitations de ChatGPT
+  - Verbatim : "des fois, c'était des trucs qui m'ont pas convaincu"
+- Code 8 : Nouveaux usages
+  - Verbatim : "je l'ai utilisé pour analyser mes entretiens"
+- Code 9 : Évaluation de l'efficacité
+  - Verbatim : "y a une idée qui m'a été utile"
+- Code 10 : Futur usage
+  - Verbatim : "je pense que je vais continuer à l'utiliser"
+
+Ces thèmes et codes offrent une analyse détaillée de l'entretien, couvrant la perception de l'influence de ChatGPT, la charge de travail et l'utilité de ChatGPT selon les périodes d'études, l'utilisation spécifique de ChatGPT pour l'analyse d'entretiens, la gestion du temps et la productivité, ainsi que l'évolution de l'utilité de ChatGPT.

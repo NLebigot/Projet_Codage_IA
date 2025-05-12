@@ -1,0 +1,63 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats de mon analyse, structurés en 5 thèmes distincts.
+
+### Thème 1 : Perception de ChatGPT comme outil d'accompagnement
+- Code 1 : Disponibilité de ChatGPT
+  - Verbatim : "C'est qu'il est toujours disponible et il a toujours les réponses aux questions."
+- Code 2 : Utilité pour obtenir des réponses précises
+  - Verbatim : "T'as pas l'air d'avoir une réponse claire et exacte à ta question sur Google, mais là tu poses n'importe quelle question à n'importe quelle heure, c'est bon, il te répond."
+- Code 3 : Perception positive de ChatGPT comme accompagnateur
+  - Verbatim : "100%. C’est mon accompagnateur, je suis vraiment d'accord avec ça."
+- Code 4 : Reconnaissance de ses limites
+  - Verbatim : "Après, il peut se tromper, mais dans le principe, je suis 100% d'accord avec l’idée d’accompagnateur."
+- Code 5 : Utilisation régulière
+  - Verbatim : "Dans mon quotidien j'utilise tellement beaucoup que ça serait un réel manque si tout d'un coup ça disparaissait."
+
+### Thème 2 : Impact de ChatGPT sur le travail universitaire
+- Code 1 : Gain de temps
+  - Verbatim : "Oui, en tout cas moi je vois les choses un peu comme ça, ouais."
+- Code 2 : Changement dans la façon de travailler
+  - Verbatim : "Mais sur la façon de procéder et puis les efforts fournis, je pense que oui."
+- Code 3 : Utilité pour les tâches académiques
+  - Verbatim : "Pour beaucoup de tâches franchement."
+- Code 4 : Effet sur la charge de travail
+  - Verbatim : "Ça facilite les choses d'une certaine façon."
+- Code 5 : Dépendance à ChatGPT
+  - Verbatim : "Clairement, je pourrai m'en passer mais là je me demande comment j'ai fait un bachelor sans ChatGpt."
+
+### Thème 3 : Légitimité de l'utilisation de ChatGPT dans le cadre universitaire
+- Code 1 : Perception de sa propre légitimité malgré l'usage de ChatGPT
+  - Verbatim : "Je pense que oui, parce qu'en tout cas, je sais que j'ai quand même du mérite d'en être arrivée jusque là."
+- Code 2 : Reconnaissance de l'aide apportée par ChatGPT
+  - Verbatim : "Mais j'avoue que ça aide."
+- Code 3 : Capacité à réussir sans ChatGPT
+  - Verbatim : "J'ai réussi à le faire quand même. Donc, je pense que j'aurais clairement réussi mon master sans aussi."
+- Code 4 : Nuance dans la perception de l'utilisation de ChatGPT
+  - Verbatim : "Franchement c'est une bonne question."
+- Code 5 : Réflexion sur l'impact de ChatGPT sur le parcours académique
+  - Verbatim : "Je ne sais pas comment j'ai fait mon bachelor sans."
+
+### Thème 4 : Discussions autour de ChatGPT dans le contexte universitaire
+- Code 1 : Mention de ChatGPT par les enseignants
+  - Verbatim : "Dans certains cours, ça a déjà été abordé comme sujet, ça oui."
+- Code 2 : Variété des opinions des enseignants sur ChatGPT
+  - Verbatim : "Il y a eu un cours l'année passée... où j'ai l'impression que le prof avait un peu une approche négative de l'utilisation de ChatGpt."
+- Code 3 : Approche nuancée de certains enseignants
+  - Verbatim : "Maintenant j'ai l'impression que j'entends de plus en plus de profs qui ont une approche un peu plus nuancée."
+- Code 4 : Exemple de professeurs ayant une opinion positive
+  - Verbatim : "Une prof en psycho de la santé qui a l'air de trouver ça bien quand c'est bien utilisé."
+- Code 5 : Discussion en classe sur l'utilisation de ChatGPT
+  - Verbatim : "Et on en a parlé aussi en cours « réaliser en mémoire en sciences sociales »."
+
+### Thème 5 : Pratiques et attitudes individuelles concernant l'utilisation de ChatGPT
+- Code 1 : Non-mention de l'utilisation de ChatGPT dans les travaux
+  - Verbatim : "Moi, je ne le mentionne pas dans mes travaux personnellement."
+- Code 2 : Raisons de ne pas discuter de ChatGPT avec les enseignants
+  - Verbatim : "Je ne parle jamais en cours (rire)."
+- Code 3 : Perception de sa propre utilisation de ChatGPT
+  - Verbatim : "Je suis vraiment d'accord avec ça."
+- Code 4 : Dépendance personnelle à ChatGPT
+  - Verbatim : "Oui (rire). Pour beaucoup de tâches franchement."
+- Code 5 : Réflexivité sur l'usage personnel de ChatGPT
+  - Verbatim : "Je me demande comment j'ai fait un bachelor sans ChatGpt."
+
+Ces thèmes et codes offrent une vision détaillée de la manière dont l'étudiant perçoit et utilise ChatGPT dans son parcours académique, reflétant à la fois les avantages et les nuances de cette utilisation.

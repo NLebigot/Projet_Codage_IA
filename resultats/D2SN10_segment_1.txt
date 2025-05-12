@@ -1,0 +1,113 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats de l'analyse pour le premier segment (jusqu'à 05:47).
+
+**Thème 1 : Présentation et parcours de l'enquêté**
+- Code 1 : Identité
+- Verbatim : "Je m’appelle Evan, je suis en première année à SciencePo"
+- Code 2 : Parcours scolaire
+- Verbatim : "J’ai intégré l'université après le bac, l'an dernier, après avoir passé le concours commun"
+- Code 3 : Situation familiale
+- Verbatim : "Ma mère est directrice d’école maternelle, mon père je n’en parlerai pas parce que cela fait 7 ans que je ne lui parle plus"
+- Code 4 : Âge et futur proche
+- Verbatim : "J’ai 18 ans. Je vais sur mes 19"
+- Code 5 : Motivation pour le choix de l'université
+- Verbatim : "C'était mon premier choix, mais parce que pour moi ça me semblait le choix le plus logique"
+- Code 6 : Intérêt pour la pluridisciplinarité
+- Verbatim : "Le côté pluridisciplinaire de l'université... on ne fait pas que du droit, mais tout, du droit, l'histoire, de l’économie etc."
+- Code 7 : Projet professionnel
+- Verbatim : "Je partirai plus à mon sens sur les métiers de la défense et des armées"
+- Code 8 : Raison de la réorientation géographique
+- Verbatim : "Mon autisme ne me permettait pas de supporter les trajets ou même d'aller vivre là-bas en termes d'autonomie"
+- Code 9 : Expérience au lycée
+- Verbatim : "Ma scolarité s'est passée tranquillement, comme tout le monde, à quelque chose près"
+- Code 10 : Perception de l'université
+- Verbatim : "Le projet à le temps de cogiter"
+
+**Thème 2 : Autisme et autonomie**
+- Code 1 : Impact de l'autisme sur la vie quotidienne
+- Verbatim : "Mon autisme ne me permettait pas de supporter les trajets ou même d'aller vivre là-bas en termes d'autonomie"
+- Code 2 : Adaptation dans le système éducatif
+- Verbatim : "Ma scolarité s'est passée tranquillement, comme tout le monde, à quelque chose près"
+- Code 3 : Besoin d'accommodements
+- Verbatim : "J'ai demandé d’être placé sur Lyon"
+- Code 4 : Perception de soi
+- Verbatim : "Mon autisme"
+- Code 5 : Influence sur les choix
+- Verbatim : "Mon autisme ne me permettait pas de supporter les trajets"
+- Code 6 : Vie indépendante
+- Verbatim : "Pas d'aller vivre là-bas en termes d'autonomie"
+- Code 7 : Stratégies d'adaptation
+- Verbatim : "J'ai demandé d’être placé sur Lyon parce que..."
+- Code 8 : Perception par les autres
+- (Pas de verbatim disponible directement, mais cela pourrait être analysé plus tard dans l'entretien)
+- Code 9 : Impact sur les relations
+- Verbatim : "Mon père je n’en parlerai pas parce que cela fait 7 ans que je ne lui parle plus"
+- Code 10 : Répercussions sur les choix universitaires
+- Verbatim : "J'ai demandé d’être placé sur Lyon"
+
+**Thème 3 : Choix de l'université et filière**
+- Code 1 : Premier choix universitaire
+- Verbatim : "C'était mon premier choix"
+- Code 2 : Raisons du choix
+- Verbatim : "Ça me semblait le choix le plus logique"
+- Code 3 : Prestige de l'université
+- Verbatim : "Le côté prestige de l’école qui forcément a bien aidé"
+- Code 4 : Intérêt pour la pluridisciplinarité
+- Verbatim : "Le côté pluridisciplinaire de l'université"
+- Code 5 : Flexibilité dans les études
+- Verbatim : "On en a pour environ 4 ans pour décider ce que l'on veut faire"
+- Code 6 : Projet d'études
+- Verbatim : "Les premières années sont assez générales"
+- Code 7 : Futur professionnel envisagé
+- Verbatim : "Je partirai plus à mon sens sur les métiers de la défense et des armées"
+- Code 8 : Perception de l'offre de formation
+- Verbatim : "On ne fait pas que du droit, mais tout, du droit, l'histoire, de l’économie etc."
+- Code 9 : Stratégie de spécialisation
+- Verbatim : "Le projet à le temps de cogiter"
+- Code 10 : Motivation
+- Verbatim : "C'était mon premier choix"
+
+**Thème 4 : Relation avec les parents et situation familiale**
+- Code 1 : Relation avec la mère
+- Verbatim : "Ma mère est directrice d’école maternelle"
+- Code 2 : Relation avec le père
+- Verbatim : "Mon père je n’en parlerai pas parce que cela fait 7 ans que je ne lui parle plus"
+- Code 3 : Raison de la rupture avec le père
+- Verbatim : "Suite à diverses affaires, qui moi, me regarde"
+- Code 4 : Impact sur la vie de l'enquêté
+- (Pas de verbatim direct, mais cela pourrait être analysé plus en profondeur)
+- Code 5 : Perception de la famille
+- Verbatim : "Ma mère est directrice d’école maternelle"
+- Code 6 : Influence sur les choix ou le bien-être
+- (Pas de verbatim direct)
+- Code 7 : Situation familiale
+- Verbatim : "Mon père je n’en parlerai pas"
+- Code 8 : Vie familiale
+- Verbatim : "Ma mère est directrice d’école maternelle"
+- Code 9 : Relations familiales
+- Verbatim : "Suite à diverses affaires, qui moi, me regarde"
+- Code 10 : Impact sur l'autonomie
+- (Pas de verbatim direct)
+
+**Thème 5 : Introduction à l'entretien et contexte**
+- Code 1 : Explication de l'entretien
+- Verbatim : "L'entretien va se faire en 6 parties différentes"
+- Code 2 : Durée de l'entretien
+- Verbatim : "Normalement l'entretien devrait se faire entre 1h et 1h30 maximum"
+- Code 3 : Thèmes abordés
+- Verbatim : "La vision personnelle de chatGPT et le rapport à l'outil"
+- Code 4 : Flexibilité dans la conduite de l'entretien
+- Verbatim : "Si tu sens qu'il y a moins de questions par partie c'est que soit tu as répondu à la prochaine question"
+- Code 5 : Objectif de l'entretien
+- Verbatim : "Essayer de comprendre si t'as déjà ressenti toi-même des dilemmes, des tensions"
+- Code 6 : Champ d'exploration
+- Verbatim : "L'usage de chatGPT dans le contexte universitaire"
+- Code 7 : Préoccupations éthiques
+- Verbatim : "La tension et les dilemmes liés à l'utilisation de ChatGPT"
+- Code 8 : Participation de l'enquêté
+- Verbatim : "Sache que si tu sens qu'il y a moins de questions par partie"
+- Code 9 : Contexte de l'entretien
+- Verbatim : "La BU ferme à 17h50"
+- Code 10 : Dynamique de l'entretien
+- Verbatim : "Je te laisse te présenter"
+
+Ces thèmes sont distincts et permettent d'explorer différents aspects de l'entretien. Ils sont enrichis par des codes et verbatim associés qui offrent une analyse détaillée des éléments clés de la première partie de l'entretien.

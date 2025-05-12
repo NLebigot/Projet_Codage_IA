@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en respectant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Perception de ChatGPT**
+- Code 1 : Découverte de ChatGPT
+- Verbatim : "J'ai découvert l'utilisation de l'IA à travers mes pairs à l’université."
+- Code 2 : Efficacité de ChatGPT
+- Verbatim : "J'ai été surprise par comment c'était efficace."
+- Code 3 : Utilisation de ChatGPT pour les travaux universitaires
+- Verbatim : "Juste pour reformuler, pour des petits travaux et tout, à petite échelle, des petits trucs."
+- Code 4 : Perception de ChatGPT comme un outil utile
+- Verbatim : "C'est top ! Clairement ça enlève une partie du travail."
+- Code 5 : Satisfaction des résultats obtenus avec ChatGPT
+- Verbatim : "Le résultat à la fin il est… pour la plupart satisfaisant, on va dire."
+- Code 6 : Nécessité de revérifier les résultats de ChatGPT
+- Verbatim : "Après des fois il faut revérifier et tout."
+- Code 7 : Humanisation de ChatGPT
+- Verbatim : "On le considère comme un ami en fait."
+- Code 8 : Utilisation de ChatGPT comme un assistant
+- Verbatim : "Il y a d'autres personnes qui le considèrent comme un assistant."
+- Code 9 : Changement dans les habitudes de recherche d'information
+- Verbatim : "Ca déplace un peu comment on utilisait Google aussi et comment on utilise Chat de nos jours."
+- Code 10 : Exemple d'utilisation de ChatGPT pour des tâches simples
+- Verbatim : "Hier je l'ai utilisé pour faire des conversions de inches en centimètres."
+
+**Thème 2 : Utilisation de ChatGPT dans le contexte universitaire**
+- Code 1 : Utilisation répandue de ChatGPT parmi les étudiants
+- Verbatim : "Je dirais que la majorité d'entre nous l'utilisons, pas tous de la même manière, mais une majorité l'utilise."
+- Code 2 : Moment où ChatGPT est devenu populaire
+- Verbatim : "C'est à la fin du bachelor, début du master que j'ai remarqué qu'il y avait une très grande utilisation parmi tous les étudiants."
+- Code 3 : Utilisation de ChatGPT pour les travaux universitaires
+- Verbatim : "Pour des petits travaux et tout, à petite échelle, des petits trucs."
+- Code 4 : Perception de ChatGPT comme un outil d'aide
+- Verbatim : "C'est quelqu'un qui nous aide, genre un camarade en plus."
+- Code 5 : Utilisation de ChatGPT pour des tâches spécifiques
+- Verbatim : "On peut lui poser tous plein de questions."
+- Code 6 : Comparaison avec Google
+- Verbatim : "On demande vite à Chatty au lieu de faire la recherche sur Google comme on avait l'habitude de la faire avant."
+- Code 7 : Avantages de ChatGPT par rapport à Google
+- Verbatim : "Si j'avais été sur Google il faut aller sur un site de conversion, écrire mieux et puis tu poses à chat la question, il te répond directement en fait."
+- Code 8 : Utilisation de ChatGPT pour des conversions
+- Verbatim : "Hier je l'ai utilisé pour faire des conversions de inches en centimètres."
+- Code 9 : Perception de ChatGPT comme un outil de soutien
+- Verbatim : "On est beaucoup à le considérer comme quelqu'un qui nous soutient."
+- Code 10 : Impact de ChatGPT sur les habitudes de travail
+- Verbatim : "Ca déplace un peu comment on utilisait Google aussi et comment on utilise Chat de nos jours."
+
+**Thème 3 : Impact de ChatGPT sur les habitudes de travail et de recherche**
+- Code 1 : Changement dans les habitudes de recherche d'information
+- Verbatim : "Ca déplace un peu comment on utilisait Google aussi et comment on utilise Chat de nos jours."
+- Code 2 : Utilisation de ChatGPT pour des tâches simples
+- Verbatim : "Hier je l'ai utilisé pour faire des conversions de inches en centimètres."
+- Code 3 : Perception de ChatGPT comme un outil d'aide
+- Verbatim : "C'est quelqu'un qui nous aide, genre un camarade en plus."
+- Code 4 : Comparaison avec Google
+- Verbatim : "On demande vite à Chatty au lieu de faire la recherche sur Google comme on avait l'habitude de la faire avant."
+- Code 5 : Avantages de ChatGPT par rapport à Google
+- Verbatim : "Si j'avais été sur Google il faut aller sur un site de conversion, écrire mieux et puis tu poses à chat la question, il te répond directement en fait."
+- Code 6 : Utilisation de ChatGPT pour des tâches spécifiques
+- Verbatim : "On peut lui poser tous plein de questions."
+- Code 7 : Impact de ChatGPT sur les habitudes de travail
+- Verbatim : "Ca déplace un peu comment on utilisait Google aussi et comment on utilise Chat de nos jours."
+- Code 8 : Perception de ChatGPT comme un outil de soutien
+- Verbatim : "On est beaucoup à le considérer comme quelqu'un qui nous soutient."
+- Code 9 : Utilisation de ChatGPT pour les travaux universitaires
+- Verbatim : "Juste pour reformuler, pour des petits travaux et tout, à petite échelle, des petits trucs."
+- Code 10 : Efficacité de ChatGPT
+- Verbatim : "J'ai été surprise par comment c'était efficace."
+
+**Thème 4 : Perception de l'intelligence artificielle**
+- Code 1 : Découverte de l'intelligence artificielle
+- Verbatim : "J'ai découvert l'utilisation de l'IA à travers mes pairs à l’université."
+- Code 2 : Perception de ChatGPT comme un outil révolutionnaire
+- Verbatim : "J'ai été surprise par comment c'était efficace."
+- Code 3 : Humanisation de ChatGPT
+- Verbatim : "On le considère comme un ami en fait."
+- Code 4 : Perception de ChatGPT comme un assistant
+- Verbatim : "Il y a d'autres personnes qui le considèrent comme un assistant."
+- Code 5 : Perception de l'intelligence artificielle comme un outil d'aide
+- Verbatim : "C'est quelqu'un qui nous aide, genre un camarade en plus."
+- Code 6 : Impact de l'intelligence artificielle sur les habitudes de travail
+- Verbatim : "Ca déplace un peu comment on utilisait Google aussi et comment on utilise Chat de nos jours."
+- Code 7 : Utilisation de l'intelligence artificielle pour des tâches spécifiques
+- Verbatim : "On peut lui poser tous plein de questions."
+- Code 8 : Comparaison avec les outils traditionnels
+- Verbatim : "On demande vite à Chatty au lieu de faire la recherche sur Google comme on avait l'habitude de la faire avant."
+- Code 9 : Perception de l'intelligence artificielle comme un outil de soutien
+- Verbatim : "On est beaucoup à le considérer comme quelqu'un qui nous soutient."
+- Code 10 : Evolution de la perception de l'intelligence artificielle
+- Verbatim : "C'est à la fin du bachelor, début du master que j'ai remarqué qu'il y avait une très grande utilisation parmi tous les étudiants."
+
+**Thème 5 : Expérience personnelle avec ChatGPT**
+- Code 1 : Moment où ChatGPT est devenu populaire
+- Verbatim : "C'est à la fin du bachelor, début du master que j'ai remarqué qu'il y avait une très grande utilisation parmi tous les étudiants."
+- Code 2 : Utilisation personnelle de ChatGPT
+- Verbatim : "Je l'utilise pour des petits travaux et tout, à petite échelle, des petits trucs."
+- Code 3 : Perception personnelle de ChatGPT
+- Verbatim : "On le considère comme un ami en fait."
+- Code 4 : Utilisation de ChatGPT pour des tâches spécifiques
+- Verbatim : "Hier je l'ai utilisé pour faire des conversions de inches en centimètres."
+- Code 5 : Comparaison avec Google
+- Verbatim : "On demande vite à Chatty au lieu de faire la recherche sur Google comme on avait l'habitude de la faire avant."
+- Code 6 : Avantages de ChatGPT par rapport à Google
+- Verbatim : "Si j'avais été sur Google il faut aller sur un site de conversion, écrire mieux et puis tu poses à chat la question, il te répond directement en fait."
+- Code 7 : Perception de ChatGPT comme un outil d'aide
+- Verbatim : "C'est quelqu'un qui nous aide, genre un camarade en plus."
+- Code 8 : Utilisation de ChatGPT pour les travaux universitaires
+- Verbatim : "Juste pour reformuler, pour des petits travaux et tout, à petite échelle, des petits trucs."
+- Code 9 : Impact de ChatGPT sur les habitudes de travail
+- Verbatim : "Ca déplace un peu comment on utilisait Google aussi et comment on utilise Chat de nos jours."
+- Code 10 : Perception de ChatGPT comme un outil de soutien
+- Verbatim : "On est beaucoup à le considérer comme quelqu'un qui nous soutient."

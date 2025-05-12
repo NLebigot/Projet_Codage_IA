@@ -1,0 +1,115 @@
+Pour analyser l'entretien donné en respectant une méthode rigoureuse de codage qualitatif, je vais d'abord diviser le texte en segments. Puisque le texte donné est relativement court et forme une unité de sens, je vais le traiter comme un seul segment.
+
+Voici les thèmes et codes issus de l'analyse :
+
+### Thème 1 : Perception de l'entretien
+- Code 1 : Satisfaction globale
+  - Verbatim : "super intéressant"
+- Code 2 : Exhaustivité de l'entretien
+  - Verbatim : "On a fait toutes les questions du guide d'entretien"
+- Code 3 : Durée appropriée
+  - Verbatim : "une heure quinze d'entretien, c'est parfait"
+- Code 4 : Richesse des informations collectées
+  - Verbatim : "Je vais avoir beaucoup, beaucoup de choses à analyser"
+- Code 5 : Reconnaissance de l'enquêté
+  - Verbatim : "Merci à toi, merci pour ta réflexion"
+- Code 6 : Intérêt pour la singularité de l'expérience
+  - Verbatim : "ton utilisation qui est pour moi singulière"
+- Code 7 : Valeur de la diversité des perspectives
+  - Verbatim : "c’est super intéressant de pouvoir voire ton point de vue"
+- Code 8 : Surprise positive face aux résultats
+  - Verbatim : "je m’attendais pas du tout à ça"
+- Code 9 : Appréciation de la contribution
+  - Verbatim : "Je te remercie énormément"
+- Code 10 : Clôture de l'entretien
+  - Verbatim : "je vais arrêter l’enregistrement maintenant"
+
+### Thème 2 : Attentes et Résultats
+- Code 1 : Découverte grâce à l'entretien
+  - Verbatim : "super intéressant"
+- Code 2 : Effet de surprise
+  - Verbatim : "je m’attendais pas du tout à ça"
+- Code 3 : Valeur ajoutée de la recherche
+  - Verbatim : "c’est super intéressant de pouvoir voire ton point de vue et ta manière d’utiliser"
+- Code 4 : Analyse des écarts entre attentes et réalité
+  - Verbatim : "je m’attendais pas du tout à ça et c’est super intéressant"
+- Code 5 : Richesse des données collectées
+  - Verbatim : "Je vais avoir beaucoup, beaucoup de choses à analyser"
+- Code 6 : Satisfaction quant à la qualité de l'entretien
+  - Verbatim : "une heure quinze d'entretien, c'est parfait"
+- Code 7 : Intérêt pour la singularité
+  - Verbatim : "ton utilisation qui est pour moi singulière et c’est super intéressant"
+- Code 8 : Reconnaissance de la contribution de l'enquêté
+  - Verbatim : "Merci à toi, merci pour ta réflexion"
+- Code 9 : Utilité de la diversité des points de vue
+  - Verbatim : "c’est super intéressant de pouvoir voire ton point de vue"
+- Code 10 : Réalisation de l'objectif de l'entretien
+  - Verbatim : "On a fait toutes les questions du guide d'entretien"
+
+### Thème 3 : Interaction et Communication
+- Code 1 : Qualité de l'interaction
+  - Verbatim : "super intéressant"
+- Code 2 : Facilité de communication
+  - Verbatim : "On a fait toutes les questions du guide d'entretien"
+- Code 3 : Expression de gratitude
+  - Verbatim : "Merci à toi, merci pour ta réflexion, merci pour ton utilisation"
+- Code 4 : Appréciation de la singularité de l'enquêté
+  - Verbatim : "ton utilisation qui est pour moi singulière"
+- Code 5 : Reconnaissance de la valeur ajoutée de l'enquêté
+  - Verbatim : "c’est super intéressant de pouvoir voire ton point de vue et ta manière d’utiliser"
+- Code 6 : Effet de la communication sur la satisfaction
+  - Verbatim : "Je te remercie énormément"
+- Code 7 : Clôture de la communication
+  - Verbatim : "je vais arrêter l’enregistrement maintenant"
+- Code 8 : Qualité de la relation établie
+  - Verbatim : "Merci à toi"
+- Code 9 : Satisfaction quant à la collaboration
+  - Verbatim : "une heure quinze d'entretien, c'est parfait"
+- Code 10 : Importance de la rétroaction
+  - Verbatim : "Je te remercie énormément"
+
+### Thème 4 : Analyse et Utilisation des Données
+- Code 1 : Richesse des données
+  - Verbatim : "Je vais avoir beaucoup, beaucoup de choses à analyser"
+- Code 2 : Intérêt pour les données collectées
+  - Verbatim : "super intéressant"
+- Code 3 : Utilité des données pour la recherche
+  - Verbatim : "proposer à tout le monde"
+- Code 4 : Valeur de la singularité des données
+  - Verbatim : "ton utilisation qui est pour moi singulière"
+- Code 5 : Importance de la diversité des perspectives
+  - Verbatim : "c’est super intéressant de pouvoir voire ton point de vue"
+- Code 6 : Surprise positive face aux données
+  - Verbatim : "je m’attendais pas du tout à ça"
+- Code 7 : Potentiel d'analyse
+  - Verbatim : "Je vais avoir beaucoup, beaucoup de choses à analyser"
+- Code 8 : Intérêt pour la méthodologie
+  - Verbatim : "On a fait toutes les questions du guide d'entretien"
+- Code 9 : Reconnaissance de la contribution à la recherche
+  - Verbatim : "Merci à toi, merci pour ta réflexion"
+- Code 10 : Perspective d'exploitation des résultats
+  - Verbatim : "proposer à tout le monde"
+
+### Thème 5 : Réflexivité et Évaluation
+- Code 1 : Évaluation positive de l'entretien
+  - Verbatim : "super intéressant"
+- Code 2 : Satisfaction quant à la durée de l'entretien
+  - Verbatim : "une heure quinze d'entretien, c'est parfait"
+- Code 3 : Réflexivité sur le processus
+  - Verbatim : "On a fait toutes les questions du guide d'entretien"
+- Code 4 : Appréciation de la singularité
+  - Verbatim : "ton utilisation qui est pour moi singulière"
+- Code 5 : Importance de la diversité
+  - Verbatim : "c’est super intéressant de pouvoir voire ton point de vue"
+- Code 6 : Reconnaissance de l'apport de l'enquêté
+  - Verbatim : "Merci à toi, merci pour ta réflexion"
+- Code 7 : Surprise face aux résultats
+  - Verbatim : "je m’attendais pas du tout à ça"
+- Code 8 : Évaluation de la qualité de l'interaction
+  - Verbatim : "super intéressant"
+- Code 9 : Intention d'utiliser les données
+  - Verbatim : "Je vais avoir beaucoup, beaucoup de choses à analyser et proposer à tout le monde"
+- Code 10 : Clôture satisfaisante
+  - Verbatim : "Je te remercie énormément, je vais arrêter l’enregistrement maintenant"
+
+Ces thèmes et codes montrent l'importance de la satisfaction de l'enquêteur quant à la qualité et à la richesse de l'entretien, ainsi que l'appréciation de la singularité et de la diversité des perspectives apportées par l'enquêté.

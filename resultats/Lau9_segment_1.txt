@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Perception de ChatGPT**
+ - Code 1 : Définition initiale
+ - Verbatim : "Avant de commencer ce master, j'avais aucune idée de... Enfin, j'en avais jamais utilisé de chatGPT, je savais que ça existait, donc je savais ce que c'était."
+ - Code 2 : Compréhension après le master
+ - Verbatim : "Puis après, du coup, avec ce master, je sais un peu vite fait ce que c'est une IA, comment ça marche."
+ - Code 3 : Conception de l'intelligence artificielle
+ - Verbatim : "Je sais que c'est des algorithmes, du code derrière."
+ - Code 4 : Utilité de ChatGPT
+ - Verbatim : "C'est fait pour répondre. Enfin, pour essayer de me répondre le mieux possible."
+ - Code 5 : Dépendance à la formulation de la question
+ - Verbatim : "Donc ça dépend beaucoup de comment je pose ma question."
+ - Code 6 : Perception de ChatGPT comme un outil
+ - Verbatim : "Mais c'est vraiment comme objet, je ne saurais trop le définir, ce n'est pas trop quelque chose avec lequel je pense."
+ - Code 7 : Comparaison avec Google
+ - Verbatim : "Une espèce de Google, mais qui répond déjà automatiquement avec ce que je veux."
+ - Code 8 : Rapidité de ChatGPT
+ - Verbatim : "C'est beaucoup plus rapide."
+ - Code 9 : Utilité pour la recherche d'information
+ - Verbatim : "Un truc qui facilite. Ça me facilite vraiment beaucoup la vie."
+ - Code 10 : Evolution de la perception
+ - Verbatim : "C'est juste le master."
+
+**Thème 2 : Utilisation de ChatGPT dans le contexte académique**
+ - Code 1 : Découverte de ChatGPT
+ - Verbatim : "Je connaissais un peu avant, mais c'est surtout pour les cours de code en JavaScript."
+ - Code 2 : Première utilisation
+ - Verbatim : "Avec ça, j'ai commencé à l'utiliser et ça représente quand même maintenant plus ou moins 50%, 60%, ça dépend des périodes."
+ - Code 3 : Fréquence d'utilisation
+ - Verbatim : "Tous les jours."
+ - Code 4 : Contexte d'utilisation
+ - Verbatim : "Si j'ai des cours où je dois coder, là, je vais l'utiliser systématiquement."
+ - Code 5 : Utilisation pour la programmation
+ - Verbatim : "Soit pour m'expliquer des trucs."
+ - Code 6 : Disponibilité de ChatGPT
+ - Verbatim : "Enfin, je l'ai pas sur mon téléphone, par exemple."
+ - Code 7 : Utilisation en fonction des besoins
+ - Verbatim : "Donc je l'utilise pas à la maison. À moins que j'aie pas mon ordi ouvert et je suis en train de faire des trucs d’uni."
+ - Code 8 : Préférence pour l'utilisation sur ordinateur
+ - Verbatim : "Je vais avoir tendance à ne pas l'utiliser."
+ - Code 9 : Utilisation régulière
+ - Verbatim : "Mais oui, plus ou moins tous les jours, je pense."
+ - Code 10 : Utilisation principalement académique
+ - Verbatim : "C'est surtout dans le contexte académique."
+
+**Thème 3 : Impact de ChatGPT sur les études et le travail**
+ - Code 1 : Utilité pour les tâches académiques
+ - Verbatim : "Ça me facilite vraiment beaucoup la vie."
+ - Code 2 : Gain de temps
+ - Verbatim : "C'est beaucoup plus rapide."
+ - Code 3 : Aide à la programmation
+ - Verbatim : "Si j'ai des cours où je dois coder, là, je vais l'utiliser systématiquement."
+ - Code 4 : Utilisation comme un outil de soutien
+ - Verbatim : "Une espèce de Google, mais qui répond déjà automatiquement avec ce que je veux."
+ - Code 5 : Perception positive de l'outil
+ - Verbatim : "Un truc qui facilite."
+ - Code 6 : Intégration dans la routine académique
+ - Verbatim : "Tous les jours."
+ - Code 7 : Utilisation en fonction des besoins spécifiques
+ - Verbatim : "Ça dépend... Si j'ai des cours où je dois coder."
+ - Code 8 : Impact sur la façon de travailler
+ - Verbatim : "Ça me permet de faire des choses plus facilement."
+ - Code 9 : Utilisation régulière pour les études
+ - Verbatim : "Surtout quand j'étudie."
+ - Code 10 : Effet sur la productivité
+ - Verbatim : "Ça me facilite vraiment beaucoup la vie."
+
+**Thème 4 : Evolution de la perception et de l'utilisation de ChatGPT**
+ - Code 1 : Changement de perception
+ - Verbatim : "Avant de commencer ce master, j'avais aucune idée de... Enfin, j'en avais jamais utilisé de chatGPT."
+ - Code 2 : Acquisition de connaissances sur ChatGPT
+ - Verbatim : "Puis après, du coup, avec ce master, je sais un peu vite fait ce que c'est une IA, comment ça marche."
+ - Code 3 : Évolution de l'utilisation
+ - Verbatim : "Maintenant, j'utilise ChatGPT tous les jours."
+ - Code 4 : Influence du master sur l'utilisation
+ - Verbatim : "C'est juste le master."
+ - Code 5 : Passage d'une perception alarmiste à une utilisation pratique
+ - Verbatim : "Il y avait avant le discours de dire, ah, mais c'est dangereux."
+ - Code 6 : Prise en main de l'outil
+ - Verbatim : "J'ai commencé à l'utiliser et ça représente quand même maintenant plus ou moins 50%, 60%, ça dépend des périodes."
+ - Code 7 : Adaptation à l'outil
+ - Verbatim : "Je sais que c'est des algorithmes, du code derrière."
+ - Code 8 : Utilisation efficace
+ - Verbatim : "Donc ça dépend beaucoup de comment je pose ma question."
+ - Code 9 : Développement d'une compétence
+ - Verbatim : "Je sais un peu vite fait ce que c'est une IA, comment ça marche."
+ - Code 10 : Intégration dans les habitudes de travail
+ - Verbatim : "Surtout quand j'étudie."
+
+**Thème 5 : Risques et limites de ChatGPT**
+ - Code 1 : Perception initiale des risques
+ - Verbatim : "Il y avait avant le discours de dire, ah, mais c'est dangereux."
+ - Code 2 : Risque de dépendance
+ - Verbatim : "Je vais avoir tendance à ne pas l'utiliser si je n'ai pas mon ordi ouvert."
+ - Code 3 : Limite de l'outil
+ - Verbatim : "Ça dépend beaucoup de comment je pose ma question."
+ - Code 4 : Nécessité de comprendre les limites
+ - Verbatim : "Je sais que c'est des algorithmes, du code derrière."
+ - Code 5 : Utilisation critique
+ - Verbatim : "Il faut pas... Tout le discours que j'avais, c'était le discours alarmiste de ne pas utiliser ChatGPT."
+ - Code 6 : Risque de mauvaise utilisation
+ - Verbatim : "C'est pas bien utilisé."
+ - Code 7 : Importance de la formulation des questions
+ - Verbatim : "Donc ça dépend beaucoup de comment je pose ma question."
+ - Code 8 : Limite de la technologie
+ - Verbatim : "C'est fait pour répondre. Enfin, pour essayer de me répondre le mieux possible."
+ - Code 9 : Nécessité d'une utilisation raisonnée
+ - Verbatim : "Il faut pas... utiliser ChatGPT pour faire vos choses à l'uni parce que ça va pas passer."
+ - Code 10 : Équilibre dans l'utilisation
+ - Verbatim : "Je l'utilise pas à la maison. À moins que j'aie pas mon ordi ouvert et je suis en train de faire des trucs d’uni."

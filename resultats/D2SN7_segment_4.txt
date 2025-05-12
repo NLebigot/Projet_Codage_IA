@@ -1,0 +1,116 @@
+Voici mon analyse de l'entretien avec Gabriel en respectant la méthode de codage qualitatif :
+
+**Thème 1 : Utilisation et perception de ChatGPT**
+
+- Code 1 : Utilisation familiale de ChatGPT
+  - Verbatim : "C'est mon père qui a pris la version payante et du coup toute la famille est dessus."
+- Code 2 : Perception positive de l'outil
+  - Verbatim : "Je trouve ça magique"
+- Code 3 : Utilisation pour les tâches rédactionnelles
+  - Verbatim : "Je lui demande de reformuler un mail"
+- Code 4 : Utilisation pour la résolution de problèmes techniques
+  - Verbatim : "Il y a un problème sur R, je peux juste le copier-coller"
+- Code 5 : Perception de l'efficacité de l'outil
+  - Verbatim : "C'est tellement fort que ça me dit direct où est ton problème"
+- Code 6 : Limitations de l'outil
+  - Verbatim : "Parfois il me sort des phrases qui n'ont aucun sens"
+- Code 7 : Stratégie d'utilisation
+  - Verbatim : "J'essaye, je vais lui dire 'Ah bah voilà, est-ce qu'il peut m'aider ?'"
+- Code 8 : Expérimentation avec l'outil
+  - Verbatim : "C'est vraiment un rapport un peu expérimental quoi"
+- Code 9 : Partage d'expérience avec les pairs
+  - Verbatim : "Parmi mes potes, je suis celui qui utilise le plus"
+- Code 10 : Influence sur les pratiques des pairs
+  - Verbatim : "Certains ont un peu aussi pris cette philosophie"
+
+**Thème 2 : Interaction avec l'outil et limites**
+
+- Code 1 : Qualité des réponses fournies par ChatGPT
+  - Verbatim : "Parfois ça répond pas trop à ma question"
+- Code 2 : Utilité malgré les limites
+  - Verbatim : "Il y a deux autres phrases qui vont être absolument superbes"
+- Code 3 : Nécessité d'un travail préalable et postérieur
+  - Verbatim : "Il y a forcément un travail avant et un travail après"
+- Code 4 : Limites liées à la spécificité des tâches
+  - Verbatim : "J'utilise un package qui est assez spécifique"
+- Code 5 : Responsabilité de l'utilisateur
+  - Verbatim : "Peut-être que j'explique mal à ce moment-là"
+- Code 6 : Perception des erreurs de ChatGPT
+  - Verbatim : "Si ChatGPT se trompe, c'est juste que tu l'as mal informé"
+- Code 7 : Réactions des pairs aux erreurs de ChatGPT
+  - Verbatim : "Certains m'envoient des messages en me disant 'ChatGPT est nul'"
+- Code 8 : Défensif concernant les capacités de ChatGPT
+  - Verbatim : "C'est juste que tu l'as mal informé, c'est toi le problème"
+- Code 9 : Acceptation des limites
+  - Verbatim : "Des fois il marche pas, mais après c'est pas très grave"
+- Code 10 : Encouragement à utiliser l'outil malgré les limites
+  - Verbatim : "J'essaye de leur montrer que ça peut être utile"
+
+**Thème 3 : Pratiques et vérification**
+
+- Code 1 : Vérification des informations fournies par ChatGPT
+  - Verbatim : "Je peux vérifier les informations, par exemple"
+- Code 2 : Utilisation de ressources complémentaires
+  - Verbatim : "Je vais vérifier dans les cheat sheet ou je sais pas dans les autres"
+- Code 3 : Doute sur la fiabilité de ChatGPT
+  - Verbatim : "Quand il marche ou quand il marche pas"
+- Code 4 : Importance de la vérification
+  - Verbatim : "Je vais vérifier si la ligne de code fonctionne"
+- Code 5 : Pratiques de validation
+  - Verbatim : "Je vais vérifier ce que ça donne"
+- Code 6 : Intégration de ChatGPT dans les pratiques existantes
+  - Verbatim : "J'ai pris l'habitude de lui poser plein de questions"
+- Code 7 : Expérimentation avec différentes approches
+  - Verbatim : "J'essaye de voir s'il arrive à cet exercice"
+- Code 8 : Partage de résultats avec les pairs
+  - Verbatim : "Je reçois des messages à 18h 'Putain mec, je viens de mettre ça sur ChatGPT'"
+- Code 9 : Réflexion sur les pratiques
+  - Verbatim : "C'est vraiment un rapport un peu expérimental"
+- Code 10 : Adaptation des pratiques en fonction des résultats
+  - Verbatim : "Des fois ça marche, des fois ça m'aide pas"
+
+**Thème 4 : Communauté et échange**
+
+- Code 1 : Partage d'expérience avec les pairs
+  - Verbatim : "Parmi mes potes, je suis celui qui utilise le plus"
+- Code 2 : Influence sur les pratiques des pairs
+  - Verbatim : "Certains ont un peu aussi pris cette philosophie"
+- Code 3 : Discussions autour de ChatGPT
+  - Verbatim : "On m'envoie des messages en me disant 'ChatGPT est nul'"
+- Code 4 : Défensif concernant les capacités de ChatGPT
+  - Verbatim : "C'est juste que tu l'as mal informé, c'est toi le problème"
+- Code 5 : Encouragement à utiliser l'outil
+  - Verbatim : "J'essaye de leur montrer que ça peut être utile"
+- Code 6 : Communauté d'utilisateurs
+  - Verbatim : "Mes potes camarades de classe"
+- Code 7 : Partage de trucs et astuces
+  - Verbatim : "Je leur dis 'Tiens, est-ce que ChatGPT peut faire ça ?'"
+- Code 8 : Échange de résultats
+  - Verbatim : "Je reçois des messages 'Putain mec, je viens de mettre ça sur ChatGPT'"
+- Code 9 : Retour d'expérience
+  - Verbatim : "Certains m'envoient des messages en me disant 'ChatGPT est nul'"
+- Code 10 : Dynamique de groupe autour de l'outil
+  - Verbatim : "On partage nos expériences avec ChatGPT"
+
+**Thème 5 : Réflexivité et apprentissage**
+
+- Code 1 : Réflexion sur les pratiques
+  - Verbatim : "C'est vraiment un rapport un peu expérimental"
+- Code 2 : Adaptation des pratiques en fonction des résultats
+  - Verbatim : "Des fois ça marche, des fois ça m'aide pas"
+- Code 3 : Apprentissage à travers l'utilisation de ChatGPT
+  - Verbatim : "J'ai pris l'habitude de lui poser plein de questions"
+- Code 4 : Développement de compétences
+  - Verbatim : "J'ai appris à utiliser ChatGPT pour différentes tâches"
+- Code 5 : Conscientisation des limites
+  - Verbatim : "Je sais que parfois il peut se tromper"
+- Code 6 : Stratégies pour améliorer l'utilisation
+  - Verbatim : "J'essaye de mieux formuler mes questions"
+- Code 7 : Intégration de ChatGPT dans les pratiques existantes
+  - Verbatim : "J'ai pris l'habitude de l'utiliser pour différentes tâches"
+- Code 8 : Évaluation continue de l'outil
+  - Verbatim : "Je vérifie si les réponses sont correctes"
+- Code 9 : Apprentissage par l'échec
+  - Verbatim : "Des fois ça marche pas, mais j'apprends de mes erreurs"
+- Code 10 : Développement d'une pensée critique
+  - Verbatim : "Je réfléchis à comment améliorer mon utilisation de ChatGPT"

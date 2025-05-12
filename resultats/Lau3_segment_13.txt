@@ -1,0 +1,114 @@
+**Thème 1 : Utilisation de l'outil JJPT pour la préparation de cours**
+
+- Code 1 : Utilité de l'outil pour générer des exercices
+- Verbatim : "Et du coup je lui dis tu peux me faire une série de 15 exercices qui varient entre ces règles là."
+- Code 2 : Gain de temps dans la préparation
+- Verbatim : "Ça te donne tellement de temps, ça te fait gagner tellement de temps."
+- Code 3 : Assistance dans la création d'exemples
+- Verbatim : "Et il me donne un exemple tout de suite."
+- Code 4 : Flexibilité dans la génération d'exercices
+- Verbatim : "Tu peux demander directement à Tchatchépté, OK, j'ai... Comment dire ? l'accord avec être, avoir, sens auxiliaire, verbe pronominal, essentiellement pronominal et tout."
+- Code 5 : Appréciation de l'outil pour la préparation
+- Verbatim : "Enfin, je trouve ça génial."
+- Code 6 : Utilisation spécifique pour les exercices de drill
+- Verbatim : "Donc si pour ce genre de sujet là où c'est des exercices de drill et d'entraînement, si tu dois venir à chaque cours avec une nouvelle série d'exercices différents"
+- Code 7 : Limitations personnelles dans la création d'exemples
+- Verbatim : "tu as souvent, quand tu veux donner des exemples, les mêmes exemples qui te viennent en tête tout le temps."
+- Code 8 : Utilité pour varier les exemples
+- Verbatim : "ça t'évite à toi d'avoir à faire chaque exercice en prenant le temps de varier, d'avoir un exemple."
+- Code 9 : Expérience antérieure dans l'enseignement
+- Verbatim : "Je donnais déjà des cours avant."
+- Code 10 : Nouveauté dans l'utilisation de JJPT
+- Verbatim : "Celui-là, c'est l'un des premiers où j'ai utilisé JJPT."
+
+**Thème 2 : Perception de l'effort et du temps investi**
+
+- Code 1 : Économie de temps grâce à l'outil
+- Verbatim : "Ça demande clairement moins de temps."
+- Code 2 : Tâche répétitive sans l'outil
+- Verbatim : "Tu fais toi-même. Ça, il n'y a pas de... C'est une règle."
+- Code 3 : Perception de la tâche comme barbante
+- Verbatim : "C'est barbant."
+- Code 4 : Facilitation de la tâche par l'outil
+- Verbatim : "Ça t'aide... C'est barbant parce qu'en fait, tu peux demander directement à Tchatchépté"
+- Code 5 : Comparaison avec la méthode manuelle
+- Verbatim : "Donc au final, je prends le même temps."
+- Code 6 : Règle concernant la préparation des tests
+- Verbatim : "Les exercices en test sont obligatoirement faits par un humain."
+- Code 7 : Flexibilité dans l'utilisation de l'outil
+- Verbatim : "Après, ça se trouve, il y a des gens qui ne respectent pas cette règle."
+- Code 8 : Effort personnel dans la préparation
+- Verbatim : "Moi, je suis en train d'écrire un exercice, moi-même."
+- Code 9 : Limitations de l'outil
+- Verbatim : "Mais bon, ça, c'est hors de mon domaine, hors de mon savoir, je ne sais pas."
+- Code 10 : Satisfaction malgré le caractère barbant
+- Verbatim : "Après moi j'aime bien le faire."
+
+**Thème 3 : Interactions avec l'outil JJPT**
+
+- Code 1 : Demande d'exemples à l'outil
+- Verbatim : "Et je lui dis, tu peux me trouver un exemple rapide avec ça, à faire pour des élèves assez facile ou quoi."
+- Code 2 : Réponse immédiate de l'outil
+- Verbatim : "Et il me donne un exemple tout de suite."
+- Code 3 : Adaptation des réponses de l'outil
+- Verbatim : "Soit la phrase, elle est mal construite et du coup, je la réécris différemment pour qu'elle soit plus française."
+- Code 4 : Utilisation des réponses de l'outil
+- Verbatim : "Soit je la réécris tel quel parce qu'elle fonctionne très bien."
+- Code 5 : Appréciation de la réactivité de l'outil
+- Verbatim : "D'un coup, t'as pas un exemple en tête. Tu lui demandes un exemple, il t'en donne un tout de suite."
+- Code 6 : Interaction continue avec l'outil
+- Verbatim : "Et du coup, ça aide à..."
+- Code 7 : Personnalisation des exercices
+- Verbatim : "Je te passe les détails."
+- Code 8 : Commande spécifique à l'outil
+- Verbatim : "Tu peux me faire une série de 15 exercices qui varient entre ces règles là."
+- Code 9 : Utilisation dans la préparation de cours
+- Verbatim : "J'arrive pas à trouver un exemple avec un tel problème."
+- Code 10 : Bénéfice de l'interaction pour la préparation
+- Verbatim : "Et du coup, c'est très bien."
+
+**Thème 4 : Impact sur la pratique enseignante**
+
+- Code 1 : Changement dans la pratique enseignante
+- Verbatim : "Celui-là, c'est l'un des premiers où j'ai utilisé JJPT."
+- Code 2 : Facilitation de la préparation de cours
+- Verbatim : "Ça te donne tellement de temps, ça te fait gagner tellement de temps."
+- Code 3 : Utilité pour les exercices de drill
+- Verbatim : "Pour ce genre de sujet là où c'est des exercices de drill et d'entraînement"
+- Code 4 : Impact sur la créativité dans la préparation
+- Verbatim : "tu as souvent, quand tu veux donner des exemples, les mêmes exemples qui te viennent en tête tout le temps."
+- Code 5 : Aide à la diversification des exercices
+- Verbatim : "ça t'évite à toi d'avoir à faire chaque exercice en prenant le temps de varier, d'avoir un exemple."
+- Code 6 : Changement dans la charge de travail
+- Verbatim : "Ça demande clairement moins de temps."
+- Code 7 : Maintien de la qualité des exercices
+- Verbatim : "Les exercices en test sont obligatoirement faits par un humain."
+- Code 8 : Expérience positive avec l'outil
+- Verbatim : "Enfin, je trouve ça génial."
+- Code 9 : Évolution dans l'utilisation de l'outil
+- Verbatim : "Après, c'était plus des contraintes de... J'ai donné celui-là parce qu'il y avait des contraintes aussi de longueur."
+- Code 10 : Satisfaction globale
+- Verbatim : "Et du coup, c'est très bien."
+
+**Thème 5 : Contraintes et Règles dans l'Enseignement**
+
+- Code 1 : Règles pour la préparation des tests
+- Verbatim : "Les exercices en test sont obligatoirement faits par un humain."
+- Code 2 : Contraintes de temps dans la préparation
+- Verbatim : "Donc au final, je prends le même temps."
+- Code 3 : Contraintes liées à la répétitivité
+- Verbatim : "tu as souvent, quand tu veux donner des exemples, les mêmes exemples qui te viennent en tête tout le temps."
+- Code 4 : Respect des règles
+- Verbatim : "Ça, il n'y a pas de... C'est une règle."
+- Code 5 : Flexibilité dans l'application des règles
+- Verbatim : "Après, ça se trouve, il y a des gens qui ne respectent pas cette règle."
+- Code 6 : Contraintes de contenu
+- Verbatim : "J'ai donné celui-là parce qu'il y avait des contraintes aussi de longueur."
+- Code 7 : Limitations personnelles
+- Verbatim : "Mais bon, ça, c'est hors de mon domaine, hors de mon savoir, je ne sais pas."
+- Code 8 : Impact des contraintes sur la pratique
+- Verbatim : "c'est difficile, parce que t'as souvent, quand tu veux donner des exemples, les mêmes exemples qui te viennent en tête tout le temps."
+- Code 9 : Utilisation de l'outil pour contourner les contraintes
+- Verbatim : "Tu peux demander directement à Tchatchépté"
+- Code 10 : Adaptation face aux contraintes
+- Verbatim : "Après moi j'aime bien le faire."

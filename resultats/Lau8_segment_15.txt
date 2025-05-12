@@ -1,0 +1,111 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes sociologiques pertinents. Voici les résultats de mon analyse, structurés autour de 5 thèmes principaux avec leurs codes et verbatims associés.
+
+### Thème 1 : Perception et Utilisation de ChatGPT
+- Code 1 : Perception de l'utilité de ChatGPT
+  - Verbatim : "Je pense que oui, mais je ne l'ai pas lu."
+- Code 2 : Utilisation personnelle de ChatGPT
+  - Verbatim : "Je n’utilise pas vraiment ChatGPT pour tout ce qui est rendus"
+- Code 3 : Intérêt pour les informations relatives à ChatGPT
+  - Verbatim : "J’ai juste jeté un coup d'œil. Et quand j’ai vu que ça ne m'intéressait pas trop, j’ai laissé tomber."
+- Code 4 : Rôle de l'encadrement dans l'utilisation de ChatGPT
+  - Verbatim : "Je crois que c’est la prof qui a dû dire quelque chose à ce sujet."
+- Code 5 : Connaissance du règlement concernant ChatGPT
+  - Verbatim : "Je n’ai pas lu le document en détail"
+- Code 6 : Nécessité d'un règlement
+  - Verbatim : "Je pense que oui, si les gens, les étudiants se posent vraiment des questions."
+- Code 7 : Impact sur les pratiques d'apprentissage
+  - Verbatim : "Il y aura comme une aide tout le temps à disposition 24h sur 24."
+- Code 8 : Comparaison avec Internet
+  - Verbatim : "C'est déjà le cas avec Internet. Et je pense que ce sera encore plus poussé."
+- Code 9 : Avantages de ChatGPT par rapport à Internet
+  - Verbatim : "C'est synthétisé. C'est structuré."
+- Code 10 : Gain de temps
+  - Verbatim : "Je pense que ça permet de gagner du temps pour quelque chose."
+
+### Thème 2 : Impact des Outils d'IA sur l'Apprentissage
+- Code 1 : Changement dans les pratiques d'apprentissage
+  - Verbatim : "Ça change énormément"
+- Code 2 : Aide disponible avec les outils d'IA
+  - Verbatim : "Il y aura comme une aide tout le temps à disposition 24h sur 24."
+- Code 3 : Structuration de l'information
+  - Verbatim : "C'est structuré en phrases, en paragraphes, en idées"
+- Code 4 : Utilisation efficace de l'information
+  - Verbatim : "Tu peux l'utiliser directement, en fait."
+- Code 5 : Progrès scientifiques et technologiques
+  - Verbatim : "Ça permettra d'aller beaucoup plus vite, beaucoup plus loin."
+- Code 6 : Risques associés à l'utilisation des outils d'IA
+  - Verbatim : "Si on n’arrive pas à contrôler, c’est super risqué."
+- Code 7 : Questions éthiques
+  - Verbatim : "C’est pour ça qu’il y a autant de questions éthiques qui se posent."
+- Code 8 : Autonomie des algorithmes
+  - Verbatim : "C’est tellement autonome, ça devient tellement indépendant"
+- Code 9 : Contrôle et régulation
+  - Verbatim : "C’est un peu problématique. On arrive déjà pas à tout se contrôler dans la vie"
+- Code 10 : Impact sur la société
+  - Verbatim : "C’est déjà dans nos têtes, ça agit inconsciemment."
+
+### Thème 3 : Réglementation et Contrôle des IA
+- Code 1 : Nécessité d'une réglementation
+  - Verbatim : "Je pense qu’il y a quelque chose à faire au niveau des lois."
+- Code 2 : Limites au développement des IA
+  - Verbatim : "On ne va pas la laisser faire ce dont elle est capable."
+- Code 3 : Cadre réglementaire pour les IA
+  - Verbatim : "Dans quel cadre faudrait-il la cadrer ?"
+- Code 4 : Exemple de réglementation
+  - Verbatim : "On a déjà un cours de droit et numérique. Droit et société numérique."
+- Code 5 : Rôle des lois dans la régulation des IA
+  - Verbatim : "C’est pas juste une question de lois, parce que c’est une partie de la société."
+- Code 6 : Complexité de la régulation
+  - Verbatim : "Dans la société, y’a pas que les lois, le droit ou la justice qui régissent tout."
+- Code 7 : Risques liés à l'absence de contrôle
+  - Verbatim : "Si on n’arrive pas à contrôler, c’est super risqué."
+- Code 8 : Importance de la régulation pour prévenir les abus
+  - Verbatim : "On sait ce dont elle est capable, mais on ne va pas la laisser faire ce dont elle est capable."
+- Code 9 : Défis de la régulation
+  - Verbatim : "C’est un peu problématique. On arrive déjà pas à tout se contrôler dans la vie"
+- Code 10 : Nécessité d'une approche globale
+  - Verbatim : "C’est pas juste une question de lois"
+
+### Thème 4 : Conséquences Sociales et Éthiques des IA
+- Code 1 : Impact sur la société
+  - Verbatim : "C’est déjà dans nos têtes, ça agit inconsciemment."
+- Code 2 : Changement de comportement
+  - Verbatim : "La flemme, par exemple, la motivation, ça joue sur tout ça, ça impacte clairement."
+- Code 3 : Risques éthiques
+  - Verbatim : "C’est pour ça qu’il y a autant de questions éthiques qui se posent."
+- Code 4 : Autonomie des IA
+  - Verbatim : "C’est tellement autonome, ça devient tellement indépendant"
+- Code 5 : Perte de contrôle
+  - Verbatim : "On arrive déjà pas à tout se contrôler dans la vie, mais si nous-mêmes on crée un truc pour nous contrôler, c’est encore pire."
+- Code 6 : Impact sur les valeurs humaines
+  - Verbatim : "C’est comme si on était déjà un peu brainwashed."
+- Code 7 : Influence sur les comportements individuels
+  - Verbatim : "Ça impacte clairement."
+- Code 8 : Conséquences imprévues
+  - Verbatim : "Y’a des risques qu’on connaît pas"
+- Code 9 : Difficulté de prévoir les conséquences
+  - Verbatim : "On sait même pas ce que ça va produire."
+- Code 10 : Nécessité d'une réflexion éthique
+  - Verbatim : "C’est pour ça qu’il y a autant de questions éthiques qui se posent."
+
+### Thème 5 : Évolution Future des IA et de Leur Impact
+- Code 1 : Développement futur des IA
+  - Verbatim : "Plutôt qu'elle va continuer à se développer. Ben ça c'est sûr."
+- Code 2 : Besoin de régulation future
+  - Verbatim : "Dans quel cadre faudrait-il la cadrer ?"
+- Code 3 : Influence sur l'apprentissage
+  - Verbatim : "Ça permettra d'aller beaucoup plus vite, beaucoup plus loin."
+- Code 4 : Progrès technologiques
+  - Verbatim : "Les avancées scientifiques, les avancées technologiques"
+- Code 5 : Impact sur la société future
+  - Verbatim : "C’est une partie de la société."
+- Code 6 : Incertitudes concernant l'avenir
+  - Verbatim : "Ah oui, ça c’est une grande question (rire) !"
+- Code 7 : Importance de l'encadrement des IA
+  - Verbatim : "On ne va pas la laisser faire ce dont elle est capable."
+- Code 8 : Rôle des lois dans l'évolution future
+  - Verbatim : "Je pense qu’il y a quelque chose à faire au niveau des lois."
+- Code 9 : Considération éthique future
+  - Verbatim : "C’est pour ça qu’il y a autant de questions éthiques qui se posent."
+- Code 10 : Adaptation de la société
+  - Verbatim : "Dans la société, y’a pas que les lois, le droit ou la justice qui régissent tout."

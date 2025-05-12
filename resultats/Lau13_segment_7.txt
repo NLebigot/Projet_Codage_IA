@@ -1,0 +1,116 @@
+Voici l'analyse de l'entretien, avec 5 thèmes distincts et environ 10 codes par thème, accompagnés de verbatim issus des réponses de l'enquêté.
+
+**Thème 1 : Accès et utilisation de Chat GPT dans le cadre universitaire**
+
+* Code 1 : Accès initial limité à internet
+ Verbatim : "En fait, de base, on n'avait pas accès..."
+* Code 2 : Utilisation de Chat GPT autorisée par l'université
+ Verbatim : "Il y a eu une annonce de policy l'Uni... on va embrace le fait que ça existe."
+* Code 3 : Utilisation de Chat GPT pour la programmation
+ Verbatim : "On allait programmer avec nos ordis et tout, et internet dans le sens où... pour avoir de la documentation sur ton langage de prog."
+* Code 4 : Accès à la version payante de Chat GPT
+ Verbatim : "C'était la 4.0 quand elle était payante."
+* Code 5 : Avantage procuré par la version payante
+ Verbatim : "Tu pouvais lui donner des PDF et des documents qu'il pouvait lire."
+* Code 6 : Utilisation de Chat GPT pour les études
+ Verbatim : "Tout le monde l'utilise."
+* Code 7 : Perception de l'université face à Chat GPT
+ Verbatim : "L'Uni... on va embrace le fait que ça existe."
+* Code 8 : Rôle de l'université dans l'encadrement de l'utilisation de Chat GPT
+ Verbatim : "Il y a eu une annonce de policy l'Uni..."
+* Code 9 : Impact de l'autorisation de Chat GPT sur la préparation aux examens
+ Verbatim : "On avait reçu un mail du prof qui nous disait spécifiquement pour cet examen vous aurez le droit d'utiliser les intelligences artificielles."
+* Code 10 : Relation entre l'université et les outils numériques
+ Verbatim : "C'est un peu devenu une norme."
+
+**Thème 2 : Inégalités et différences dans l'utilisation de Chat GPT**
+
+* Code 1 : Accès inégal à la version payante de Chat GPT
+ Verbatim : "Pas tout le monde a la version payante de Chat GPT."
+* Code 2 : Avantage procuré par la version payante de Chat GPT
+ Verbatim : "Ça te donne un avantage, du coup ?"
+* Code 3 : Différences entre les versions de Chat GPT
+ Verbatim : "Entre le 4.0 et le 3.5, le 4.0 tu pouvais lui donner des PDF et des documents qu'il pouvait lire."
+* Code 4 : Perception des différences entre les utilisateurs de Chat GPT
+ Verbatim : "Oui, quand même. Après, vu qu'il y a quand même une version gratuite..."
+* Code 5 : Évaluation de l'impact des différences entre les versions de Chat GPT
+ Verbatim : "L'avantage il se faisait ressentir à ce moment-là entre le 4.0 et le 3.5."
+* Code 6 : Accès à la version gratuite de Chat GPT
+ Verbatim : "Il y a quand même une version gratuite qui n'est pas... Ce n'est pas le fond du tiroir non plus."
+* Code 7 : Comparaison entre les utilisateurs de Chat GPT
+ Verbatim : "Ça différencie ta situation de celle d'autres étudiants et étudiantes ?"
+* Code 8 : Évaluation de l'avantage procuré par la version payante de Chat GPT
+ Verbatim : "Tu peux juste télécharger ta fiche de cours, ton examen ou ta série d'exos. La drop et lui donner."
+* Code 9 : Perception de l'évolution des versions de Chat GPT
+ Verbatim : "Maintenant, entre le 4 O et le 4 qui est plus ou moins gratuit maintenant, il n'y a pas non plus d'énormes différences."
+* Code 10 : Impact des différences entre les versions de Chat GPT sur les utilisateurs
+ Verbatim : "Ça donnait un avantage."
+
+**Thème 3 : Perception de Chat GPT et de son utilisation**
+
+* Code 1 : Perception de Chat GPT comme un outil
+ Verbatim : "Je le vois c'est un outil et c'est un outil qui a ses défauts et ses avantages."
+* Code 2 : Utilisation de Chat GPT dans les études
+ Verbatim : "Tout le monde l'utilise."
+* Code 3 : Perception de la pertinence de Chat GPT dans différents contextes
+ Verbatim : "T'utilises pas de chat GPT pour résoudre des problèmes relationnels."
+* Code 4 : Évaluation de l'utilisation de Chat GPT dans différents domaines
+ Verbatim : "Si quelqu'un faisait ça, je lui dirais qu'il est con, qu'il n'a rien compris."
+* Code 5 : Perception de la norme autour de l'utilisation de Chat GPT
+ Verbatim : "C'est un peu devenu une norme."
+* Code 6 : Comparaison entre les utilisateurs de Chat GPT dans différents contextes universitaires
+ Verbatim : "Moi, je suis dans une université polytech. Donc ça parait logique que tout le monde soit au courant et tout le monde l'utilise."
+* Code 7 : Perception des différences entre les universités
+ Verbatim : "Mais si je vais à l’UNIL et qu'il y a plus de gens à qui j'en parle qui ne l'utilisent pas, ça ne m'étonnerait pas."
+* Code 8 : Évaluation de l'impact de la culture universitaire sur l'utilisation de Chat GPT
+ Verbatim : "C'est causé par quoi cette potentielle différence du coup ?"
+* Code 9 : Perception de l'utilisation de Chat GPT comme une nécessité
+ Verbatim : "Pour moi c'est tout à fait compréhensible que tout le monde l'utilise."
+* Code 10 : Relation entre l'utilisation de Chat GPT et la culture universitaire
+ Verbatim : "C'est un peu devenu une norme."
+
+**Thème 4 : Contextualisation de l'utilisation de Chat GPT**
+
+* Code 1 : Contexte universitaire danois
+ Verbatim : "C'était à l'université au Danemark."
+* Code 2 : Université spécifique
+ Verbatim : "C'était DTU."
+* Code 3 : Contexte d'utilisation de Chat GPT
+ Verbatim : "Pour cet examen, vous aurez le droit d'utiliser les intelligences artificielles."
+* Code 4 : Type d'examen
+ Verbatim : "C'est des exos qui ont été créés sur mesure."
+* Code 5 : Contenu des cours
+ Verbatim : "On allait programmer avec nos ordis et tout..."
+* Code 6 : Relation entre le contexte universitaire et l'utilisation de Chat GPT
+ Verbatim : "Moi, je suis dans une université polytech."
+* Code 7 : Différences entre les universités
+ Verbatim : "Mais si je vais à l’UNIL..."
+* Code 8 : Perception de l'utilisation de Chat GPT dans différents contextes
+ Verbatim : "Tout le monde l'utilise dans mon université."
+* Code 9 : Évaluation de l'impact du contexte sur l'utilisation de Chat GPT
+ Verbatim : "C'est causé par quoi cette potentielle différence du coup ?"
+* Code 10 : Relation entre le contexte et la perception de Chat GPT
+ Verbatim : "C'est un peu devenu une norme."
+
+**Thème 5 : Usages et limites de Chat GPT**
+
+* Code 1 : Utilisation de Chat GPT pour les tâches de programmation
+ Verbatim : "On allait programmer avec nos ordis et tout, et internet dans le sens où... pour avoir de la documentation sur ton langage de prog."
+* Code 2 : Limites de Chat GPT dans les problèmes relationnels
+ Verbatim : "T'utilises pas de chat GPT pour résoudre des problèmes relationnels."
+* Code 3 : Évaluation de l'utilisation de Chat GPT dans différents contextes
+ Verbatim : "Si quelqu'un faisait ça, je lui dirais qu'il est con, qu'il n'a rien compris."
+* Code 4 : Avantages de Chat GPT
+ Verbatim : "C'est un outil qui a ses défauts et ses avantages."
+* Code 5 : Perception des limites de Chat GPT
+ Verbatim : "Il y a quand même une version gratuite qui n'est pas... Ce n'est pas le fond du tiroir non plus."
+* Code 6 : Évaluation de la version payante de Chat GPT
+ Verbatim : "Tu pouvais lui donner des PDF et des documents qu'il pouvait lire."
+* Code 7 : Comparaison entre les versions de Chat GPT
+ Verbatim : "Entre le 4.0 et le 3.5, le 4.0 tu pouvais lui donner des PDF et des documents qu'il pouvait lire."
+* Code 8 : Relation entre l'utilisation de Chat GPT et les tâches académiques
+ Verbatim : "Tout le monde l'utilise."
+* Code 9 : Perception de l'évolution des capacités de Chat GPT
+ Verbatim : "Maintenant, entre le 4 O et le 4 qui est plus ou moins gratuit maintenant, il n'y a pas non plus d'énormes différences."
+* Code 10 : Évaluation de l'impact de Chat GPT sur les pratiques étudiantes
+ Verbatim : "C'est un peu devenu une norme."

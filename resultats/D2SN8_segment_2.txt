@@ -1,0 +1,69 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Relation avec la technologie**
+
+- Thème : Confiance dans la technologie
+ - Code1 : Sentiment de compétence
+ - Verbatim : "je saurai m’y retrouver"
+ - Code2 : Familiarité avec les chat conversationnels
+ - Verbatim : "les chat conversationnel il y en avait déjà dans ce type sur internet"
+ - Code3 : Perception de la nouveauté
+ - Verbatim : "j’ai un peu l’impression de retrouver ça en version 6.0"
+ - Code4 : Utilisation des outils numériques
+ - Verbatim : "je dirais pas que je suis perdue si on me donne un nouveau téléphone ou un ordi"
+ - Code5 : Age et technologie
+ - Verbatim : "je suis encore un peu trop jeune pour être dépassée par les nouvelles technologies"
+
+**Segment 2 : Utilisation de ChatGPT dans le cadre universitaire**
+
+- Thème : Usage de ChatGPT pour l'aide à la rédaction et la compréhension
+ - Code1 : Structuration des idées
+ - Verbatim : "Je l’utilise principalement pour structurer mes idées"
+ - Code2 : Reformulation de passages
+ - Verbatim : "reformuler certains passages de mes écrits"
+ - Code3 : Vérification de la compréhension
+ - Verbatim : "vérifier ma compréhension d’un auteur ou d’une théorie"
+ - Code4 : Rédaction de mails professionnels
+ - Verbatim : "Je l’utilise aussi pour m’aider à rédiger des mails pro"
+ - Code5 : Limite de l'utilisation de ChatGPT
+ - Verbatim : "je l’utilise rarement pour rédiger directement mes travaux"
+
+**Segment 3 : Perception de l'impact de ChatGPT sur le travail universitaire**
+
+- Thème : Impact sur la méthode de travail
+ - Code1 : Changement dans l'organisation
+ - Verbatim : "ça a quand même beaucoup changé ma manière de travailler"
+ - Code2 : Modification de la prévoyance
+ - Verbatim : "j’ai tendance à être plus à la cool"
+ - Code3 : Perception de la qualité du travail
+ - Verbatim : "je pense pas que ça ait tant modifié mon travail que ça, en tout cas dans le fond"
+ - Code4 : Rôle de ChatGPT dans la rédaction
+ - Verbatim : "derrière c’est toujours moi qui réfléchit et qui dirige mon devoir"
+ - Code5 : Gain de temps
+ - Verbatim : "ça m’aide principalement à gagner du temps"
+
+**Segment 4 : Sentiment et responsabilité dans l'utilisation de ChatGPT**
+
+- Thème : Sentiment de culpabilité et d'intégrité académique
+ - Code1 : Sentiment de culpabilité
+ - Verbatim : "je me sentirai un peu coupable pour être franche, j’aurai l’impression de tricher"
+ - Code2 : Valeur accordée à l'écriture personnelle
+ - Verbatim : "j’aime écrire"
+ - Code3 : Perception de la responsabilité
+ - Verbatim : "si je commençais à l’utiliser pour mes devoirs, je m’en sortirai plus"
+ - Code4 : Limite auto-imposée
+ - Verbatim : "j’essaye d’éviter un maximum de me reposer complètement dessus pour faire mes devoirs"
+
+**Segment 5 : Effet de ChatGPT sur l'apprentissage et la créativité**
+
+- Thème : Utilisation de ChatGPT comme outil de déblocage et de créativité
+ - Code1 : Utilisation pour clarification
+ - Verbatim : "pour clarifier certains passages hyper théoriques"
+ - Code2 : Reformulation et réorganisation
+ - Verbatim : "pour reformuler des phrases qui partaient dans tous les sens"
+ - Code3 : Ouverture à d'autres perspectives
+ - Verbatim : "pour avoir un autre point de vue quand je me sentais bloquée dans une seule manière de penser"
+ - Code4 : Effet sur la créativité
+ - Verbatim : "pour avoir une sorte d’avis extérieur et avoir d’autres pistes qui pourraient me débloquer"
+
+Chaque thème est riche et structurant avec au moins 5 codes associés. Les verbatims sont représentatifs et issus directement des réponses de l'enquêtée. Les thèmes sont distincts et offrent des angles d'analyse variés sur l'utilisation de ChatGPT dans le contexte universitaire.

@@ -1,0 +1,111 @@
+Je vais effectuer une analyse qualitative de l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Impact de ChatGPT sur les habitudes de travail**
+- Code 1 : Gain de temps
+- Verbatim : "c'est un gain de temps incroyable d'utiliser ChatGPT pour des tâches un peu ingrates et hyper chronophages."
+- Code 2 : Modification de l'organisation du travail
+- Verbatim : "ça a clairement joué dans ma manière d’appréhender le travail"
+- Code 3 : Procrastination
+- Verbatim : "Ça m'a clairement rendue plus flemmarde."
+- Code 4 : Réduction du stress
+- Verbatim : "je me sens parfois plus relax parce que je sais que j’ai ChatGPT sous la main pour m’aider"
+- Code 5 : Risque de décalage dans le planning
+- Verbatim : "ça m’est déjà arrivé de commencer un devoir vraiment à la dernière minute"
+- Code 6 : Changement dans la planification
+- Verbatim : "ça a affecté mon niveau de stress lié aux deadlines"
+- Code 7 : Utilisation en complément
+- Verbatim : "j’essaye de les recouper avec mes notes de cours et les bibliographies"
+- Code 8 : Évaluation de l'impact
+- Verbatim : "c'est un peu mitigé"
+- Code 9 : Nécessité d'une vérification
+- Verbatim : "j’essaye de vérifier, compléter ou critiquer les informations fournies par ChatGPT"
+- Code 10 : Adaptation nécessaire
+- Verbatim : "je change de formulation jusqu’à avoir quelque chose de correct"
+
+**Thème 2 : Limites et frustrations rencontrées avec ChatGPT**
+- Code 1 : Réponses superficielles
+- Verbatim : "ChatGPT me donnait des réponses trop générales, un peu bancales parfois."
+- Code 2 : Manque de profondeur
+- Verbatim : "j’obtiens des réponses qui manquent clairement de profondeur"
+- Code 3 : Simplification excessive
+- Verbatim : "il mélangeait des concepts ou simplifiait trop les idées"
+- Code 4 : Difficulté avec les sujets complexes
+- Verbatim : "c’est compliqué de faire une bonne argumentation"
+- Code 5 : Limite dans l'approfondissement
+- Verbatim : "c’est limité quand il faut approfondir des sujets un peu complexes"
+- Code 6 : Explications simplifiées
+- Verbatim : "ChatGPT va me donner une explication simplifiée, mais parfois c’est pas assez détaillé"
+- Code 7 : Manque de nuance
+- Verbatim : "ça manque de contexte pour vraiment piger les nuances"
+- Code 8 : Frustration
+- Verbatim : "y’a eu des moments où ça m’a un peu embêtée"
+- Code 9 : Nécessité de reformulation
+- Verbatim : "je suis obligé de travailler encore par-dessus pour que ça ait du sens"
+- Code 10 : Utilité relative
+- Verbatim : "c'est utile pour gagner du temps, mais c’est limité"
+
+**Thème 3 : Interaction avec ChatGPT et formulation des demandes**
+- Code 1 : Simplicité dans la formulation
+- Verbatim : "j'essaie de rester simple et claire quand je pose mes questions à ChatGPT"
+- Code 2 : Évolution dans la formulation
+- Verbatim : "au début, j'étais super spontanée, je posais des questions assez larges"
+- Code 3 : Précision nécessaire
+- Verbatim : "maintenant, j'essaie d'être un peu plus précise, surtout quand c'est pour des trucs compliqués"
+- Code 4 : Expérimentation
+- Verbatim : "c'est encore en mode expérimentation si je vois qu’une demande donne un résultat pourris, je change de formulation"
+- Code 5 : Adaptation
+- Verbatim : "j'essaie de formuler mes demandes de façon assez directe, en me concentrant sur l'essentiel"
+- Code 6 : Réponses génériques
+- Verbatim : "j'obtenais des réponses trop génériques"
+- Code 7 : Ajustement
+- Verbatim : "je change de formulation jusqu’à avoir quelque chose de correct"
+- Code 8 : Recherche de précision
+- Verbatim : "j'essaie d'être un peu plus précise"
+- Code 9 : Formulation directe
+- Verbatim : "je formule mes demandes de façon assez directe"
+- Code 10 : Processus itératif
+- Verbatim : "je change de formulation jusqu’à avoir quelque chose de correct"
+
+**Thème 4 : Utilisation de ChatGPT comme outil d'appoint**
+- Code 1 : Vérification de concepts
+- Verbatim : "ça me permet de vérifier un concept, d’avoir une explication rapide d’un point et de le résumer"
+- Code 2 : Utilité pour les révisions
+- Verbatim : "pour des trucs assez simples ou des révisions de base, ouais, ça aide plutôt bien"
+- Code 3 : Complémentarité
+- Verbatim : "j’essaye de les recouper avec mes notes de cours et les bibliographies"
+- Code 4 : Consultation d'autres sources
+- Verbatim : "je fais une petite recherche rapide sur Google Scholar ou je consulte les ouvrages de référence"
+- Code 5 : Discussion avec les pairs
+- Verbatim : "j’en discute même avec des potes pour voir s’ils perçoivent la même chose"
+- Code 6 : Outil de soutien
+- Verbatim : "je sais que j’ai ChatGPT sous la main pour m’aider"
+- Code 7 : Utilité limitée pour les sujets complexes
+- Verbatim : "pour des trucs un peu plus profonds, si j’ai pas compris par exemple une théorie complexe en cours, là ça devient plus compliqué"
+- Code 8 : Aide à la compréhension
+- Verbatim : "ça aide à un certain niveau"
+- Code 9 : Nécessité de vérification
+- Verbatim : "faut quand même faire gaffe à pas trop repousser le taf sous prétexte que ChatGPT te facilitera le travail"
+- Code 10 : Limite de l'outil
+- Verbatim : "ça a ses limites"
+
+**Thème 5 : Modification de l'approche de travail due à ChatGPT**
+- Code 1 : Changement dans la méthode de travail
+- Verbatim : "est-ce que tu as l’impression que ChatGPT t’aide à mieux comprendre certains sujets"
+- Code 2 : Impact sur la compréhension
+- Verbatim : "ça dépend des sujets"
+- Code 3 : Modification de l'approche
+- Verbatim : "est-ce que t’aurais une technique justement pour vérifier, compléter ou critiquer les informations fournies par ChatGPT"
+- Code 4 : Vérification et complémentarité
+- Verbatim : "j’essaye de les recouper avec mes notes de cours et les bibliographies qu’on nous a données"
+- Code 5 : Utilisation de plusieurs sources
+- Verbatim : "je fais une petite recherche rapide sur Google Scholar"
+- Code 6 : Discussion avec les pairs pour validation
+- Verbatim : "j’en discute même avec des potes pour voir s’ils perçoivent la même chose"
+- Code 7 : Évolution dans la formulation des questions
+- Verbatim : "j'essaie d'être un peu plus précise, surtout quand c'est pour des trucs compliqués"
+- Code 8 : Processus itératif de reformulation
+- Verbatim : "je change de formulation jusqu’à avoir quelque chose de correct"
+- Code 9 : Adaptation nécessaire pour les sujets complexes
+- Verbatim : "c’est compliqué de faire une bonne argumentation"
+- Code 10 : Utilisation efficace de ChatGPT
+- Verbatim : "j'essaie de formuler mes demandes de façon assez directe"

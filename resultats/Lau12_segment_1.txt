@@ -1,0 +1,231 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici les résultats pour les 5 segments :
+
+**Segment 1 : Vision personnelle de ChatGPT et rapport à l'outil**
+
+- Thème : Perception de l'intelligence artificielle
+ - Code 1 : Définition de ChatGPT
+ - Verbatim : "Comment définissez-vous ChatGPT et l'intelligence artificielle en général ?"
+ - Code 2 : Premières impressions
+ - Verbatim : "Quelles sont les premières choses qui vous viennent à l'esprit lorsque vous pensez à ChatGPT ?"
+ - Code 3 : Découverte de ChatGPT
+ - Verbatim : "Quand et comment avez-vous découvert ChatGPT ?"
+ - Code 4 : Relation à la technologie
+ - Verbatim : "Comment décririez-vous votre relation à la technologie en général ?"
+ - Code 5 : Utilisation dans la filière
+ - Verbatim : "Est-ce que votre filière exige l'utilisation de logiciels divers ?"
+ - Code 6 : Familiarité avec la technologie
+ - Verbatim : "Comment vous sentez-vous par rapport à l'utilisation de nouveaux outils numériques ?"
+ - Code 7 : Impact de la technologie sur la vie quotidienne
+ - Verbatim : "Pensez-vous que la technologie améliore votre qualité de vie ?"
+ - Code 8 : Curiosité envers ChatGPT
+ - Verbatim : "Qu'est-ce qui vous a poussé à essayer ChatGPT pour la première fois ?"
+ - Code 9 : Connaissance préalable de l'IA
+ - Verbatim : "Avez-vous des connaissances préalables sur l'intelligence artificielle avant d'utiliser ChatGPT ?"
+ - Code 10 : Attentes envers ChatGPT
+ - Verbatim : "Quelles étaient vos attentes lorsque vous avez commencé à utiliser ChatGPT ?"
+
+- Thème : Expérience personnelle avec ChatGPT
+ - Code 1 : Fréquence d'utilisation
+ - Verbatim : "À quelle fréquence utilisez-vous ChatGPT dans le cadre de vos études ou au quotidien ?"
+ - Code 2 : Contexte d'utilisation
+ - Verbatim : "Pouvez-vous décrire un contexte où vous avez utilisé ChatGPT ?"
+ - Code 3 : Objectifs d'utilisation
+ - Verbatim : "Quels sont vos objectifs lorsque vous utilisez ChatGPT ?"
+ - Code 4 : Utilisation régulière
+ - Verbatim : "Est-ce que vous utilisez ChatGPT de manière régulière ou ponctuelle ?"
+ - Code 5 : Changement dans les habitudes
+ - Verbatim : "Avez-vous remarqué un changement dans vos habitudes de travail depuis que vous utilisez ChatGPT ?"
+ - Code 6 : Évolution de l'utilisation
+ - Verbatim : "Comment votre utilisation de ChatGPT a-t-elle évolué au fil du temps ?"
+ - Code 7 : Facilité d'utilisation
+ - Verbatim : "Trouvez-vous que ChatGPT est facile à utiliser ?"
+ - Code 8 : Support à l'apprentissage
+ - Verbatim : "Pensez-vous que ChatGPT soutient votre apprentissage ?"
+ - Code 9 : Limitations de ChatGPT
+ - Verbatim : "Avez-vous identifié des limitations à l'utilisation de ChatGPT ?"
+ - Code 10 : Améliorations souhaitées
+ - Verbatim : "Souhaitez-vous voir des améliorations dans ChatGPT ?"
+
+**Segment 2 : Usages de ChatGPT dans le contexte universitaire**
+
+- Thème : Activités universitaires supportées par ChatGPT
+ - Code 1 : Rédaction
+ - Verbatim : "Pour quelles activités universitaires utilisez-vous ChatGPT (ex. : rédaction, recherche d’information, révision) ?"
+ - Code 2 : Recherche d'information
+ - Verbatim : "Utilisez-vous ChatGPT pour la recherche d'information ?"
+ - Code 3 : Révision
+ - Verbatim : "Utilisez-vous ChatGPT pour la révision de vos travaux ?"
+ - Code 4 : Exemples d'utilisation
+ - Verbatim : "Pouvez-vous donner des exemples concrets d’utilisation récente de ChatGPT dans le cadre de vos études ?"
+ - Code 5 : Objectifs des sessions d'utilisation
+ - Verbatim : "Pouvez-vous nous parler des objectifs et du contexte de ces sessions ?"
+ - Code 6 : Satisfaction des réponses
+ - Verbatim : "Est-ce que les réponses fournies par ChatGPT lors de ces sessions ont répondu à vos attentes ?"
+ - Code 7 : Utilisation pour les travaux
+ - Verbatim : "Utilisez-vous ChatGPT pour vos travaux universitaires ?"
+ - Code 8 : Utilisation pour les projets
+ - Verbatim : "Utilisez-vous ChatGPT pour vos projets universitaires ?"
+ - Code 9 : Utilisation pour les examens
+ - Verbatim : "Utilisez-vous ChatGPT pour vous préparer aux examens ?"
+ - Code 10 : Utilisation régulière dans les études
+ - Verbatim : "Est-ce que vous utilisez ChatGPT de manière régulière dans vos études ?"
+
+- Thème : Retour sur des sessions d'usage
+ - Code 1 : Contexte des sessions
+ - Verbatim : "Pouvez-vous nous parler des objectifs et du contexte de ces sessions ?"
+ - Code 2 : Objectifs des sessions
+ - Verbatim : "Quels étaient vos objectifs lors de ces sessions d'utilisation ?"
+ - Code 3 : Satisfaction des réponses
+ - Verbatim : "Est-ce que les réponses fournies par ChatGPT lors de ces sessions ont répondu à vos attentes ?"
+ - Code 4 : Problèmes rencontrés
+ - Verbatim : "Avez-vous rencontré des difficultés ou des frustrations lors de certaines sessions d’usage ?"
+ - Code 5 : Résolution des problèmes
+ - Verbatim : "Comment avez-vous résolu ces problèmes ?"
+ - Code 6 : Évaluation des réponses
+ - Verbatim : "Comment évaluez-vous la qualité des réponses fournies par ChatGPT ?"
+ - Code 7 : Utilité de ChatGPT
+ - Verbatim : "Pensez-vous que ChatGPT est utile pour vos études ?"
+ - Code 8 : Impact sur le travail
+ - Verbatim : "Quel impact ChatGPT a-t-il eu sur votre travail universitaire ?"
+ - Code 9 : Changement dans l'approche
+ - Verbatim : "Avez-vous changé votre approche de travail depuis que vous utilisez ChatGPT ?"
+ - Code 10 : Recommandation
+ - Verbatim : "Recommanderiez-vous ChatGPT à d'autres étudiants ?"
+
+**Segment 3 : Impact de ChatGPT sur le travail universitaire et l'apprentissage**
+
+- Thème : Efficacité et apprentissage
+ - Code 1 : Modification du travail
+ - Verbatim : "En quoi ChatGPT a-t-il modifié votre façon de travailler ?"
+ - Code 2 : Gain de temps
+ - Verbatim : "Estimez-vous que ChatGPT vous aide principalement à gagner du temps ?"
+ - Code 3 : Qualité du travail
+ - Verbatim : "Estimez-vous que ChatGPT vous aide à améliorer la qualité de votre travail ?"
+ - Code 4 : Impact sur le temps de travail
+ - Verbatim : "Quel impact l'utilisation de ChatGPT a-t-elle sur votre rapport au temps de travail ?"
+ - Code 5 : Organisation du planning
+ - Verbatim : "Comment l'utilisation de ChatGPT influence-t-elle l'organisation de votre planning de travail ?"
+ - Code 6 : Réduction du stress
+ - Verbatim : "Dans quelle mesure l'utilisation de ChatGPT affecte-t-elle le niveau de stress lié aux échéances académiques ?"
+ - Code 7 : Amélioration de la compréhension
+ - Verbatim : "Avez-vous l’impression que l’utilisation de ChatGPT vous aide à mieux comprendre les sujets abordés en cours ?"
+ - Code 8 : Impact sur la productivité
+ - Verbatim : "Pensez-vous que ChatGPT améliore votre productivité ?"
+ - Code 9 : Utilité pour les tâches complexes
+ - Verbatim : "Pensez-vous que ChatGPT est utile pour les tâches complexes ?"
+ - Code 10 : Utilité pour les tâches répétitives
+ - Verbatim : "Pensez-vous que ChatGPT est utile pour les tâches répétitives ?"
+
+- Thème : Limites et défis rencontrés
+ - Code 1 : Difficultés rencontrées
+ - Verbatim : "Avez-vous rencontré des difficultés ou des frustrations lors de certaines sessions d’usage ?"
+ - Code 2 : Nature des difficultés
+ - Verbatim : "Quelles étaient ces difficultés ?"
+ - Code 3 : Frustrations
+ - Verbatim : "Avez-vous ressenti de la frustration lors de l'utilisation de ChatGPT ?"
+ - Code 4 : Limitations de ChatGPT
+ - Verbatim : "Pensez-vous que ChatGPT a des limitations ?"
+ - Code 5 : Impact sur la compréhension
+ - Verbatim : "Avez-vous l’impression que l’utilisation de ChatGPT vous aide à mieux comprendre les sujets abordés en cours ?"
+ - Code 6 : Effet sur le stress
+ - Verbatim : "Dans quelle mesure l'utilisation de ChatGPT affecte-t-elle le niveau de stress lié aux échéances académiques ?"
+ - Code 7 : Impact sur la motivation
+ - Verbatim : "Pensez-vous que ChatGPT affecte votre motivation ?"
+ - Code 8 : Équilibre dans l'utilisation
+ - Verbatim : "Pensez-vous que vous utilisez ChatGPT de manière équilibrée ?"
+ - Code 9 : Conscience des limites
+ - Verbatim : "Êtes-vous conscient des limites de ChatGPT ?"
+ - Code 10 : Stratégies de contournement
+ - Verbatim : "Avez-vous développé des stratégies pour contourner les limites de ChatGPT ?"
+
+**Segment 4 : Compétences et stratégies métacognitives**
+
+- Thème : Évaluation des réponses de ChatGPT
+ - Code 1 : Qualité des réponses
+ - Verbatim : "Comment évaluez-vous la qualité et la fiabilité des réponses fournies par ChatGPT ?"
+ - Code 2 : Fiabilité des réponses
+ - Verbatim : "Pensez-vous que les réponses de ChatGPT sont fiables ?"
+ - Code 3 : Stratégies de vérification
+ - Verbatim : "Adoptez-vous des stratégies spécifiques pour vérifier, compléter ou critiquer les informations fournies par ChatGPT ?"
+ - Code 4 : Critique des réponses
+ - Verbatim : "Critiquez-vous les réponses fournies par ChatGPT ?"
+ - Code 5 : Complément d'information
+ - Verbatim : "Utilisez-vous ChatGPT pour compléter vos connaissances ?"
+ - Code 6 : Formulation des questions
+ - Verbatim : "Comment évaluez-vous votre manière d'interagir avec ChatGPT, notamment dans la formulation de vos questions ou demandes ?"
+ - Code 7 : Interaction avec ChatGPT
+ - Verbatim : "Comment interagissez-vous avec ChatGPT ?"
+ - Code 8 : Ajustement des questions
+ - Verbatim : "Ajustez-vous vos questions en fonction des réponses de ChatGPT ?"
+ - Code 9 : Évaluation de la réponse
+ - Verbatim : "Évaluez-vous la pertinence des réponses de ChatGPT ?"
+ - Code 10 : Révision des réponses
+ - Verbatim : "Revoyez-vous les réponses de ChatGPT pour les améliorer ?"
+
+- Thème : Ajustement des pratiques
+ - Code 1 : Changement d'approche
+ - Verbatim : "Suite aux réponses générées par ChatGPT, modifiez-vous parfois votre approche d’un sujet ou votre méthode de travail ?"
+ - Code 2 : Nouveau point de vue
+ - Verbatim : "Avez-vous remarqué des situations où ChatGPT vous a incité à être plus critique ou à adopter une autre perspective ?"
+ - Code 3 : Changement de méthode
+ - Verbatim : "Modifiez-vous votre méthode de travail après avoir utilisé ChatGPT ?"
+ - Code 4 : Impact sur la pensée critique
+ - Verbatim : "Pensez-vous que ChatGPT améliore votre pensée critique ?"
+ - Code 5 : Impact sur la créativité
+ - Verbatim : "Pensez-vous que ChatGPT améliore votre créativité ?"
+ - Code 6 : Utilisation pour la résolution de problèmes
+ - Verbatim : "Utilisez-vous ChatGPT pour résoudre des problèmes ?"
+ - Code 7 : Appui à l'apprentissage
+ - Verbatim : "Estimez-vous que ChatGPT remplit un rôle d’accompagnement que vous ne trouviez pas ailleurs ?"
+ - Code 8 : Accessibilité
+ - Verbatim : "Appréciez-vous l'accessibilité de ChatGPT ?"
+ - Code 9 : Rapidité des réponses
+ - Verbatim : "Appréciez-vous la rapidité des réponses de ChatGPT ?"
+ - Code 10 : Personnalisation
+ - Verbatim : "Pensez-vous que ChatGPT peut être personnalisé pour vos besoins ?"
+
+**Segment 5 : Perception de ChatGPT vis-à-vis de la compétence et de la réussite académique**
+
+- Thème : Avantage perçu et dépendance
+ - Code 1 : Avantage compétitif
+ - Verbatim : "Pensez-vous que l’utilisation de ChatGPT vous donne un avantage par rapport aux autres étudiants ?"
+ - Code 2 : Nature de l'avantage
+ - Verbatim : "En quoi ChatGPT vous donne-t-il un avantage ?"
+ - Code 3 : Dépendance à ChatGPT
+ - Verbatim : "Ressentez-vous une dépendance vis-à-vis de ChatGPT pour certaines tâches académiques ?"
+ - Code 4 : Niveau de dépendance
+ - Verbatim : "À quel point ChatGPT contribue-t-il à réduire votre stress en vue d’un rendu ou d’un projet ?"
+ - Code 5 : Impact sur le stress
+ - Verbatim : "Avez-vous parfois l’impression de dépendre trop de ChatGPT ?"
+ - Code 6 : Équilibre dans l'utilisation
+ - Verbatim : "Pensez-vous que vous utilisez ChatGPT de manière équilibrée ?"
+ - Code 7 : Autonomie
+ - Verbatim : "Pensez-vous que ChatGPT affecte votre autonomie ?"
+ - Code 8 : Responsabilité
+ - Verbatim : "Pensez-vous que l'utilisation de ChatGPT affecte votre responsabilité dans votre travail ?"
+ - Code 9 : Impact sur la motivation
+ - Verbatim : "Pensez-vous que ChatGPT affecte votre motivation ?"
+ - Code 10 : Perception de la légitimité
+ - Verbatim : "Comment percevez-vous le fait d’utiliser ChatGPT dans le cadre de travaux universitaires ?"
+
+- Thème : Légitimité et acceptation
+ - Code 1 : Légitimité de l'utilisation
+ - Verbatim : "Estimez-vous que son utilisation est toujours légitime ?"
+ - Code 2 : Perception des enseignants
+ - Verbatim : "Les enseignants sont-ils au courant de vos usages de ChatGPT, et comment réagissent-ils à ce sujet ?"
+ - Code 3 : Acceptation par les pairs
+ - Verbatim : "Pensez-vous que vos pairs accepteraient l'utilisation de ChatGPT ?"
+ - Code 4 : Éthique
+ - Verbatim : "Comment vous positionnez-vous face aux enjeux éthiques liés à l'utilisation de ChatGPT ?"
+ - Code 5 : Citation et référence
+ - Verbatim : "Pensez-vous qu'il est important de citer l'utilisation de ChatGPT ?"
+ - Code 6 : Intégrité académique
+ - Verbatim : "Pensez-vous que l'utilisation de ChatGPT affecte l'intégrité académique ?"
+ - Code 7 : Transparence
+ - Verbatim : "Pensez-vous qu'il est important d'être transparent sur l'utilisation de ChatGPT ?"
+ - Code 8 : Règles universitaires
+ - Verbatim : "Pensez-vous que les règles universitaires devraient encadrer l'utilisation de ChatGPT ?"
+ - Code 9 : Discussion autour de l'utilisation
+ - Verbatim : "Pensez-vous qu'il devrait y avoir une discussion autour de l'utilisation de ChatGPT ?"
+ - Code 10 : Évolution des pratiques
+ - Verbatim : "Pensez-vous que les pratiques universitaires devraient évoluer pour inclure ChatGPT ?"

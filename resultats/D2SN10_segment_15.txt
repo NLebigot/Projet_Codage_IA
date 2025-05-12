@@ -1,0 +1,75 @@
+Pour analyser l'entretien donné en suivant une méthode rigoureuse de codage qualitatif, je vais d'abord dégager les thèmes principaux qui ressortent des réponses de l'enquêté. Puis, je vais coder les verbatim en fonction de ces thèmes, en respectant les critères demandés.
+
+### Segment 1 : Perception de l'impact de l'IA sur l'éducation
+
+- **Thème : L'avenir de l'éducation avec l'IA**
+  - Code 1 : Perception de l'IA dans l'éducation
+    - Verbatim : "Dans la mesure où l'éducation nationale y investit fortement, je pense que oui."
+  - Code 2 : Rôle futur de l'IA
+    - Verbatim : "Je ne peux pas m'imaginer une éducation sans usage de l'IA."
+  - Code 3 : Complémentarité entre l'IA et les professeurs
+    - Verbatim : "Pour moi, l'IA est vouée... à compléter les professeurs."
+  - Code 4 : Limites de l'IA
+    - Verbatim : "Un prof de SciencePo ou de lycée ne sera jamais remplacé par une IA."
+  - Code 5 : Changement dans les méthodes d'enseignement
+    - Verbatim : "La façon dont les professeurs auront à faire cours ou à préparer leurs cours va changer."
+  - Code 6 : Préparation des cours avec l'IA
+    - Verbatim : "Le fait qu'un professeur puisse préparer son cours avec de l'IA, ça me semble tout sauf réaliste."
+  - Code 7 : Évolution probable
+    - Verbatim : "C’est voué à arriver."
+  - Code 8 : Impact sur les niveaux d'enseignement
+    - Verbatim : "On peut se poser des questions sur les niveaux CP etc."
+  - Code 9 : Futur de l'enseignement
+    - Verbatim : "Je ne peux pas imaginer une éducation sans usage de l'IA."
+  - Code 10 : Adaptation nécessaire
+    - Verbatim : "Les professeurs auront à adapter leur façon d'enseigner."
+
+### Segment 2 : Préoccupations concernant l'utilisation de l'IA
+
+- **Thème : Les risques de dépendance à l'IA**
+  - Code 1 : Dépendance à l'IA
+    - Verbatim : "Je redoute que l'IA devienne comme un nouveau dieu."
+  - Code 2 : Comparaison avec "American Gods"
+    - Verbatim : "Les anciens dieux sont remplacés par de nouveaux dieux comme Internet, la technologie."
+  - Code 3 : Usage excessif de l'IA
+    - Verbatim : "On l'utilise de plus en plus pour tout et rien."
+  - Code 4 : Dépendance affective
+    - Verbatim : "Des gens en viennent à entretenir des relations amoureuses avec des IA."
+  - Code 5 : Impact sur la vie réelle
+    - Verbatim : "Est-ce qu'on n'est pas en train de s'incliner devant ce nouveau dieu qui prendra la place de notre vie réelle ?"
+  - Code 6 : Risque d'isolement
+    - Verbatim : "Rester toute la journée devant un écran à discuter avec des 1 et des 0."
+  - Code 7 : Perte de contact avec la réalité
+    - Verbatim : "Ce côté illusoire de cette réalité."
+  - Code 8 : Préoccupation pour l'avenir
+    - Verbatim : "Je me pose la question de savoir si c'est un peu triste."
+  - Code 9 : Effet sur les relations sociales
+    - Verbatim : "Plutôt que de se forcer à sortir, se développer et autres."
+  - Code 10 : Avertissement sur l'utilisation
+    - Verbatim : "Il faut faire attention à ne pas devenir dépendant."
+
+### Segment 3 : Suggestions pour l'intégration de l'IA dans l'académie
+
+- **Thème : Utilisation pédagogique de l'IA**
+  - Code 1 : Synthèse de l'information
+    - Verbatim : "L'IA est extrêmement douée pour synthétiser."
+  - Code 2 : Utilisation dans l'apprentissage
+    - Verbatim : "On pourrait trouver un usage synthétique."
+  - Code 3 : Amélioration de la prise de notes
+    - Verbatim : "Apprendre aux étudiants à bien utiliser leurs notes ou leurs cours."
+  - Code 4 : Simplification du contenu
+    - Verbatim : "L’IA peut t’apprendre à les synthétiser."
+  - Code 5 : Suggestions pour l'intégration
+    - Verbatim : "Ça dépend des attentes qu'auraient les enseignants ou les structures."
+  - Code 6 : Utilisation pour la préparation
+    - Verbatim : "Pour ensuite faire un cours plus simple à apprendre."
+  - Code 7 : Limitations de l'IA
+    - Verbatim : "Je dis pas que l’IA peut faire des leçons."
+  - Code 8 : Potentiel pédagogique
+    - Verbatim : "L'IA peut aider à préparer les cours."
+  - Code 9 : Adaptation aux besoins
+    - Verbatim : "Éventuellement, ça dépend des attentes."
+  - Code 10 : Innovation dans l'enseignement
+    - Verbatim : "Une sorte d'usage synthétique."
+
+Chaque thème est riche de codes qui reflètent les préoccupations, les perceptions et les suggestions de l'enquêté concernant l'utilisation de l'IA dans le contexte éducatif. Les verbatim choisis illustrent clairement les points soulevés, permettant une analyse sociologique approfondie de l'entretien.

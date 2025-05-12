@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : L'éducation numérique**
+ - Code 1 : Manque de formation
+ - Verbatim : "Il faudrait vraiment qu'on nous enseigne à l'utiliser de la bonne façon."
+ - Code 2 : Apprentissage informel
+ - Verbatim : "Je me suis basé sur des trucs que j'ai appris un peu par-ci, un peu par-là."
+ - Code 3 : Erreurs d'utilisation
+ - Verbatim : "Je suis sûre que si je fais plein d'erreurs dans l'utilisation, je pourrais l'utiliser encore mieux."
+ - Code 4 : Défaut d'éducation numérique
+ - Verbatim : "Ça fait partie du problème de l'éducation numérique qu'on n'a pas reçu."
+ - Code 5 : Générations futures
+ - Verbatim : "Je pense que les générations d'après, ils sont déjà un peu plus formés."
+ - Code 6 : Difficultés d'implémentation
+ - Verbatim : "On a vraiment de la peine à implémenter ça au niveau scolaire."
+ - Code 7 : Importance de la formation
+ - Verbatim : "Il faudrait qu'on nous enseigne à l'utiliser de la bonne façon."
+ - Code 8 : Utilisation intuitive
+ - Verbatim : "Je me suis basé sur des trucs que j'ai appris un peu par-ci, un peu par-là."
+ - Code 9 : Potentiel d'amélioration
+ - Verbatim : "Je pourrais l'utiliser encore mieux."
+ - Code 10 : Constats sur l'éducation numérique
+ - Verbatim : "Ça fait partie du problème de l'éducation numérique qu'on n'a pas reçu."
+
+**Thème 2 : L'utilisation de ChatGPT**
+ - Code 1 : Utilisation comme outil d'apprentissage
+ - Verbatim : "Mon frère est à l'école... il est en train d'essayer de faire son école de maturité, et puis pour lui expliquer des concepts en maths, moi je dis, écoute, demande à ChatGPT et il te fait une explication."
+ - Code 2 : Découverte de l'outil
+ - Verbatim : "Mon frère, il avait jamais pensé à ça."
+ - Code 3 : Utilisation pour les maths
+ - Verbatim : "Même pour des trucs de maths, pour expliquer."
+ - Code 4 : Utilisation comme source d'information
+ - Verbatim : "Demande à ChatGPT et il te fait une explication."
+ - Code 5 : Vérification de l'information
+ - Verbatim : "Si tu comprends pas, tu peux lui demander."
+ - Code 6 : Nouveauté de l'outil
+ - Verbatim : "Mon frère, il avait jamais pensé à ça."
+ - Code 7 : Utilisation détournée
+ - Verbatim : "On doit faire semblant de pas l'utiliser."
+ - Code 8 : Universalité de l'outil
+ - Verbatim : "Tout le monde peut l'utiliser, tout le monde doit le faire."
+ - Code 9 : Intégration dans les études
+ - Verbatim : "Pour lui expliquer des concepts en maths, moi je dis, écoute, demande à ChatGPT."
+ - Code 10 : Perception de l'outil
+ - Verbatim : "Je trouve que c'est ridicule de faire semblant de pas l'utiliser."
+
+**Thème 3 : L'intégration de ChatGPT dans l'éducation**
+ - Code 1 : Normalisation de l'utilisation
+ - Verbatim : "Pour que ce soit plus normalisé, intégré."
+ - Code 2 : Cours sur l'utilisation de ChatGPT
+ - Verbatim : "Se rendre propre pour faire des cours sur l'éducation en méthodologie, par exemple, le ChatGPT, comment le citer."
+ - Code 3 : Intégration dans les cours
+ - Verbatim : "Pour que ce soit plus normalisé, intégré."
+ - Code 4 : Utilisation comme source
+ - Verbatim : "Comment le citer ? Comme une source ?"
+ - Code 5 : Référence à ChatGPT
+ - Verbatim : "Pour expliquer des concepts en maths, moi je dis, écoute, demande à ChatGPT et il te fait une explication."
+ - Code 6 : Manière d'utiliser ChatGPT
+ - Verbatim : "Se rendre propre pour faire des cours sur l'éducation en méthodologie."
+ - Code 7 : Adéquation avec les besoins
+ - Verbatim : "Pour expliquer des concepts en maths."
+ - Code 8 : Méthodologie d'utilisation
+ - Verbatim : "Le ChatGPT, comment le citer."
+ - Code 9 : Légitimité de l'outil
+ - Verbatim : "Tout le monde peut l'utiliser, tout le monde doit le faire."
+ - Code 10 : Éducation à l'utilisation responsable
+ - Verbatim : "Se rendre propre pour faire des cours sur l'éducation en méthodologie."
+
+**Thème 4 : Les défis de l'intégration de ChatGPT**
+ - Code 1 : Résistance au changement
+ - Verbatim : "On doit faire semblant de pas l'utiliser."
+ - Code 2 : Manque de clarté
+ - Verbatim : "Je trouve que c'est ridicule de faire semblant de pas l'utiliser."
+ - Code 3 : Perception négative
+ - Verbatim : "On doit faire semblant de pas l'utiliser."
+ - Code 4 : Utilisation cachée
+ - Verbatim : "On doit faire semblant de pas l'utiliser."
+ - Code 5 : Difficultés à admettre l'utilisation
+ - Verbatim : "Je trouve que c'est ridicule de faire semblant de pas l'utiliser."
+ - Code 6 : Universalité de l'outil
+ - Verbatim : "Tout le monde peut l'utiliser, tout le monde doit le faire."
+ - Code 7 : Intégration dans la culture éducative
+ - Verbatim : "Pour que ce soit plus normalisé, intégré."
+ - Code 8 : Défis de la mise en place
+ - Verbatim : "On a vraiment de la peine à implémenter ça au niveau scolaire."
+ - Code 9 : Réflexion sur les pratiques
+ - Verbatim : "Je trouve que c'est ridicule de faire semblant de pas l'utiliser."
+ - Code 10 : Réalité de l'utilisation
+ - Verbatim : "Tout le monde peut l'utiliser, tout le monde doit le faire."
+
+**Thème 5 : Les perspectives d'avenir**
+ - Code 1 : Évolution des générations
+ - Verbatim : "Je pense que les générations d'après, ils sont déjà un peu plus formés."
+ - Code 2 : Amélioration de l'éducation numérique
+ - Verbatim : "Il faudrait qu'on nous enseigne à l'utiliser de la bonne façon."
+ - Code 3 : Intégration future
+ - Verbatim : "Pour que ce soit plus normalisé, intégré."
+ - Code 4 : Changement dans les pratiques éducatives
+ - Verbatim : "On a vraiment de la peine à implémenter ça au niveau scolaire."
+ - Code 5 : Évolution de la perception
+ - Verbatim : "Je trouve que c'est ridicule de faire semblant de pas l'utiliser."
+ - Code 6 : Adéquation avec les besoins futurs
+ - Verbatim : "Les générations d'après, ils sont déjà un peu plus formés."
+ - Code 7 : Nécessité d'une éducation adaptée
+ - Verbatim : "Il faudrait qu'on nous enseigne à l'utiliser de la bonne façon."
+ - Code 8 : Utilisation future
+ - Verbatim : "Tout le monde peut l'utiliser, tout le monde doit le faire."
+ - Code 9 : Attentes pour l'avenir
+ - Verbatim : "Je pense que les générations d'après, ils sont déjà un peu plus formés."
+ - Code 10 : Réflexions sur l'avenir de l'éducation numérique
+ - Verbatim : "Pour que ce soit plus normalisé, intégré."

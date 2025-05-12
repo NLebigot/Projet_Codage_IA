@@ -1,0 +1,75 @@
+Pour analyser l'entretien donné en suivant une méthode rigoureuse de codage qualitatif, je vais dégager les thèmes principaux et leurs codes associés en respectant les instructions fournies.
+
+### Segment 1 : L'incitation à de nouvelles pratiques avec l'IA
+
+- **Thème : L'IA comme outil de personnalisation et d'organisation**
+  - Code 1 : Personnalisation des programmes
+    - Verbatim : "Si tu veux faire un menu de la semaine, je lui dit : « écoute, cette semaine, j'ai pas envie de manger de viande, est-ce que tu peux me proposer un menu avec des repas sans viande »."
+  - Code 2 : Création de cadres de travail personnalisés
+    - Verbatim : "Ça peut te faire un programme, une liste personnalisée en fonction des demandes que tu les donnes."
+  - Code 3 : Utilisation pour la planification académique
+    - Verbatim : "Un cadre de révision, tu lui dis : « il faut que je révise mon examen et dans une semaine j'ai ça, ça, ça à faire »."
+  - Code 4 : Adoption de nouvelles habitudes
+    - Verbatim : "Ça peut créer des habitudes que tu n'avais pas forcément avant."
+  - Code 5 : Autonomie dans l'organisation
+    - Verbatim : "C'est vraiment toi qui t'imposes ça, mais t'as quand même un truc qui te force à le faire."
+  - Code 6 : Flexibilité dans l'utilisation
+    - Verbatim : "Typiquement, dans les itinéraires ou un projet, je lui avais demandé..."
+  - Code 7 : Assistance dans la planification
+    - Verbatim : "Il peut te proposer un programme pour décomposer ça."
+  - Code 8 : Gain de productivité
+    - Verbatim : "Ça te fait tout un emploi du temps et tout."
+  - Code 9 : Motivation
+    - Verbatim : "Si tu as besoin d'être motivé, d'avoir justement un cadre, il peut te le proposer."
+  - Code 10 : Utilisation pour des tâches spécifiques
+    - Verbatim : "Pour les cours de conduite, je lui avais demandé de me préparer un programme avec des objectifs."
+
+### Segment 2 : L'IA dans le cadre académique
+
+- **Thème : L'IA comme soutien à la recherche et à la bibliographie**
+  - Code 1 : Recherche de références bibliographiques
+    - Verbatim : "Il peut aussi générer des bibliographies."
+  - Code 2 : Découverte de nouvelles ressources
+    - Verbatim : "Il peut te donner des liens, éventuellement des podcasts, des vidéos ou des documentaires."
+  - Code 3 : Gain de temps dans la recherche
+    - Verbatim : "Ça peut te faire gagner beaucoup de temps."
+  - Code 4 : Personnalisation de la recherche
+    - Verbatim : "Si je lui demande... « Là, j'ai bien aimé ce texte et tout. Ça, c'est des choses qui m'intéressent. »"
+  - Code 5 : Efficacité dans la recherche
+    - Verbatim : "Au lieu de passer par le backward and forward method dans les bibliographies."
+  - Code 6 : Pertinence des résultats
+    - Verbatim : "Le texte que Chatty va te proposer il est plus ou moins dans le sujet que tu lui as demandé."
+  - Code 7 : Utilité pour les travaux académiques
+    - Verbatim : "Pour la référence bibliographique, ça peut te faire gagner beaucoup de temps."
+  - Code 8 : Support à l'exploration de sujets
+    - Verbatim : "Je m'intéresse à ces facteurs-là. Peux-tu m'aider à trouver d'autres textes qui sont dans ce style."
+  - Code 9 : Facilitation de l'accès à l'information
+    - Verbatim : "Des choses que tu n'aurais pas forcément trouvées ou que tu aurais trouvé plus difficilement en cherchant par toi-même."
+  - Code 10 : Amélioration de la qualité du travail
+    - Verbatim : "Ça te forme une liste."
+
+### Segment 3 : L'avantage comparatif de l'utilisation de l'IA
+
+- **Thème : L'impact de l'IA sur la performance académique et la dépendance**
+  - Code 1 : Accès égal à l'IA
+    - Verbatim : "Vu que c'est gratuit et que tout le monde a accès, techniquement tout le monde peut l'utiliser."
+  - Code 2 : Dépendance à l'IA
+    - Verbatim : "Ça peut être un outil où on a tendance à trop être dépendant."
+  - Code 3 : Impact sur la réflexion personnelle
+    - Verbatim : "Ça peut être un frein pour la réflexion, si tu n'as pas été formée assez à le faire par toi-même."
+  - Code 4 : Moment d'introduction à l'IA
+    - Verbatim : "Dépendant du moment académique où on nous introduit à chat."
+  - Code 5 : Niveau de compétence requis
+    - Verbatim : "J'avais déjà acquis toutes les compétences du bachelor normal, on va dire, sans être passée par ChatGPT."
+  - Code 6 : Utilisation à différents niveaux d'études
+    - Verbatim : "Tu peux être au collège, avoir 10 ans, et tu lui demandes de répondre à tes devoirs de maths."
+  - Code 7 : Limite de l'IA dans l'apprentissage
+    - Verbatim : "Ça ne t'apprend pas à résoudre un problème de maths. Ça ne t'apprend pas à écrire une dissertation."
+  - Code 8 : Assistance plutôt que remplacement
+    - Verbatim : "Ça peut t'aider, mais ça ne va jamais remplacer un apprentissage."
+  - Code 9 : Risque pour les utilisateurs précoces
+    - Verbatim : "C'est vrai que ça peut être un peu dangereux."
+  - Code 10 : Préoccupations concernant la validité et la confidentialité
+    - Verbatim : "Des mesures qu'on doit prendre au niveau de la confidentialité, au niveau de la validité des résultats."
+
+Ces thèmes et codes offrent une analyse nuancée de la manière dont l'IA est perçue et utilisée, soulignant à la fois ses avantages et ses limites dans le contexte académique et personnel.

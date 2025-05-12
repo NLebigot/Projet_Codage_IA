@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Utilisation de ChatGPT comme outil d'apprentissage et de vérification**
+- Code 1 : Vérification des réponses
+  - Verbatim : "Je vérifie d'abord avec moi ce que je sais, parce que souvent je ne lui demande pas quelque chose que je ne sais pas."
+- Code 2 : Confiance limitée
+  - Verbatim : "Je ne lui demande jamais quelque chose que je ne connais pas d'avance."
+- Code 3 : Utilisation pour créer des exercices
+  - Verbatim : "Soit m'aider à créer un exercice qui là ne demande pas forcément à créer une règle de toute pièce ou en mots."
+- Code 4 : Vérification de la mise en mots
+  - Verbatim : "La mise en mots d'une règle c'est toujours moi qui l'ai fait, peu importe."
+- Code 5 : Réécriture des réponses
+  - Verbatim : "Tu changes les mots, tu réécris les phrases entièrement ?"
+- Code 6 : Utilisation comme référence secondaire
+  - Verbatim : "Il fonctionne un peu comme une lecture secondaire où il faut pas l'apprendre comme une..."
+- Code 7 : Comparaison avec d'autres sources
+  - Verbatim : "Croiser les sources, croiser ce qu'ils disent chaque auteur."
+- Code 8 : Vérification des faiblesses
+  - Verbatim : "Potentiellement voir les faiblesses ou les limites de chat."
+- Code 9 : Rassurance
+  - Verbatim : "Mais c'est souvent un outil pour me rassurer, quelque part."
+- Code 10 : Contrôle des informations
+  - Verbatim : "Si il me sort autre chose, là, je vais me demander... OK, peut-être qu'il y a un truc que j'ai pas vu."
+
+**Thème 2 : Perception de ChatGPT en tant qu'entité**
+- Code 1 : Incertitude sur la conscience
+  - Verbatim : "Je sais pas s'il s'en rend compte ou quoi, je sais même pas s'il a une conscience, ce type."
+- Code 2 : Comparaison avec un auteur
+  - Verbatim : "Je pense que ça fait partie, ça pourrait faire partie d'un travail de recherche, chaque GPT, mais simplement il ne faut pas le voir comme une ressource primaire."
+- Code 3 : Représentation de l'information
+  - Verbatim : "Quand on fait un travail de recherche, surtout en histoire par exemple, tu prends des lectures secondaires et tu compares ce que disent les auteurs."
+- Code 4 : Personnification
+  - Verbatim : "Il a pas conscience d'être manipulé à ce moment-là, dans le sens où je vérifie ce qu'il fait."
+- Code 5 : Utilisation comme un outil
+  - Verbatim : "C'est plus pour vérifier comment lui, il fonctionne."
+- Code 6 : Intérêt pour les réponses
+  - Verbatim : "C'est assez marrant."
+- Code 7 : Limites de ChatGPT
+  - Verbatim : "Voir les faiblesses ou les limites de chat."
+- Code 8 : Différenciation avec une source primaire
+  - Verbatim : "Il ne faut pas le voir comme une ressource primaire."
+- Code 9 : Capacité à fournir des informations
+  - Verbatim : "Donne-moi la règle des parties passées avec l'oxygène à être, par exemple."
+- Code 10 : Réaction face à une réponse inattendue
+  - Verbatim : "Si il me sort autre chose, là, je vais me demander... OK, peut-être qu'il y a un truc que j'ai pas vu."
+
+**Thème 3 : Processus de vérification et de validation**
+- Code 1 : Vérification systématique
+  - Verbatim : "Je vérifie moi toujours derrière et je fais toujours moi mon exercice avec mes règles, avec ce que j'ai appris."
+- Code 2 : Comparaison avec les connaissances personnelles
+  - Verbatim : "Je vérifie d'abord avec moi ce que je sais."
+- Code 3 : Contrôle de la mise en mots
+  - Verbatim : "La mise en mots d'une règle c'est toujours moi qui l'ai fait."
+- Code 4 : Validation des informations
+  - Verbatim : "Croiser les sources, croiser ce qu'ils disent chaque auteur."
+- Code 5 : Analyse critique
+  - Verbatim : "Potentiellement voir les faiblesses ou les limites de chat."
+- Code 6 : Révision et réécriture
+  - Verbatim : "Tu changes les mots, tu réécris les phrases entièrement ?"
+- Code 7 : Importance de la vérification
+  - Verbatim : "Je vérifie d'abord avec moi ce que je sais, parce que souvent je ne lui demande pas quelque chose que je ne sais pas."
+- Code 8 : Utilisation de ChatGPT pour confirmer les connaissances
+  - Verbatim : "C'est souvent un outil pour me rassurer, quelque part."
+- Code 9 : Action face à une réponse inattendue
+  - Verbatim : "Si il me sort autre chose, là, je vais me demander... OK, peut-être qu'il y a un truc que j'ai pas vu."
+- Code 10 : Processus de validation
+  - Verbatim : "Et je vais aller chercher ailleurs."
+
+**Thème 4 : Utilisation de ChatGPT dans la création de contenu**
+- Code 1 : Aide à la création d'exercices
+  - Verbatim : "Soit m'aider à créer un exercice qui là ne demande pas forcément à créer une règle de toute pièce ou en mots."
+- Code 2 : Inspiration pour la rédaction
+  - Verbatim : "Tu demandes à chaque GPT de t'écrire une introduction, et bah tu vas jamais prendre cette introduction telle quelle."
+- Code 3 : Réutilisation des idées
+  - Verbatim : "Potentiellement, la construction de l'introduction est intéressante, donc tu peux reprendre cette base."
+- Code 4 : Réécriture et personnalisation
+  - Verbatim : "Tu reconstruis à partir de là."
+- Code 5 : Importance de la conscience de l'auteur
+  - Verbatim : "La mise en mots doit toujours être faite par quelqu'un qui a conscience de ce qu'il écrit."
+- Code 6 : Utilisation de ChatGPT comme un outil d'aide
+  - Verbatim : "C'est plus pour vérifier comment lui, il fonctionne."
+- Code 7 : Créativité et inspiration
+  - Verbatim : "Imaginons, là je prends un exemple autre, tu demandes à chaque GPT de t'écrire une introduction."
+- Code 8 : Contrôle de la qualité
+  - Verbatim : "Tu changes les mots, tu réécris les phrases entièrement ?"
+- Code 9 : Personnalisation du contenu
+  - Verbatim : "Au point où je lis ce qu'il me dit et je reprends rien du tout, j'ai réécrit avec mes mots à moi derrière."
+- Code 10 : Intégration de l'outil dans le processus créatif
+  - Verbatim : "Et bien il faut voir chaque GPT comme un auteur, à part entière."
+
+**Thème 5 : Réflexion sur les limites et les potentialités de ChatGPT**
+- Code 1 : Limites de la conscience
+  - Verbatim : "Je sais pas s'il s'en rend compte ou quoi, je sais même pas s'il a une conscience, ce type."
+- Code 2 : Potentialités dans l'apprentissage
+  - Verbatim : "C'est plus pour vérifier comment lui, il fonctionne."
+- Code 3 : Limites dans la créativité
+  - Verbatim : "La mise en mots doit toujours être faite par quelqu'un qui a conscience de ce qu'il écrit."
+- Code 4 : Utilisation critique
+  - Verbatim : "Potentiellement voir les faiblesses ou les limites de chat."
+- Code 5 : Importance de la vérification
+  - Verbatim : "Je vérifie d'abord avec moi ce que je sais."
+- Code 6 : Réflexion sur l'intégration de ChatGPT
+  - Verbatim : "Je pense que ça fait partie, ça pourrait faire partie d'un travail de recherche, chaque GPT."
+- Code 7 : Conscience des limites
+  - Verbatim : "Il ne faut pas le voir comme une ressource primaire."
+- Code 8 : Potentialités dans la recherche
+  - Verbatim : "Quand on fait un travail de recherche, surtout en histoire par exemple, tu prends des lectures secondaires et tu compares ce que disent les auteurs."
+- Code 9 : Limites dans la fiabilité
+  - Verbatim : "Si il me sort autre chose, là, je vais me demander... OK, peut-être qu'il y a un truc que j'ai pas vu."
+- Code 10 : Adaptation et évolution
+  - Verbatim : "Tu reconstruis à partir de là."

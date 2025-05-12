@@ -1,0 +1,116 @@
+Voici l'analyse du texte en respectant la méthode de codage qualitatif :
+
+**Thème 1 : Limites et fonctionnement de ChatGPT**
+
+* Code 1 : Fonctionnement probabiliste
+ Verbatim : "ChatGPT il va jamais te dire que ce que tu dis c'est faux, tu vois. Dans le sens par exemple, genre vu que ça fonctionne comme des probabilités"
+* Code 2 : Incapacité à reconnaître les erreurs
+ Verbatim : "Il va te dire oui, bien sûr ! Puis en fait, il trouvera des choses qui n'ont rien à voir"
+* Code 3 : Comparaisons erronées
+ Verbatim : "Quand tu demandes de t'aider à faire des comparaisons, en fait, il ne va pas te dire, « ah non, mais sur le similaire, ça n'a rien à faire une comparaison, ces deux éléments »"
+* Code 4 : Limites dans l'analyse de données visuelles
+ Verbatim : "Un truc qui ne marche pas très bien, c'est si tu lui mets des images de graphique et tu demandes, compare ces deux graphiques. Il n'y arrive pas"
+* Code 5 : Réponses inadaptées
+ Verbatim : "Il fait des comparaisons. En fait, il lit mal les graphiques"
+* Code 6 : Absence de reconnaissance d'erreurs
+ Verbatim : "Il va jamais te dire erreur. Il va te dire oui, bien sûr, puis te faire un truc qui est éclaté"
+* Code 7 : Lien entre fonctionnement et limites
+ Verbatim : "C'est à cause du fonctionnement des probabilités"
+* Code 8 : Développement de la technologie
+ Verbatim : "La technologie développe des versions qui sont de plus en plus performantes"
+* Code 9 : Évolution des capacités
+ Verbatim : "La différence entre les versions, elles sont folles"
+* Code 10 : Acceptation des limites
+ Verbatim : "Pour moi, c'est juste que c'est un outil qui a ces limites"
+
+**Thème 2 : Perception et utilisation de ChatGPT**
+
+* Code 1 : Utilisation comme un outil
+ Verbatim : "C'est juste que c'est un outil qui a ces limites, comme un traducteur a ces limites, comme un téléphone a ces limites"
+* Code 2 : Nécessité de vérification
+ Verbatim : "Je vais toujours double checker. Toutes les informations qu'ils me donnent, je vais essayer de..."
+* Code 3 : Intégration dans les pratiques
+ Verbatim : "On doit toujours tout sourcer..."
+* Code 4 : Perception de la technologie
+ Verbatim : "Je pense que le développement de l'intelligence artificielle, surtout ChatGPT, c'est comme... Pour moi c'est similaire à l'arrivée d'internet"
+* Code 5 : Rapidité d'adaptation
+ Verbatim : "On s'habitue très vite aussi"
+* Code 6 : Génération et familiarité avec la technologie
+ Verbatim : "Nous, on a « grandi » avec Internet"
+* Code 7 : Comparaison avec d'autres technologies
+ Verbatim : "C'est comme l'arrivée d'internet"
+* Code 8 : Évolution des attentes
+ Verbatim : "Maintenant, pour moi, ChatGPT c'est basique… »Pourquoi tu ne me fais pas un truc mieux ? »"
+* Code 9 : Impact sur les pratiques
+ Verbatim : "Tu peux lui demander, il te fait un programme de sport et tu lui donnes tes objectifs"
+* Code 10 : Familiarité avec la technologie
+ Verbatim : "C'est internet dans ta poche quoi, la folie barre, c'est ça je pense"
+
+**Thème 3 : Génération et impact de ChatGPT**
+
+* Code 1 : Génération et perception de la technologie
+ Verbatim : "Moi, je suis Gen Z"
+* Code 2 : Impact sur les jeunes
+ Verbatim : "Et moi, je me demande des fois qu'est-ce que ça va avoir comme effet pour les jeunes, en fait"
+* Code 3 : Préoccupations liées aux réseaux sociaux
+ Verbatim : "Moi, TikTok me fait plus peur que ChatGPT pour les jeunes"
+* Code 4 : Distinction entre technologies
+ Verbatim : "Les réseaux sociaux, c'est pas la même chose que... C'est une autre problématique, c'est clair"
+* Code 5 : Perception de l'impact sur la société
+ Verbatim : "On verra"
+* Code 6 : Réflexion sur les effets à long terme
+ Verbatim : "Qu'est-ce que ça va avoir comme effet pour les jeunes"
+* Code 7 : Comparaison avec d'autres technologies
+ Verbatim : "TikTok, c'est vraiment plus..."
+* Code 8 : Évaluation des risques
+ Verbatim : "Me fait plus peur que ChatGPT"
+* Code 9 : Différenciation des problématiques
+ Verbatim : "C'est une autre problématique, c'est clair"
+* Code 10 : Prudence dans l'évaluation
+ Verbatim : "On verra"
+
+**Thème 4 : Révolution technologique et société**
+
+* Code 1 : Impact d'internet sur la société
+ Verbatim : "C'est comme l'arrivée d'internet"
+* Code 2 : Changement de paradigme
+ Verbatim : "Internet dans ta poche quoi, la folie barre, c'est ça je pense"
+* Code 3 : Assistant personnel
+ Verbatim : "C'est vraiment cet assistant toujours là prêt à t'aider"
+* Code 4 : Évolution des comportements
+ Verbatim : "On s'habitue très vite aussi"
+* Code 5 : Perception de la révolution technologique
+ Verbatim : "Je pense que le développement de l'intelligence artificielle, surtout ChatGPT, c'est comme... Pour moi c'est similaire à l'arrivée d'internet"
+* Code 6 : Impact sur les pratiques quotidiennes
+ Verbatim : "Tu peux lui demander, il te fait un programme de sport et tu lui donnes tes objectifs"
+* Code 7 : Changement dans la manière de penser
+ Verbatim : "On réalise pas, mais je pense que le développement de l'intelligence artificielle"
+* Code 8 : Évolution des attentes
+ Verbatim : "Maintenant, pour moi, ChatGPT c'est basique… »Pourquoi tu ne me fais pas un truc mieux ? »"
+* Code 9 : Impact sur la société à long terme
+ Verbatim : "Qu'est-ce que ça va avoir comme effet pour les jeunes, en fait"
+* Code 10 : Comparaison avec d'autres révolutions
+ Verbatim : "C'est comme l'arrivée d'internet"
+
+**Thème 5 : Relation entre l'utilisateur et ChatGPT**
+
+* Code 1 : Interaction avec ChatGPT
+ Verbatim : "Tu peux lui demander, il te fait un programme de sport et tu lui donnes tes objectifs"
+* Code 2 : Confiance dans les réponses
+ Verbatim : "Je vais toujours double checker. Toutes les informations qu'ils me donnent, je vais essayer de..."
+* Code 3 : Perception de la capacité de ChatGPT
+ Verbatim : "Il va jamais te dire que ce que tu dis c'est faux"
+* Code 4 : Personnalisation de l'interaction
+ Verbatim : "Tu lui donnes tes objectifs"
+* Code 5 : Échange d'informations
+ Verbatim : "Il te fait un programme de sport"
+* Code 6 : Collaboration entre l'utilisateur et ChatGPT
+ Verbatim : "Tu peux lui demander"
+* Code 7 : Compréhension des limites
+ Verbatim : "C'est juste que c'est un outil qui a ces limites"
+* Code 8 : Adaptation aux capacités de ChatGPT
+ Verbatim : "On s'habitue très vite aussi"
+* Code 9 : Attentes de l'utilisateur
+ Verbatim : "Pourquoi tu ne me fais pas un truc mieux ? »"
+* Code 10 : Relation de confiance
+ Verbatim : "C'est vraiment cet assistant toujours là prêt à t'aider"

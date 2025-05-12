@@ -1,0 +1,116 @@
+Après avoir lu et relu l'entretien, j'ai identifié plusieurs thèmes pertinents pour l'analyse sociologique. Voici les résultats du codage qualitatif :
+
+**Thème 1 : Parcours scolaire et socialisation**
+
+* Code 1 : Choix de la filière scientifique
+ Verbatim : "je suis plutôt scientifique"
+* Code 2 : Importance des spécialités au bac
+ Verbatim : "on avait des spécialités, je sais pas si Ça va être très clair pour toi"
+* Code 3 : Double licence en sciences humaines et sciences politiques
+ Verbatim : "j'ai fait une double licence en sciences humaines et sciences politiques"
+* Code 4 : Intérêt pour la sociologie
+ Verbatim : "j'adore comprendre les autres, les êtres humains"
+* Code 5 : Découverte de la sociologie en double licence
+ Verbatim : "j'avais quelques cours en double licence et ça me plaisait trop"
+* Code 6 : Pas de classe préparatoire
+ Verbatim : "moi j'ai pas fait prépa"
+* Code 7 : Admission à l'ENS sans prépa
+ Verbatim : "ils m'ont pris normalement"
+* Code 8 : Importance du dossier pour l'admission
+ Verbatim : "ils prennent quelques gens sur le dossier"
+* Code 9 : Première génération à intégrer une grande école
+ Verbatim : "non non, pas du tout" (en réponse à la question de savoir si ses parents ou frère/sœur ont étudié à l'ENS)
+* Code 10 : Origine sociale et capital culturel
+ Verbatim : "mon papa il a fait une école de commerce et ma maman, elle était ingénieure"
+
+**Thème 2 : Perception de l'intelligence artificielle et de Chat GPT**
+
+* Code 1 : Définition de Chat GPT
+ Verbatim : "c'est une intelligence artificielle"
+* Code 2 : Compréhension du fonctionnement de Chat GPT
+ Verbatim : "il fait juste des matchings entre les mots"
+* Code 3 : Utilisation de Chat GPT dans le cadre universitaire
+ Verbatim : "on a eu un cours sur chat GPT"
+* Code 4 : Position de l'ENS sur l'utilisation de Chat GPT
+ Verbatim : "il pouvait de toute manière pas nous empêcher de l'utiliser"
+* Code 5 : Importance de l'utilisation intelligente de Chat GPT
+ Verbatim : "faut qu'on sache l'utiliser intelligemment"
+* Code 6 : Association de Chat GPT à l'intelligence artificielle
+ Verbatim : "je pense à l’intelligence artificielle"
+* Code 7 : Expérience personnelle avec Chat GPT
+ Verbatim : "c'est la seule que j'utilise"
+* Code 8 : Perception de l'impact de Chat GPT
+ Verbatim : "c'est un truc qui est en train de monter"
+* Code 9 : Réflexion sur les limites de Chat GPT
+ Verbatim : "il fallait pas l'utiliser comme ça"
+* Code 10 : Intégration de Chat GPT dans les pratiques universitaires
+ Verbatim : "elle nous a un peu dit comment tu… Enfin, sur quels aspects il était fort"
+
+**Thème 3 : Identité et parcours de l'étudiant**
+
+* Code 1 : Âge et niveau d'étude
+ Verbatim : "j'ai 21 ans" et "je suis en master 1 de sociologie"
+* Code 2 : Choix de la sociologie comme spécialité
+ Verbatim : "j'adore comprendre les autres, les êtres humains"
+* Code 3 : Sentiment d'appartenance à une élite
+ Verbatim : "ton école, c’est un peu une école d’élite après prépa non ?"
+* Code 4 : Perception de son propre parcours
+ Verbatim : "moi, j'ai pas fait prépa"
+* Code 5 : Importance de la mobilité sociale
+ Verbatim : "non non, pas du tout" (en réponse à la question de savoir si ses parents ou frère/sœur ont étudié à l'ENS)
+* Code 6 : Capital culturel familial
+ Verbatim : "mon papa il a fait une école de commerce et ma maman, elle était ingénieure"
+* Code 7 : Représentation de soi en tant qu'étudiant
+ Verbatim : "je suis en master 1 de sociologie"
+* Code 8 : Interaction avec l'enquêteur
+ Verbatim : "et voilà. Et toi ?"
+* Code 9 : Discussion sur les mémoires et la vie d'étudiant
+ Verbatim : "après quoi nous avons discuté pendant une demi-heure de nos mémoires et de notre vie d'étudiant"
+* Code 10 : Sentiment d'intégration dans le milieu universitaire
+ Verbatim : "j'ai fait une double licence en sciences humaines et sciences politiques"
+
+**Thème 4 : Rapports entre l'université et les nouvelles technologies**
+
+* Code 1 : Intégration des nouvelles technologies dans les cours
+ Verbatim : "on a eu un cours sur chat GPT"
+* Code 2 : Position de l'ENS sur l'utilisation des nouvelles technologies
+ Verbatim : "il pouvait de toute manière pas nous empêcher de l'utiliser"
+* Code 3 : Utilisation de Chat GPT comme outil
+ Verbatim : "c'est la seule que j'utilise"
+* Code 4 : Réflexion sur les apports et les limites de Chat GPT
+ Verbatim : "il fallait pas l'utiliser comme ça"
+* Code 5 : Importance de la formation à l'utilisation des nouvelles technologies
+ Verbatim : "faut qu'on sache l'utiliser intelligemment"
+* Code 6 : Perception de l'impact des nouvelles technologies sur les pratiques universitaires
+ Verbatim : "c'est un truc qui est en train de monter"
+* Code 7 : Discussion sur les data science
+ Verbatim : "j'étudie maintenant les data science"
+* Code 8 : Interaction entre les humanités et les sciences
+ Verbatim : "j'ai fait une double licence en sciences humaines et sciences politiques"
+* Code 9 : Évolution des pratiques universitaires
+ Verbatim : "elle nous a un peu dit comment tu… Enfin, sur quels aspects il était fort"
+* Code 10 : Adaptation des étudiants aux nouvelles technologies
+ Verbatim : "on allait l'utiliser parce que c'est un truc qui est en train de monter"
+
+**Thème 5 : Contextualisation de l'expérience étudiante**
+
+* Code 1 : Lieu d'habitation et contexte familial
+ Verbatim : "j'habite à Nanterre avec mes parents"
+* Code 2 : Déplacement pour les cours
+ Verbatim : "j'avais cours à l'EHESS jusqu'à 15h30"
+* Code 3 : Organisation de la journée
+ Verbatim : "l'entretien a eu lieu après son cours"
+* Code 4 : Importance du contexte spatial
+ Verbatim : "notre entretien a eu lieu le 24 février vers 16h30 chez moi dans le 5ème arrondissement de Paris"
+* Code 5 : Modalités de la rencontre
+ Verbatim : "j’ai été contacté à Camille par l'intermédiaire d'une connaissance de classe à l'ENS de mon camarade de D2SN"
+* Code 6 : Cadre de la discussion
+ Verbatim : "après quoi nous avons discuté pendant une demi-heure de nos mémoires et de notre vie d'étudiant"
+* Code 7 : Échanges sur les parcours universitaires respectifs
+ Verbatim : "j'ai fait ma licence de sociologie au Japon, j’ai recommencé en L3 à Paris Cité"
+* Code 8 : Comparaison des systèmes universitaires
+ Verbatim : "au Japon, il existe pas de système de grandes écoles comme en France"
+* Code 9 : Contextualisation de l'expérience étudiante
+ Verbatim : "c'est un peu une école d’élite après prépa non ?"
+* Code 10 : Perception de la sociologie dans différents contextes
+ Verbatim : "j'ai fait ma licence de sociologie au Japon"

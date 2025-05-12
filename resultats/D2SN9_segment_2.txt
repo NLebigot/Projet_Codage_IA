@@ -1,0 +1,111 @@
+Voici mon analyse sociologique de l'entretien en respectant la méthode de codage qualitatif demandée.
+
+### Thème 1 : Utilisation de Chat GPT dans les activités universitaires
+- Code 1 : Formulation de prompts sous forme de bullet points
+  - Verbatim : "Principalement je formule mes prompts sous formes de bullets points, ca peut toucher n’importe quel tâche."
+- Code 2 : Utilisation pour résumer des articles
+  - Verbatim : "Bullet points pour résumé des articles, compréhension de sujet, recherche de données sur des sujets précis."
+- Code 3 : Recherche d'idées pour et contre sur des sujets d'actualité
+  - Verbatim : "Récemment et l’une des principale tache que je lui demande c’est de me faire les idées pour et contre certains sujet d’actualités, pour voir les arguments."
+- Code 4 : Amélioration dans les réponses fournies par Chat GPT
+  - Verbatim : "Il y avait une grande différence entre le chat GPT quand il est sorti et le4 et maintenant avec le4 J'ai vu une grosse différence, dans les réponses dans les recherches web que maintenant il peut faire."
+- Code 5 : Attention nécessaire aux sources
+  - Verbatim : "Il faut juste faire attention aux sources, c'est tout."
+- Code 6 : Utilisation de la version payante pour des fonctionnalités avancées
+  - Verbatim : "Avec l’abonnement, ça permet d'aller beaucoup plus."
+- Code 7 : Capacité à analyser des fichiers et effectuer des recherches web
+  - Verbatim : "Mettre des fichiers, faire des recherches web, qu'il puisse analyser les fichiers en fait."
+- Code 8 : Préoccupation pour la confidentialité des données
+  - Verbatim : "Mais ça aussi il faut y faire attention au niveau de la confidentialité de données."
+- Code 9 : Gain de temps dans les tâches universitaires
+  - Verbatim : "Ça me permet de gagner du temps et de me concentrer sur des tâches moins répétitives."
+- Code 10 : Utilisation pour générer des images et autres contenus
+  - Verbatim : "Même générer des images, ce qui c'est amusant."
+
+### Thème 2 : Impact de Chat GPT sur la qualité et l'efficacité du travail
+- Code 1 : Gain de temps significatif
+  - Verbatim : "Ça me permet de gagner du temps et de me concentrer sur des tâches moins répétitives, beaucoup plus centré sur la recherche, développer mes pensées."
+- Code 2 : Utilisation pour des tâches répétitives
+  - Verbatim : "Lire un texte et sortir les idées principales sont simple pour une IA, c’est le meilleur exemple je pense."
+- Code 3 : Amélioration dans la qualité du travail
+  - Verbatim : "Dans les tâches qui me demandent plus de concentration, ça permet aussi d'avoir un gain de temps et aussi d'avoir d'autres idées, d'autres perspectives."
+- Code 4 : Limite dans la dépendance à Chat GPT
+  - Verbatim : "On ne peut pas dépendre totalement de GPT."
+- Code 5 : Utilisation pour des tâches spécifiques et limitées
+  - Verbatim : "Oui, parce qu’on ne peut pas dépendre totalement de GPT."
+- Code 6 : Changement dans le planning de travail
+  - Verbatim : "Frenchement non parce qu’il faut toujours passer par les étapes répétitives avant même si c'est fait par IA."
+- Code 7 : Utilité dans la formulation de prompts
+  - Verbatim : "Demander à chat GPT de me faire des prompts pour qu'il puisse ensuite comprendre lui-même ce que je demande."
+- Code 8 : Technique pour améliorer la compréhension par Chat GPT
+  - Verbatim : "Par exemple, pour une recherche universitaire, pour chercher un article ou développer par exemple un bout de réflexion, je vais lui dire 'OK, ça je veux faire ça. Hop, comment est-ce que tu le tournerais?'"
+- Code 9 : Difficulté principale dans l'utilisation de Chat GPT
+  - Verbatim : "Euh, on va dire la seule difficulté, c'est de se faire comprendre par chat GPT."
+- Code 10 : Interaction avec Chat GPT pour améliorer les résultats
+  - Verbatim : "À partir de là, on fournit le prompt et c'est très bien je trouve."
+
+### Thème 3 : Perception et limites de Chat GPT
+- Code 1 : Satisfaction générale envers Chat GPT
+  - Verbatim : "Je suis assez content des réponses qu’ils me donnent."
+- Code 2 : Évolution positive de Chat GPT
+  - Verbatim : "J'ai vu une grosse différence, dans les réponses dans les recherches web que maintenant il peut faire."
+- Code 3 : Limitations dans la qualité des sources
+  - Verbatim : "Il faut juste faire attention aux sources, c'est tout."
+- Code 4 : Préoccupations concernant la confidentialité
+  - Verbatim : "Mais ça aussi il faut y faire attention au niveau de la confidentialité de données."
+- Code 5 : Utilisation appropriée pour des tâches académiques
+  - Verbatim : "Bullet points pour résumé des articles, compréhension de sujet, recherche de données sur des sujets précis."
+- Code 6 : Dépendance limitée à Chat GPT
+  - Verbatim : "On ne peut pas dépendre totalement de GPT."
+- Code 7 : Utilisation complémentaire pour des tâches de recherche
+  - Verbatim : "Beaucoup plus centré sur la recherche, développer mes pensées."
+- Code 8 : Appréciation pour la nouveauté et la créativité
+  - Verbatim : "Même générer des images, ce qui c'est amusant."
+- Code 9 : Perception de l'utilité globale
+  - Verbatim : "C'est ça exactement."
+- Code 10 : Acceptation des limites de Chat GPT
+  - Verbatim : "Il faut juste faire attention aux sources, c'est tout."
+
+### Thème 4 : Stratégies d'utilisation et d'optimisation de Chat GPT
+- Code 1 : Formulation de prompts efficaces
+  - Verbatim : "Principalement je formule mes prompts sous formes de bullets points."
+- Code 2 : Utilisation de Chat GPT pour améliorer les prompts
+  - Verbatim : "Demander à chat GPT de me faire des prompts pour qu'il puisse ensuite comprendre lui-même ce que je demande."
+- Code 3 : Adaptation aux capacités de Chat GPT
+  - Verbatim : "J'ai utilisé une magnifique technique qui s'appelle demander à chat GPT de me faire des prompts."
+- Code 4 : Exploitation des fonctionnalités avancées
+  - Verbatim : "Avec l’abonnement, ça permet d'aller beaucoup plus."
+- Code 5 : Gestion de la confidentialité des données
+  - Verbatim : "Mais ça aussi il faut y faire attention au niveau de la confidentialité de données."
+- Code 6 : Utilisation pour la recherche et l'analyse
+  - Verbatim : "Beaucoup plus centré sur la recherche, développer mes pensées."
+- Code 7 : Interaction pour améliorer la compréhension
+  - Verbatim : "Comment est-ce que tu le tournerais? Comment est-ce que tu créerais le prompt idéal pour que j'atteigne ce résultat?"
+- Code 8 : Optimisation de l'utilisation
+  - Verbatim : "À partir de là, on fournit le prompt et c'est très bien je trouve."
+- Code 9 : Stratégie pour contourner les limites
+  - Verbatim : "Euh, on va dire la seule difficulté, c'est de se faire comprendre par chat GPT."
+- Code 10 : Flexibilité dans l'utilisation
+  - Verbatim : "Ca peut toucher n’importe quel tâche."
+
+### Thème 5 : Intégration de Chat GPT dans la routine de travail
+- Code 1 : Impact sur le planning de travail
+  - Verbatim : "Frenchement non parce qu’il faut toujours passer par les étapes répétitives avant même si c'est fait par IA."
+- Code 2 : Utilisation régulière pour des tâches spécifiques
+  - Verbatim : "Principalement je formule mes prompts sous formes de bullets points, ca peut toucher n’importe quel tâche."
+- Code 3 : Gain de temps dans les tâches répétitives
+  - Verbatim : "Lire un texte et sortir les idées principales sont simple pour une IA, c’est le meilleur exemple je pense."
+- Code 4 : Concentration sur des tâches de plus haute valeur
+  - Verbatim : "Beaucoup plus centré sur la recherche, développer mes pensées."
+- Code 5 : Équilibre dans l'utilisation de Chat GPT
+  - Verbatim : "On ne peut pas dépendre totalement de GPT."
+- Code 6 : Complémentarité avec d'autres outils et méthodes
+  - Verbatim : "Il faut juste faire attention aux sources, c'est tout."
+- Code 7 : Adaptation aux capacités et limites de Chat GPT
+  - Verbatim : "J'ai vu une grosse différence, dans les réponses dans les recherches web que maintenant il peut faire."
+- Code 8 : Utilisation pour des tâches variées
+  - Verbatim : "Ca peut toucher n’importe quel tâche."
+- Code 9 : Perception positive de l'intégration
+  - Verbatim : "C'est ça exactement."
+- Code 10 : Continuité dans les routines de travail
+  - Verbatim : "Frenchement non parce qu’il faut toujours passer par les étapes répétitives avant même si c'est fait par IA."

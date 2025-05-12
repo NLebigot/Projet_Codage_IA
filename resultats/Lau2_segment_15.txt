@@ -1,0 +1,111 @@
+Voici mon analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif.
+
+**Thème 1 : Évaluation et usage de la technologie**
+ - Code 1 : Évaluation de l'impact de la technologie
+ - Verbatim : "il faut quand même faire attention à ne pas démoniser l'utilisation de la technologie"
+ - Code 2 : Évolution des modalités d'évaluation
+ - Verbatim : "des validations qui étaient l'année passée des rendus à faire la maison, à rendre en ligne sur Moodle, qui sont devenus en fait des examens à faire en classe"
+ - Code 3 : Adaptation des méthodes d'évaluation
+ - Verbatim : "ça pourrait avoir du sens d'avoir certains examens, que l'écriture de certains examens se fasse vraiment en classe"
+ - Code 4 : Préoccupation concernant l'usage de la technologie
+ - Verbatim : "ils évitent le problème tout court en fait"
+ - Code 5 : Nécessité d'une réflexion nuancée
+ - Verbatim : "je dirais qu'il faut quand même faire attention"
+ - Code 6 : Changement dans les pratiques pédagogiques
+ - Verbatim : "des rendus à faire la maison, à rendre en ligne sur Moodle, qui sont devenus en fait des examens à faire en classe"
+ - Code 7 : Positionnement par rapport à l'usage de la technologie
+ - Verbatim : "je pense que ça pourrait avoir du sens"
+ - Code 8 : Équilibre entre la technologie et les méthodes traditionnelles
+ - Verbatim : "certains examens se fasse vraiment en classe"
+ - Code 9 : Considération de différentes approches
+ - Verbatim : "ça peut aussi faire partie de la solution"
+ - Code 10 : Réflexion sur les modalités d'évaluation
+ - Verbatim : "je pense que ça pourrait avoir du sens d'avoir certains examens"
+
+**Thème 2 : Niveau d'études et règles d'évaluation**
+ - Code 1 : Uniformité des règles d'évaluation
+ - Verbatim : "les mêmes règles devraient valoir pour tout le monde"
+ - Code 2 : Différenciation selon le niveau d'études
+ - Verbatim : "Est-ce que tu ferais la différence au niveau d'études par exemple"
+ - Code 3 : Position de l'enquêté sur la différenciation
+ - Verbatim : "Non, je ne serais pas forcément plus sévère à un niveau ou à un autre"
+ - Code 4 : Principe d'égalité de traitement
+ - Verbatim : "les mêmes règles devraient valoir pour tout le monde"
+ - Code 5 : Rejet d'une approche différenciée selon le niveau
+ - Verbatim : "je ne serais pas forcément plus sévère à un niveau ou à un autre"
+ - Code 6 : Question de la sévérité selon le niveau d'études
+ - Verbatim : "être plus... Plus sévère au niveau bachelor, moins au niveau master ou l'inverse ?"
+ - Code 7 : Cohérence dans l'application des règles
+ - Verbatim : "je pense que les mêmes règles devraient valoir pour tout le monde"
+ - Code 8 : Égalité devant l'évaluation
+ - Verbatim : "les mêmes règles devraient valoir pour tout le monde"
+ - Code 9 : Non-différenciation dans le traitement
+ - Verbatim : "Non, je ne serais pas forcément plus sévère"
+ - Code 10 : Principe d'uniformité
+ - Verbatim : "les mêmes règles"
+
+**Thème 3 : Perception de l'impact de ChatGPT sur les études**
+ - Code 1 : Prise en compte de l'impact de ChatGPT
+ - Verbatim : "concernant ChatGPT et son impact sur ta manière d'étudier"
+ - Code 2 : Évaluation de l'effet de ChatGPT sur les pratiques d'étude
+ - Verbatim : "Est-ce qu'il y a d'autres points que tu voudrais aborder concernant ChatGPT"
+ - Code 3 : Opinion sur l'influence de ChatGPT
+ - Verbatim : "je pense que j'ai tout dit"
+ - Code 4 : Satisfaction par rapport à la discussion sur ChatGPT
+ - Verbatim : "je pense que j'ai tout dit"
+ - Code 5 : Exhaustivité de la discussion
+ - Verbatim : "je ne pense pas"
+ - Code 6 : Clôture de la discussion sur ChatGPT
+ - Verbatim : "OK, merci beaucoup!"
+ - Code 7 : Réponse à la question sur ChatGPT
+ - Verbatim : "Non, je ne pense pas"
+ - Code 8 : Considération des aspects non abordés
+ - Verbatim : "Est-ce qu'il y a d'autres points que tu voudrais aborder"
+ - Code 9 : Sentiment de complétude
+ - Verbatim : "je pense que j'ai tout dit"
+ - Code 10 : Satisfaction de l'enquêté
+ - Verbatim : "Merci à toi!"
+
+**Thème 4 : Modalités d'évaluation et prévention de la triche**
+ - Code 1 : Réponse à la triche par les examens en classe
+ - Verbatim : "des examens à faire en classe"
+ - Code 2 : Prévention de la triche via les modalités d'évaluation
+ - Verbatim : "ils évitent le problème tout court en fait"
+ - Code 3 : Changement dans les modalités d'évaluation pour prévenir la triche
+ - Verbatim : "des rendus à faire la maison... qui sont devenus en fait des examens à faire en classe"
+ - Code 4 : Stratégie pour contrer la triche
+ - Verbatim : "ça pourrait avoir du sens d'avoir certains examens en classe"
+ - Code 5 : Impact des changements de modalités sur la triche
+ - Verbatim : "ils évitent le problème tout court en fait"
+ - Code 6 : Évolution vers des examens en présentiel
+ - Verbatim : "des examens à faire en classe"
+ - Code 7 : Utilisation de la technologie pour évaluer
+ - Verbatim : "rendre en ligne sur Moodle"
+ - Code 8 : Réflexion sur les moyens de prévenir la triche
+ - Verbatim : "je pense que ça pourrait avoir du sens"
+ - Code 9 : Adaptation des évaluations pour contrer la triche
+ - Verbatim : "certains examens se fasse vraiment en classe"
+ - Code 10 : Évaluation en présentiel
+ - Verbatim : "des examens à faire en classe"
+
+**Thème 5 : Interaction et conclusion de l'entretien**
+ - Code 1 : Échange courtois
+ - Verbatim : "OK, merci beaucoup!"
+ - Code 2 : Conclusion de l'entretien
+ - Verbatim : "Merci à toi!"
+ - Code 3 : Satisfaction de l'enquêté
+ - Verbatim : "je pense que j'ai tout dit"
+ - Code 4 : Fin de la discussion
+ - Verbatim : "OK, merci beaucoup!"
+ - Code 5 : Remerciement mutuel
+ - Verbatim : "Merci à toi!"
+ - Code 6 : Clôture de l'échange
+ - Verbatim : "je ne pense pas"
+ - Code 7 : Courtoisie dans la conclusion
+ - Verbatim : "OK, merci beaucoup! Merci à toi!"
+ - Code 8 : Satisfaction par rapport à l'échange
+ - Verbatim : "je pense que j'ai tout dit"
+ - Code 9 : Finalisation de l'entretien
+ - Verbatim : "OK, merci beaucoup!"
+ - Code 10 : Amabilité dans la conclusion
+ - Verbatim : "Merci à toi!"

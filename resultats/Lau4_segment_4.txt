@@ -1,0 +1,63 @@
+Après analyse du texte, j'ai identifié plusieurs thèmes qui permettent de comprendre les habitudes et les perceptions de l'interviewée concernant l'utilisation de ChatGPT dans son processus d'écriture académique. Voici cinq thèmes distincts avec leurs codes et verbatims associés.
+
+### Thème 1 : Attentes et Satisfaction
+- Code 1 : Attentes préalables
+  - Verbatim : "quand je demande une reformulation en fait j'ai déjà quelque chose en tête"
+- Code 2 : Insatisfaction due au style
+  - Verbatim : "le style ou la manière que ChatGPT a de répondre ne me plaît pas"
+- Code 3 : Formulation spécifique
+  - Verbatim : "je n'arrive pas à rédiger ou à formuler exactement comme je voudrais"
+- Code 4 : Réponse non conforme aux attentes
+  - Verbatim : "si ChatGPT ne formule pas la manière dans laquelle je voyais le paragraphe, ça ne me convient pas"
+- Code 5 : Préconceptions
+  - Verbatim : "j'ai déjà quelque chose en tête"
+
+### Thème 2 : Raisons d'Utilisation
+- Code 1 : Gain de temps
+  - Verbatim : "c'est par facilité, parce que ça me prendrait du temps"
+- Code 2 : Recherche de perfection
+  - Verbatim : "peut-être que je cherche un peu trop la perfection, des fois"
+- Code 3 : Besoin de validation
+  - Verbatim : "c'est peut-être que là, c'est un peu pour me rassurer"
+- Code 4 : Efficacité
+  - Verbatim : "je peux être plus efficace et qu'il y aurait des idées soit meilleures ou auxquelles je n'aurais pas pensé"
+- Code 5 : Complément à l'écriture
+  - Verbatim : "mon processus d'écriture ne change pas vraiment, c'est plutôt la dernière phase qui est plus courte"
+
+### Thème 3 : Impact sur le Processus d'Écriture
+- Code 1 : Changement dans l'écriture
+  - Verbatim : "je ne dirais pas meilleure, mais plus efficace"
+- Code 2 : Gain de temps dans la rédaction
+  - Verbatim : "ça me fait gagner du temps"
+- Code 3 : Utilisation comme outil de vérification
+  - Verbatim : "c'est plutôt la dernière phase qui est plus courte"
+- Code 4 : Réduction du temps de réflexion
+  - Verbatim : "je réfléchis trop longtemps sur la tournure de phrases, sur l'agencement des informations"
+- Code 5 : Non-dépendance à l'outil
+  - Verbatim : "Moi aussi, si je... Enfin, je pourrais très bien m'en passer"
+
+### Thème 4 : Perception de l'Outil
+- Code 1 : Utilité
+  - Verbatim : "C'est un plus"
+- Code 2 : Alternative à l'écriture personnelle
+  - Verbatim : "je pourrais très bien m'en passer"
+- Code 3 : Complémentarité
+  - Verbatim : "c'est plutôt comme un complément"
+- Code 4 : Valeur ajoutée
+  - Verbatim : "il y aurait des idées soit meilleures ou auxquelles je n'aurais pas pensé"
+- Code 5 : Appréciation générale
+  - Verbatim : "ça me permet d'être plus efficace"
+
+### Thème 5 : Dépendance et Autonomie
+- Code 1 : Capacité à travailler sans l'outil
+  - Verbatim : "je pourrais très bien m'en passer"
+- Code 2 : Utilisation non systématique
+  - Verbatim : "pendant mon bachelor, je ne m'en suis pas servie"
+- Code 3 : Perception de l'outil comme facultatif
+  - Verbatim : "c'est un plus, mais je pourrais m'en passer"
+- Code 4 : Autonomie dans l'écriture
+  - Verbatim : "mon processus d'écriture ne change pas vraiment"
+- Code 5 : Indépendance
+  - Verbatim : "je ne dirais pas que ça change fondamentalement ma façon d'écrire"
+
+Ces thèmes et codes illustrent la manière dont l'interviewée utilise ChatGPT comme un outil complémentaire pour améliorer son efficacité et alléger certaines étapes de son processus d'écriture, tout en restant capable de travailler de manière autonome.

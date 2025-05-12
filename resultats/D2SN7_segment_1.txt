@@ -1,0 +1,82 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats de mon analyse :
+
+**Segment 1 : Présentation de Gabriel**
+
+- Thème : Parcours scolaire et universitaire
+ - Code 1 : Étudiant en sociologie
+ - Verbatim : "je suis à l'ENS Paris Saclay en M1 de sociologie contemporaine"
+ - Code 2 : Parcours scolaire varié
+ - Verbatim : "j'étais au lycée à Noisy-le-Grand... j'ai fait 2 ans de Prépa à Paris"
+ - Code 3 : Élite scolaire
+ - Verbatim : "Janson de Sailly dans le 16e Arrondissement"
+ - Code 4 : Mobilité géographique
+ - Verbatim : "à la fois à Saclay et à Sorbonne Université"
+ - Code 5 : Filière sélective
+ - Verbatim : "Prépa B L"
+
+- Thème : Représentation de soi
+ - Code 1 : Auto-présentation
+ - Verbatim : "Alors moi c'est Gabriel"
+ - Code 2 : Identité scolaire
+ - Verbatim : "je suis à l'ENS Paris Saclay"
+ - Code 3 : Trajectoire personnelle
+ - Verbatim : "j'ai un frère qui adore l'info"
+
+**Segment 2 : Définition de ChatGPT et de l'intelligence artificielle**
+
+- Thème : Compréhension de l'intelligence artificielle
+ - Code 1 : Définition technique
+ - Verbatim : "c'est ce qu'ils appellent LLM, large language model"
+ - Code 2 : Fonctionnement de l'IA
+ - Verbatim : "tu rentres du texte et ça te redonne du texte selon un raisonnement probabiliste"
+ - Code 3 : Données massives
+ - Verbatim : "grâce à des millions des milliards de milliards de données"
+ - Code 4 : Perception de la technologie
+ - Verbatim : "c'est pas réel, c'est pas humain"
+ - Code 5 : Aspects magiques de l'IA
+ - Verbatim : "il y a tout ce côté un peu magique quoi"
+
+- Thème : Perception de ChatGPT
+ - Code 1 : Première impression
+ - Verbatim : "La première chose qui me vient à l'esprit ?"
+ - Code 2 : Réflexion sur la nature de l'IA
+ - Verbatim : "c'est pas matériel, c'est à dire que oui"
+ - Code 3 : Expérience utilisateur
+ - Verbatim : "tu fous ton texte et ça donne du texte et c'est exactement"
+ - Code 4 : Émerveillement
+ - Verbatim : "c'est juste magique et il y a quelque chose de très enfin d'assez fou"
+
+**Segment 3 : Découverte de ChatGPT**
+
+- Thème : Influence du réseau personnel
+ - Code 1 : Rôle du frère
+ - Verbatim : "j'ai découvert ChatGPT grâce à mon frère"
+ - Code 2 : Intérêt familial pour la technologie
+ - Verbatim : "mon frère qui adore l'info"
+ - Code 3 : Discussions familiales
+ - Verbatim : "il en discutait pas mal aussi avec mon père"
+ - Code 4 : Transmission de connaissances
+ - Verbatim : "c'est comme ça. C'est à travers eux2, leurs discussions et tout"
+ - Code 5 : Découverte progressive
+ - Verbatim : "j'ai un peu appris ce qu'était Chat GPT"
+
+- Thème : Médias et information
+ - Code 1 : Présence dans les médias
+ - Verbatim : "j'en ai entendu parler sur les réseaux, sur, enfin, dans les journaux"
+ - Code 2 : Notoriété de ChatGPT
+ - Verbatim : "enfin en France, dans le monde, ça se développait quoi"
+
+**Segment 4 : Utilisation de ChatGPT**
+
+- Thème : Premières utilisations
+ - Code 1 : Curiosité initiale
+ - Verbatim : "c'était quoi la première chose que tu l'avais demandée par exemple ?"
+ - Code 2 : Usage ludique
+ - Verbatim : "Je vais te poser une question un peu pour le fun"
+ - Code 3 : Usage scolaire
+ - Verbatim : "tu t'en es servi on va dire presque professionnellement dans le cadre de ton travail"
+ - Code 4 : Exploration de la technologie
+ - Verbatim : "tu commences à essayer toi aussi"
+ - Code 5 : Intégration dans les pratiques
+
+Ces thèmes et codes offrent une analyse riche et nuancée de l'entretien, mettant en lumière les aspects saillants de la perception et de l'utilisation de ChatGPT par Gabriel, ainsi que son parcours scolaire et universitaire.

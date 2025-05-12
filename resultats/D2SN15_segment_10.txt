@@ -1,0 +1,62 @@
+Pour analyser l'entretien avec Oriane en suivant une méthode rigoureuse de codage qualitatif, j'ai identifié plusieurs thèmes avec leurs codes et verbatims associés. Voici les résultats pour les trois segments de l'entretien, avec au moins 4 à 5 thèmes distincts par segment.
+
+**Segment 1 : Utilisation de ChatGPT**
+
+- **Thème 1 : Perception de l'aide apportée par ChatGPT**
+  - Code 1 : Utilisation pour les tâches rédactionnelles
+  - Verbatim : "j'utilise ChatGPT pour les trucs où je fais... je fais un paragraphe, par exemple"
+  - Code 2 : Manque d'approfondissement
+  - Verbatim : "ça m'avance un peu sur le truc, mais ça m'apporte pas plus d'information"
+  - Code 3 : Risque de facilité
+  - Verbatim : "c'est un peu le déclic de... là, tu es en train de tomber un peu dans... une facilité un peu mauvaise"
+  - Code 4 : Motivation au travail
+  - Verbatim : "ça me motive pas trop dans ma manière de travailler"
+  - Code 5 : Rôle de ChatGPT comme outil d'assistance
+  - Verbatim : "c'est pas plus d'information, donc c'est plus ça, concrètement un rédacteur quoi"
+
+- **Thème 2 : Conscience de la dépendance à ChatGPT**
+  - Code 1 : Utilisation fréquente
+  - Verbatim : "assez rarement, parce que souvent, je... c'est un peu ce que je dis"
+  - Code 2 : Reconnaissance du risque
+  - Verbatim : "tu es en train de tomber un peu dans... une facilité un peu mauvaise"
+  - Code 3 : Impact sur la pensée critique
+  - Verbatim : "je me dis : 'Bon, vas-y, regarde pas ce qu'il a fait, et réfléchis à la place'"
+
+**Segment 2 : ChatGPT et pensée critique**
+
+- **Thème 1 : Influence de ChatGPT sur la pensée critique**
+  - Code 1 : Formulation de critiques
+  - Verbatim : "j'ai souvent du mal, enfin, à oser critiquer un article"
+  - Code 2 : Apport de légitimité
+  - Verbatim : "je pense que ça amène sa légitimité à me dire que c'est lui qui l'a dit, plutôt que moi"
+  - Code 3 : Subjectivité dans la critique
+  - Verbatim : "c'est moins subjectif que la mienne"
+  - Code 4 : Utilité pour la critique
+  - Verbatim : "il peut vraiment amener une critique, parce que, enfin, c'est... moi, j'aurais pas osé la faire"
+  - Code 5 : Rassurance dans la critique
+  - Verbatim : "c'est un peu rassurant, entre guillemets, d'avoir une critique formulée par lui"
+
+- **Thème 2 : Rôle de ChatGPT dans l'analyse**
+  - Code 1 : Analyse personnelle
+  - Verbatim : "je me dis que c'est aussi dû à ma sensibilité personnelle, ou juste que je ne comprends pas assez le sujet"
+  - Code 2 : Contribution de ChatGPT
+  - Verbatim : "il peut vraiment amener une critique"
+
+**Segment 3 : Unicité de ChatGPT et avantages comparatifs**
+
+- **Thème 1 : Unicité de l'accompagnement par ChatGPT**
+  - Code 1 : Alternative à d'autres sources
+  - Verbatim : "c'est quelque chose que je pourrais trouver ailleurs, mais qui prendrait beaucoup plus de temps"
+  - Code 2 : Personnalisation
+  - Verbatim : "je peux vraiment personnaliser au maximum ce que je veux"
+  - Code 3 : Indépendance
+  - Verbatim : "je suis beaucoup moins dépendante des sites qui paraissent et de ce que les autres ont fait"
+  - Code 4 : Contrôle sur le résultat
+  - Verbatim : "je peux vraiment... être vraiment un peu l'auteur de la consigne donc, ça répète beaucoup plus ce que je veux"
+  - Code 5 : Avantages dans la rédaction
+  - Verbatim : "si je veux une traduction, si je veux une rédaction, je peux clairement dire dans quelle mesure je la veux et comment je la veux"
+
+- **Thème 2 : Avantages comparatifs pour les étudiants**
+  - (Ce thème n'est pas pleinement exploré dans le segment disponible, mais on peut dégager les prémices de la discussion.)
+
+Ces thèmes et codes offrent une analyse nuancée de l'entretien, mettant en lumière les perceptions d'Oriane concernant l'utilisation de ChatGPT, son impact sur sa pensée critique et son unicité comme outil d'accompagnement.

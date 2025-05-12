@@ -1,0 +1,73 @@
+Voici le résultat de l'analyse de l'entretien suivant une méthode rigoureuse de codage qualitatif :
+
+**Segment 1 : Léa parle de ChatGPT et de son utilisation**
+
+- **Thème 1 : Perception de ChatGPT comme un outil**
+  - Code 1 : Utilité de ChatGPT
+  - Verbatim : "c'est vraiment outil aide et euh aussi euh création de contenu"
+  - Code 2 : Comparaison avec Google
+  - Verbatim : "on peut dire que sur ChatGPT on peut faire des recherches comme on ferait sur Google"
+  - Code 3 : Capacité de création
+  - Verbatim : "ChatGPT il peut faire plus de choses et créer entre guillemets plus de choses"
+  - Code 4 : Valeur ajoutée
+  - Verbatim : "il y a quand même une valeur ajoutée à ChatGPT que Google"
+  - Code 5 : Définition de la création
+  - Verbatim : "je sais que c'est pas vraiment de la création ce qu'il fait"
+  - Code 6 : Mélange d'informations
+  - Verbatim : "il prend tout ce qu’il connaît, il mélange et il nous donne quelque chose"
+  - Code 7 : Utilisation comme outil de recherche
+  - Verbatim : "je lui posais des questions et du coup c'est sûr que quand on pose une question sur un auteur, un article il répond beaucoup plus facilement que Google"
+  - Code 8 : Gain de temps
+  - Verbatim : "il nous l'a donné direct"
+  - Code 9 : Évolution de l'utilisation
+  - Verbatim : "j'ai commencé vraiment à l'utiliser pour rédiger des choses"
+  - Code 10 : Importance dans l'activité quotidienne
+  - Verbatim : "je pense qu'aujourd'hui, c'est encore un peu mon activité principale"
+
+- **Thème 2 : Découverte et premiers pas avec ChatGPT**
+  - Code 1 : Moment de la découverte
+  - Verbatim : "j'ai découvert ChatGPT à la fin de ma deuxième année de prépa"
+  - Code 2 : Première utilisation
+  - Verbatim : "je l'utilisais vraiment pas parce que moi je connaissais pas trop"
+  - Code 3 : Utilisation en L3
+  - Verbatim : "j'ai commencé vraiment à l’utiliser en L3 donc l'année dernière"
+  - Code 4 : Premières impressions
+  - Verbatim : "au début je l’utilisais un peu comme Google"
+  - Code 5 : Changement dans l'utilisation
+  - Verbatim : "après, au second semestre, j'ai commencé vraiment à l'utiliser pour rédiger des choses"
+
+- **Thème 3 : Influence de l'entourage sur l'utilisation de ChatGPT**
+  - Code 1 : Découverte par l'entourage
+  - Verbatim : "je pense que tout le monde en parlait"
+  - Code 2 : Influence de la famille
+  - Verbatim : "ma mère elle m'en avait parlé parce qu’elle l’avait eu aux infos je crois"
+  - Code 3 : Réseau amical
+  - Verbatim : "j'avais des amis qui l'utilisaient"
+  - Code 4 : Vision initiale de ChatGPT
+  - Verbatim : "j'avais une vision un peu négative de ChatGPT"
+  - Code 5 : Changement de perception
+  - Verbatim : "j'ai vu qu'il y avait des gens autour de moi qui l'utilisaient et qu’eux ils trouvaient ça bien"
+
+- **Thème 4 : Perception négative initiale de ChatGPT**
+  - Code 1 : Crainte de remplacement
+  - Verbatim : "je me souviens que quand j'ai créé mon compte, je me suis dit “mais je sais pas est-ce que c'est pas mal vu de faire ça”"
+  - Code 2 : Vision négative de l'automatisation
+  - Verbatim : "les gens, ils disaient que ça allait remplacer les hommes"
+  - Code 3 : Impact sur le travail personnel
+  - Verbatim : "je m'étais dit que si j'allais moins lui donner ma dissert’ il allait forcément faire un truc moins bien que ce que moi j'aurais fait"
+  - Code 4 : Valeur accordée au travail personnel
+  - Verbatim : "on avait un peu le goût du travail"
+  - Code 5 : Perception de facilité
+  - Verbatim : "faire une dissert’ à l'époque ça nous prenait 5/6 heures avec ChatGPT je m'étais pas dit que peut-être que maintenant on pourrait faire ça en 2 heures"
+
+- **Thème 5 : Évolution de la perception de ChatGPT**
+  - Code 1 : Changement de comportement
+  - Verbatim : "j'ai commencé vraiment à l'utiliser pour rédiger des choses"
+  - Code 2 : Acceptation de l'outil
+  - Verbatim : "je pense qu'aujourd'hui, c'est encore un peu mon activité principale"
+  - Code 3 : Perception de l'aide
+  - Verbatim : "c'est vraiment outil aide"
+  - Code 4 : Utilisation comme outil de rédaction
+  - Verbatim : "j'ai commencé vraiment à l'utiliser pour rédiger des choses"
+
+Ces thèmes et codes offrent une analyse sociologique de l'entretien en respectant les exigences de codage qualitatif.

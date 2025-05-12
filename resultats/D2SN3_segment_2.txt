@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Première expérience avec ChatGPT**
+
+- Thème : Perception initiale de ChatGPT
+ - Code 1 : Effrayé par le projet académique
+ - Verbatim : "on était effrayé, on avait des craintes de ne pas réussir"
+ - Code 2 : Découverte de ChatGPT par les camarades
+ - Verbatim : "mes collègues, c'est ma camarade de mes camarades de classe qui m'ont parlé de CHGBT"
+ - Code 3 : Usage initial de ChatGPT
+ - Verbatim : "on a testé PT bien qu'il était déjà lancé, on ignorait son usage"
+ - Code 4 : Fascination pour ChatGPT
+ - Verbatim : "on était tout fasciné"
+ - Code 5 : Conscientisation des limites de ChatGPT
+ - Verbatim : "on s'est dit que bah si on a fait le même projet, les mêmes consignes, bah on a dû obtenir les mêmes résultats"
+ - Code 6 : Naïveté dans l'usage de ChatGPT
+ - Verbatim : "c'était un usage naïf"
+ - Code 7 : Manque de critique de l'usage de ChatGPT
+ - Verbatim : "on n'a pas critiqué notre consommation de chat GPT"
+ - Code 8 : Première expérience avec ChatGPT
+ - Verbatim : "c'était lors de mon M1"
+ - Code 9 : Impact sur les résultats
+ - Verbatim : "toute la classe a délivré le même résultat"
+ - Code 10 : Réflexion sur l'impression du professeur
+ - Verbatim : "je sais pas jusqu'à maintenant quel était l'impression du professeur"
+
+- Thème : Impact de ChatGPT sur le travail académique
+ - Code 1 : Utilisation de ChatGPT pour les tâches académiques
+ - Verbatim : "on faisait recours à ChatGPT pour nous aider à reformuler et adopter un style plus académique"
+ - Code 2 : Fréquence d'utilisation de ChatGPT
+ - Verbatim : "je dirais qu'on ne faisait pas souvent recours à ChatGPT"
+ - Code 3 : Différence d'utilisation entre les étudiants
+ - Verbatim : "les étudiants étaient un peu conservateurs quant à leurs réponses et leur usage de ChatGPT"
+ - Code 4 : Utilisation de ChatGPT pour les analyses
+ - Verbatim : "les étudiants renseignaient directement les consignes du prof à ChatGPT pour leur faire une première analyse du sujet"
+ - Code 5 : Tricherie et utilisation de ChatGPT
+ - Verbatim : "la tricherie était vraiment un sujet très exigeant, très surveillé, très supervisé"
+ - Code 6 : Ruse des étudiants pour utiliser ChatGPT
+ - Verbatim : "les étudiants étaient rusés, genre ils étaient en alerte"
+ - Code 7 : Fréquence d'utilisation de ChatGPT dans un contexte spécifique
+ - Verbatim : "c'était très fréquent là, dans mon semestre d'échange"
+ - Code 8 : Impact de la notoriété de ChatGPT sur son utilisation
+ - Verbatim : "peut-être que c'est, euh, il y a un paramètre de temps, parce que là, c'était, euh, c'était dans un moment où ChatGPT était déjà très connu"
+ - Code 9 : Évolution de ChatGPT
+ - Verbatim : "il apprend lui-même, qu'il développe, c'est du machine learning"
+ - Code 10 : Perception de l'utilisation de ChatGPT par les autres
+ - Verbatim : "j'étais vraiment choquée"
+
+**Segment 2 : Utilisation de ChatGPT dans différents contextes**
+
+- Thème : Variations dans l'utilisation de ChatGPT
+ - Code 1 : Différence d'utilisation entre les établissements
+ - Verbatim : "à l'ISCAE, je dirais que, euh, les étudiants étaient un peu conservateurs quant à leurs réponses et leur usage de ChatGPT"
+ - Code 2 : Utilisation de ChatGPT pour la rédaction
+ - Verbatim : "on faisait recours à ChatGPT pour nous aider à reformuler et adopter un style plus académique"
+ - Code 3 : Utilisation de ChatGPT dans les quiz et QCM
+ - Verbatim : "ils faisaient recours à ChatGPT, et ça m'a vraiment choquée"
+ - Code 4 : Perception de la tricherie
+ - Verbatim : "la tricherie était vraiment un sujet très exigeant, très surveillé, très supervisé"
+ - Code 5 : Réaction face à l'utilisation de ChatGPT par les autres
+ - Verbatim : "j'étais vraiment choquée"
+ - Code 6 : Ruse des étudiants
+ - Verbatim : "les étudiants étaient rusés, genre ils étaient en alerte"
+ - Code 7 : Impact de la connaissance de ChatGPT sur son utilisation
+ - Verbatim : "peut-être que c'est, euh, il y a un paramètre de temps, parce que là, c'était, euh, c'était dans un moment où ChatGPT était déjà très connu"
+ - Code 8 : Évolution de la perception de ChatGPT
+ - Verbatim : "je pense qu'il avait avancé dans sa performance, dans ses résultats"
+ - Code 9 : Fréquence d'utilisation de ChatGPT
+ - Verbatim : "c'était très fréquent là, dans mon semestre d'échange"
+ - Code 10 : Réflexion sur l'utilisation de ChatGPT
+ - Verbatim : "quand est-ce qu'on va faire notre propre travail nous-mêmes, en utilisant notre propre cerveau ?"
+
+- Thème : Réaction personnelle face à l'utilisation de ChatGPT
+ - Code 1 : Réaction initiale face à l'utilisation de ChatGPT par les autres
+ - Verbatim : "j'étais vraiment choquée"
+ - Code 2 : Perception de la tricherie
+ - Verbatim : "la tricherie était vraiment un sujet très exigeant, très surveillé, très supervisé"
+ - Code 3 : Impact sur sa propre utilisation de ChatGPT
+ - Verbatim : "est-ce que ça vous a incitée à utiliser ChatGPT plus, ou bien ça vous a fait un peu peur"
+ - Code 4 : Réflexion sur sa relation avec la technologie
+ - Verbatim : "comment s'est développée votre relation dans ce contexte à la technologie en général ?"
+ - Code 5 : Perception de l'utilisation de ChatGPT
+ - Verbatim : "j'étais vraiment choquée"
+ - Code 6 : Évolution de la perception de ChatGPT
+ - Verbatim : "peut-être que c'est, euh, il y a un paramètre de temps"
+ - Code 7 : Fréquence d'utilisation de ChatGPT
+ - Verbatim : "c'était très fréquent là, dans mon semestre d'échange"
+ - Code 8 : Réflexion sur l'utilisation de ChatGPT par les autres
+ - Verbatim : "les étudiants étaient rusés, genre ils étaient en alerte"
+ - Code 9 : Impact de la notoriété de ChatGPT
+ - Verbatim : "peut-être que c'est, euh, il y a un paramètre de temps, parce que là, c'était, euh, c'était dans un moment où ChatGPT était déjà très connu"
+ - Code 10 : Développement de la relation avec la technologie
+ - Verbatim : "comment s'est développée votre relation dans ce contexte à la technologie en général ?"
+
+Ces thèmes et codes offrent une analyse qualitative de l'entretien, mettant en lumière les perceptions et les expériences des personnes interviewées concernant l'utilisation de ChatGPT dans un contexte académique.

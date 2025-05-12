@@ -1,0 +1,116 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici les résultats :
+
+**Thème 1 : Perception de la fiabilité de ChatGPT**
+
+- Code 1 : Crédibilité due à la nature mécanique
+  - Verbatim : "Je pense que c'est parce que je sais que c'est une machine, et du coup, vu que le code, ça fait partie de son fonctionnement, je lui donne plus de crédibilité."
+- Code 2 : Différence de fiabilité entre le code et les lettres
+  - Verbatim : "Alors qu'en lettres, je sais que le raisonnement, c'est complètement autre chose que le code."
+- Code 3 : Réserve quant à la fiabilité des informations
+  - Verbatim : "Donc, le niveau de fiabilité en lettres, pour les infos qu'il me donne... j'avais oublié, mais maintenant que j'ai eu un refresh de pourquoi des fois il ne faut pas faire confiance, je ne fais pas trop confiance."
+- Code 4 : Importance de la vérification
+  - Verbatim : "Je me base un peu sur ce que je lis de temps en temps en ligne."
+- Code 5 : Influence de la langue utilisée
+  - Verbatim : "Par exemple, je lui parle en anglais parce que je sais que ça marche mieux."
+- Code 6 : Stratégies pour améliorer la réponse
+  - Verbatim : "Et puis, si je vois que ça marche pas, je le remercie pas."
+- Code 7 : Perception de l'interaction avec ChatGPT
+  - Verbatim : "Parce qu'on m'a dit que si je lui parle comme si c'était un humain, il va avoir tendance à moins bien me répondre."
+- Code 8 : Différence de comportement avec ChatGPT
+  - Verbatim : "Il pense que moi, je m'attends à ce qu'il se comporte comme un humain."
+- Code 9 : Humour et interaction avec ChatGPT
+  - Verbatim : "Ils disent, un jour, ChatGPT va nous dominer."
+- Code 10 : Stratégies d'interaction distinctes
+  - Verbatim : "Et puis du coup, si je lui remercie pas, ils vont savoir que j'ai été méchant avec..."
+
+**Thème 2 : Stratégies d'interaction avec ChatGPT**
+
+- Code 1 : Formulation des questions
+  - Verbatim : "Sur le prompting, j'ai pas beaucoup travaillé."
+- Code 2 : Utilisation de différentes langues
+  - Verbatim : "Je lui parle en anglais parce que je sais que ça marche mieux."
+- Code 3 : Réajustement en cas de réponse non pertinente
+  - Verbatim : "Si je vois qu'il est entrain de partir d'un autre côté qui ne m'intéresse pas forcément, j'arrête même la réponse."
+- Code 4 : Utilisation de la reformulation
+  - Verbatim : "Et puis je reformule, mais je ne pense pas trop à l'aspect du prompting."
+- Code 5 : Adaptation en fonction des réponses
+  - Verbatim : "Et je dis non, ça, c'est pas juste. Tu fais ça, comme ça, parce que j'ai ça."
+- Code 6 : Apport de ressources supplémentaires
+  - Verbatim : "Et puis si j'ai besoin, je lui donne d'autres ressources plus explicites."
+- Code 7 : Gestion des limites de ChatGPT
+  - Verbatim : "Je sais que j'ai un nombre limité de lignes que lui peut m'écrire en réponse."
+- Code 8 : Arrêt de la conversation
+  - Verbatim : "Je stoppe et puis je reformule."
+- Code 9 : Modification de l'approche
+  - Verbatim : "Des fois peut-être en lettres, oui je me dis que ça me sert à rien de l'utiliser donc en fait je change d'approche."
+- Code 10 : Abandon de la tâche
+  - Verbatim : "Et puis j'abandonne assez vite normalement."
+
+**Thème 3 : Utilité et limites de ChatGPT**
+
+- Code 1 : Utilité pour le codage
+  - Verbatim : "Pour moi, pour le codage, j'arriverais jamais sans ça."
+- Code 2 : Limite pour les recherches d'informations
+  - Verbatim : "J'ai essayé de chercher des offres d'emploi par rapport à mes compétences et puis en fait j'ai vu que ça marchait pas."
+- Code 3 : Inadéquation pour certaines tâches
+  - Verbatim : "Il me donne des liens méga vieux, il cherche sur Google."
+- Code 4 : Perception de l'efficacité
+  - Verbatim : "Je trouve que c'est pas très efficace."
+- Code 5 : Utilité générale
+  - Verbatim : "C'est pour ça que je trouve que c'est génial."
+- Code 6 : Complémentarité avec d'autres outils
+  - Verbatim : "J'utilisais d'autres IA gratuites."
+- Code 7 : Dépendance à ChatGPT
+  - Verbatim : "Oui, mais c'est le code."
+- Code 8 : Impact sur la réussite académique
+  - Verbatim : "Je ne pense pas que ça me donne un avantage, parce que pour moi, c'est sous-entendu que les gens l'utilisent."
+- Code 9 : Utilisation par les pairs
+  - Verbatim : "J'ai oublié qu'il y a des gens qui ne l'utilisent pas."
+- Code 10 : Perception de l'utilité pour d'autres tâches
+  - Verbatim : "Pour le reste, non. Peut-être pour les résumés."
+
+**Thème 4 : Impact de ChatGPT sur les pratiques académiques**
+
+- Code 1 : Utilisation pour la rédaction
+  - Verbatim : "Pour les résumés, mais ça, vu que ce n'est pas quelque chose qui m'intéresse."
+- Code 2 : Impact sur la manière de travailler
+  - Verbatim : "Ça me permet de travailler différemment."
+- Code 3 : Changement de comportement
+  - Verbatim : "Je change d'approche et puis j'abandonne assez vite normalement."
+- Code 4 : Perception de la compétence
+  - Verbatim : "Je ne pense pas que ça me donne un avantage."
+- Code 5 : Dépendance à ChatGPT pour certaines tâches
+  - Verbatim : "Oui, mais c'est le code."
+- Code 6 : Utilisation pour d'autres tâches
+  - Verbatim : "J'ai essayé de chercher des offres d'emploi."
+- Code 7 : Perception de l'aide apportée
+  - Verbatim : "C'est pour ça que je trouve que c'est génial."
+- Code 8 : Comparaison avec d'autres outils
+  - Verbatim : "J'utilisais d'autres IA gratuites."
+- Code 9 : Limites de ChatGPT
+  - Verbatim : "Je trouve que c'est pas très efficace."
+- Code 10 : Évaluation globale
+  - Verbatim : "Pour moi, pour le codage, j'arriverais jamais sans ça."
+
+**Thème 5 : Perception de l'interaction avec ChatGPT**
+
+- Code 1 : Interaction considérée comme non humaine
+  - Verbatim : "Je pense que c'est parce que je sais que c'est une machine."
+- Code 2 : Manière de s'adresser à ChatGPT
+  - Verbatim : "Je lui parle en anglais parce que je sais que ça marche mieux."
+- Code 3 : Stratégies d'interaction
+  - Verbatim : "Si je vois que ça marche pas, je le remercie pas."
+- Code 4 : Perception de la réaction de ChatGPT
+  - Verbatim : "Il pense que moi, je m'attends à ce qu'il se comporte comme un humain."
+- Code 5 : Humour et sarcasticité
+  - Verbatim : "Ils disent, un jour, ChatGPT va nous dominer."
+- Code 6 : Conscience de l'interaction
+  - Verbatim : "Je ne fais pas trop confiance."
+- Code 7 : Influence de la part de l'utilisateur
+  - Verbatim : "Je lui donne d'autres ressources plus explicites."
+- Code 8 : Adaptation en fonction des réponses
+  - Verbatim : "Je stoppe et puis je reformule."
+- Code 9 : Flexibilité dans l'interaction
+  - Verbatim : "Je change d'approche."
+- Code 10 : Perception de l'interaction en tant que telle
+  - Verbatim : "Je m'attends à ce qu'il se comporte comme un humain."

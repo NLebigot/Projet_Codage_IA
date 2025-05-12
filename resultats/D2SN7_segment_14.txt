@@ -1,0 +1,65 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici mes résultats :
+
+**Segment 1 : Perception de l'outil Notebook LM**
+
+- Thème : L'anonymat et la confiance dans les outils numériques
+  - Code 1 : Anonymat des données
+  - Verbatim : "Mais euh mais bon mais bon même après tu vois tu enfin c'est que tu je me tu te dis bon tu dis pas aux gens enfin tu dis pas aux personnes que tu utilisé que ça va être utilisé par Notebook LM c'est Google quoi"
+  - Code 2 : Préoccupation concernant l'utilisation des données
+  - Verbatim : "Donc bon peut-être que certains auraient été d'accord mais bon c'est pas le sujet."
+  - Code 3 : Perception de l'outil comme étant révolutionnaire
+  - Verbatim : "Et du coup oui, sur le côté révolutionnaire, ça m'a un peu, ça m'avait un peu surpris et au début je m'étais dit putain c'est fou."
+  - Code 4 : Découverte et exploration de l'outil
+  - Verbatim : "Et en fait j'ai été ça m'a donné un truc mais je te jure que quand j'ai essayé je me suis levé, j'étais à la BU, je me suis dit mais attends, j'ai pris un truc à gr aille, je me dis attends, je vais faire un tour dehors là, je vais je vais réfléchir à ma vie"
+  - Code 5 : Impact de l'outil sur la perception de son propre travail
+  - Verbatim : "parce que vraiment je me suis dit mais en fait tu vas plus servir à rien."
+  - Code 6 : Fonctionnalités de l'outil
+  - Verbatim : "toi tu as pas analysé les entretiens avant, tu les tu les as juste fait et tu te dis mais c'est fou parce qu'en plus enfin pour le coup ça te dit euh bah voilà là on voit un premier truc et ça te donne quatre exemples"
+  - Code 7 : Utilité de l'outil dans le travail
+  - Verbatim : "Moi, je travaille sur la boulangerie. Bon, voilà, ça donnait des bons exemples sur la division sexuée de la boulangerie et tout mais."
+  - Code 8 : Limites de l'outil
+  - Verbatim : "tu pourrais dire c'est un c'est c'est, c'est un c'est c'est des trucs basiques ou c'est inventé en fait ? Non, non, c'est ça dit des trucs tout à fait vrai."
+  - Code 9 : Validation des résultats par l'outil
+  - Verbatim : "ça te liait pas ça à ? De la littérature, enfin, tu vois, c'est y a tout un travail après à faire qui est là."
+  - Code 10 : Réflexion sur l'apport de l'outil
+  - Verbatim : "Mais c'est fou que ça retrouve, ça retrouve ce truc-là, rien qu’à partir de ces entretiens, quoi ?"
+
+- Thème : Impact émotionnel et remise en question
+  - Code 1 : Réaction initiale face à l'outil
+  - Verbatim : "je me suis dit mais attends, j'ai pris un truc à gr aille, je me dis attends, je vais faire un tour dehors là, je vais je vais réfléchir à ma vie"
+  - Code 2 : Perception de l'outil comme une menace
+  - Verbatim : "vraiment je me suis dit mais en fait tu vas plus servir à rien."
+  - Code 3 : Émotion suscitée par la découverte de l'outil
+  - Verbatim : "ça m'a un peu, ça m'avait un peu surpris et au début je m'étais dit putain c'est fou."
+  - Code 4 : Discussion avec les pairs
+  - Verbatim : "Et puis j'ai discuté avec quand même pas mal de potes et tout avec des potes aussi qui parce que c'est drôle"
+  - Code 5 : Nuancer sa perception grâce aux discussions
+  - Verbatim : "ça m'a permis aussi un peu de nuancer ma ChatGPT-mania, mais je pense que je me suis complètement perdu là je sais même pas de quoi on parle"
+
+**Segment 2 : Utilisation de ChatGPT et son impact**
+
+- Thème : Utilisation et perception de ChatGPT
+  - Code 1 : Utilisation de ChatGPT comme un substitut
+  - Verbatim : "Ouais donc tout à fait, c’est pour ça que je l'utilise parce que il peut me servir comme personne. Un peu, ça fait un peu. C'est la personnification de ChatGPT à son max, mais c'est un peu ça quoi."
+  - Code 2 : Avantage perçu par rapport aux autres
+  - Verbatim : "Est-ce que tu penses que ton utilisation de ChatGPT te donne un avantage par rapport aux autres étudiants ? Qu’ils l’utilise ou qu’ils l’utilise pas, peu importe."
+  - Code 3 : Étude sur les usages de ChatGPT
+  - Verbatim : "j'ai fait exactement ce que tu fais actuellement ça que mais j'ai mais sur les lycéens."
+  - Code 4 : Nuancer l'usage de ChatGPT
+  - Verbatim : "parmi ces bons élèves, c'était des élèves qui utilisent ChatGPT et en fait tous les bons, entre guillemets, n'utilisent pas de GPT et il y en a certains qui même déteste ça"
+  - Code 5 : Discussions avec les pairs sur ChatGPT
+  - Verbatim : "ma meilleure pote, on enfin s'est pas embrouiller quoi, mais c'est vraiment une discussion mais non mais moi je disais « mais tu racontes n'importe » quoi et elle me disait « Mais toi tu racontes n'importe quoi »"
+
+- Thème : Analyse sociologique de l'usage de ChatGPT
+  - Code 1 : Étude sociologique sur les usages numériques
+  - Verbatim : "j'ai pris au semestre dernier un cours à l’EHESS qui s'appelle sociologie du numérique"
+  - Code 2 : Analyse des usages de ChatGPT chez les lycéens
+  - Verbatim : "j'ai interrogé surtout des lycéens, parce que je voilà … je reprends, on est dans mon ancien lycée"
+  - Code 3 : Impact de ChatGPT sur les étudiants
+  - Verbatim : "il y en a certains qui même déteste ça, c'est à dire que c'est et moi enfin moi-même"
+  - Code 4 : Perceptions divergentes sur ChatGPT
+  - Verbatim : "ma meilleure pote, on enfin s'est pas embrouiller quoi, mais c'est vraiment une discussion"
+  - Code 5 : Réflexion sur l'usage de ChatGPT
+  - Verbatim : "ça m'a permis aussi un peu de nuancer ma ChatGPT-mania"
+
+Ces thèmes et codes permettent d'explorer les nuances de la perception et de l'utilisation des outils numériques comme Notebook LM et ChatGPT, ainsi que leur impact sur les pratiques et les réflexions des individus.

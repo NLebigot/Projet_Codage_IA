@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Perception des intelligences artificielles**
+ - Code 1 : Découverte des intelligences artificielles
+ - Verbatim : "Je sais juste qu’il existe plein d'autres intelligences artificielles"
+ - Code 2 : Utilisation limitée
+ - Verbatim : "mais je les utilise pas forcément"
+ - Code 3 : Envie d'exploration
+ - Verbatim : "j'ai juste envie de voir ce qu'elles pourraient faire"
+ - Code 4 : Connaissance de certaines IA
+ - Verbatim : "j'ai vu passer ça sur TikTok"
+ - Code 5 : Perception positive
+ - Verbatim : "je suis pas fermée à l'idée"
+ - Code 6 : Utilisation spécifique
+ - Verbatim : "j'utilise une autre IA qui est juste Microsoft IA qui fait des images"
+ - Code 7 : Utilité dans le travail associatif
+ - Verbatim : "c'était dans mon travail associatif, parfois c'est juste pour créer des images"
+ - Code 8 : Satisfaction de l'utilisation
+ - Verbatim : "il est super bon parce que bah je sais pas dessiner"
+ - Code 9 : Homogénéisation des productions
+ - Verbatim : "je me dis 'ah mais ça c’est à 100 % fait par Microsoft'"
+ - Code 10 : Regret de l'utilisation excessive
+ - Verbatim : "je regrette un peu parce que je me dis c'est nul"
+
+**Thème 2 : Freins à l'utilisation des intelligences artificielles**
+ - Code 1 : Manque d'investissement personnel
+ - Verbatim : "je pense c'est parce qu'il y a aussi un investissement"
+ - Code 2 : Nécessité de comprendre l'IA
+ - Verbatim : "il y a aussi un peu une manière de connaître l'intelligence artificielle et de bien lui parler"
+ - Code 3 : Satisfaction de l'outil actuel
+ - Verbatim : "ChatGPT me convient aujourd'hui"
+ - Code 4 : Ouverture à d'autres options
+ - Verbatim : "je suis pas fermée à l’idée en tout cas"
+ - Code 5 : Manque d'initiative
+ - Verbatim : "j'ai pas eu l'initiative moi-même"
+ - Code 6 : Pas de besoin ressenti
+ - Verbatim : "j'ai pas forcément ressenti le besoin"
+ - Code 7 : Curiosité potentielle
+ - Verbatim : "pourquoi pas"
+ - Code 8 : Limitations personnelles
+ - Verbatim : "le premier jour où j'ai utilisé ChatGPT je devais lui faire des phrases nulles"
+ - Code 9 : Importance de la formulation
+ - Verbatim : "il doit mal me répondre"
+ - Code 10 : Évolution de l'utilisation
+ - Verbatim : "mais après, enfin ChatGPT me convient aujourd'hui"
+
+**Thème 3 : Intégration des intelligences artificielles dans le cadre académique**
+ - Code 1 : Nécessité d'une intégration précoce
+ - Verbatim : "je pense déjà dès le collège"
+ - Code 2 : Utilisation probable par les lycéens
+ - Verbatim : "je pense que maintenant les lycéens ils doivent l'utiliser"
+ - Code 3 : Importance de la guidance des enseignants
+ - Verbatim : "leurs profs ils avaient le même discours que les nôtres"
+ - Code 4 : Discours encourageant l'utilisation responsable
+ - Verbatim : "vous pouvez l'utiliser, il y a aucun souci mais gardez toujours un œil extérieur"
+ - Code 5 : Nécessité de vérification
+ - Verbatim : "relisez vraiment ce qu'il écrit"
+ - Code 6 : Inefficacité d'une interdiction
+ - Verbatim : "je pense qu'on peut pas empêcher les étudiants de l'utiliser"
+ - Code 7 : Encouragement à une utilisation appropriée
+ - Verbatim : "autant leur apprendre à bien l'utiliser"
+ - Code 8 : Perception de l'IA comme un outil
+ - Verbatim : "ça serait vraiment bien si leurs profs ils avaient le même discours"
+ - Code 9 : Responsabilité des enseignants
+ - Verbatim : "leurs profs ils avaient le même discours que les nôtres"
+ - Code 10 : Adaptation à l'usage des étudiants
+ - Verbatim : "je pense qu'on peut pas empêcher les étudiants de l'utiliser"
+
+**Thème 4 : Impact des intelligences artificielles sur les pratiques**
+ - Code 1 : Changement dans les pratiques associatives
+ - Verbatim : "j'ai lancé ce truc d'utiliser Microsoft pour faire des logos d'association"
+ - Code 2 : Uniformisation des productions
+ - Verbatim : "je me dis 'ah mais ça c’est à 100 % fait par Microsoft'"
+ - Code 3 : Regret de l'utilisation excessive
+ - Verbatim : "je regrette un peu parce que je me dis c'est nul"
+ - Code 4 : Perception de l'IA comme un substitut
+ - Verbatim : "il est super bon parce que bah je sais pas dessiner"
+ - Code 5 : Utilité dans la création
+ - Verbatim : "c'est juste pour créer des images"
+ - Code 6 : Impact sur la créativité
+ - Verbatim : "si on avait tous dessiné nos propres logos, ça aurait été mieux"
+ - Code 7 : Utilisation dans le cadre du travail
+ - Verbatim : "c'était dans mon travail associatif"
+ - Code 8 : Perception positive de l'outil
+ - Verbatim : "il est super bon"
+ - Code 9 : Limitations personnelles
+ - Verbatim : "je sais pas dessiner"
+ - Code 10 : Effet sur l'identité des productions
+ - Verbatim : "ça aurait été mieux si on avait tous dessiné nos propres logos"
+
+**Thème 5 : Dynamiques d'adoption et de rejet**
+ - Code 1 : Adoption sélective
+ - Verbatim : "j'utilise une autre IA qui est juste Microsoft IA"
+ - Code 2 : Rejet initial
+ - Verbatim : "le premier jour où j'ai utilisé ChatGPT je devais lui faire des phrases nulles"
+ - Code 3 : Évolution vers l'adoption
+ - Verbatim : "mais après, enfin ChatGPT me convient aujourd'hui"
+ - Code 4 : Perception positive de l'IA
+ - Verbatim : "il est super bon"
+ - Code 5 : Satisfaction de l'utilisation
+ - Verbatim : "je suis pas fermée à l’idée en tout cas"
+ - Code 6 : Ouverture à d'autres options
+ - Verbatim : "pourquoi pas"
+ - Code 7 : Dynamique d'exploration
+ - Verbatim : "j'ai juste envie de voir ce qu'elles pourraient faire"
+ - Code 8 : Contingence de l'utilisation
+ - Verbatim : "j'ai pas eu l'initiative moi-même"
+ - Code 9 : Influence du contexte
+ - Verbatim : "dans mon travail associatif"
+ - Code 10 : Évaluation continue
+ - Verbatim : "je me dis 'ah mais ça c’est à 100 % fait par Microsoft'"

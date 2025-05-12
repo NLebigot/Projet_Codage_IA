@@ -1,0 +1,113 @@
+Pour analyser l'entretien donné en respectant une méthode rigoureuse de codage qualitatif, je vais structurer les réponses de Gabriel en thèmes distincts avec des codes et verbatims associés.
+
+### Thème 1 : Équilibre entre Utilité et Questionnements Éthiques
+- Code 1 : Utilité perçue de ChatGPT
+  - Verbatim : "ça me fait gagner du temps, c'est hyper utile"
+- Code 2 : Questionnements éthiques
+  - Verbatim : "je me dis bon, est-ce que c'est vraiment nécessaire ?"
+- Code 3 : Évolution de la perception de l'utilité
+  - Verbatim : "avant c'était surtout bah juste je mets le mail et puis c'est pas je réfléchissais plutôt à mon avantage personnel"
+- Code 4 : Réflexion sur l'éthique
+  - Verbatim : "j'essaie de quand même pas que de me poser des questions, en théorie quoi, et essayer d'un peu d'appliquer ça"
+- Code 5 : Conscientisation progressive
+  - Verbatim : "c'est récemment depuis 2-3 mois que je me pose vraiment la question"
+- Code 6 : Justification de l'usage
+  - Verbatim : "je réforme juste un mail quoi, mais je me suis posé la question aussi"
+- Code 7 : Perception de l'impact sur l'apprentissage
+  - Verbatim : "je suis pas sûr que ça impacte de fond ma façon d'apprendre"
+- Code 8 : Gestion des conversations
+  - Verbatim : "Moi, je supprime mes conversations aussi"
+- Code 9 : Préoccupation pour la vie privée
+  - Verbatim : "je me dis mais putain mais là c'est vrai que là en gros la personne connaît ma vie, quoi"
+- Code 10 : Raisons de la suppression des conversations
+  - Verbatim : "c'est plus pratique quand on veut trouver un truc si juste"
+
+### Thème 2 : Impact sur l'Apprentissage et la Manière de Travailler
+- Code 1 : Gain de temps
+  - Verbatim : "ça me fait gagner du temps"
+- Code 2 : Utilité dans le travail
+  - Verbatim : "c'est hyper utile, mais sur ma façon de travailler"
+- Code 3 : Perception de l'impact sur l'apprentissage
+  - Verbatim : "je suis pas sûr que ça que ça en impact de fond"
+- Code 4 : Organisation du travail
+  - Verbatim : "on parlait de l’organisation du travail aussi"
+- Code 5 : Changement dans les habitudes de travail
+  - Verbatim : "avant c'était surtout bah juste je mets le mail"
+- Code 6 : Évaluation de l'utilité par rapport à l'apprentissage
+  - Verbatim : "ma manière d'apprendre, je suis pas sûr… Ouais, je suis pas sûr que ça que ça en impact de fonds"
+- Code 7 : Rôle de ChatGPT dans la productivité
+  - Verbatim : "ça26 sert à rien juste dans le mail et bon ça va gagner entre guillemets 4-5L d'eau"
+- Code 8 : Réflexion sur la dépendance à ChatGPT
+  - Verbatim : "j'essaie de quand même pas que de me poser des questions"
+- Code 9 : Équilibre entre utilité et autres activités
+  - Verbatim : "je fais d'autres trucs aussi à côté, donc je me dis que peut-être que ça se contrebalance"
+- Code 10 : Incertitude sur l'impact à long terme
+  - Verbatim : "je sais pas si c'est un effet mais"
+
+### Thème 3 : Vie Privée et Stockage des Données
+- Code 1 : Préoccupation pour la vie privée
+  - Verbatim : "je me dis mais putain mais là c'est vrai que là en gros la personne connaît ma vie, quoi"
+- Code 2 : Suppression des conversations
+  - Verbatim : "Moi, je supprime mes conversations aussi"
+- Code 3 : Raisons de la suppression
+  - Verbatim : "c'est plus pratique quand on veut trouver un truc si juste"
+- Code 4 : Perception du stockage des données
+  - Verbatim : "elles sont stockées autre part"
+- Code 5 : Impact sur la vie privée
+  - Verbatim : "Sur la vie privée, je pense pas parce que"
+- Code 6 : Connaissance de la personnalisation de ChatGPT
+  - Verbatim : "j'ai vu sur Twitter, un truc en mode bon, c'était il y a longtemps, « Ah demander à chat, ChatGPT à quoi vous ressemblez dans une image »"
+- Code 7 : Personnalisation et vie privée
+  - Verbatim : "la personne qui avait fait ça, savait que c'était un homme savait qu'il aimait ça et tout"
+- Code 8 : Précautions prises
+  - Verbatim : "je supprime mes conversations"
+- Code 9 : Incertitude sur la confidentialité
+  - Verbatim : "je sais pas si c'est un effet mais"
+- Code 10 : Perception du traitement des données par ChatGPT
+  - Verbatim : "il doit être un peu perdu parce qu'il doit se dire c'est bizarre"
+
+### Thème 4 : Acceptabilité de l'Usage de ChatGPT
+- Code 1 : Acceptabilité en fonction du contexte
+  - Verbatim : "Dans quel contexte tu penses que l'utilisation de ChatGPT est acceptable ou non acceptable ?"
+- Code 2 : Hésitation sur l'acceptabilité
+  - Verbatim : "Wahou… Je sais pas trop"
+- Code 3 : Réflexion sur les limites de l'usage
+  - Verbatim : "je me suis posé la question aussi parce que avant la dernière fois je mettais bah du coup toujours ces questions de mail"
+- Code 4 : Dépendance au contexte d'usage
+  - Verbatim : "ça dépend du contexte, je pense"
+- Code 5 : Usage acceptable dans certaines situations
+  - Verbatim : "je réforme juste un mail quoi"
+- Code 6 : Questionnement éthique en fonction de l'usage
+  - Verbatim : "est-ce que c'est vraiment nécessaire ?"
+- Code 7 : Perception de l'usage abusif
+  - Verbatim : "c'est peut-être juste une manip de vérification"
+- Code 8 : Auto-régulation de l'usage
+  - Verbatim : "j'essaie de quand même pas que de me poser des questions"
+- Code 9 : Équilibre entre utilité et éthique
+  - Verbatim : "la balance penche surtout pour l'utilité individuelle"
+- Code 10 : Volonté de réfléchir à l'usage
+  - Verbatim : "j’essaye de réfléchir un peu à ça au global quoi"
+
+### Thème 5 : Perception et Évolution de l'Usage de ChatGPT
+- Code 1 : Évolution de l'usage
+  - Verbatim : "avant c'était surtout bah juste je mets le mail et puis c'est pas je réfléchissais plutôt à mon avantage personnel"
+- Code 2 : Changement de perception
+  - Verbatim : "c'est récemment depuis 2-3 mois que je me pose vraiment la question"
+- Code 3 : Découverte progressive des fonctionnalités
+  - Verbatim : "j'ai vu sur Twitter, un truc en mode bon, c'était il y a longtemps"
+- Code 4 : Perception de l'utilité au fil du temps
+  - Verbatim : "la balance penche surtout pour l'utilité individuelle, mais je dirais peut-être de plus en plus"
+- Code 5 : Évaluation de l'impact sur les habitudes
+  - Verbatim : "ma façon d'apprendre, je suis pas sûr… Ouais, je suis pas sûr que ça que ça en impact de fonds"
+- Code 6 : Réflexion sur la dépendance
+  - Verbatim : "j'essaie de quand même pas que de me poser des questions"
+- Code 7 : Usage actuel et futur
+  - Verbatim : "j’essaie de réfléchir un peu à ça au global quoi"
+- Code 8 : Perception de la nécessité d'une régulation
+  - Verbatim : "je me dis bon, est-ce que c'est vraiment nécessaire ?"
+- Code 9 : Conscientisation des implications éthiques
+  - Verbatim : "je me suis posé la question aussi"
+- Code 10 : Volonté d'ajuster l'usage
+  - Verbatim : "j’essaye de réfléchir un peu à ça au global quoi"
+
+Ces thèmes offrent une vue d'ensemble des réflexions de Gabriel concernant son usage de ChatGPT, mettant en lumière les aspects éthiques, l'impact sur son apprentissage et sa manière de travailler, ainsi que ses préoccupations concernant la vie privée et l'acceptabilité de l'usage de cette technologie.

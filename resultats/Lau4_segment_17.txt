@@ -1,0 +1,111 @@
+Je vais analyser l'entretien en respectant la méthode de codage qualitatif demandée. Voici les résultats :
+
+**Thème 1 : Perception de l'utilisation des outils numériques dans le travail universitaire**
+ - Code 1 : Perception différenciée selon les disciplines
+ - Verbatim : "Alors que si c'est un professeur en littérature médiévale, disons, peut-être qu'il serait plus réticent."
+ - Code 2 : Influence de l'enseignant sur l'utilisation des outils
+ - Verbatim : "on change un peu nos manières de travailler pour répondre aux exigences des profs."
+ - Code 3 : Rôle de l'enseignant dans la régulation de l'utilisation
+ - Verbatim : "c'est quand même la personne qui va noter le travail et qui décidera de l'utilisation"
+ - Code 4 : Adaptation au cadre défini par l'enseignant
+ - Verbatim : "si le prof donne un peu un cadre en disant"
+ - Code 5 : Importance de la clarification de l'usage des outils
+ - Verbatim : "Je pense que c'est surtout dans les premières années de savoir donner un peu une feuille de route"
+ - Code 6 : Comparaison avec d'autres outils numériques
+ - Verbatim : "ChatGPT est tout comme Wikipédia"
+ - Code 7 : Référence à l'expérience personnelle pour illustrer l'usage
+ - Verbatim : "Moi, je me souviens qu'on avait quand même expliqué l'usage qui pouvait être fait de Wikipédia"
+ - Code 8 : Reconnaissance de la nécessité d'une utilisation responsable
+ - Verbatim : "il faut rendre attentif à ça"
+ - Code 9 : Différences disciplinaires dans l'utilisation des outils
+ - Verbatim : "Peut-être que dans d'autres facultés, c'est moins..."
+ - Code 10 : Valeur de la perspective étudiante sur l'utilisation des outils
+ - Verbatim : "C'est intéressant d'avoir ton avis, justement"
+
+**Thème 2 : Rôle des enseignants dans la régulation de l'utilisation des outils numériques**
+ - Code 1 : Autorité de l'enseignant dans la notation et l'évaluation
+ - Verbatim : "la personne qui va noter le travail et qui décidera de l'utilisation"
+ - Code 2 : Influence de l'enseignant sur les pratiques des étudiants
+ - Verbatim : "on change un peu nos manières de travailler pour répondre aux exigences des profs"
+ - Code 3 : Nécessité d'un encadrement par les enseignants
+ - Verbatim : "Je pense que c'est surtout dans les premières années de savoir donner un peu une feuille de route"
+ - Code 4 : Rôle de l'enseignant dans la clarification des règles d'utilisation
+ - Verbatim : "si le prof donne un peu un cadre en disant"
+ - Code 5 : Importance de la perception de l'acceptabilité par l'enseignant
+ - Verbatim : "c'est quand même la personne qui va noter le travail et qui décidera de l'utilisation"
+ - Code 6 : Effet de la réticence potentielle de l'enseignant
+ - Verbatim : "Alors que si c'est un professeur en littérature médiévale, disons, peut-être qu'il serait plus réticent"
+ - Code 7 : Encouragement à une utilisation responsable
+ - Verbatim : "il faut rendre attentif à ça"
+ - Code 8 : Comparaison avec d'autres outils pour clarifier l'usage
+ - Verbatim : "ChatGPT est tout comme Wikipédia"
+ - Code 9 : Souplesse dans l'application des règles selon les disciplines
+ - Verbatim : "Peut-être que dans d'autres facultés, c'est moins..."
+ - Code 10 : Perception de l'outil comme une base de données
+ - Verbatim : "une espèce de base de données facile d'accès, mais qui n'est pas forcément bien sourcée"
+
+**Thème 3 : Utilisation des outils numériques et adaptation des pratiques estudiantines**
+ - Code 1 : Adaptation des pratiques en fonction des exigences des enseignants
+ - Verbatim : "on change un peu nos manières de travailler pour répondre aux exigences des profs"
+ - Code 2 : Perception de l'outil comme une ressource pratique
+ - Verbatim : "une espèce de base de données facile d'accès"
+ - Code 3 : Préoccupation concernant la qualité de l'information fournie
+ - Verbatim : "mais qui n'est pas forcément bien sourcée"
+ - Code 4 : Similarité avec d'autres outils numériques comme Wikipédia
+ - Verbatim : "ChatGPT est tout comme Wikipédia"
+ - Code 5 : Référence à l'expérience passée pour expliquer l'usage actuel
+ - Verbatim : "Moi, je me souviens qu'on avait quand même expliqué l'usage qui pouvait être fait de Wikipédia"
+ - Code 6 : Nécessité d'une utilisation responsable et éclairée
+ - Verbatim : "il faut rendre attentif à ça"
+ - Code 7 : Différence de perception et d'utilisation selon les disciplines
+ - Verbatim : "Peut-être que dans d'autres facultés, c'est moins..."
+ - Code 8 : Rôle de l'étudiant dans la régulation de son usage
+ - Verbatim : "c'est quand même difficile de vraiment savoir ce que l'étudiante ou l'étudiant a fait"
+ - Code 9 : Considération de l'outil comme une aide potentielle
+ - Verbatim : "c'est aussi plus agréable"
+ - Code 10 : Valorisation de la perspective étudiante
+ - Verbatim : "C'est intéressant d'avoir ton avis, justement"
+
+**Thème 4 : Perception et utilisation de ChatGPT dans le contexte académique**
+ - Code 1 : Comparaison avec Wikipédia pour expliquer l'usage
+ - Verbatim : "ChatGPT est tout comme Wikipédia"
+ - Code 2 : Perception comme une base de données facile d'accès
+ - Verbatim : "une espèce de base de données facile d'accès"
+ - Code 3 : Préoccupation concernant la qualité et la fiabilité
+ - Verbatim : "mais qui n'est pas forcément bien sourcée"
+ - Code 4 : Utilisation variable selon les disciplines
+ - Verbatim : "Peut-être que dans d'autres facultés, c'est moins..."
+ - Code 5 : Rôle de l'enseignant dans la régulation de l'usage
+ - Verbatim : "c'est quand même la personne qui va noter le travail et qui décidera de l'utilisation"
+ - Code 6 : Perception de l'outil comme un moyen d'adaptation aux exigences
+ - Verbatim : "on change un peu nos manières de travailler pour répondre aux exigences des profs"
+ - Code 7 : Importance de la clarification de l'usage acceptable
+ - Verbatim : "Je pense que c'est surtout dans les premières années de savoir donner un peu une feuille de route"
+ - Code 8 : Référence à l'expérience personnelle pour illustrer l'usage
+ - Verbatim : "Moi, je me souviens qu'on avait quand même expliqué l'usage qui pouvait être fait de Wikipédia"
+ - Code 9 : Reconnaissance de la nécessité d'une utilisation responsable
+ - Verbatim : "il faut rendre attentif à ça"
+ - Code 10 : Valorisation de la perspective étudiante sur l'usage de ChatGPT
+ - Verbatim : "C'est intéressant d'avoir ton avis, justement"
+
+**Thème 5 : Différences disciplinaires dans l'adoption et l'utilisation des outils numériques**
+ - Code 1 : Perception différenciée de l'outil selon les disciplines
+ - Verbatim : "Alors que si c'est un professeur en littérature médiévale, disons, peut-être qu'il serait plus réticent"
+ - Code 2 : Utilisation variable de ChatGPT d'une faculté à l'autre
+ - Verbatim : "Peut-être que dans d'autres facultés, c'est moins..."
+ - Code 3 : Importance de la perspective étudiante dans l'analyse de l'usage
+ - Verbatim : "C'est intéressant d'avoir ton avis, justement"
+ - Code 4 : Référence à l'expérience personnelle en lettres
+ - Verbatim : "Après, c'est mon regard aussi d'étudiante en lettres"
+ - Code 5 : Comparaison de l'usage de ChatGPT avec d'autres outils
+ - Verbatim : "ChatGPT est tout comme Wikipédia"
+ - Code 6 : Perception de l'outil comme une ressource pratique mais à utiliser avec prudence
+ - Verbatim : "une espèce de base de données facile d'accès, mais qui n'est pas forcément bien sourcée"
+ - Code 7 : Différences dans la régulation de l'usage par les enseignants
+ - Verbatim : "si le prof donne un peu un cadre en disant"
+ - Code 8 : Rôle de l'encadrement dans l'utilisation responsable
+ - Verbatim : "Je pense que c'est surtout dans les premières années de savoir donner un peu une feuille de route"
+ - Code 9 : Conscience de la nécessité d'adapter l'usage au contexte académique
+ - Verbatim : "on change un peu nos manières de travailler pour répondre aux exigences des profs"
+ - Code 10 : Valorisation de la flexibilité dans l'application des règles
+ - Verbatim : "il faut rendre attentif à ça"

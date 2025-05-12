@@ -1,0 +1,66 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Perception de l'impact environnemental des outils numériques**
+- Code 1 : Incertitude sur l'impact environnemental
+  - Verbatim : "Je ne suis pas certaine, je ne sais pas trop, il faudrait que je me renseigne."
+- Code 2 : Considération éthique conditionnelle à l'usage
+  - Verbatim : "tant qu'on met des limites et qu'on lui pose des questions purement pratiques, je n'ai pas de souci à l'utiliser."
+- Code 3 : Préoccupation pour l'aspect environnemental
+  - Verbatim : "je suis plus sur l'angle environnemental, la consommation et le conflit d'usage avec l'eau."
+- Code 4 : Nécessité de poser des limites d'usage
+  - Verbatim : "tant qu'on met des limites"
+...
+- Code 10 : Sensibilisation aux enjeux éthiques liés aux outils numériques
+  - Verbatim : "au niveau éthique"
+
+**Thème 2 : Utilisation de ChatGPT dans les tâches académiques**
+- Code 1 : Utilisation pour clarifier les attentes des projets académiques
+  - Verbatim : "je peux fournir cette grille à ChatGPT et lui demander à quoi je dois penser en rédigeant"
+- Code 2 : Aide à la compréhension des tâches
+  - Verbatim : "ce qui est hyper important et ce que je pourrais oublier et qui me ferait perdre des points"
+- Code 3 : Disponibilité des fiches d'évaluation pour les gros devoirs
+  - Verbatim : "pour un mémoire, comme c'est un gros devoir, on a déjà la fiche d'évaluation."
+- Code 4 : Utilisation pour la synthétisation de contenu académique
+  - Verbatim : "la synthétisation de cours ou d’articles. C’est ce qui est le plus pratique"
+...
+- Code 10 : Valeur ajoutée de ChatGPT dans la préparation des travaux académiques
+  - Verbatim : "il peut beaucoup m’aider, par exemple pour un résumé de texte ou une fiche de lecture."
+
+**Thème 3 : Légitimité de l'usage de ChatGPT selon les tâches académiques**
+- Code 1 : Perception de la légitimité de l'usage de ChatGPT pour certaines tâches
+  - Verbatim : "je pense que la meilleure tâche que je peux lui confier, au niveau académique, est la synthétisation de cours ou d’articles."
+- Code 2 : Risque de plagiat associé à certaines utilisations
+  - Verbatim : "le moins risqué en termes de plagiat, car je fais quand même le travail moi-même."
+- Code 3 : Utilisation non acceptable pour la rédaction complète
+  - Verbatim : "Lui demander de rédiger entièrement une dissertation ou un devoir. Je pense qu’il est important de les faire nous-mêmes"
+- Code 4 : Reformulation nécessaire des contenus générés par ChatGPT
+  - Verbatim : "même si on lui demande un paragraphe, il faut le reformuler avec ses propres mots."
+...
+- Code 10 : Distinction entre utilisations acceptables et non acceptables
+  - Verbatim : "Tout ce qui est résumés et fourniture de données précises et vérifiables."
+
+**Thème 4 : Dilemmes moraux liés à l'utilisation de ChatGPT**
+- Code 1 : Préférence pour rendre un devoir imparfait plutôt que de ne rien rendre
+  - Verbatim : "je préfère toujours rendre un devoir plutôt que de ne rien rendre."
+- Code 2 : Utilisation de ChatGPT comme aide en cas de manque de temps
+  - Verbatim : "si je n’ai vraiment pas eu le temps de faire quelque chose, il peut beaucoup m’aider"
+- Code 3 : Régulation de l'utilisation de ChatGPT pour éviter les dérives
+  - Verbatim : "si je fais ça tout le temps, oui, cela peut devenir un problème moral."
+- Code 4 : Acceptabilité conditionnelle à une utilisation exceptionnelle
+  - Verbatim : "Si c’est exceptionnel, ça va."
+...
+- Code 10 : Conscience des risques moraux associés à une utilisation abusive
+  - Verbatim : "cela peut devenir un problème moral"
+
+**Thème 5 : Impact futur des outils comme ChatGPT sur les pratiques d'apprentissage**
+- Code 1 : Préoccupation concernant la dépendance aux outils numériques
+  - Verbatim : "Les élèves risquent de moins faire leurs devoirs et de ne plus prendre la peine de réaliser ce que leur professeur leur demande par eux-mêmes."
+- Code 2 : Effets bénéfiques potentiels en termes de gain de temps
+  - Verbatim : "il y a aussi des effets bénéfiques, notamment en termes de gain de temps."
+- Code 3 : Crainte d'un risque plus élevé que de bénéfices
+  - Verbatim : "il y aura plus de risques que de bénéfices."
+- Code 4 : Impact différencié selon le niveau d'étude
+  - Verbatim : "surtout au collège et au lycée"
+...
+- Code 10 : Incertitude quant à l'évolution des pratiques d'apprentissage
+  - Verbatim : "Je pense que cela va être assez compliqué"

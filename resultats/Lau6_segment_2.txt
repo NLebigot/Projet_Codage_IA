@@ -1,0 +1,97 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Utilisation de ChatGPT pour la reformulation et la recherche d'informations**
+
+- Thème : Utilisation de ChatGPT pour la reformulation
+ - Code 1 : Utilisation pour la reformulation
+ - Verbatim : "Si je vais demander à ChatGPT de m'aider pour des reformulations, je ne vais pas aller en vérifier parce que c'est mon texte, c'est juste une reformulation."
+ - Code 2 : Confiance limitée dans les résultats
+ - Verbatim : "Mais des fois, il arrive que je reprenne certaines formulations de ChatGPT, enfin, certaines structures un peu, mais que j'aille voir les sources et puis que je vois pour humaniser un peu le texte quand même."
+ - Code 3 : Vérification des sources
+ - Verbatim : "Mais du coup, quand il mentionne une source, je vais quand même toujours double checker que ce soit vraiment la source dont il parle."
+ - Code 4 : Importance de la vérification
+ - Verbatim : "Parce que souvent, c'est que des fois, il va dire des choses qui peuvent être juste mais sans source."
+ - Code 5 : Utilisation pour la recherche d'informations
+ - Verbatim : "Je lui demande, par exemple, j'aimerais que tu me parles des récentes initiatives de l'UDC vis-à-vis de l'augmentation de la migration en Suisse."
+ - Code 6 : Demande de sources
+ - Verbatim : "Et là je lui dis toujours d'indiquer ses sources."
+ - Code 7 : Limite de la version gratuite
+ - Verbatim : "Mais j'avais la version gratuite, mais là j'ai la version payante depuis cet été environ."
+ - Code 8 : Appréciation de la version payante
+ - Verbatim : "Et là, ça fait que j'utilise encore plus."
+ - Code 9 : Différence entre les versions
+ - Verbatim : "Oui, tu vois la différence, parce que c'est connecté à internet tout simplement."
+ - Code 10 : Impact de la connexion internet
+ - Verbatim : "Ça, ça change déjà tout."
+
+- Thème : Vérification et validation des informations
+ - Code 1 : Vérification des sources mentionnées par ChatGPT
+ - Verbatim : "Je vais quand même toujours double checker que ce soit vraiment la source dont il parle."
+ - Code 2 : Importance de la vérification pour la crédibilité
+ - Verbatim : "Parce que des fois, il me met des sources…je lui dis toujours, « indique tes sources » et je vais vérifier."
+ - Code 3 : Erreurs dans les sources
+ - Verbatim : "Des fois il me met que c'est l'Université de Fribourg sa source, après, je clique sur le lien et c'est marqué UDC."
+ - Code 4 : Nécessité de vérifier les informations
+ - Verbatim : "Donc, des fois, il faut vraiment double checker parce que ça peut être faux."
+ - Code 5 : Conséquences des erreurs
+ - Verbatim : "Parce que des fois ça peut vraiment être relou."
+ - Code 6 : Utilisation des sources pour la validation
+ - Verbatim : "Mais après moi, si je veux utiliser ces sources, je vais quand même les lire moi-même."
+ - Code 7 : Confiance dans les résultats avec vérification
+ - Verbatim : "Exactement, et pour ça tu peux faire confiance et puis tu peux aller modifier par toi même après."
+ - Code 8 : Validation des informations par le travail personnel
+ - Verbatim : "J'ai repris son résultat et expliqué pourquoi j'avais ce résultat."
+ - Code 9 : Importance de l'analyse personnelle
+ - Verbatim : "J'ai fait le travail inverse en fait."
+ - Code 10 : Rôle de ChatGPT comme outil d'aide
+ - Verbatim : "Il m'aide aussi à faire des typologies."
+
+**Segment 2 : Utilisation de ChatGPT pour l'analyse et la catégorisation**
+
+- Thème : Utilisation de ChatGPT pour l'analyse qualitative
+ - Code 1 : Utilisation pour la catégorisation
+ - Verbatim : "Je lui demande en mode « Ben je remarquais que des organisations, elles parlent de ci, ça et ça, et elles le font de telle et telle manière. Qu’est-ce que ça te dit ? »"
+ - Code 2 : Aide à la formulation de concepts
+ - Verbatim : "Et après il me propose des définitions qui sont juste et puis finalement qui viennent de moi-même en fait et qui permettent de résumer certaines idées en un concept."
+ - Code 3 : Utilisation pour les typologies
+ - Verbatim : "Je voyais que j'avais deux types d'organisation et je voyais qu'elles étaient différentes, mais je n'arrivais pas à les formuler."
+ - Code 4 : Assistance dans l'analyse
+ - Verbatim : "Il m'aide aussi à faire des typologies."
+ - Code 5 : Reprise des résultats de ChatGPT
+ - Verbatim : "J'ai repris le nom, les types de catégories, j'ai un peu modifié, et j'ai expliqué pourquoi."
+ - Code 6 : Modification et explication
+ - Verbatim : "Après là j'ai mentionné ce que j'avais recherché."
+ - Code 7 : Travail de validation
+ - Verbatim : "J'ai fait le travail inverse en fait."
+ - Code 8 : Explication des choix
+ - Verbatim : "J'ai repris son résultat et expliqué pourquoi j'avais ce résultat."
+ - Code 9 : Utilisation critique de ChatGPT
+ - Verbatim : "Je ne vais pas aller en vérifier parce que c'est mon texte, c'est juste une reformulation."
+ - Code 10 : Intégration des résultats dans le travail personnel
+ - Verbatim : "J'ai un peu modifié, et j'ai expliqué pourquoi."
+
+**Segment 3 : Perception et utilisation de ChatGPT dans le contexte académique**
+
+- Thème : Perception de ChatGPT dans le contexte académique
+ - Code 1 : Utilisation de ChatGPT sans en informer le directeur de mémoire
+ - Verbatim : "Pas vraiment non, il le sait pas… ou du moins je ne le lui ai pas dit."
+ - Code 2 : Nécessité d'utiliser ChatGPT
+ - Verbatim : "Mais tu ne peux pas ne pas l’utiliser. Tu ne peux pas ne pas l'utiliser, ce serait con."
+ - Code 3 : Utilisation antérieure à la version payante
+ - Verbatim : "Oui, j'ai commencé à l'utiliser il y a une année environ, mais j'avais la version gratuite."
+ - Code 4 : Changement avec la version payante
+ - Verbatim : "Mais là j'ai la version payante depuis cet été environ."
+ - Code 5 : Suggestion d'utiliser ChatGPT par un assistant
+ - Verbatim : "Moi pour un de mes cours c’est l’assistant qui nous a suggéré de l’utiliser pour trouver de la littérature."
+ - Code 6 : Utilité de ChatGPT dans les études
+ - Verbatim : "Et là, ça fait que j'utilise encore plus."
+ - Code 7 : Perception positive de ChatGPT
+ - Verbatim : "Oui, tu vois la différence, parce que c'est connecté à internet tout simplement."
+ - Code 8 : Impact sur le travail académique
+ - Verbatim : "Ça change déjà tout."
+ - Code 9 : Utilisation comme outil d'aide
+ - Verbatim : "Il m'aide aussi à faire des typologies."
+ - Code 10 : Intégration dans la pratique académique
+ - Verbatim : "Je l'utilise pour des reformulations et pour des recherches d'informations."
+
+Chaque thème regroupe des codes qui sont liés à une idée ou un concept central en rapport avec l'utilisation de ChatGPT, sa perception et son impact dans le contexte académique. Les verbatim associés à chaque code illustrent les points clés mentionnés par l'enquêté.

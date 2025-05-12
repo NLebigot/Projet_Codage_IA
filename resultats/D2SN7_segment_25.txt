@@ -1,0 +1,111 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Thème 1 : Utilisation de ChatGPT dans la vie quotidienne**
+- Code 1 : Utilisation pour la rédaction
+ - Verbatim : "ça permet un step quand même au-dessus" 
+- Code 2 : Utilisation pour la programmation
+ - Verbatim : "j'essayais de faire un truc en latek et en fait c'est hyper genre … tu dis vraiment à chatGPT"
+- Code 3 : Utilisation pour préparer des présentations
+ - Verbatim : "il l’utilise pas mal ça pour préparer ses slides et pour réparer ses PowerPoint"
+- Code 4 : Gain de temps
+ - Verbatim : "ça lui fait gagner du temps"
+- Code 5 : Utilisation pour les tâches répétitives
+ - Verbatim : "y a des trucs qui reviennent, y a un peu des erreurs clés qui reviennent"
+- Code 6 : Réticence initiale
+ - Verbatim : "C'était la plus réticente de la famille"
+- Code 7 : Formation à l'utilisation de ChatGPT
+ - Verbatim : "y a un peu une formation à ChatGPT familiale"
+- Code 8 : Influence de la famille
+ - Verbatim : "C’est surtout un peu mon père, qui disait « non, mais là, peut-être si tu l’utilise comme ça. »"
+- Code 9 : Utilisation pour les transcriptions
+ - Verbatim : "pour les retranscriptions et ça peut t'aider"
+- Code 10 : Adoption progressive
+ - Verbatim : "au début, elle essayait, mais tu vois du coup, dès que ça marchait pas, elle a vu ce truc un peu de « ah ouais mais ça marche pas ton truc »"
+
+**Thème 2 : Rôles et responsabilités dans la famille**
+- Code 1 : Rôle de la mère
+ - Verbatim : "Ma mère, elle utilise surtout pour faire des rapports en gros"
+- Code 2 : Rôle du père
+ - Verbatim : "C’est surtout un peu mon père, qui disait « non, mais là, peut-être si tu l’utilise comme ça. »"
+- Code 3 : Rôle de Gabriel
+ - Verbatim : "j'ai essayé de parler un peu quand même de mes pratiques et tout"
+- Code 4 : Répartition des tâches
+ - Verbatim : "elle a un entretien avec la personne à la fin et après elle doit produire un rapport"
+- Code 5 : Expérience professionnelle de la mère
+ - Verbatim : "elle fait ce taf et elle a les mêmes références"
+- Code 6 : Influence de Gabriel sur sa mère
+ - Verbatim : "moi, je lui ai parlé de notebook et tout pour la transcription"
+- Code 7 : Collaboration familiale
+ - Verbatim : "y a un peu une formation à ChatGPT familiale"
+- Code 8 : Partage d'expériences
+ - Verbatim : "on se demandait même si y avait pas un peu une pratique"
+- Code 9 : Échange entre générations
+ - Verbatim : "mon père, qui disait « non, mais là, peut-être si tu l’utilise comme ça. »"
+- Code 10 : Dynamique familiale
+ - Verbatim : "C'était la plus réticente de la famille et d'ailleurs, on se demandait si y avait pas un truc un peu …"
+
+**Thème 3 : Perception et adoption des technologies**
+- Code 1 : Adoption de ChatGPT
+ - Verbatim : "il l’utilise pas mal"
+- Code 2 : Réticence initiale face à la technologie
+ - Verbatim : "C'était la plus réticente de la famille"
+- Code 3 : Découverte progressive
+ - Verbatim : "au début, elle essayait, mais tu vois du coup, dès que ça marchait pas"
+- Code 4 : Utilité de ChatGPT
+ - Verbatim : "ça lui fait gagner du temps"
+- Code 5 : Formation et apprentissage
+ - Verbatim : "y a un peu une formation à ChatGPT familiale"
+- Code 6 : Influence de l'expérience sur l'adoption
+ - Verbatim : "elle m'a dit que ça marchait plutôt bien après"
+- Code 7 : Perception de l'utilité
+ - Verbatim : "pour les retranscriptions et ça peut t'aider"
+- Code 8 : Intégration dans les pratiques
+ - Verbatim : "il l’utilise pas mal ça pour préparer ses slides"
+- Code 9 : Évolution de la perception
+ - Verbatim : "du coup, c'était un peu la plus réticente et après on lui a dit mais quand même"
+- Code 10 : Variabilité de l'adoption
+ - Verbatim : "on se demandait même si y avait pas un peu une pratique, j'aurais des technologies en général"
+
+**Thème 4 : Impact de la formation et des antécédents sur l'utilisation de la technologie**
+- Code 1 : Influence du background en socio-numérique
+ - Verbatim : "je suis quand même pas mal influencé par le taf que j'ai fait en socio numérique"
+- Code 2 : Formation et expérience
+ - Verbatim : "elle particip e à former, à chaque fois et c’est un travail qui est très fastidieux"
+- Code 3 : Connaissances préalables
+ - Verbatim : "Lui bon a un niveau d'anglais"
+- Code 4 : Influence de la formation sur l'utilisation
+ - Verbatim : "j'ai essayé de parler un peu quand même de mes pratiques et tout parce que je sais que du coup j'ai pas envie d'être l'étudiant en socio casse couille"
+- Code 5 : Interaction entre expérience et technologie
+ - Verbatim : "elle a les mêmes références"
+- Code 6 : Échange d'expériences et de connaissances
+ - Verbatim : "on se demandait même si y avait pas un peu une pratique"
+- Code 7 : Influence de l'environnement sur l'adoption
+ - Verbatim : "y a un peu une formation à ChatGPT familiale"
+- Code 8 : Impact de la pratique sur la perception
+ - Verbatim : "ça lui fait gagner du temps"
+- Code 9 : Influence des antécédents sur les pratiques
+ - Verbatim : "c'était déjà un peu aussi ma vision des choses avant quoi"
+- Code 10 : Réflexion sur l'influence réciproque
+ - Verbatim : "je sais pas dans quelle mesure je suis influencé par ce taf ou juste c'est moi qui ai complètement influencé ce taf"
+
+**Thème 5 : Dynamiques de genre et technologie**
+- Code 1 : Observation de différences entre les genres
+ - Verbatim : "on se demandait même si y avait pas un peu une pratique, j'aurais des technologies en général"
+- Code 2 : Constats sur l'utilisation de la technologie par les hommes et les femmes
+ - Verbatim : "c'était les 5 numéros qui nous avaient parce que c'est de la prof du coup, c'était des élèves avec qui elle avait discuté d’IA et tout et qui savaient utiliser l'IA et c'était 5 mecs"
+- Code 3 : Proportion de femmes dans la section
+ - Verbatim : "je crois qu'il y a 3/4 de meuf donc c'était vraiment …"
+- Code 4 : Interrogation sur les différences de genre
+ - Verbatim : "on se demandait même si y avait pas un peu une pratique"
+- Code 5 : Réflexion sur les biais de genre
+ - Verbatim : "y a plus de mecs qui vous ont parlé que de meufs ou pas ?"
+- Code 6 : Absence de biais dans l'étude
+ - Verbatim : "Euh là on n'a pas ce problème là nous"
+- Code 7 : Spéculation sur les raisons des différences
+ - Verbatim : "c'était vraiment … On se demandait même si y avait pas un peu une pratique"
+- Code 8 : Explication alternative
+ - Verbatim : "peut-être ça, ça s'explique autrement"
+- Code 9 : Ouverture à d'autres explications
+ - Verbatim : "Évidemment, y a pas que ça mais du coup"
+- Code 10 : Limite de la réflexion
+ - Verbatim : "on se demandait même si y avait pas un peu une pratique, j'aurais des technologies en général"

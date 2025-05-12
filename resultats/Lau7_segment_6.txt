@@ -1,0 +1,116 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes associés. Voici les résultats :
+
+**Thème 1 : Perception éthique de l'utilisation de ChatGpt**
+
+* Code 1 : Réserve éthique
+ Verbatim : "Je me sentirais super mal de le faire, donc à ce niveau-là... Je me sentirai mal parce que justement, je ne trouverais pas ça éthique."
+* Code 2 : Sentiment d'injustice
+ Verbatim : "Je trouverais ça injuste que...que je fasse ça sans mon propre cerveau, quoi."
+* Code 3 : Distinction entre utilisation et production
+ Verbatim : "Je n'oserais pas rendre quelque chose qui a été produit par ChatGpt."
+* Code 4 : Éthique contextuelle
+ Verbatim : "Je pense que ça dépendrait de chaque contexte mais je pense qu'il peut y avoir une légitimité dans tout type de travaux après plus ou moins, parfois plus parfois moins."
+* Code 5 : Légitimité limitée
+ Verbatim : "Mais dans la production concrète, dans ce cas-là, je trouve que ChatGpt, ce n'est pas trop légitime."
+* Code 6 : Cas de légitimité
+ Verbatim : "Pour des petites choses derrière, on va dire, ça, moi, je trouve ça légitime."
+* Code 7 : Réflexion éthique
+ Verbatim : "Je ne saurais pas dire comme ça, mais globalement, je pense que ça peut être légitime."
+* Code 8 : Acceptabilité générale
+ Verbatim : "Globalement, je pense que c'est acceptable un peu partout à une certaine quantité."
+* Code 9 : Pas de dilemme moral
+ Verbatim : "L ’utiliser comme je le fais ça me pose pas de soucis moraux pour ma part."
+* Code 10 : Équilibre entre utilisation et éthique
+ Verbatim : "Je suis d'accord que ça change un peu la donne, mais j'ai l'impression en tout cas que dans mon utilisation, éthiquement parlant, ça va quoi."
+
+**Thème 2 : Impact de ChatGpt sur l'apprentissage**
+
+* Code 1 : Modification des habitudes d'apprentissage
+ Verbatim : "Avant, je faisais mes résumés moi-même à la main et que je sais que c'est comme ça que j'apprenais mieux."
+* Code 2 : Incertitude sur l'efficacité
+ Verbatim : "Je ne sais pas (rire). De toute façon, quand je faisais moi-même mes résumés à la main, je les révisais en période de révision."
+* Code 3 : Comparaison entre méthodes
+ Verbatim : "Je verrai si vraiment ça valait la peine que j'écrive tout à la main ou si en faisant faire par chatGPT, j'ai le même résultat."
+* Code 4 : Manque de données pour juger
+ Verbatim : "Vu que je n'ai pas encore eu d'examen, je ne sais pas."
+* Code 5 : Réflexion sur l'utilité
+ Verbatim : "Ça, c'est à voir."
+* Code 6 : Utilisation complémentaire
+ Verbatim : "Je dirais que vu que... Moi, je pense que ça m'aide quand même à mieux comprendre les choses, mais il faut que les choses soient déjà quand même en partie bien expliquées."
+* Code 7 : Limite de l'utilité
+ Verbatim : "Si j'ai déjà bien compris... Mais en fait, je ne sais même pas si j'utilise vraiment pour ça."
+* Code 8 : Appui sur des connaissances préalables
+ Verbatim : "Je l’utilise en sachant déjà de quoi on parle dans mon cours."
+* Code 9 : Utilisation contextuelle
+ Verbatim : "Je pense que ChatGpt pourrait rien faire pour moi, enfin pour nous du coup, si le cours est très flou."
+* Code 10 : Développement de la compréhension
+ Verbatim : "Je dirais que ça m'aide quand même à mieux comprendre les choses."
+
+**Thème 3 : Rôle de ChatGpt dans la réalisation des tâches académiques**
+
+* Code 1 : Utilisation pour clarifier les attentes
+ Verbatim : "Je dirais que ça m'aide quand même à mieux comprendre les choses."
+* Code 2 : Appui sur des connaissances préalables
+ Verbatim : "Je l’utilise en sachant déjà de quoi on parle dans mon cours."
+* Code 3 : Utilisation limitée
+ Verbatim : "Je ne sais pas si j'utilise vraiment pour ça."
+* Code 4 : Utilité pour des tâches spécifiques
+ Verbatim : "Pour des petites choses derrière, on va dire, ça, moi, je trouve ça légitime."
+* Code 5 : Limite de l'utilité
+ Verbatim : "Si le cours est très flou, je pense que ChatGpt pourrait rien faire pour moi."
+* Code 6 : Utilisation complémentaire
+ Verbatim : "Ça m'aide quand même à mieux comprendre les choses, mais il faut que les choses soient déjà quand même en partie bien expliquées."
+* Code 7 : Développement de la compréhension
+ Verbatim : "Je dirais que ça m'aide quand même à mieux comprendre les choses."
+* Code 8 : Utilisation contextuelle
+ Verbatim : "Je pense que ça dépendrait de chaque contexte."
+* Code 9 : Flexibilité d'utilisation
+ Verbatim : "Globalement, je pense que c'est acceptable un peu partout à une certaine quantité."
+* Code 10 : Équilibre entre utilisation et autonomie
+ Verbatim : "Je suis d'accord que ça change un peu la donne, mais j'ai l'impression en tout cas que dans mon utilisation, éthiquement parlant, ça va quoi."
+
+**Thème 4 : Légitimité de l'utilisation de ChatGpt dans les travaux académiques**
+
+* Code 1 : Légitimité contextuelle
+ Verbatim : "Je pense que ça dépendrait de chaque contexte mais je pense qu'il peut y avoir une légitimité dans tout type de travaux."
+* Code 2 : Cas de légitimité
+ Verbatim : "Pour des petites choses derrière, on va dire, ça, moi, je trouve ça légitime."
+* Code 3 : Limite de la légitimité
+ Verbatim : "Mais dans la production concrète, dans ce cas-là, je trouve que ChatGpt, ce n'est pas trop légitime."
+* Code 4 : Réflexion sur la légitimité
+ Verbatim : "Je ne saurais pas dire comme ça, mais globalement, je pense que ça peut être légitime."
+* Code 5 : Acceptabilité générale
+ Verbatim : "Globalement, je pense que c'est acceptable un peu partout à une certaine quantité."
+* Code 6 : Distinction entre utilisation et production
+ Verbatim : "Je n'oserais pas rendre quelque chose qui a été produit par ChatGpt."
+* Code 7 : Éthique de l'utilisation
+ Verbatim : "Je me sentirais super mal de le faire, donc à ce niveau-là... Je me sentirai mal parce que justement, je ne trouverais pas ça éthique."
+* Code 8 : Utilisation responsable
+ Verbatim : "L ’utiliser comme je le fais ça me pose pas de soucis moraux pour ma part."
+* Code 9 : Équilibre entre utilisation et autonomie
+ Verbatim : "Je suis d'accord que ça change un peu la donne, mais j'ai l'impression en tout cas que dans mon utilisation, éthiquement parlant, ça va quoi."
+* Code 10 : Développement de la réflexion éthique
+ Verbatim : "Je pense que ça dépendrait de chaque contexte."
+
+**Thème 5 : Utilisation spécifique de ChatGpt**
+
+* Code 1 : Traduction de texte
+ Verbatim : "Dans le premier lien, c'était dans le cadre de ton cours genre médecine et santé, tu avais demandé de traduire un passage en anglais sur un article à propos de l'utilisation de Roaccutane."
+* Code 2 : Utilisation pour des tâches spécifiques
+ Verbatim : "Pour des petites choses derrière, on va dire, ça, moi, je trouve ça légitime."
+* Code 3 : Appui sur des connaissances préalables
+ Verbatim : "Je l’utilise en sachant déjà de quoi on parle dans mon cours."
+* Code 4 : Utilisation complémentaire
+ Verbatim : "Ça m'aide quand même à mieux comprendre les choses, mais il faut que les choses soient déjà quand même en partie bien expliquées."
+* Code 5 : Limite de l'utilité
+ Verbatim : "Si le cours est très flou, je pense que ChatGpt pourrait rien faire pour moi."
+* Code 6 : Développement de la compréhension
+ Verbatim : "Je dirais que ça m'aide quand même à mieux comprendre les choses."
+* Code 7 : Utilisation contextuelle
+ Verbatim : "Je pense que ça dépendrait de chaque contexte."
+* Code 8 : Équilibre entre utilisation et autonomie
+ Verbatim : "Je suis d'accord que ça change un peu la donne, mais j'ai l'impression en tout cas que dans mon utilisation, éthiquement parlant, ça va quoi."
+* Code 9 : Utilisation responsable
+ Verbatim : "L ’utiliser comme je le fais ça me pose pas de soucis moraux pour ma part."
+* Code 10 : Satisfaction de l'utilisateur
+ Verbatim : "Je verrai si vraiment ça valait la peine que j'écrive tout à la main ou si en faisant faire par chatGPT, j'ai le même résultat."

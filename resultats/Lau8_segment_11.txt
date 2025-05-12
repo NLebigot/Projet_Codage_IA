@@ -1,0 +1,112 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Utilisation de ChatGPT dans les études**
+ - Code1 : Utilisation pour les résumés
+ - Verbatim : "Dans mon examen en sociopolitique, j'avais demandé le résumé."
+ - Code2 : Utilisation pour les réflexions
+ - Verbatim : "C'est pas forcément le contenu précis de ce qu'il me répond qui m'intéresse, mais plutôt les réflexions que ça m'amène à développer"
+ - Code3 : Combinaison avec les lectures
+ - Verbatim : "J'essaie de les combiner avec le contenu du cours."
+ - Code4 : Pas de plagiat
+ - Verbatim : "Je fais jamais de copy paste, il me semble."
+ - Code5 : Utilisation limitée
+ - Verbatim : "J'ai jamais utilisé pour des gros, gros trucs."
+ - Code6 : Utilisation pour les traductions
+ - Verbatim : "Peut-être pour les traductions des fois."
+ - Code7 : Pas de reconnaissance de la source
+ - Verbatim : "Je dis pas que ça vient de ChatGPT, parce que, en fait, j'ai pas l'impression que ce soit vraiment de ChatGPT"
+ - Code8 : Intégration dans le processus de travail
+ - Verbatim : "Je retravaille ce qu'il dit, avec les infos du cours ou les textes"
+ - Code9 : Utilisation pour la préparation
+ - Verbatim : "Le résumé que j'ai fait, c'était même pas quelque chose qu'il fallait rendre, c'était plutôt pour travailler notre présentation."
+ - Code10 : Gestion des données
+ - Verbatim : "Je supprime régulièrement mes conversations par rapport aux données"
+
+**Thème 2 : Interaction avec ChatGPT**
+ - Code1 : Tutoyer ChatGPT
+ - Verbatim : "Oui, c'est ça. Je la tutoie."
+ - Code2 : Perception de ChatGPT comme non humain
+ - Verbatim : "C'est pas un humain. Il n'a pas besoin de formulation politesse"
+ - Code3 : Utilisation d'une langue concise
+ - Verbatim : "Je vais pas donner des mots inutiles. Des mots inutiles de politesse"
+ - Code4 : Rare utilisation de formules de politesse
+ - Verbatim : "J'essaye de pas... De vraiment être... Genre... Poser juste des questions."
+ - Code5 : Comparaison avec WhatsApp
+ - Verbatim : "Comme par WhatsApp, quoi."
+ - Code6 : Orthographe et formulation
+ - Verbatim : "J'essaie de faire attention. Après, si d'un coup, je manque le point d'interrogation, tant pis."
+ - Code7 : Perception de l'utilité de la politesse
+ - Verbatim : "Je trouve inutile dans le sens aussi, bah... Allons direct au but, quoi."
+ - Code8 : Adaptation de la langue
+ - Verbatim : "Il comprend que c'est des questions, normalement."
+ - Code9 : Simplification de la communication
+ - Verbatim : "J'ai une question, réponds-moi, et pis... Bah c'est ça."
+ - Code10 : Manière d'interagir
+ - Verbatim : "Je l'écris pas forcément. Mais... J'essaye de pas..."
+
+**Thème 3 : Impact de ChatGPT sur la pensée et les études**
+ - Code1 : Élargissement des perspectives
+ - Verbatim : "Ça m'a permis d'élargir dans cette question-là."
+ - Code2 : Découverte de nouveaux aspects
+ - Verbatim : "Oui, ça me permet de voir un peu plus d'aspects peut-être que j'aurais pas pensé."
+ - Code3 : Impact sur la vision du sujet
+ - Verbatim : "Oui je pense parce que du coup j'ai presque appris avec."
+ - Code4 : Influence sur l'approche du sujet
+ - Verbatim : "Un peu, ouais. Là, ça m'a permis d'élargir dans cette question-là."
+ - Code5 : Apprentissage
+ - Verbatim : "J'ai presque appris avec."
+ - Code6 : Changement de perspective
+ - Verbatim : "Oui je pense parce que du coup j'ai presque appris avec."
+ - Code7 : Utilité de ChatGPT
+ - Verbatim : "Bah l'informatique là ça m'a beaucoup aidée parce que ça m'a permis d'être un peu plus à l'aise."
+ - Code8 : Intégration dans le processus d'apprentissage
+ - Verbatim : "Ça me permet de voir un peu plus d'aspects peut-être que j'aurais pas pensé."
+ - Code9 : Perception de l'avantage
+ - Verbatim : "Non, je pense pas. Est-ce que ça m'avantage ?"
+ - Code10 : Réflexion sur l'utilisation
+ - Verbatim : "C'est la question que j'allais te poser haha par rapport aux autres étudiants."
+
+**Thème 4 : Perception de soi et des autres dans l'utilisation de ChatGPT**
+ - Code1 : Comparaison avec les autres étudiants
+ - Verbatim : "Est-ce que ça m'avantage ? Non, je pense pas."
+ - Code2 : Réflexion sur l'équité
+ - Verbatim : "C'est la question que j'allais te poser haha par rapport aux autres étudiants."
+ - Code3 : Perception de l'utilisation par les autres
+ - Verbatim : "Est-ce que les autres étudiants utilisent ChatGPT ?"
+ - (Ce code n'est pas directement disponible mais peut être inféré du contexte)
+ - Code4 : Introspection sur sa propre utilisation
+ - Verbatim : "Je dis pas que ça vient de ChatGPT"
+ - Code5 : Perception de la valeur de son travail
+ - Verbatim : "Je retravaille ce qu'il dit, avec les infos du cours ou les textes"
+ - Code6 : Conscience de la source
+ - Verbatim : "J'ai pas l'impression que ce soit vraiment de ChatGPT, tu vois."
+ - Code7 : Évaluation de l'impact sur la valeur du travail
+ - Verbatim : "Non, je pense pas" (en parlant de l'avantage)
+ - Code8 : Discussion interne sur l'utilisation
+ - Verbatim : "C'est la question que j'allais te poser"
+ - Code9 : Échange et discussion sur l'utilisation
+ - Verbatim : "par rapport aux autres étudiants."
+ - Code10 : Honnêteté sur l'utilisation
+ - Verbatim : "Je dis pas que ça vient de ChatGPT"
+
+**Thème 5 : Attitude envers la technologie**
+ - Code1 : Familiarité avec la technologie
+ - Verbatim : "Bah l'informatique là ça m'a beaucoup aidée"
+ - Code2 : Confiance dans la technologie
+ - Verbatim : "Il comprend que c'est des questions, normalement."
+ - Code3 : Utilisation efficace
+ - Verbatim : "J'ai une question, réponds-moi, et pis... Bah c'est ça."
+ - Code4 : Perception de la technologie comme outil
+ - Verbatim : "C'est pas un humain."
+ - Code5 : Adaptation à la technologie
+ - Verbatim : "J'essaie de faire attention"
+ - Code6 : Simplification grâce à la technologie
+ - Verbatim : "Allons direct au but, quoi."
+ - Code7 : Satisfaction de l'aide apportée
+ - Verbatim : "Ça m'a beaucoup aidée parce que ça m'a permis d'être un peu plus à l'aise."
+ - Code8 : Intégration de la technologie dans les habitudes
+ - Verbatim : "Je supprime régulièrement mes conversations"
+ - Code9 : Perception de la limite de la technologie
+ - Verbatim : "J'ai jamais utilisé pour des gros, gros trucs."
+ - Code10 : Attitude pragmatique
+ - Verbatim : "Tant pis. Il comprend que c'est des questions, normalement."

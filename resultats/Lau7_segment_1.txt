@@ -1,0 +1,83 @@
+Je vais analyser l'entretien avec Nina en suivant la méthode de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Présentation et parcours universitaire**
+
+- Thème : Parcours académique
+ - Code 1 : Formation universitaire
+ - Verbatim : "Je suis en dernière année de master en sciences sociales à Lausanne."
+ - Code 2 : Spécialisation
+ - Verbatim : "J'ai commencé le master en septembre 2023 en sciences sociales dans l'orientation corps, médecine, technologie et santé."
+ - Code 3 : Établissement universitaire
+ - Verbatim : "J'ai fait le bachelor en sciences sociales à Lausanne aussi entre 2019 et 2020."
+ - Code 4 : Niveau d'étude
+ - Verbatim : "Je suis en dernière année de master."
+ - Code 5 : Domaine d'étude
+ - Verbatim : "Sciences sociales"
+ - Code 6 : Intérêt pour le domaine
+ - Verbatim : "Pas plus de chose à dire là-dessus." (manque d'enthousiasme)
+ - Code 7 : Continuité dans les études
+ - Verbatim : "J'ai fait le bachelor à Lausanne et puis j'ai continué pour le master."
+ - Code 8 : Moment de transition
+ - Verbatim : "J'ai commencé le master en septembre 2023."
+ - Code 9 : Perception de son parcours
+ - Verbatim : "Et puis voilà quoi."
+ - Code 10 : Simplicité dans la présentation
+ - Verbatim : "J'ai pas plus de chose à dire là-dessus."
+
+- Thème : Interaction avec l'enquêtrice
+ - Code 1 : Clarification sur la demande
+ - Verbatim : "Du coup tu veux surtout que je me présente par rapport à l'Uni, c'est ça ?"
+ - Code 2 : Réponse concise
+ - Verbatim : "Je m'appelle Nina."
+ - Code 3 : Réponse adaptée à la question
+ - Verbatim : "Oui exactement."
+ - Code 4 : Manière de communiquer
+ - Verbatim : "(rire)"
+ - Code 5 : Reconnaissance de la demande
+ - Verbatim : "Du coup, je m'appelle Nina."
+
+**Segment 2 : Perception de ChatGPT et de l'intelligence artificielle**
+
+- Thème : Définition et utilisation de ChatGPT
+ - Code 1 : Perception de ChatGPT
+ - Verbatim : "C'est un outil de support pour plein de domaines de la vie."
+ - Code 2 : Utilisation personnelle
+ - Verbatim : "Moi, j'utilise surtout ChatGPT."
+ - Code 3 : Connaissance limitée de l'IA
+ - Verbatim : "Le reste, j'avoue que je connais pas trop."
+ - Code 4 : Rôle de ChatGPT
+ - Verbatim : "Un support, un outil, une aide pour plein d'éléments."
+ - Code 5 : Domaines d'application
+ - Verbatim : "Notamment académiques, mais pas que."
+ - Code 6 : Exemple d'utilisation
+ - Verbatim : "J'utilise Canva. Je sais que sur Canva, directement, il y a de l'intelligence artificielle."
+ - Code 7 : Perception de l'IA en général
+ - Verbatim : "Je sais qu'il y a d'autres programmes d'intelligence artificielle."
+ - Code 8 : Utilité de ChatGPT
+ - Verbatim : "Une assez longue liste et pratique aussi, je dirais."
+ - Code 9 : Limitations de ChatGPT
+ - Verbatim : "Il s'y connaît sur plein de sujets, même s'il ne s'y connaît pas non plus très bien sur tout."
+ - Code 10 : Bénéfices de l'utilisation
+ - Verbatim : "C'est une aide."
+
+- Thème : Évolution de la perception de ChatGPT
+ - Code 1 : Changement d'avis
+ - Verbatim : "Maintenant, je dirais... ce que j'ai dit avant, aide, support."
+ - Code 2 : Première impression
+ - Verbatim : "J'avais un avis assez négatif."
+ - Code 3 : Évolution vers une utilisation régulière
+ - Verbatim : "J'aime beaucoup l'utiliser du coup."
+ - Code 4 : Raison du changement
+ - Verbatim : "J'ai commencé à l'utiliser."
+ - Code 5 : Utilisation actuelle
+ - Verbatim : "J'utilise très régulièrement."
+ - Code 6 : Expérience utilisateur
+ - Verbatim : "Je dirais que c'est un support."
+ - Code 7 : Moment de transition
+ - Verbatim : "Il y a bientôt deux ans."
+ - Code 8 : Nouvel usage
+ - Verbatim : "J'ai commencé à l'utiliser le semestre d'automne 2023."
+ - Code 9 : Contexte d'utilisation
+ - Verbatim : "Pour le cours de méthode quantitative."
+ - Code 10 : Impact sur la perception
+ - Verbatim : "J'ai plus le même avis."

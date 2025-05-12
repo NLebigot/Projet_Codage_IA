@@ -1,0 +1,111 @@
+Dans cette analyse, je vais mettre en évidence les thèmes distincts issus de l'entretien mené avec James concernant son utilisation de ChatGPT pour diverses tâches, notamment l'analyse statistique, le codage et la recherche de références.
+
+### Thème 1 : Interaction avec ChatGPT pour l'analyse et le codage
+- Code 1 : Demande d'analyse statistique
+- Verbatim : "je lui demande d'analyse statistique et je lui dis comment je peux interpréter mon résultat."
+- Code 2 : Exploration de pistes
+- Verbatim : "À partir de ces trois options, je dis, OK, on va explorer la première."
+- Code 3 : Limite de la confiance
+- Verbatim : "je n'ai pas non plus une confiance aveugle non plus."
+- Code 4 : Utilisation pour la reformulation de texte
+- Verbatim : "quand je lui demande de reformuler un texte que je sais être juste."
+- Code 5 : Fiabilité pour le codage
+- Verbatim : "il peut lire toutes les données, les machins, en fait."
+- Code 6 : Adaptation du code
+- Verbatim : "j'ai pris son code, probablement j'ai dû mettre des choses à moi dedans"
+- Code 7 : Communication avec l'IA
+- Verbatim : "je lui dis, j'ai pris 1, que j'ai fait l'opération Y et j'aimerais obtenir Z."
+- Code 8 : Limites de l'IA dans le codage
+- Verbatim : "l'IA, il a une façon qu'il va imaginer."
+- Code 9 : Nécessité de guider l'IA
+- Verbatim : "il faut lui dire quel est le chemin et quel raisonnement de pensée t'as pris."
+- Code 10 : Collaboration dans le codage
+- Verbatim : "du coup, c'est des énormes pavés que tu lui envoies."
+
+### Thème 2 : Confiance et limites de ChatGPT
+- Code 1 : Confiance conditionnelle
+- Verbatim : "je n'ai pas non plus une confiance aveugle non plus."
+- Code 2 : Fiabilité pour la reformulation
+- Verbatim : "quand je lui demande de reformuler un texte que je sais être juste, là il est bon."
+- Code 3 : Limites dans l'interprétation
+- Verbatim : "il me dit « bah de là, tu as trois options »."
+- Code 4 : Nécessité de vérification
+- Verbatim : "il faut toujours avoir des articles à côté, des sources."
+- Code 5 : Limite dans la compréhension du contexte
+- Verbatim : "lui, il peut lire ce code, même s'il n'est pas structuré, joli"
+- Code 6 : Compréhension des nuances
+- Verbatim : "je lui dis, j'ai pris 1, que j'ai fait l'opération Y et j'aimerais obtenir Z."
+- Code 7 : Correction par l'utilisateur
+- Verbatim : "tu l'as... tu l'as... tu l'as corrigée, la machine."
+- Code 8 : Utilisation de sources externes
+- Verbatim : "moi-même tu lui proposes en fait des sources pour qu'elle-même elle puisse se corriger."
+- Code 9 : Apport de l'outil
+- Verbatim : "ça permet à la machine, elle, elle peut lire ce code"
+- Code 10 : Interaction pour l'amélioration
+- Verbatim : "Qu'est-ce que ça t'apporte, tu penses ? Enfin, c'était quoi la démarche derrière ?"
+
+### Thème 3 : Usage spécifique de ChatGPT pour le codage
+- Code 1 : Utilisation pour le codage
+- Verbatim : "surtout là, particulièrement sur ce sujet-là du codage."
+- Code 2 : Adaptation du code généré
+- Verbatim : "j'ai pris son code, probablement j'ai dû mettre des choses à moi dedans"
+- Code 3 : Communication avec l'IA sur le codage
+- Verbatim : "je lui dis, j'ai pris 1, que j'ai fait l'opération Y et j'aimerais obtenir Z."
+- Code 4 : Échange avec l'IA
+- Verbatim : "du coup, c'est des énormes pavés que tu lui envoies."
+- Code 5 : Avantages pour la lecture du code
+- Verbatim : "il peut lire toutes les données, les machins, en fait."
+- Code 6 : Limitations dans l'approche du codage
+- Verbatim : "l'IA, il a une façon qu'il va imaginer."
+- Code 7 : Nécessité de personnaliser le code
+- Verbatim : "il faut lui dire quel est le chemin et quel raisonnement de pensée t'as pris."
+- Code 8 : Réutilisation du code de l'IA
+- Verbatim : "je reprends le sien."
+- Code 9 : Usage du "nous" pour la contextualisation
+- Verbatim : "le fait d'avoir dit nous, c'était un test"
+- Code 10 : Interaction pour la correction du code
+- Verbatim : "il te propose une correction."
+
+### Thème 4 : Utilisation de ChatGPT pour la recherche de références et vérification
+- Code 1 : Demande de références
+- Verbatim : "quand c'était sur la bio-indication là, où tu lui demandais pas mal de références."
+- Code 2 : Correction par l'utilisateur
+- Verbatim : "tu l'as corrigée, la machine."
+- Code 3 : Proposition de sources
+- Verbatim : "moi-même tu lui proposes en fait des sources pour qu'elle-même elle puisse se corriger."
+- Code 4 : Recherche historique
+- Verbatim : "c'était un sujet où les références qu'on cherche, c'était à historique."
+- Code 5 : Exemple de recherche
+- Verbatim : "1930."
+- Code 6 : Utilisation pour vérifier les informations
+- Verbatim : "il y a tout ce qui dit que c'est quand même assez générique."
+- Code 7 : Importance des sources externes
+- Verbatim : "il faut toujours avoir des articles à côté, des sources."
+- Code 8 : Limite de l'outil pour les références
+- Verbatim : "je n'ai pas non plus une confiance aveugle non plus."
+- Code 9 : Interaction pour la vérification
+- Verbatim : "Qu'est-ce que ça t'apporte, tu penses ? Enfin, c'était quoi la démarche derrière ?"
+- Code 10 : Valeur ajoutée de l'interaction
+- Verbatim : "oui."
+
+### Thème 5 : Réflexion sur l'interaction avec l'IA
+- Code 1 : Perception de l'interaction
+- Verbatim : "je trouve ça hyper intéressant du coup."
+- Code 2 : Test de formulation
+- Verbatim : "le fait d'avoir dit nous, c'était un test"
+- Code 3 : Analyse de l'usage
+- Verbatim : "Qu'est-ce que ça t'apporte, tu penses ? Enfin, c'était quoi la démarche derrière ?"
+- Code 4 : Interaction comme un dialogue
+- Verbatim : "du coup, c'est des énormes pavés que tu lui envoies."
+- Code 5 : Réflexion sur la collaboration
+- Verbatim : "oui, mais parce que du coup, ça permet à la machine, elle, elle peut lire ce code"
+- Code 6 : Limites et potentialités
+- Verbatim : "l'IA, il a une façon qu'il va imaginer."
+- Code 7 : Évaluation de l'utilité
+- Verbatim : "oui, il permet d'aller plus loin dans certaines réflexions."
+- Code 8 : Nuances dans l'interaction
+- Verbatim : "je lui dis, j'ai pris 1, que j'ai fait l'opération Y et j'aimerais obtenir Z."
+- Code 9 : Contextualisation de l'usage
+- Verbatim : "pour que lui comprenne le contexte dans lequel je suis"
+- Code 10 : Exploration des possibilités
+- Verbatim : "on va explorer la première."

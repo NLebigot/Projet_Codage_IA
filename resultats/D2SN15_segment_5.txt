@@ -1,0 +1,116 @@
+Je vais analyser l'entretien suivant en respectant une méthode rigoureuse de codage qualitatif. Voici mes résultats :
+
+**Thème 1 : La précision et l'interaction avec ChatGPT**
+
+- Code 1 : [Degré de précision]
+- Verbatim : "Je trouve que ça dépend vraiment de la précision que moi j’y mets"
+- Code 2 : [Processus itératif]
+- Verbatim : "Je mets un premier message, il va me donner une réponse, après, je vais changer en rajoutant un peu des précisions."
+- Code 3 : [Amélioration des résultats]
+- Verbatim : "Plus je suis précise, plus je retrouve ce que je veux là-dedans."
+- Code 4 : [Satisfaction]
+- Verbatim : "In fine, souvent ça arrive quand même à ce que je voulais."
+- Code 5 : [Nécessité de multiples tentatives]
+- Verbatim : "Oui, oui… Souvent, je pose plusieurs questions."
+- Code 6 : [Itération et ajustement]
+- Verbatim : "Je regarde, je corrige."
+- Code 7 : [Interaction dynamique]
+- Verbatim : "Je vais dire : « Peut-être, développe-moi un peu ça » ou « Détaille-moi ça. »"
+- Code 8 : [Rôle de la précision dans l'obtention des résultats]
+- Verbatim : "Ça dépend vraiment de la précision que moi j’y mets"
+- Code 9 : [Attente vis-à-vis de ChatGPT]
+- Verbatim : "Globalement quand même ça répond bien."
+- Code 10 : [Adaptation]
+- Verbatim : "Je vais changer en rajoutant un peu des précisions."
+
+**Thème 2 : Impact de ChatGPT sur les habitudes de travail**
+
+- Code 1 : [Utilisation de ChatGPT comme outil d'appoint]
+- Verbatim : "J’utilise très peu ChatGPT comme un outil de travail"
+- Code 2 : [Rôle dans la rédaction]
+- Verbatim : "C’est plus, in fine, par exemple, une fois que j’ai tout rédigé par mes propres parties"
+- Code 3 : [Aide à la rédaction]
+- Verbatim : "Je vais dire : « Peut-être, développe-moi un peu ça » ou « Détaille-moi ça. »"
+- Code 4 : [Préférence pour les tâches de structuration]
+- Verbatim : "J’aime pas rédiger. Je préférerais vraiment faire des bullet points, des trucs comme ça."
+- Code 5 : [Utilisation limitée par manque d'intérêt pour la rédaction]
+- Verbatim : "J’ai jamais aimé rédiger des parties"
+- Code 6 : [Aide à la productivité]
+- Verbatim : "C’est plus que ça m’aide un peu là-dedans, parce que c’est des trucs que… enfin, des trucs que j’aime pas faire."
+- Code 7 : [Continuité des méthodes de travail]
+- Verbatim : "Ça ne change pas vraiment ma manière de fonctionner"
+- Code 8 : [Usage spécifique de ChatGPT]
+- Verbatim : "C’est moi qui vais dire quoi dire, avec des points très précis"
+- Code 9 : [Complémentarité]
+- Verbatim : "C’est plus un peu une aide"
+- Code 10 : [Fonctionnement inchangé]
+- Verbatim : "Ça ne change pas pour autant ma manière de fonctionner à la base."
+
+**Thème 3 : Procrastination et utilisation de ChatGPT**
+
+- Code 1 : [Recours à ChatGPT par flemme]
+- Verbatim : "Quand j’ai la flemme, c’est un peu le premier truc que je fais."
+- Code 2 : [Reconnaissance de la procrastination]
+- Verbatim : "C’est un peu justement au moment où je l’ai fait que je me dis : « Arrête. Tu abuses, c’est bon tu peux le faire toi-même. »"
+- Code 3 : [Usage en situation d'urgence]
+- Verbatim : "Quand je demande vraiment de rédiger, c’est plus que je suis dans l’urgence, j’ai pas le temps de finir"
+- Code 4 : [Évitement des tâches]
+- Verbatim : "Soit si ça ne m'intéresse pas, aussi, c’est pas ce que je vais faire"
+- Code 5 : [Déclic pour agir]
+- Verbatim : "Une fois que c’est marqué, je me dis : « Bon, allez je fais un effort… »"
+- Code 6 : [Procrastination admise]
+- Verbatim : "Là, c’est vraiment juste de la procrastination."
+- Code 7 : [Utilisation paresseuse]
+- Verbatim : "J’allais dire : quand j’ai la flemme"
+- Code 8 : [Réticence à l'égard de la rédaction]
+- Verbatim : "J’ai la flemme d'aller chercher des articles et d'aller directement demander à ChatGPT de trouver cet article là"
+- Code 9 : [Autocritique]
+- Verbatim : "Je me dis : « Non, mais c’est bon, je ne le dis pas. »"
+- Code 10 : [Motivation retrouvée]
+- Verbatim : "C’est un peu le déclic"
+
+**Thème 4 : Perception de l'utilité et limites de ChatGPT**
+
+- Code 1 : [Utilité perçue]
+- Verbatim : "C’est plus que ça m’aide un peu là-dedans"
+- Code 2 : [Limitations reconnues]
+- Verbatim : "Je trouve que ça dépend vraiment de la précision que moi j’y mets"
+- Code 3 : [Satisfaction globale]
+- Verbatim : "Globalement quand même ça répond bien."
+- Code 4 : [Attentes élevées]
+- Verbatim : "In fine, souvent ça arrive quand même à ce que je voulais."
+- Code 5 : [Amélioration par l'itération]
+- Verbatim : "Plus je suis précise, plus je retrouve ce que je veux là-dedans."
+- Code 6 : [Reconnaissance de l'effort nécessaire]
+- Verbatim : "Je me dis : « Arrête. Tu abuses, c’est bon tu peux le faire toi-même. »"
+- Code 7 : [Utilisation ciblée]
+- Verbatim : "J’utilise très peu ChatGPT comme un outil de travail"
+- Code 8 : [Rôle dans la productivité]
+- Verbatim : "C’est plus un peu une aide"
+- Code 9 : [Acceptation des limites]
+- Verbatim : "Ça ne change pas pour autant ma manière de fonctionner à la base."
+- Code 10 : [Bénéfices dans les tâches détestées]
+- Verbatim : "C’est des trucs que… enfin, des trucs que j’aime pas faire."
+
+**Thème 5 : Dynamique entre l'effort personnel et l'assistance de ChatGPT**
+
+- Code 1 : [Préférence pour un travail structuré]
+- Verbatim : "Je préférerais vraiment faire des bullet points, des trucs comme ça."
+- Code 2 : [Rôle de ChatGPT dans l'effort]
+- Verbatim : "C’est plus que ça m’aide un peu là-dedans"
+- Code 3 : [Équilibre entre effort personnel et aide]
+- Verbatim : "C’est moi qui vais dire quoi dire, avec des points très précis"
+- Code 4 : [Impact sur la motivation]
+- Verbatim : "C’est un peu le déclic"
+- Code 5 : [Continuité de l'effort personnel]
+- Verbatim : "Ça ne change pas vraiment ma manière de fonctionner"
+- Code 6 : [Usage nuancé de ChatGPT]
+- Verbatim : "J’utilise très peu ChatGPT comme un outil de travail"
+- Code 7 : [Acceptation de l'aide]
+- Verbatim : "C’est plus un peu une aide"
+- Code 8 : [Limites de l'assistance]
+- Verbatim : "Je me dis : « Arrête. Tu abuses, c’est bon tu peux le faire toi-même. »"
+- Code 9 : [Complémentarité entre effort et aide]
+- Verbatim : "C’est plus que ça m’aide un peu là-dedans, parce que c’est des trucs que… enfin, des trucs que j’aime pas faire."
+- Code 10 : [Résultat de l'interaction]
+- Verbatim : "In fine, souvent ça arrive quand même à ce que je voulais."

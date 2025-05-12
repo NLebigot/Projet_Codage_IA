@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée.
+
+**Segment 1 : Perception de ChatGPT et de ses fonctionnalités**
+
+- Thème : Utilité et limites de la version gratuite et payante de ChatGPT
+ - Code 1 : Différence entre version gratuite et payante
+ - Verbatim : "la version non payante, alors peut-être qu'ils ont actualisé les données, mais en gros, ils reprennent des informations jusqu'à fin 2021."
+ - Code 2 : Limite de la version gratuite
+ - Verbatim : "tu as juste le risque d'être avec des données qui ne sont pas actuelles en fait, mais ce n'est pas des données qui sont fausses."
+ - Code 3 : Avantage de la version payante
+ - Verbatim : "avec la version payante, tu peux mettre des documents en annexe. Il pourra te lire un document."
+ - Code 4 : Utilité pour la révision de documents
+ - Verbatim : "j'ai écrit ma méthodologie et je lui ai demandé ce que je pouvais améliorer. Il a lu le document et il m'a fait des recommandations."
+ - Code 5 : Capacité à traiter des documents
+ - Verbatim : "Il pourra te lire un document."
+ - Code 6 : Utilisation pour améliorer la rédaction
+ - Verbatim : "je lui ai demandé ce que je pouvais améliorer."
+ - Code 7 : Réception de recommandations
+ - Verbatim : "Il m'a fait des recommandations."
+ - Code 8 : Interaction avec l'outil
+ - Verbatim : "je lui ai demandé ce que je pouvais améliorer."
+ - Code 9 : Utilisation dans le processus d'écriture
+ - Verbatim : "j'ai écrit ma méthodologie et je lui ai demandé ce que je pouvais améliorer."
+ - Code 10 : Gain de temps et d'efficacité
+ - Verbatim : "on se rend compte qu'on gagne beaucoup plus de temps."
+
+- Thème : Perception de la technologie et de ChatGPT
+ - Code 1 : Attitude envers les nouvelles technologies
+ - Verbatim : "je ne suis pas fan des nouvelles technologies dans le sens où je trouve ça bien pratique, mais je ne suis pas de manière régulière aux nouvelles avancées."
+ - Code 2 : Curiosité envers les nouveautés
+ - Verbatim : "si on me montre quelque chose en disant que ça peut vraiment être bien, je vais quand même essayer."
+ - Code 3 : Adoption progressive de ChatGPT
+ - Verbatim : "j'ai attendu 3-4 mois, un petit peu comme tout le monde j'ai l'impression."
+ - Code 4 : Connaissance des technologies dans le parcours académique
+ - Verbatim : "juste R pour l’analyse de statistiques en méthode quantitative."
+ - Code 5 : Expérience limitée avec les technologies
+ - Verbatim : "je ne suis pas de manière régulière aux nouvelles avancées."
+ - Code 6 : Intérêt pour les applications pratiques
+ - Verbatim : "je vais quand même essayer."
+ - Code 7 : Perception de ChatGPT comme un outil
+ - Verbatim : "je l'utilise dans ce cadre-là."
+ - Code 8 : Utilisation pour des tâches spécifiques
+ - Verbatim : "pour gagner du temps."
+ - Code 9 : Évaluation de l'utilité de ChatGPT
+ - Verbatim : "ça va beaucoup plus vite avec ChatGPT."
+ - Code 10 : Impact sur le processus de rédaction
+ - Verbatim : "ça va beaucoup plus vite avec ChatGPT, parce que... formuler ses idées, en fait."
+
+**Segment 2 : Interaction avec ChatGPT et utilisation dans les études**
+
+- Thème : Interaction avec ChatGPT et formulation des requêtes
+ - Code 1 : Manière d'interagir avec ChatGPT
+ - Verbatim : "je vais un petit peu le parler comme un enfant."
+ - Code 2 : Formulation des requêtes
+ - Verbatim : "je dis en fonction de la donnée, « est-ce que tu peux faire ci, ça, ça ? »"
+ - Code 3 : Réajustement des réponses
+ - Verbatim : "je reprends certains trucs."
+ - Code 4 : Utilisation des fonctionnalités de l'interface
+ - Verbatim : "je vais utiliser le petit stylo dans le coin pour modifier ma question."
+ - Code 5 : Interaction dynamique
+ - Verbatim : "je lui réponds."
+ - Code 6 : Ajustement des réponses de ChatGPT
+ - Verbatim : "là, le mot ne me convient pas."
+ - Code 7 : Critères de qualité pour les réponses
+ - Verbatim : "trop formel, pas assez formel."
+ - Code 8 : Contrôle sur les résultats
+ - Verbatim : "je dis là, le mot ne me convient pas."
+ - Code 9 : Flexibilité dans l'interaction
+ - Verbatim : "je vais utiliser le petit stylo dans le coin pour modifier ma question."
+ - Code 10 : Engagement actif avec l'outil
+ - Verbatim : "je lui réponds."
+
+- Thème : Utilisation de ChatGPT dans le contexte académique
+ - Code 1 : Utilisation pour les lectures et résumés
+ - Verbatim : "si je sais que je ne vais pas avoir le temps de faire certaines lectures, je l'utilise dans ce cadre-là."
+ - Code 2 : Assistance pour la compréhension de texte
+ - Verbatim : "je lui demande de faire un résumé, et à partir du résumé j'essaye de faire mon commentaire."
+ - Code 3 : Gain de temps dans les études
+ - Verbatim : "pour gagner du temps."
+ - Code 4 : Utilisation dans la rédaction de travaux
+ - Verbatim : "pour avoir fait mon travail de bachelors sans ChatGPT et fait en mémoire avec."
+ - Code 5 : Différence dans le processus de rédaction
+ - Verbatim : "je sens qu'en fait, ça va beaucoup plus vite avec ChatGPT."
+ - Code 6 : Utilité pour la formulation des idées
+ - Verbatim : "formuler ses idées, en fait."
+ - Code 7 : Facilitation de la rédaction
+ - Verbatim : "une fois qu'on a un outil qui nous permet de reformuler nos phrases très rapidement et de manière assez précise."
+ - Code 8 : Perception de l'impact de ChatGPT
+ - Verbatim : "on se rend compte qu'on gagne beaucoup plus de temps."
+ - Code 9 : Comparaison avec le processus sans ChatGPT
+ - Verbatim : "pour avoir fait mon travail de bachelors sans ChatGPT et fait en mémoire avec."
+ - Code 10 : Bénéfice dans la productivité
+ - Verbatim : "on se rend compte qu'on gagne beaucoup plus de temps."
+
+Ces thèmes et codes donnent un aperçu de la manière dont l'enquêté perçoit et utilise ChatGPT dans son contexte académique, soulignant à la fois les avantages et les limites de cet outil.

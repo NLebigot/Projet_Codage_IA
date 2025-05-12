@@ -1,0 +1,121 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Segment 1 : Gain de temps et productivité**
+
+- Thème : Perception de l'IA comme outil de gain de temps
+ - Code 1 : Gain de temps significatif
+ - Verbatim : "le temps qu’il te fait gagner est important"
+ - Code 2 : Utilisation efficace pour les recherches
+ - Verbatim : "en quelques secondes tu peux obtenir un résultat satisfaisant pour une recherche"
+ - Code 3 : Productivité améliorée
+ - Verbatim : "c'est plus ce côté avec bien de productivité qui est intéressant je dirais"
+ - Code 4 : Liberté de compléter les tâches
+ - Verbatim : "qui te rend libre de compléter, par ci par là"
+ - Code 5 : Rapidité dans l'obtention des résultats
+ - Verbatim : "là j'ai fait en 3 minutes je crois max"
+ - Code 6 : Importance de la vérification
+ - Verbatim : "l’IA ce n’est pas une sainte, elle peut te sortir des faits qui peuvent être erronées"
+ - Code 7 : Limites de la confiance en l'IA
+ - Verbatim : "ou alors moins détaillées ou éventuellement orientées"
+ - Code 8 : Utilisation mesurée
+ - Verbatim : "j’en fais un usage certes ce qu’il est mais je ne me suis pas converti à la chose"
+ - Code 9 : Utilité dans certaines situations
+ - Verbatim : "il m'a été utile"
+ - Code 10 : Impact modéré
+ - Verbatim : "il n’empêche qu’il a eu un impact jusqu'à certains points"
+
+**Segment 2 : Impact sur le temps de travail et organisation**
+
+- Thème : Influence de l'IA sur le temps de travail
+ - Code 1 : Pas de changement significatif dans le temps de travail
+ - Verbatim : "Honnêtement, c'est quasiment le même"
+ - Code 2 : Choix personnel d'utilisation
+ - Verbatim : "je dirais par choix"
+ - Code 3 : Perception de l'IA comme outil
+ - Verbatim : "Pour moi c'est un gain de temps, mais qui doit être à mon sens … vu avec recul"
+ - Code 4 : Potentiel futur
+ - Verbatim : "Ca se trouve dans deux ans, je ne jurerai que par la chose"
+ - Code 5 : Organisation inchangée
+ - Verbatim : "Oh c’est resté absolument inchangé"
+ - Code 6 : Maintien de la méthode de travail
+ - Verbatim : "j’aurai gardé ma méthode"
+ - Code 7 : Non-dépendance à l'IA
+ - Verbatim : "L’IA n’a pas du tout si ce n’est modifié ma façon de faire"
+ - Code 8 : Utilisation non systématique
+ - Verbatim : "sauf sur des trucs qui te sont étrangers et que tu as du mal à comprendre"
+ - Code 9 : Impact non significatif sur l'organisation
+ - Verbatim : "Quand bien même j’avais une organisation qui était ce qu’elle était"
+ - Code 10 : Stabilité dans les habitudes de travail
+ - Verbatim : "Quand bien même, je sais qu’il y a du potentiel là-dessus"
+
+**Segment 3 : Limites et défis de l'utilisation de l'IA**
+
+- Thème : Défis rencontrés lors de l'utilisation de l'IA
+ - Code 1 : Attente de réponses précises
+ - Verbatim : (en attente de la réponse de l'enquêté)
+ - Code 2 : Frustrations potentielles
+ - Verbatim : (en attente de la réponse de l'enquêté)
+ - Code 3 : Difficultés dans la compréhension
+ - Verbatim : (en attente de la réponse de l'enquêté)
+ - Code 4 : Limites de l'IA
+ - Verbatim : "l’IA ce n’est pas une sainte, elle peut te sortir des faits qui peuvent être erronées"
+ - Code 5 : Nécessité de vérification
+ - Verbatim : "ou alors moins détaillées ou éventuellement orientées"
+ - Code 6 : Gestion des erreurs
+ - Verbatim : (en attente de la réponse de l'enquêté)
+ - Code 7 : Stratégies d'adaptation
+ - Verbatim : (en attente de la réponse de l'enquêté)
+ - Code 8 : Perception des limites de l'IA
+ - Verbatim : "j’en fais un usage certes ce qu’il est mais je ne me suis pas converti à la chose"
+ - Code 9 : Utilisation réfléchie
+ - Verbatim : "Pour moi c'est un gain de temps, mais qui doit être à mon sens … vu avec recul"
+ - Code 10 : Évaluation continue
+ - Verbatim : "Ca se trouve dans deux ans, je ne jurerai que par la chose"
+
+**Segment 4 : Perception et évaluation de l'IA**
+
+- Thème : Évaluation de l'impact de l'IA sur le travail
+ - Code 1 : Utilité de l'IA
+ - Verbatim : "il m'a été utile"
+ - Code 2 : Perception positive
+ - Verbatim : "c'est plus ce côté avec bien de productivité qui est intéressant je dirais"
+ - Code 3 : Impact modéré
+ - Verbatim : "il n’empêche qu’il a eu un impact jusqu'à certains points"
+ - Code 4 : Potentiel d'amélioration
+ - Verbatim : "Ca se trouve dans deux ans, je ne jurerai que par la chose"
+ - Code 5 : Choix d'utilisation
+ - Verbatim : "je dirais par choix"
+ - Code 6 : Maintien du contrôle
+ - Verbatim : "j’aurai gardé ma méthode"
+ - Code 7 : Évaluation critique
+ - Verbatim : "l’IA ce n’est pas une sainte, elle peut te sortir des faits qui peuvent être erronées"
+ - Code 8 : Conscience des limites
+ - Verbatim : "ou alors moins détaillées ou éventuellement orientées"
+ - Code 9 : Utilisation adaptée
+ - Verbatim : "sauf sur des trucs qui te sont étrangers et que tu as du mal à comprendre"
+ - Code 10 : Satisfaction globale
+ - Verbatim : "c'est plus ce côté avec bien de productivité qui est intéressant je dirais"
+
+**Segment 5 : Futures orientations et adaptations**
+
+- Thème : Futures orientations dans l'utilisation de l'IA
+ - Code 1 : Potentiel d'évolution
+ - Verbatim : "Ca se trouve dans deux ans, je ne jurerai que par la chose"
+ - Code 2 : Adaptabilité
+ - Verbatim : "j’aurai gardé ma méthode"
+ - Code 3 : Ouverture au changement
+ - Verbatim : "Quand bien même, je sais qu’il y a du potentiel là-dessus"
+ - Code 4 : Stratégies futures
+ - Verbatim : (en attente de la réponse de l'enquêté)
+ - Code 5 : Évaluation continue
+ - Verbatim : "Pour moi c'est un gain de temps, mais qui doit être à mon sens … vu avec recul"
+ - Code 6 : Conscience des possibilités
+ - Verbatim : "il n’empêche qu’il a eu un impact jusqu'à certains points"
+ - Code 7 : Attentes futures
+ - Verbatim : (en attente de la réponse de l'enquêté)
+ - Code 8 : Préparation au changement
+ - Verbatim : "j’en fais un usage certes ce qu’il est mais je ne me suis pas converti à la chose"
+ - Code 9 : Flexibilité
+ - Verbatim : "Quand bien même j’avais une organisation qui était ce qu’elle était"
+ - Code 10 : Développement personnel
+ - Verbatim : "sauf sur des trucs qui te sont étrangers et que tu as du mal à comprendre"

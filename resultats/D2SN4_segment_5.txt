@@ -1,0 +1,80 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici les résultats :
+
+**Segment 1 : Impact de ChatGPT sur le rapport au travail**
+
+- Thème : Changement dans la manière de travailler
+  - Code 1 : Simplification des processus
+  - Verbatim : "Avec l'arrivée de chatGPT ça a permis de simplifier beaucoup de processus qui font mon travail"
+  - Code 2 : Gain de temps
+  - Verbatim : "j'ai eu un gain de temps à trouver les informations pour faire le vrai travail"
+  - Code 3 : Meilleure efficacité
+  - Verbatim : "ça accélère beaucoup la manière dont je travaille"
+  - Code 4 : Pas de changement majeur
+  - Verbatim : "ça n’a pas changé grand-chose par rapport à mon rapport au travail"
+  - Code 5 : Expression personnelle
+  - Verbatim : "c'est une manière pour moi de m'exprimer un peu"
+
+- Thème : Organisation du travail
+  - Code 1 : Organisation quasi-inexistante
+  - Verbatim : "l'organisation de mon planning de travail c'est quelque chose qui est quasi inexistant"
+  - Code 2 : Informations en tête
+  - Verbatim : "j'ai toutes les informations en tête"
+  - Code 3 : Pas d'utilisation pour l'organisation
+  - Verbatim : "il y a pas vraiment d'utilisation de chatGPT pour organiser mon travail"
+  - Code 4 : Curiosité accrue
+  - Verbatim : "je vais avoir tendance à passer plus de temps à chercher des informations par curiosité pure"
+  - Code 5 : Utilisation flexible
+  - Verbatim : "je sais que j'ai le temps de trouver les informations"
+
+**Segment 2 : Frustrations et limites de ChatGPT**
+
+- Thème : Limites et frustrations
+  - Code 1 : Références imprécises
+  - Verbatim : "c'est assez frustrant de demander de la littérature et de tomber sur des choses qui ne sont pas nécessairement claires ou précises"
+  - Code 2 : Limitations imposées
+  - Verbatim : "il y a eu beaucoup de limitation de chatGPT"
+  - Code 3 : Confiabilité
+  - Verbatim : "il y a des choses que chatGPT ne peut plus dire"
+  - Code 4 : Frustration liée aux limitations
+  - Verbatim : "ça me frustre un peu"
+  - Code 5 : Évolution de ChatGPT
+  - Verbatim : "chat GPT est en constante évolution"
+
+- Thème : Améliorations et mises à jour
+  - Code 1 : Nouveauté : "reason"
+  - Verbatim : "il y a eu cette nouvelle mise à jour qui s'appelle “reason” que j'utilise"
+  - Code 2 : Meilleure compréhension
+  - Verbatim : "qui permet de demander à chat GPT de réﬂéchir un peu plus pour donner une réponse plus proche encore de la question"
+  - Code 3 : Performances améliorées
+  - Verbatim : "ça c'est vraiment très très performant"
+  - Code 4 : Adaptation aux limites
+  - Verbatim : "il y a des moments aussi où chatGPT n'arrivait pas à comprendre certains des prompts ou certaines des questions"
+  - Code 5 : Évolution des capacités
+  - Verbatim : "il est constamment mis à jour vis-à-vis de politique d'éthique"
+
+**Segment 3 : Utilisation et interaction avec ChatGPT**
+
+- Thème : Utilisation de ChatGPT
+  - Code 1 : Utilisation pour la curiosité
+  - Verbatim : "je vais avoir tendance à passer plus de temps à chercher des informations par curiosité pure"
+  - Code 2 : Gain de temps pour d'autres activités
+  - Verbatim : "j'ai eu un gain de temps à trouver les informations pour faire le vrai travail"
+  - Code 3 : Utilisation flexible
+  - Verbatim : "je sais que j'ai le temps de trouver les informations"
+  - Code 4 : Exploration
+  - Verbatim : "je vais avoir tendance à passer plus de temps à chercher des informations"
+  - Code 5 : Changement dans les habitudes
+
+- Thème : Interaction avec les limites de ChatGPT
+  - Code 1 : Limitations de contenu
+  - Verbatim : "il y a des choses que chatGPT ne peut plus dire"
+  - Code 2 : Limitations de fonctionnalité
+  - Verbatim : "pas pouvoir générer plus de trois images par jour"
+  - Code 3 : Frustration
+  - Verbatim : "ça me frustre un peu"
+  - Code 4 : Adaptation
+  - Verbatim : "il y a eu cette nouvelle mise à jour qui s'appelle “reason” que j'utilise"
+  - Code 5 : Utilisation de versions payantes
+  - Verbatim : "donne envie d'aller acheter “chatGPT plus”"
+
+Ces thèmes et codes offrent une analyse détaillée de l'entretien, couvrant les impacts de ChatGPT sur le travail, les frustrations et limites rencontrées, ainsi que les manières dont l'utilisateur interagit avec l'outil.

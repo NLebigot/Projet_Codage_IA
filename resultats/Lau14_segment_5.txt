@@ -1,0 +1,113 @@
+Dans le cadre de cette analyse sociologique, j'ai décidé de diviser l'entretien en plusieurs segments pour en extraire des thèmes distincts et cohérents. Voici mon analyse du segment en question.
+
+**Segment : L'utilisation de ChatGPT et les difficultés rencontrées**
+
+### Thème 1 : L'interaction avec ChatGPT
+- Code 1 : Réponses insatisfaisantes
+- Verbatim : "il y a des fois où elle ne répondait pas, elle répondait à côté de la plaque."
+- Code 2 : Stratégie de reformulation
+- Verbatim : "Tu réalises certes tes essais par itération, tu essaies de reformuler ta question, de lui donner plus de contexte."
+- Code 3 : Retour à une méthode traditionnelle
+- Verbatim : "Et puis si ça ne marche pas, tu dois faire ce que tes parents faisaient. Tu prends ton cerveau et tu réfléchis."
+- Code 4 : Perception de l'outil
+- Verbatim : "ChatGPT, cette IA, ou les IA en général, c'est un outil."
+- Code 5 : Limite de l'outil
+- Verbatim : "Si finalement ton outil, tu n'arrives pas à l'adapter à ton travail, ou si finalement ton travail nécessite plus de complexité ou de finesse que ce que l'outil peut t'octroyer, change l'outil."
+- Code 6 : Utilisation appropriée
+- Verbatim : "Un chirurgien utilise un scalpel, pas une hache pour ouvrir un patient."
+- Code 7 : Avantage de la technologie
+- Verbatim : "Si elle est déjà dans un super ordinateur, ben voilà."
+- Code 8 : Connaissance des bases de données
+- Verbatim : "ChatGPT, globalement, il a ses bases données en lui."
+- Code 9 : Stratégie alternative
+- Verbatim : "Tu fais à l'ancienne, des mots-clés, des trucs booléens pour avoir le bon article qui correspond à ton sujet."
+- Code 10 : Flexibilité dans la recherche
+- Verbatim : "Des dates, éventuellement. Enfin voilà, ça dépend... Et puis bah, tu y vas comme ça."
+
+### Thème 2 : Difficultés et limites de ChatGPT
+- Code 1 : Réponses non pertinentes
+- Verbatim : "il y a des fois où elle ne répondait pas, elle répondait à côté de la plaque."
+- Code 2 : Problème de précision
+- Verbatim : "Si lui, il n'arrive pas à te sortir l'article ou s'il n'arrive pas à faire comme il faut."
+- Code 3 : Usage non académique
+- Verbatim : "Vu que c'est officiellement interdit pour l'université."
+- Code 4 : Utilisation détournée
+- Verbatim : "Prendre ton travail que tu lui as fait écrire, parce que t'es flemmard, et puis lui dire, ouais, bah... Rends ça humain, ou mets des fautes dedans."
+- Code 5 : Humanisation du texte
+- Verbatim : "Tu humanises du texte quoi."
+- Code 6 : Capacité d'adaptation de l'IA
+- Verbatim : "Elle peut adapter son langage."
+- Code 7 : Personnalisation
+- Verbatim : "En donnant à l'IA son rôle et le tien."
+- Code 8 : Limite de la personnalisation
+- Verbatim : "Elle te sort des fautes d'orthographe et elle te sort des phrases parfois tournées comme moi je les aurais tournées."
+- Code 9 : Précision contextuelle
+- Verbatim : "Quand tu as fait cette input là, tu t'étais déjà rendu compte qu'il fallait vraiment la situer parfois pour avoir de meilleures réponses ?"
+- Code 10 : Évolution de l'utilisation
+- Verbatim : "Est-ce que c'est conscient le fait que tu la situes comme ça ou est-ce que tu le fais après t'as peut-être rendu compte qu'elle te donnait pas les réponses que tu voulais ?"
+
+### Thème 3 : Stratégies d'utilisation de ChatGPT
+- Code 1 : Itération et reformulation
+- Verbatim : "Tu essaies de reformuler ta question, de lui donner plus de contexte."
+- Code 2 : Utilisation de l'IA pour améliorer le texte
+- Verbatim : "Rends ça humain, ou mets des fautes dedans."
+- Code 3 : Personnalisation de l'output
+- Verbatim : "Tu dis, tu es un gamer, sors un texte de gamer."
+- Code 4 : Contextualisation
+- Verbatim : "En donnant à l'IA son rôle et le tien, elle peut adapter son langage."
+- Code 5 : Adaptation au niveau de l'utilisateur
+- Verbatim : "Je suis un jeune étudiant en biologie."
+- Code 6 : Utilisation pour résumer
+- Verbatim : "Tu lui avais demandé de te résumer un texte."
+- Code 7 : Évaluation de la réponse
+- Verbatim : "Est-ce que t'as l'impression que le fait de bosser avec ChatGPT, il y a des fois où l'IA n'a pas forcément répondu à tes questions ?"
+- Code 8 : Conscience de la limitation
+- Verbatim : "Tu t'étais déjà rendu compte qu'il fallait vraiment la situer parfois pour avoir de meilleures réponses ?"
+- Code 9 : Stratégie de contournement
+- Verbatim : "Tu fais à l'ancienne."
+- Code 10 : Flexibilité dans l'approche
+- Verbatim : "Ça dépend... Et puis bah, tu y vas comme ça."
+
+### Thème 4 : Perception et utilité de ChatGPT
+- Code 1 : Utilité générale
+- Verbatim : "C'est un outil."
+- Code 2 : Comparaison avec d'autres outils
+- Verbatim : "Un chirurgien utilise un scalpel, pas une hache pour ouvrir un patient."
+- Code 3 : Préférence pour la facilité d'utilisation
+- Verbatim : "Si elle est déjà dans un super ordinateur, ben voilà."
+- Code 4 : Valeur de la technologie
+- Verbatim : "Nous, on utilise beaucoup des bases données style PubMed ou EnviroScience."
+- Code 5 : Limitte de la technologie
+- Verbatim : "Si finalement ton outil, tu n'arrives pas à l'adapter à ton travail."
+- Code 6 : Comparaison avec les méthodes traditionnelles
+- Verbatim : "C'est pas parce que la méthode des chercheurs avant nous, c'était Wikipédia, c'était leur bibliothèque, que cette méthode-là elle est obsolète."
+- Code 7 : Gain de temps
+- Verbatim : "J'ai pas de temps à perdre et je n'ai pas envie de perdre du temps à chercher dans une bibliothèque."
+- Code 8 : Efficacité
+- Verbatim : "ChatGPT, globalement, il a ses bases données en lui."
+- Code 9 : Authenticité et originalité
+- Verbatim : "Rends ça humain, ou mets des fautes dedans."
+- Code 10 : Adaptation au contexte
+- Verbatim : "Elle peut adapter son langage."
+
+### Thème 5 : L'adaptabilité de ChatGPT
+- Code 1 : Capacité d'adaptation
+- Verbatim : "Elle peut adapter son langage."
+- Code 2 : Contextualisation de l'IA
+- Verbatim : "En donnant à l'IA son rôle et le tien."
+- Code 3 : Personnalisation
+- Verbatim : "Tu lui dis tu es un gamer, sors un texte de gamer."
+- Code 4 : Diversité des contextes
+- Verbatim : "Je suis un jeune étudiant en biologie."
+- Code 5 : Flexibilité
+- Verbatim : "Ça dépend... Et puis bah, tu y vas comme ça."
+- Code 6 : Conscience de l'utilisateur
+- Verbatim : "Tu t'étais déjà rendu compte qu'il fallait vraiment la situer parfois pour avoir de meilleures réponses ?"
+- Code 7 : Utilisation appropriée
+- Verbatim : "Un chirurgien utilise un scalpel, pas une hache pour ouvrir un patient."
+- Code 8 : Adaptation à l'utilisateur
+- Verbatim : "Elle te sort des phrases parfois tournées comme moi je les aurais tournées."
+- Code 9 : Utilisation spécifique
+- Verbatim : "Pour un enfant."
+- Code 10 : Potentialité pour différents usages
+- Verbatim : "Tu dis, explique tel concept pour un enfant."

@@ -1,0 +1,110 @@
+Je vais analyser l'entretien en respectant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Thème 1 : Expérience avec la dissertation**
+- Code 1 : Déconnexion avec la méthodologie de dissertation
+- Verbatim : "j'ai été un peu traumatisé de faire des dissertations, parce qu’au Japon, j'ai jamais écrit quelque chose comme une dissertation."
+- Code 2 : Difficulté à comprendre les attentes
+- Verbatim : "Don j'ai jamais compris ce que je dois écrire."
+- Code 3 : Perception de la dissertation comme une méthodologie particulière
+- Verbatim : "c'est vrai que c'est une méthodologie hyper particulière la dissertation."
+- Code 4 : Limites de ChatGPT dans les tâches complexes
+- Verbatim : "dans les devoirs que j'aurais maintenant, je pense qu'il serait nul."
+- Code 5 : Utilité de ChatGPT pour les tâches simples
+- Verbatim : "pour des trucs faciles en mode les dissertations de lycée en philo, bon ça va"
+- Code 6 : Structure de la dissertation
+- Verbatim : "c'est pas si une partie oui, une partie non et ensuite on trouve un entre deux ou une ouverture"
+- Code 7 : Défaut de ChatGPT dans l'évaluation
+- Verbatim : "Même l’évaluation des données, les notes, c'est aussi nul avec chat GPT"
+- Code 8 : Interaction avec ChatGPT
+- Verbatim : "Je lui dis bon blabla, tu vois? J'ai écrit qu'est-ce que tu en penses ? Il a tendance à me dire “c'est super”."
+- Code 9 : Attentes déçues
+- Verbatim : "Je lui demande pas de dire juste “c'est super”, mais “dis-moi comment améliorer?”"
+- Code 10 : Gentillesse de ChatGPT
+- Verbatim : "je sais pas si je pense qu'il est trop gentil. “Trop” poli."
+
+**Thème 2 : Utilisation de ChatGPT pour l'apprentissage**
+- Code 1 : Utilité de ChatGPT pour les explications
+- Verbatim : "lui demander de m'expliquer des trucs."
+- Code 2 : Limite de ChatGPT dans la critique
+- Verbatim : "Sur le fond, je le trouve pas toujours pertinent surtout quand j'utilise des termes de socio précis"
+- Code 3 : Appréciation de la forme plutôt que du fond
+- Verbatim : "il peut faire des remarques mais ça va être beaucoup de remarques sur la forme."
+- Code 4 : Difficulté avec les termes spécialisés
+- Verbatim : "il va dire Oui, tu as raison de parler de ça, parce qu'en effet il parle de un chemin de oui mais ça se trouve je l'ai pas utilisé au parfait moment"
+- Code 5 : Perception de ChatGPT comme un outil limité
+- Verbatim : "je fais ce que je peux avec ce que j'ai."
+- Code 6 : Non-considération de ChatGPT comme une triche
+- Verbatim : "j'ai jamais triché avec chat GPT. Tricher dans le sens où il fait tout à ma place."
+- Code 7 : Utilisation de ChatGPT pour les devoirs
+- Verbatim : "il va être énormément utilisé pour faire tout ce qui est devoir maison, faire des dissertations à la maison"
+- Code 8 : Changement dans les méthodes d'évaluation
+- Verbatim : "les professeurs, ils vont changer leur manière de nous examiner"
+- Code 9 : Inquiétude quant aux inégalités
+- Verbatim : "ça va continuer à creuser les inégalités en fait."
+- Code 10 : Accès inégal à l'information
+- Verbatim : "ceux qui savent l'utiliser comme nous à l'ENS... et il y aura toujours des gens qui n'auront pas accès à cette information."
+
+**Thème 3 : Impact de ChatGPT sur l'éducation**
+- Code 1 : Changement dans les pratiques d'apprentissage
+- Verbatim : "Je pense que ça va transformer plein de choses."
+- Code 2 : Rôle de ChatGPT dans les devoirs maison
+- Verbatim : "il va être énormément utilisé pour faire tout ce qui est devoir maison"
+- Code 3 : Inquiétude quant à l'accentuation des inégalités
+- Verbatim : "ça va continuer à creuser les inégalités en fait."
+- Code 4 : Importance de la compétence pour utiliser ChatGPT
+- Verbatim : "ça marche quand tu sais de quoi tu parles et que tu peux relire ce qu'il fait."
+- Code 5 : Risque d'erreurs
+- Verbatim : "il dit des énormes boulettes."
+- Code 6 : Différence d'accès aux ressources
+- Verbatim : "les catégories supérieures... et les catégories plus populaires, elles ont pas forcément accès à leur formation."
+- Code 7 : Nécessité d'une formation à ChatGPT
+- Verbatim : "à moins de faire un cours d'utilisation de chat GPT pour tout le monde"
+- Code 8 : Adaptation nécessaire des enseignants
+- Verbatim : "les modalités d'évaluation des professeurs vont devoir être réinventés."
+- Code 9 : Impact sur le marché du travail
+- Verbatim : "il y a peut-être de plus en plus de métiers qui vont être remplis par l'intelligence artificielle"
+- Code 10 : Possibilité de remplacer certains professionnels
+- Verbatim : "même prof en vrai."
+
+**Thème 4 : Perception de l'intelligence artificielle**
+- Code 1 : Perception de ChatGPT comme une intelligence artificielle
+- Verbatim : "ChatGPT, c'est une intelligence artificielle."
+- Code 2 : Futur de l'intelligence artificielle dans l'éducation
+- Verbatim : "Je pense qu’au fur et à mesure."
+- Code 3 : Rôle dans l'évaluation pédagogique
+- Verbatim : "je travaille dans un département d’évaluation pédagogique."
+- Code 4 : Création de guidelines pour l'utilisation de l'IA
+- Verbatim : "Je suis en train de créer les guidelines sur l‘IA pour le prof."
+- Code 5 : Défis dans l'évaluation
+- Code 6 : Limite de l'utilisation de ChatGPT pour les présentations
+- Verbatim : "même une présentation, il peut faire la présentation."
+- Code 7 : Évolution des besoins en formation
+- Verbatim : "peut-être qu'au fur et à mesure si on étend à l'intelligence artificielle"
+- Code 8 : Potentiel de remplacement
+- Verbatim : "il y a peut-être de plus en plus de métiers qui vont être remplis par l'intelligence artificielle"
+- Code 9 : Impact sur l'enseignement
+- Verbatim : "les professeurs, ils vont changer leur manière de nous examiner"
+- Code 10 : Besoin d'adaptation
+- Verbatim : "les modalités d'évaluation des professeurs vont devoir être réinventés."
+
+**Thème 5 : Défis et limites de ChatGPT**
+- Code 1 : Défaut dans les tâches complexes
+- Verbatim : "dans les devoirs que j'aurais maintenant, je pense qu'il serait nul."
+- Code 2 : Incapacité à fournir des critiques profondes
+- Verbatim : "Sur le fond, je le trouve pas toujours pertinent"
+- Code 3 : Difficulté avec la terminologie spécialisée
+- Verbatim : "quand j'utilise des termes de socio précis"
+- Code 4 : Risque d'erreurs grossières
+- Verbatim : "il dit des énormes boulettes."
+- Code 5 : Utilisation incorrecte
+- Verbatim : "ceux qui savent l'utiliser... et il y aura toujours des gens qui n'auront pas accès à cette information."
+- Code 6 : Inégalité d'accès
+- Verbatim : "ça va continuer à creuser les inégalités en fait."
+- Code 7 : Gentillesse excessive
+- Verbatim : "je sais pas si je pense qu'il est trop gentil."
+- Code 8 : Limite dans l'interaction
+- Verbatim : "Il a tendance à me dire “c'est super”."
+- Code 9 : Nécessité de vérification
+- Verbatim : "tu peux relire ce qu'il fait."
+- Code 10 : Défaut de personnalisation
+- Verbatim : "il peut faire des remarques mais ça va être beaucoup de remarques sur la forme."

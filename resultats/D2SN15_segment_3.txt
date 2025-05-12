@@ -1,0 +1,61 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes et verbatims associés. Voici les résultats :
+
+**Thème 1 : Perception de la technologie**
+ - Code 1 : Ouverture à la technologie
+ - Verbatim : "Je ne suis pas du tout réticente à la technologie en général, et euh, je suis assez ouverte"
+ - Code 2 : Intérêt pour l'innovation
+ - Verbatim : "J'adore un peu tout ce qui est innovation par rapport à ça"
+ - Code 3 : Ambivalence face à la technologie
+ - Verbatim : "C'est un peu, un peu l'ambivalence qu'il y a là-dedans"
+ - Code 4 : Condition d'adoption
+ - Verbatim : "Une fois que je suis assez convaincue que, euh, c'est utile et que ça peut nous servir, alors je fonce"
+ - Code 5 : Limites de l'utilisation
+ - Verbatim : "J'ai un peu souvent des limites qui arrivent après, soit des limites, par exemple, en lien avec l'écologie"
+
+**Thème 2 : Utilisation de l'IA dans le contexte académique**
+ - Code 1 : Encadrement par les professeurs
+ - Verbatim : "On n'est justement vraiment pas encouragés à le faire"
+ - Code 2 : Pertinence de l'IA dans certaines disciplines
+ - Verbatim : "En sciences sociales, ce n'est pas encore pertinent, donc on ne devrait pas l'utiliser de manière excessive"
+ - Code 3 : Directives de la directrice de mémoire
+ - Verbatim : "Elle m'a dit : 'Tu l'utilises, et tu cites sur ton rapport, j'ai demandé à ChatGPT où je pouvais trouver l'information'"
+ - Code 4 : Utilité de l'IA pour la recherche d'information
+ - Verbatim : "Ça ira très vite, et elle va t'amener une information que tu aurais mis du temps à trouver toute seule"
+ - Code 5 : Doute sur la manière de citer l'IA
+ - Verbatim : "Je suis un peu dubitative avec cette manière de citer ChatGPT"
+
+**Thème 3 : Impact écologique et limites de l'utilisation de l'IA**
+ - Code 1 : Préoccupation écologique
+ - Verbatim : "Il y a quand même des enjeux écologiques, et donc je vais me calmer sur mon utilisation"
+ - Code 2 : Conscientisation des limites
+ - Verbatim : "J'ai un peu souvent des limites qui arrivent après, par exemple, en lien avec l'écologie"
+ - Code 3 : Évaluation de l'utilité
+ - Verbatim : "Est-ce que c'est vraiment utile ? Est-ce qu'on en avait vraiment besoin ?"
+ - Code 4 : Risques associés à l'IA
+ - Verbatim : "Est-ce que, euh, et euh, en tout cas, à quel point c'est, euh, dangereux, entre guillemets, pour l'emploi ou quoi ?"
+ - Code 5 : Nécessité d'une utilisation responsable
+ - Verbatim : "Je vais me calmer sur mon utilisation"
+
+**Thème 4 : Adaptation des enseignants aux nouvelles technologies**
+ - Code 1 : Manque de formation des professeurs
+ - Verbatim : "Je pense que mes profs ici ne sont pas encore adaptés à avoir cette technologie"
+ - Code 2 : Attitude des professeurs face à l'IA
+ - Verbatim : "Ils sont plus en mode anti-technologie, c'est-à-dire ils ne l'utilisent pas"
+ - Code 3 : Exception de la directrice de mémoire
+ - Verbatim : "Elle est plus au courant aussi de comment ça marche"
+ - Code 4 : Encouragement à utiliser l'IA
+ - Verbatim : "C'est elle qui m'a dit : 'Tu l'utilises'"
+ - Code 5 : Divergence d'opinion parmi les enseignants
+ - Verbatim : "C'est la première fois qu'un professeur m'a conseillé de l'utiliser"
+
+**Thème 5 : Évolution de la perception et de l'utilisation de l'IA**
+ - Code 1 : Changement dans le quotidien
+ - Verbatim : "Ça commence un peu à changer le quotidien"
+ - Code 2 : Découverte progressive
+ - Verbatim : "J'aime bien découvrir s'il y a quelque chose de nouveau"
+ - Code 3 : Appréhension initiale
+ - Verbatim : "J'ai un peu peur au point de me demander : est-ce que c'est vraiment utile ?"
+ - Code 4 : Adoption conditionnelle
+ - Verbatim : "Une fois que je suis assez convaincue que c'est utile, alors je fonce"
+ - Code 5 : Évolution de l'attitude face à l'IA
+ - Verbatim : "Je suis quand même assez ouverte"

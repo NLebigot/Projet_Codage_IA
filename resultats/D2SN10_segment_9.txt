@@ -1,0 +1,73 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : Évaluation de la qualité des réponses de l'IA**
+
+- Thème : Critères d'évaluation des réponses
+ - Code 1 : Détails fournis par l'IA
+ - Verbatim : "je dirai notamment les détails qu'ils me donnent"
+ - Code 2 : Pertinence de la réponse
+ - Verbatim : "La pertinence… j’ai oublié les termes mais je dirai voir si ce qui me dit est vérifiable et est vrai ou non"
+ - Code 3 : Satisfaction de l'utilisateur
+ - Verbatim : "est-ce que je me sens satisfait par la réponse qui me donne"
+ - Code 4 : Vérifiabilité de la réponse
+ - Verbatim : "voir si ce qui me dit est vérifiable et est vrai ou non"
+ - Code 5 : Évolution de la qualité des réponses
+ - Verbatim : "La réponse que les deux me sortes m'apparaissent de plus en plus développées, de plus en plus, je dirais, fines en un sens"
+
+**Segment 2 : Évolution des capacités de l'IA**
+
+- Thème : Progrès de l'IA dans le temps
+ - Code 1 : Amélioration de la qualité des réponses
+ - Verbatim : "c'est vraiment une amélioration de la qualité des réponses"
+ - Code 2 : Augmentation de la précision
+ - Verbatim : "je trouve que ça devien de plus en plus précis du coup"
+ - Code 3 : Développement des capacités de l'IA
+ - Verbatim : "La réponse que les deux me sortes m'apparaissent de plus en plus développées"
+ - Code 4 : Évolution des usages de l'IA
+ - Verbatim : "j'ai utilisé non-stop, mais de façon assez récente depuis quelques années, depuis que le concept s'est démocratisé"
+ - Code 5 : Limitations initiales de l'IA
+ - Verbatim : "il me répondait, il me balançait deux ou trois phrases et c'est tout"
+
+**Segment 3 : Stratégies de vérification des informations**
+
+- Thème : Vérification et validation des informations
+ - Code 1 : Vérification systématique
+ - Verbatim : "quand je demande un truc pour un devoir à rendre par exemple systématiquement, après je vais vérifier"
+ - Code 2 : Utilisation de sources plus crédibles
+ - Verbatim : "je vais vérifier sur des sites plus crédibles"
+ - Code 3 : Critique des informations fournies par l'IA
+ - Verbatim : "Je ne prendrai jamais l’IA pour seul et vrai mot"
+ - Code 4 : Complémentarité des informations
+ - Verbatim : "je prendrai du coup la version que me dit le site en question qui sera en le sens plus crédible et plus sur"
+ - Code 5 : Dépendance au contexte
+ - Verbatim : "Ca dépend des enjeux"
+
+**Segment 4 : Usages et limites de l'IA**
+
+- Thème : Usages personnels et limites de l'IA
+ - Code 1 : Usage limité de l'IA
+ - Verbatim : "l'usage que j'en ai, c'est vraiment un usage qui a été limité"
+ - Code 2 : Génération d'images
+ - Verbatim : "pour générer des images, sur mon téléphone… une fonction qui me permet de générer des images de façon plus ou moins crédible"
+ - Code 3 : Exemples d'usages créatifs
+ - Verbatim : "Génère moi un capybara sur un rafale"
+ - Code 4 : Perception de l'IA par l'utilisateur
+ - Verbatim : "il y a un truc de fou à mon sens"
+ - Code 5 : Humilité dans l'usage de l'IA
+ - Verbatim : "de l'usage du rendu modeste et humble que j'en ai"
+
+**Segment 5 : Perception de l'évolution de l'IA**
+
+- Thème : Perception de l'évolution et de la fiabilité de l'IA
+ - Code 1 : Satisfaction concernant l'évolution
+ - Verbatim : "je trouve que ça devien de plus en plus précis du coup"
+ - Code 2 : Confiance dans les réponses de l'IA
+ - Verbatim : "une réponse qui, pour ce que je lui ai demandé, me convenait"
+ - Code 3 : Limites de la confiance
+ - Verbatim : "Je ne prendrai jamais l’IA pour seul et vrai mot"
+ - Code 4 : Évolution des capacités
+ - Verbatim : "La réponse que les deux me sortes m'apparaissent de plus en plus développées"
+ - Code 5 : Reconnaissance des progrès
+ - Verbatim : "c'est vraiment une amélioration de la qualité des réponses"
+
+Ces thèmes et codes offrent une analyse détaillée de l'entretien, mettant en lumière les critères d'évaluation des réponses de l'IA, l'évolution de ses capacités, les stratégies de vérification des informations, les usages personnels et les limites de l'IA, ainsi que la perception de son évolution et de sa fiabilité.

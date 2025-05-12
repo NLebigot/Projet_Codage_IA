@@ -1,0 +1,75 @@
+Je vais analyser l'entretien en suivant une méthode rigoureuse de codage qualitatif. Voici les résultats :
+
+**Segment 1 : L'apprentissage et la reformulation**
+
+- Thème : La reformulation et la concision dans l'apprentissage
+ - Code 1 : Réduction de la verbosité
+ - Verbatim : "j'ai tendance à vraiment beaucoup développer et beaucoup parler pour des choses qui ne sont pas forcément les plus pertinentes."
+ - Code 2 : Importance de la concision
+ - Verbatim : "l'apprentissage, c'était plutôt la concision et la manière de formuler les phrases sans m'étaler"
+ - Code 3 : Adaptation au public
+ - Verbatim : "reformuler de manière plus claire et atteignable par tous les publics aussi"
+ - Code 4 : Vulgarisation
+ - Verbatim : "on a vu avec la vulgarisation et pas qu'on utilise que du jargon ultra-scientifique"
+ - Code 5 : Compréhension
+ - Verbatim : "personne ne puisse comprendre ce qu'on raconte"
+ - Code 6 : Progression
+ - Verbatim : "ça m'a vraiment aidé parce que ça a pu décomposer les étapes et puis aller à ma vitesse"
+ - Code 7 : Réduction de la frustration
+ - Verbatim : "au lieu d'essayer de comprendre par toi-même et puis c'est hyper frustrant"
+ - Code 8 : Utilité de l'outil
+ - Verbatim : "ça m'a aidé à construire tout mon rapport sur R"
+ - Code 9 : Autonomie
+ - Verbatim : "comme s'il y avait un prof à côté de moi, en fait, plus ou moins"
+ - Code 10 : Application à d'autres logiciels
+ - Verbatim : "pour d'autres logiciels du style ça peut être hyper utile, comme Excel"
+
+- Thème : L'apprentissage de R
+ - Code 1 : Difficulté initiale
+ - Verbatim : "je ne comprenais rien, tout simplement"
+ - Code 2 : Utilité de l'outil pour R
+ - Verbatim : "ça m'a vraiment aidé parce que ça a pu décomposer les étapes"
+ - Code 3 : Progression dans l'apprentissage
+ - Verbatim : "je fais R depuis la première année"
+ - Code 4 : Perception de l'utilité
+ - Verbatim : "je dirais que c'était vraiment très marquant"
+ - Code 5 : Application à d'autres domaines
+ - Verbatim : "si c'est un domaine plus mathématique, où il y a beaucoup de formules"
+
+**Segment 2 : L'impact de l'IA et la robotisation**
+
+- Thème : Les inquiétudes face à l'IA et la robotisation
+ - Code 1 : Perception de la puissance de l'IA
+ - Verbatim : "c'est un pouvoir, un truc qui... il y a une porte qui s'ouvre et on est genre juste à l'entrée de la porte"
+ - Code 2 : Inquiétude pour l'avenir
+ - Verbatim : "quel est le futur des intelligences artificielles ?"
+ - Code 3 : Remplacement des emplois
+ - Verbatim : "ils peuvent remplacer, ils remplacent déjà beaucoup de jobs"
+ - Code 4 : Déshumanisation
+ - Verbatim : "c'est un côté un peu déshumanisant forcément"
+ - Code 5 : Omniprésence de la technologie
+ - Verbatim : "les check-in à l'aéroport aussi, fin il y a partout…les paiements à la caisse"
+ - Code 6 : Évolution de la technologie
+ - Verbatim : "là, je sais qu'on n'est qu'au début"
+ - Code 7 : Dualité de l'IA
+ - Verbatim : "il y a beaucoup de bien, mais il y a aussi du mal potentiel"
+ - Code 8 : Impact sur la société
+ - Verbatim : "les robots, la robotisation, ça se fait de plus en plus"
+ - Code 9 : Perception de la nouveauté
+ - Verbatim : "on entre dans un nouveau champ des possibles assez large"
+ - Code 10 : Interrogation sur l'avenir
+ - Verbatim : "comment ça va évoluer ?"
+
+- Thème : L'équilibre entre le progrès et les risques
+ - Code 1 : Reconnaissance du potentiel
+ - Verbatim : "j'expliquais que je trouve justement cet usage de l'IA genre... extraordinaire"
+ - Code 2 : Préoccupation pour les conséquences
+ - Verbatim : "j'exprimais un peu des doutes vis-à-vis de ça"
+ - Code 3 : Équilibre entre bénéfices et risques
+ - Verbatim : "il y a beaucoup de bien, mais il y a aussi du mal potentiel"
+ - Code 4 : Incertitude
+ - Verbatim : "on sait pas ce qu'il y a derrière"
+ - Code 5 : Nécessité de considérer les deux aspects
+ - Verbatim : "il faut voir les deux côtés"
+
+Ainsi, l'analyse permet d'identifier plusieurs thèmes et codes qui reflètent les préoccupations et les expériences de l'enquêté concernant l'apprentissage, l'IA et la robotisation.

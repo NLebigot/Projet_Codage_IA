@@ -1,0 +1,111 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Thème 1 : Évolution de l'utilisation de ChatGPT**
+ - Code 1 : Changement dans la fréquence d'utilisation
+ - Verbatim : "Au début, je l’utilisais beaucoup plus, mais de moins en moins maintenant."
+ - Code 2 : Adaptation aux limites de l'outil
+ - Verbatim : "Je sais où il est fort et où il est faible, donc je ne m’obstine pas à l’utiliser sur des tâches où je sais que le résultat ne sera pas convaincant."
+ - Code 3 : Amélioration de la formulation des requêtes
+ - Verbatim : "J’ai appris à mieux formuler mes requêtes, c’est-à-dire à savoir quoi lui demander et comment lui fournir un contexte pour qu’il produise une réponse qui me convainque rapidement."
+ - Code 4 : Développement de compétences au fil du temps
+ - Verbatim : "C'est une compétence que j’ai développée au fil du temps."
+ - Code 5 : Utilisation réfléchie
+ - Verbatim : "Je ne me souviens pas avoir dû [changer mon approche] grâce à un prompt."
+ - Code 6 : Évaluation des réponses de ChatGPT
+ - Verbatim : "J’évalue si je dois me fier à son raisonnement"
+ - Code 7 : Limites de l'outil
+ - Verbatim : "Il ne change pas mes idées, mais il m’incite à me poser des questions"
+ - Code 8 : Prise de conscience des capacités et des limites
+ - Verbatim : "Je sais où il est fort et où il est faible"
+ - Code 9 : Utilisation efficace
+ - Verbatim : "J’ai appris à mieux formuler mes requêtes"
+ - Code 10 : Développement personnel
+ - Verbatim : "C'est une compétence que j’ai développée au fil du temps"
+
+**Thème 2 : Rôle de ChatGPT dans le travail universitaire**
+ - Code 1 : Rôle d'assistance
+ - Verbatim : "On l’appelle presque un assistant. Il joue un rôle où il nous assiste, comme une machine à tout faire."
+ - Code 2 : Utilisation comme outil
+ - Verbatim : "C’est un outil qu’on doit guider"
+ - Code 3 : Génération d'idées
+ - Verbatim : "Il peut aussi parfois nous donner des idées auxquelles on n’aurait pas pensé au départ."
+ - Code 4 : Limites dans l'accompagnement
+ - Verbatim : "Mais je dirais plus 'assistant' qu’'accompagnant'."
+ - Code 5 : Accessibilité et rapidité
+ - Verbatim : "Même s’il est rapide et accessible à tout moment"
+ - Code 6 : Nécessité de guidance
+ - Verbatim : "C’est un outil qu’on doit guider"
+ - Code 7 : Utilité dans certaines tâches
+ - Verbatim : "Il peut très bien faire certaines tâches"
+ - Code 8 : Pas un compagnon de travail
+ - Verbatim : "Ce n’est pas un compagnon ou quelqu’un du même niveau que nous."
+ - Code 9 : Avantage générationnel
+ - Verbatim : "Pour notre génération par rapport aux générations précédentes, oui, c'est un outil avantageux."
+ - Code 10 : Utilisation par tous
+ - Verbatim : "Tout le monde l’utilise, et pas seulement les étudiants."
+
+**Thème 3 : Impact de ChatGPT sur la méthode de travail et le stress**
+ - Code 1 : Pas de changement dans l'approche
+ - Verbatim : "Mon approche reste toujours la même."
+ - Code 2 : Utilisation après réflexion personnelle
+ - Verbatim : "J’évite de l’utiliser directement avant d’avoir d’abord réfléchi par moi-même à la manière d’aborder un travail."
+ - Code 3 : Incitation à la réflexion critique
+ - Verbatim : "Il m’incite à me poser des questions et à voir si cela vaut le coup d’ajuster ma requête"
+ - Code 4 : Pas de dépendance
+ - Verbatim : "Je dirais que c'est totalement faux [d'être dépendant de ChatGPT]."
+ - Code 5 : Gain de temps
+ - Verbatim : "Ça me permet de gagner du temps"
+ - Code 6 : Pas de réduction du stress
+ - Verbatim : "Il n’a ni réduit mon stress ni l'affecté d’une quelconque manière."
+ - Code 7 : Exemple de camarade dépendant
+ - Verbatim : "Un de mes camarades qui se base parfois uniquement sur lui... Son stress a nettement diminué."
+ - Code 8 : Risque d'erreur
+ - Verbatim : "Parfois, il peut aussi m’induire en erreur."
+ - Code 9 : Prise de conscience des limites par l'utilisateur
+ - Verbatim : "J’ai donc pris la résolution, il y a longtemps, de ne pas me baser exclusivement sur lui."
+ - Code 10 : Différence dans l'utilisation entre individus
+ - Verbatim : "Certaines personnes savent mieux s’en servir que d’autres, et elles en tirent un plus grand bénéfice"
+
+**Thème 4 : Perception de la légitimité et de l'avantage**
+ - Code 1 : Pas un avantage entre étudiants de la même génération
+ - Verbatim : "Je ne vois pas ça comme un avantage entre étudiants d’une même génération."
+ - Code 2 : Avantage générationnel
+ - Verbatim : "Pour notre génération par rapport aux générations précédentes, oui, c'est un outil avantageux."
+ - Code 3 : Perception de l'utilisation par les pairs
+ - Verbatim : "Certaines personnes savent mieux s’en servir que d’autres"
+ - Code 4 : Légitimité dans l'utilisation universitaire
+ - Verbatim : (Début de réponse non fourni pour cette question)
+ - Code 5 : Utilisation généralisée
+ - Verbatim : "Tout le monde l’utilise, et pas seulement les étudiants."
+ - Code 6 : Différences dans l'utilisation
+ - Verbatim : "Certaines personnes savent mieux s’en servir que d’autres"
+ - Code 7 : Perception de la qualité du travail assisté par ChatGPT
+ - Verbatim : "Son travail est-il correct ? À ma connaissance, jusqu'à maintenant, non [il n'a pas eu de retour négatif]."
+ - Code 8 : Impact sur le stress des pairs
+ - Verbatim : "Son stress a nettement diminué, car il a pris l'habitude de se dire à chaque fois : 'tant pis, ça me prendra 10 minutes mise en forme incluse avec ChatGPT'."
+ - Code 9 : Évaluation de la dépendance
+ - Verbatim : "Je dirais que c'est totalement faux [d'être dépendant de ChatGPT]."
+ - Code 10 : Utilisation responsable
+ - Verbatim : "J’ai donc pris la résolution, il y a longtemps, de ne pas me baser exclusivement sur lui."
+
+**Thème 5 : Développement de compétences et apprentissage**
+ - Code 1 : Développement de la compétence de formulation de requêtes
+ - Verbatim : "J’ai appris à mieux formuler mes requêtes"
+ - Code 2 : Prise de conscience des limites
+ - Verbatim : "Je sais où il est fort et où il est faible"
+ - Code 3 : Adaptation à l'outil
+ - Verbatim : "C'est une compétence que j’ai développée au fil du temps."
+ - Code 4 : Utilisation efficace
+ - Verbatim : "J’ai appris à mieux formuler mes requêtes, c’est-à-dire à savoir quoi lui demander et comment lui fournir un contexte"
+ - Code 5 : Développement personnel
+ - Verbatim : "C'est une compétence que j’ai développée au fil du temps."
+ - Code 6 : Réflexion critique
+ - Verbatim : "Il m’incite à me poser des questions"
+ - Code 7 : Évaluation des réponses
+ - Verbatim : "J’évalue si je dois me fier à son raisonnement"
+ - Code 8 : Apprentissage par l'expérience
+ - Verbatim : "Au début, je l’utilisais beaucoup plus, mais de moins en moins maintenant."
+ - Code 9 : Développement de l'esprit critique
+ - Verbatim : "Il m’incite à me poser des questions et à voir si cela vaut le coup d’ajuster ma requête"
+ - Code 10 : Auto-régulation de l'utilisation
+ - Verbatim : "J’évite de l’utiliser directement avant d’avoir d’abord réfléchi par moi-même"

@@ -1,0 +1,113 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes significatifs qui reflètent les opinions et les réflexions de l'enquêté concernant ChatGPT et son impact sur le cadre académique. Voici les résultats de mon analyse, structurés en cinq thèmes distincts avec leurs codes et verbatims associés.
+
+### Thème 1 : Perception de l'impact de ChatGPT sur les habitudes de travail
+- Code 1 : Changement dans la synthèse des idées
+  - Verbatim : "ça va nous apprendre à réfléchir différemment"
+- Code 2 : Utilisation optimale de ChatGPT
+  - Verbatim : "à bien synthétiser un peu leurs idées, leurs demandes pour avoir une utilisation optimale de ChatGPT"
+- Code 3 : Risque de dépendance
+  - Verbatim : "il y a un grand risque et que ça peut être dangereux"
+- Code 4 : Évolution de la perception
+  - Verbatim : "tu avais dit tout à l'heure qu'au tout début, quand t'as entendu parler de ça à la radio, tu voyais ça plutôt d'un mauvais œil, puis ensuite t'as changé d'avis"
+- Code 5 : Nuance dans l'opinion
+  - Verbatim : "j'ai toujours un avis nuancé sur la question"
+- Code 6 : Impact positif potentiel
+  - Verbatim : "ça peut être un truc hyper positif"
+- Code 7 : Réflexion sur les risques et les bénéfices
+  - Verbatim : "je suis consciente que ça peut clairement être moins fun que ça"
+- Code 8 : Libre accès et réglementation
+  - Verbatim : "sauf si ça devient super réglementé et tout ça et que du coup on n'y aura plus trop accès"
+- Code 9 : Changement dans les méthodes de travail
+  - Verbatim : "ça va nous apprendre à réfléchir différemment"
+- Code 10 : Perception mitigée
+  - Verbatim : "je pense qu'il peut y avoir des belles choses, mais comme je suis consciente que ça peut clairement être moins fun que ça"
+
+### Thème 2 : Intégration de ChatGPT dans le cadre académique
+- Code 1 : Fiabilité des sources
+  - Verbatim : "ChatGPT pourrait être plus fiable en question de source, déjà"
+- Code 2 : Amélioration de l'intégration
+  - Verbatim : "des suggestions pour améliorer l'intégration de ChatGPT dans le cadre académique"
+- Code 3 : Approche universitaire
+  - Verbatim : "l'Uni devrait avoir une approche autre avec ChatGPT, une approche plus ouverte"
+- Code 4 : Réglementation actuelle
+  - Verbatim : "j'ai pas l'impression qu'il soit très fermé, donc ils ne peuvent pas être beaucoup plus ouverts"
+- Code 5 : Perception de l'abus
+  - Verbatim : "je n'ai pas l'impression qu'il y a vraiment des abus"
+- Code 6 : Utilisation par les étudiants
+  - Verbatim : "des étudiants qui pourraient faire l'intégralité du travail par ChatGPT"
+- Code 7 : Travail personnel
+  - Verbatim : "j'ai l'impression que les gens bossent toujours"
+- Code 8 : Impact sur le travail académique
+  - Verbatim : "tu mets le syllabus et tu demandes à ChatGPT de faire tout ton travail et du coup, tu ne fais rien concrètement"
+- Code 9 : Nécessité d'une réglementation
+  - Verbatim : "je ne pense pas qu'ils auraient besoin d'être plus fermés"
+- Code 10 : Satisfaction avec la situation actuelle
+  - Verbatim : "je ne trouve pas ça problématique personnellement"
+
+### Thème 3 : Évolution et futur de ChatGPT dans l'éducation
+- Code 1 : Changement dans les méthodes d'apprentissage
+  - Verbatim : "ça va nous apprendre à réfléchir différemment"
+- Code 2 : Avenir de ChatGPT
+  - Verbatim : "je pense que ça va être un peu comme ça"
+- Code 3 : Incertitude sur l'avenir
+  - Verbatim : "sauf si ça devient super réglementé"
+- Code 4 : Impact sur la manière d'étudier
+  - Verbatim : "son impact sur la manière d'étudier"
+- Code 5 : Utilisation future
+  - Verbatim : "je pense que ça va quand même être beaucoup utilisé"
+- Code 6 : Évolution de la technologie
+  - Verbatim : "ça peut être un truc hyper positif"
+- Code 7 : Adaptation à la technologie
+  - Verbatim : "on n'y aura plus trop accès, mais si ça reste comme ça en libre accès"
+- Code 8 : Bénéfices potentiels
+  - Verbatim : "il peut y avoir des belles choses"
+- Code 9 : Risques associés
+  - Verbatim : "ça peut clairement être moins fun que ça"
+- Code 10 : Incertitude
+  - Verbatim : "je n'en sais rien"
+
+### Thème 4 : Attitude envers la technologie et l'innovation
+- Code 1 : Ouverture à la technologie
+  - Verbatim : "je pense que ça peut être un truc hyper positif"
+- Code 2 : Prudence face à l'innovation
+  - Verbatim : "il y a un grand risque et que ça peut être dangereux"
+- Code 3 : Nuance dans l'acceptation
+  - Verbatim : "j'ai toujours un avis nuancé sur la question"
+- Code 4 : Reconnaissance des bénéfices
+  - Verbatim : "ça va nous apprendre à réfléchir différemment"
+- Code 5 : Conscience des risques
+  - Verbatim : "je suis consciente que ça peut clairement être moins fun que ça"
+- Code 6 : Équilibre entre risque et bénéfice
+  - Verbatim : "il peut y avoir des belles choses, mais comme je suis consciente que ça peut clairement être moins fun que ça"
+- Code 7 : Attitude face au changement
+  - Verbatim : "je pense qu'il peut y avoir des belles choses"
+- Code 8 : Réflexion sur l'usage de la technologie
+  - Verbatim : "à bien synthétiser un peu leurs idées, leurs demandes pour avoir une utilisation optimale de ChatGPT"
+- Code 9 : Impact sur la société
+  - Verbatim : "ça va nous apprendre à réfléchir différemment"
+- Code 10 : Acceptation conditionnelle
+  - Verbatim : "sauf si ça devient super réglementé et tout ça"
+
+### Thème 5 : Défis et limites de ChatGPT dans l'éducation
+- Code 1 : Fiabilité
+  - Verbatim : "ChatGPT pourrait être plus fiable en question de source"
+- Code 2 : Limites actuelles
+  - Verbatim : "je ne sais pas"
+- Code 3 : Défis pour l'intégration
+  - Verbatim : "pour que ça rentre mieux dans l'uni"
+- Code 4 : Perception des limites
+  - Verbatim : "il y a un grand risque et que ça peut être dangereux"
+- Code 5 : Réglementation et encadrement
+  - Verbatim : "sauf si ça devient super réglementé"
+- Code 6 : Risques d'abus
+  - Verbatim : "des étudiants qui pourraient faire l'intégralité du travail par ChatGPT"
+- Code 7 : Défis pour la qualité du travail
+  - Verbatim : "tu ne fais rien concrètement"
+- Code 8 : Limites de la technologie actuelle
+  - Verbatim : "ChatGPT pourrait être plus fiable en question de source, déjà"
+- Code 9 : Nécessité d'amélioration
+  - Verbatim : "pour améliorer l'intégration de ChatGPT"
+- Code 10 : Satisfaction avec la situation actuelle malgré les limites
+  - Verbatim : "je ne trouve pas ça problématique personnellement"
+
+Ces thèmes offrent une vue d'ensemble de la perception de l'enquêté sur ChatGPT, mettant en lumière ses réflexions sur les impacts potentiels, les défis, et les considérations nécessaires pour intégrer cette technologie dans le cadre académique.

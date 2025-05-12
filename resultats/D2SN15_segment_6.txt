@@ -1,0 +1,113 @@
+Après une analyse minutieuse de l'entretien, j'ai identifié plusieurs thèmes distincts qui reflètent les opinions et les expériences de l'enquêtée, Oriane, concernant l'utilisation de ChatGPT dans son travail académique. Voici les thèmes avec leurs codes et verbatims associés :
+
+### Thème 1 : Utilisation de ChatGPT pour la simplification du travail académique
+- Code 1 : Utilisation pour résumer les articles
+  - Verbatim : "j’utilise ChatGPT pour me résumer, enfin, pour comprendre un peu grosso modo ce qui va se passer"
+- Code 2 : Perception de la pertinence
+  - Verbatim : "je sais que c’est pas très pertinent"
+- Code 3 : Facilitation du suivi des cours
+  - Verbatim : "c’est plus pour suivre le cours, entre guillemets"
+- Code 4 : Utilisation pour les exposés et débats
+  - Verbatim : "quand il y a des gens qui passent un exposé, et on doit leur poser des questions ou un peu suivre ce qui se dit"
+- Code 5 : Simplification du contenu
+  - Verbatim : "c’est des articles de 50 ou 80 pages sur des thèmes hyper précis"
+- Code 6 : Manque d'intérêt pour les lectures longues
+  - Verbatim : "ça ne m'intéresse pas vraiment"
+- Code 7 : Utilisation comme un outil de dernier recours
+  - Verbatim : "pour pas que je sois un peu déconnectée"
+- Code 8 : Perception de l'aide apportée par ChatGPT
+  - Verbatim : "ça va être un peu dans ce cadre-là"
+- Code 9 : Réduction de la charge cognitive
+  - Verbatim : "pour comprendre un peu grosso modo ce qui va se passer"
+- Code 10 : Utilisation par défaut pour certaines tâches
+  - Verbatim : "je vais le faire un peu à moitié"
+
+### Thème 2 : Impact de ChatGPT sur la qualité et la rapidité du travail
+- Code 1 : Gain de temps théorique
+  - Verbatim : "théoriquement et sur papier, j’ai envie de dire oui"
+- Code 2 : Révision et réécriture
+  - Verbatim : "je vais beaucoup la reprendre, je vais remettre"
+- Code 3 : Perception de la qualité du travail produit avec ChatGPT
+  - Verbatim : "j’ai beaucoup moins d’exigence sur ce que je fais moi"
+- Code 4 : Confiance dans le travail personnel
+  - Verbatim : "c’est ma pensée qui s’est traduite"
+- Code 5 : Inquiétude concernant la détection de l'utilisation de ChatGPT
+  - Verbatim : "j’ai peur que mon prof puisse détecter que c’est ChatGPT"
+- Code 6 : Charge de travail supplémentaire pour ajuster le contenu généré
+  - Verbatim : "ça va prendre un peu de travail qui est pas très agréable en soi"
+- Code 7 : Comparaison entre travail personnel et utilisation de ChatGPT
+  - Verbatim : "si je l’avais fait moi-même, ça aurait été beaucoup plus rapide"
+- Code 8 : Problème de flemme initiale
+  - Verbatim : "c’est une flemme un peu à la base de rédiger"
+- Code 9 : Utilisation dans l'urgence
+  - Verbatim : "hormis dans l'urgence, ça fait gagner du temps"
+- Code 10 : Changement de comportement en fonction de la situation
+  - Verbatim : "maintenant il suffit de l’utiliser beaucoup moins"
+
+### Thème 3 : Influence de ChatGPT sur l'organisation et le planning
+- Code 1 : Modification de l'emploi du temps
+  - Verbatim : "je pense qu’il modifie mon emploi du temps"
+- Code 2 : Utilisation pour des tâches quotidiennes
+  - Verbatim : "des tâches du quotidien, plus par exemple, de résumer un article"
+- Code 3 : Changement dans la façon d'aborder certaines tâches
+  - Verbatim : "je vais le faire un peu à moitié"
+- Code 4 : Sentiment de culpabilité si la tâche n'est pas effectuée
+  - Verbatim : "je me sens un peu coupable si je ne le fais pas"
+- Code 5 : Nouvelles habitudes de travail
+  - Verbatim : "maintenant, vu que ça prend pas de temps, je vais le faire"
+- Code 6 : Pas de changement significatif dans l'organisation
+  - Verbatim : "je ne pense pas que ça change tant l’emploi du temps ou l’organisation"
+- Code 7 : Utilisation en fonction du temps disponible
+  - Verbatim : "ça prend cinq minutes, même pas"
+- Code 8 : Flexibilité dans l'utilisation de ChatGPT
+  - Verbatim : "avant le cours, si ce n’est pas en dehors"
+- Code 9 : Nouveaux comportements induits par la facilité d'utilisation
+  - Verbatim : "je vais le faire, quoi"
+- Code 10 : Perception de la facilité comme un facteur de changement
+  - Verbatim : "juste, je vais le faire"
+
+### Thème 4 : Réflexion sur l'autonomie et la responsabilité dans le travail académique
+- Code 1 : Autonomie dans le travail
+  - Verbatim : "je me lance et je rédige toute seule"
+- Code 2 : Responsabilité dans la vérification
+  - Verbatim : "je vérifie un peu comme je fais d’habitude"
+- Code 3 : Perception de la propriété du travail
+  - Verbatim : "c’est ma pensée qui s’est traduite"
+- Code 4 : Distinction entre travail personnel et celui effectué avec ChatGPT
+  - Verbatim : "quand c’est pas moi qui avance, mais ChatGPT"
+- Code 5 : Conscience de la différence entre les deux approches
+  - Verbatim : "je vais beaucoup la reprendre"
+- Code 6 : Acceptation de la nécessité de révision
+  - Verbatim : "je vais remettre"
+- Code 7 : Responsabilité face au risque de détection
+  - Verbatim : "j’ai peur que mon prof puisse détecter que c’est ChatGPT"
+- Code 8 : Éthique dans l'utilisation des outils d'aide
+  - Verbatim : "c’est une flemme un peu à la base de rédiger"
+- Code 9 : Perception de l'impact sur la qualité du travail
+  - Verbatim : "j’ai beaucoup moins d’exigence sur ce que je fais moi"
+- Code 10 : Développement d'une stratégie pour éviter les problèmes
+  - Verbatim : "je vais essayer de le reprendre"
+
+### Thème 5 : Évolution de l'utilisation de ChatGPT et adaptation
+- Code 1 : Évolution de l'utilisation
+  - Verbatim : "maintenant il suffit de l’utiliser beaucoup moins"
+- Code 2 : Adaptation en fonction des besoins
+  - Verbatim : "hormis dans l'urgence, ça fait gagner du temps"
+- Code 3 : Changement dans les habitudes de travail
+  - Verbatim : "je vais le faire un peu à moitié"
+- Code 4 : Perception de la nécessité d'ajuster l'utilisation
+  - Verbatim : "je me sens un peu coupable si je ne le fais pas"
+- Code 5 : Utilisation efficace de ChatGPT
+  - Verbatim : "ça prend cinq minutes, même pas"
+- Code 6 : Stratégie pour l'utilisation future
+  - Verbatim : "avant le cours, si ce n’est pas en dehors"
+- Code 7 : Intégration dans la routine de travail
+  - Verbatim : "je vais le faire, quoi"
+- Code 8 : Satisfaction ou frustration avec l'utilisation de ChatGPT
+  - Verbatim : "c’est pas très agréable en soi"
+- Code 9 : Flexibilité dans l'utilisation
+  - Verbatim : "je vais le faire un peu à moitié"
+- Code 10 : Équilibre entre utilisation de ChatGPT et travail personnel
+  - Verbatim : "je rédige toute seule"
+
+Ces thèmes offrent une vision compréhensive de la manière dont Oriane utilise ChatGPT dans son contexte académique, soulignant à la fois les bénéfices et les défis qu'elle rencontre, ainsi que sa réflexion sur l'impact de cet outil sur son autonomie et sa responsabilité.

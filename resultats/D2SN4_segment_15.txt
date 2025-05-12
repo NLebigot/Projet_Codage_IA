@@ -1,0 +1,113 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée.
+
+**Segment 1 : Préoccupations liées à la collecte de données**
+
+- Thème : Confidentialité et collecte de données
+ - Code1 : Préoccupation concernant la collecte de données
+ - Verbatim : "le proﬁlage c'est quelque chose qui est assez discret mais chatGPT n'a pas un business plan qui est clair et pourtant c'est gratuit et ça reste quand même des gens qui collectent des informations extrêmement précises sur tout"
+ - Code2 : Risque lié à la collecte de données
+ - Verbatim : "si jamais ces informations venaient à être utilisés... dans le cadre académique... ça peut être très difficile de justiﬁer un un question ou un prompt"
+ - Code3 : Accès potentiel aux données personnelles
+ - Verbatim : "un employeur ou un chercheur qui serait intéressé par ton proﬁl... pourrait voir tout ce que t’as fait avec"
+ - Code4 : Risque de gêne pour les utilisateurs
+ - Verbatim : "ça peut être très gênant pour certains"
+ - Code5 : Conscience de la collecte de données lors de l'utilisation
+ - Verbatim : "quand on étudie sur Chat GPT on lui fournit aussi toutes les informations sur nous-mêmes"
+ - Code6 : Importance de la confidentialité
+ - Verbatim : "faut pas oublier que"
+ - Code7 : Risque de mauvaise utilisation des données
+ - Verbatim : "si jamais il y a des autorisations pour accéder à ton compte ChatGPT"
+ - Code8 : Collecte de données précise
+ - Verbatim : "des informations extrêmement précises sur tout"
+ - Code9 : Inquiétude quant à l'utilisation future des données
+ - Verbatim : "imagine qu'un jour quelqu’un ait accès à ça"
+ - Code10 : Sensibilisation à la collecte de données
+ - Verbatim : "c’est vrai qu’on a pas abordé la question de la collecte de data mais ça pourrait être une entretien à part entière"
+
+**Segment 2 : Amélioration de l'intégration de ChatGPT dans le cadre académique**
+
+- Thème : Nécessité d'un modèle dédié pour l'académie
+ - Code1 : Limite de ChatGPT dans le contexte académique
+ - Verbatim : "il donne des réponses claires, mais souvent pas assez précises, surtout pour des sujets très pointus comme ceux qu'on trouve en école/fac"
+ - Code2 : Besoin d'un outil dédié pour l'académie
+ - Verbatim : "il faut des outils encore plus dédiés... un 'chatGPT académique'"
+ - Code3 : Exemple de spécialisation avec Google Scholar
+ - Verbatim : "quand on tape sur Google des choses qui sont de l'ordre de la recherche c'est très difficile parfois de trouver une source alors que sur Google Scholar c'est très rapide"
+ - Code4 : Adaptation nécessaire pour le contexte académique
+ - Code5 : Existence d'outils dédiés pour la rédaction scientifique
+ - Verbatim : "il y a des choses qui sont utilisées pour écrire, pour aider à rédiger de la littérature scientifique, qui sont des outils dédiés"
+ - Code6 : Problèmes évités avec un outil dédié
+ - Verbatim : "qui évite au maximum les problèmes d'éthique, les problèmes de plagiat, les problèmes de pas citer les sources"
+ - Code7 : Nécessité d'un modèle implicite avec contraintes académiques
+ - Verbatim : "une intelligence artificielle qui implicitement contiendrait la totalité des contraintes liées à l’éthique, au plagiat, à la citation des sources"
+ - Code8 : Distinction entre ChatGPT généraliste et spécialisé
+ - Verbatim : "Ca [ChatGPT] reste le médecin généraliste"
+ - Code9 : Avenir avec des modèles de langage adaptés
+ - Verbatim : "il va y avoir des outils de d'intelligence artificielle comme chatGPT, des modèles de langage qui vont sortir et qui vont être adaptés à l'Académie sans aucun souci"
+ - Code10 : Priorité à la spécialisation plutôt qu'à l'amélioration générale de ChatGPT
+ - Verbatim : "je pense pas que chatGPT a besoin d'être amélioré outre mesure, je pense qu'il y a simplement besoin d'avoir des modèles dédiés"
+
+**Segment 3 : Perception et utilisation de ChatGPT**
+
+- Thème : Perception de ChatGPT et son utilisation
+ - Code1 : Utilisation de ChatGPT pour l'étude
+ - Verbatim : "quand on étudie sur Chat GPT"
+ - Code2 : Perception de la gratuité et de la collecte de données
+ - Verbatim : "c'est gratuit et ça reste quand même des gens qui collectent des informations extrêmement précises sur tout"
+ - Code3 : Préoccupation quant au business model
+ - Verbatim : "chatGPT n'a pas un business plan qui est clair"
+ - Code4 : Effet de la prise de conscience sur l'utilisation
+ - Verbatim : "c’est top d’en avoir conscience"
+ - Code5 : Utilisation de ChatGPT comme un outil généraliste
+ - Verbatim : "il donne des réponses claires"
+ - Code6 : Conscience des limites de ChatGPT
+ - Verbatim : "mais souvent pas assez précises"
+ - Code7 : Importance de la spécialisation pour les besoins spécifiques
+ - Verbatim : "des sujets très pointus comme ceux qu'on trouve en école/fac"
+ - Code8 : Dynamique entre généralité et spécialisation
+ - Verbatim : "le médecin généraliste"
+ - Code9 : Évolution future des outils d'intelligence artificielle pour l'académie
+ - Verbatim : "des modèles de langage qui vont sortir et qui vont être adaptés à l'Académie"
+ - Code10 : Réponse aux besoins académiques par la spécialisation
+ - Verbatim : "un ‘chatGPT académique’"
+
+**Segment 4 : Discussions et échanges sur ChatGPT**
+
+- Thème : Interaction et discussions autour de ChatGPT
+ - Code1 : Interaction entre les interlocuteurs
+ - Verbatim : "Dounia : C’est vrai qu’on a pas abordé la question de la collecte de data"
+ - Code2 : Reconnaissance de l'importance du sujet
+ - Verbatim : "mais ça pourrait être une entretien à part entière"
+ - Code3 : Accord sur la nécessité d'un ChatGPT académique
+ - Verbatim : "Dounia : Ah oui c’est une super idée, il faudrait créer un ‘chatGPT académique’ !"
+ - Code4 : Remerciement pour la disponibilité et la sincérité
+ - Verbatim : "Merci beaucoup d’avoir pris le temps de répondre à toutes mes questions"
+ - Code5 : Appréciation de la discussion
+ - Verbatim : "c’était vraiment intéressant d’avoir ton point de vue"
+ - Code6 : Clôture de l'entretien
+ - Verbatim : "Bon et bien je crois qu’on a ﬁni !"
+ - Code7 : Valorisation de la contribution
+ - Verbatim : "je te remercie pour ta dispo et pour ta sincérité, c’est top !"
+ - Code8 : Échange dynamique
+ - Code9 : Consensus sur les sujets discutés
+ - Code10 : Satisfaction de la discussion
+
+**Segment 5 : Préoccupations éthiques et suggestions**
+
+- Thème : Préoccupations éthiques et suggestions pour ChatGPT
+ - Code1 : Préoccupation éthique concernant ChatGPT
+ - Verbatim : "les problèmes d'éthique, les problèmes de plagiat, les problèmes de pas citer les sources"
+ - Code2 : Nécessité de contraintes académiques dans ChatGPT
+ - Verbatim : "une intelligence artificielle qui implicitement contiendrait la totalité des contraintes liées à l’éthique"
+ - Code3 : Suggestion pour un ChatGPT académique
+ - Verbatim : "un ‘chatGPT académique’ de la même manière qu'il y a eu un Google Scholar"
+ - Code4 : Utilisation responsable de ChatGPT
+ - Code5 : Réduction des risques avec un outil dédié
+ - Verbatim : "qui évite au maximum les problèmes d'éthique, les problèmes de plagiat"
+ - Code6 : Importance de la citation des sources
+ - Verbatim : "la citation des sources"
+ - Code7 : Évolution vers des outils spécialisés
+ - Verbatim : "des modèles de langage qui vont être adaptés à l'Académie"
+ - Code8 : Développement futur
+ - Code9 : Conscience des enjeux
+ - Code10 : Appel à la responsabilité

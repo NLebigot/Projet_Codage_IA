@@ -1,0 +1,121 @@
+Voici l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif :
+
+**Segment 1 : Perception de l'utilisation de Chat GPT**
+
+- Thème : Perception de l'utilisation de Chat GPT
+ - Code 1 : Changement d'opinion sur Chat GPT
+ - Verbatim : "Moi en vrai pendant longtemps je trouvais que c'était de la triche d'utiliser Chat GPT mais là je comprends que tout le monde va le faire"
+ - Code 2 : Nécessité d'adaptation
+ - Verbatim : "c'est soit tu apprends à l'utiliser, soit les autres vont te dépasser"
+ - Code 3 : Utilisation actuelle de Chat GPT
+ - Verbatim : "c'est la première année où je l'utilise. Du coup, j'ai appris à faire plein d'autres choses par moi-même et maintenant juste il m'aide"
+ - Code 4 : Préoccupation pour les plus jeunes
+ - Verbatim : "le danger, c'est peut-être pour les plus jeunes qui en fait vont tout faire dès le départ avec ce Chat GPT"
+ - Code 5 : Modification des compétences
+ - Verbatim : "ils vont acquérir d'autres compétences, ça c'est très certain. Mais peut-être qu'il y aura des trucs de base où ce sera plus plus compliqué"
+ - Code 6 : Exemple de compétence affectée
+ - Verbatim : "savoir rédiger un texte, écrire correctement en français"
+ - Code 7 : Impact sur les apprentissages
+ - Verbatim : "quand tu fais tout avec GPT, je pense qu'on va perdre certains apprentissages mais on va en gagner d'autres"
+ - Code 8 : Gain de temps
+ - Verbatim : "ils auront plus de temps, qu'ils seront des experts de l'informatique"
+ - Code 9 : Changement dans les compétences
+ - Verbatim : "c'est juste que ça va se modifier quoi"
+ - Code 10 : Neutralité face au changement
+ - Verbatim : "C'est pas quelque chose de giga négatif ou de positif"
+
+**Segment 2 : Intégration de Chat GPT dans le cadre académique**
+
+- Thème : Suggestions pour une meilleure intégration
+ - Code 1 : Accès à des cours sur Chat GPT
+ - Verbatim : "tout le monde a accès à des cours de profs qui savent comment ça marche et qui leur expliquent là où il est bon"
+ - Code 2 : Compréhension des biais de Chat GPT
+ - Verbatim : "des cours aussi sur les biais de chat GPT parce que dans notre cours en fait, elle nous avait…"
+ - Code 3 : Exemple de biais dans l'entraînement
+ - Verbatim : "il a été créé sur des corpus. Qui ont été créés par des blancs. Enfin voilà. Et du coup, il y a des sujets sur lesquels il est très fort et il y a des sujets sur lesquels il n'a pas du tout les corpus"
+ - Code 4 : Importance de la diversité dans l'entraînement
+ - Verbatim : "les corpus sur lesquels il est basé, ils sont socialement situés"
+ - Code 5 : Exemple d'intelligence artificielle biaisée
+ - Verbatim : "ils avaient utilisé une intelligence artificielle pour reconnaître quand tu mets ta main, enfin c'était peut-être pas une intelligence artificielle mais en tout cas un logiciel pour faire que quand tu mets ta main sous un distributeur de savon"
+ - Code 6 : Problème de représentativité
+ - Verbatim : "ils ont donné que des mains blanches. Ce qui fait qu'en fait il donnait du savon au blanc"
+ - Code 7 : Danger lié à l'entraînement
+ - Verbatim : "si ce qu'on lui a donné à l'entraînement est mauvais, donc voilà"
+ - Code 8 : Absence de sens moral
+ - Verbatim : "il a pas la vérité de chat GPT, juste il est entraîné à partir d'un corpus"
+ - Code 9 : Risque d'utilisation abusive
+ - Verbatim : "tu peux faire des conneries énormes avec chat GPT"
+ - Code 10 : Nécessité de savoir s'en passer
+ - Verbatim : "forcer des moments où on ne peut pas utiliser chat GPT parce que c'est essentiel quand même de savoir s'en passer"
+
+**Segment 3 : Enjeux et limites de Chat GPT**
+
+- Thème : Limites et enjeux éthiques
+ - Code 1 : Dépendance à Chat GPT
+ - Verbatim : "les plus jeunes qui en fait vont tout faire dès le départ avec ce Chat GPT"
+ - Code 2 : Perte de compétences de base
+ - Verbatim : "savoir rédiger un texte, écrire correctement en français"
+ - Code 3 : Biais dans les données d'entraînement
+ - Verbatim : "il a été créé sur des corpus. Qui ont été créés par des blancs"
+ - Code 4 : Risques liés à l'absence de diversité
+ - Verbatim : "les corpus sur lesquels il est basé, ils sont socialement situés"
+ - Code 5 : Exemples d'applications biaisées
+ - Verbatim : "distributeur de savon qui ne fonctionnait qu'avec des mains blanches"
+ - Code 6 : Manque de sens moral de Chat GPT
+ - Verbatim : "il a pas la vérité de chat GPT, juste il est entraîné à partir d'un corpus"
+ - Code 7 : Utilisation abusive potentielle
+ - Verbatim : "tu peux faire des conneries énormes avec chat GPT"
+ - Code 8 : Nécessité d'une utilisation responsable
+ - Verbatim : "c'est essentiel quand même de savoir s'en passer"
+ - Code 9 : Importance de l'éducation
+ - Verbatim : "tout le monde a accès à des cours de profs qui savent comment ça marche"
+ - Code 10 : Adaptation nécessaire
+ - Verbatim : "c'est soit tu apprends à l'utiliser, soit les autres vont te dépasser"
+
+**Segment 4 : Évolution et adaptation**
+
+- Thème : Évolution et adaptation à Chat GPT
+ - Code 1 : Évolution de l'opinion sur Chat GPT
+ - Verbatim : "je comprends que tout le monde va le faire donc en fait, c'est soit tu apprends à l'utiliser"
+ - Code 2 : Utilisation actuelle
+ - Verbatim : "c'est la première année où je l'utilise"
+ - Code 3 : Changement dans les compétences
+ - Verbatim : "ils vont acquérir d'autres compétences, ça c'est très certain"
+ - Code 4 : Gain de temps pour d'autres compétences
+ - Verbatim : "ils auront plus de temps, qu'ils seront des experts de l'informatique"
+ - Code 5 : Modification des apprentissages
+ - Verbatim : "on va perdre certains apprentissages mais on va en gagner d'autres"
+ - Code 6 : Nécessité d'adaptation
+ - Verbatim : "c'est soit tu apprends à l'utiliser, soit les autres vont te dépasser"
+ - Code 7 : Préparation à l'avenir
+ - Verbatim : "c'est juste que ça va se modifier quoi"
+ - Code 8 : Importance de l'éducation sur Chat GPT
+ - Verbatim : "des cours sur les biais de chat GPT"
+ - Code 9 : Utilisation responsable
+ - Verbatim : "c'est essentiel quand même de savoir s'en passer"
+ - Code 10 : Changement inévitable
+ - Verbatim : "C'est pas quelque chose de giga négatif ou de positif. C'est juste que ça va se modifier"
+
+**Segment 5 : Impact environnemental et social**
+
+- Thème : Impact environnemental et social
+ - Code 1 : Préoccupation environnementale
+ - Verbatim : "le truc négatif c'est l'environnement"
+ - Code 2 : Impact sur les jeunes générations
+ - Verbatim : "le danger, c'est peut-être pour les plus jeunes qui en fait vont tout faire dès le départ avec ce Chat GPT"
+ - Code 3 : Changement dans les valeurs
+ - Verbatim : "c'est juste que ça va se modifier quoi"
+ - Code 4 : Risques de dépendance
+ - Verbatim : "quand tu fais tout avec GPT, je pense qu'on va perdre certains apprentissages"
+ - Code 5 : Nécessité d'une réflexion éthique
+ - Verbatim : "il a pas la vérité de chat GPT, juste il est entraîné à partir d'un corpus"
+ - Code 6 : Impact sur la société
+ - Verbatim : "c'est essentiel quand même de savoir s'en passer"
+ - Code 7 : Rôle de l'éducation
+ - Verbatim : "tout le monde a accès à des cours de profs qui savent comment ça marche"
+ - Code 8 : Importance de la diversité
+ - Verbatim : "les corpus sur lesquels il est basé, ils sont socialement situés"
+ - Code 9 : Risque d'exclusion
+ - Verbatim : "les sujets sur lesquels il n'a pas du tout les corpus"
+ - Code 10 : Adaptation sociétale
+ - Verbatim : "C'est pas quelque chose de giga négatif ou de positif"

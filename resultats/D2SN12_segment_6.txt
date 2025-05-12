@@ -1,0 +1,73 @@
+Pour analyser cet entretien en respectant une méthode rigoureuse de codage qualitatif, je vais identifier et regrouper les thèmes et les codes pertinents.
+
+### Segment 1 : Utilisation de l'outil et changement de comportement
+
+- **Thème : Impact de l'outil sur les habitudes de recherche**
+ - Code 1 : Changement de comportement
+ - Verbatim : "je ne pense pas que j'ai abandonné quelque chose au profit de chez AGPT"
+ - Code 2 : Utilisation complémentaire
+ - Verbatim : "j'utilise toujours Google dans la vie de tous les jours"
+ - Code 3 : Gain de temps
+ - Verbatim : "ça peut me servir pour mes recherches pour aller plus vite"
+ - Code 4 : Recherche d'informations
+ - Verbatim : "au lieu de demander enfin de faire une recherche sur Google, je vais la faire parfois sur chat GPT"
+ - Code 5 : Complémentarité des outils
+ - Verbatim : "j'ai envie d'avoir plusieurs euh plusieurs articles, plusieurs sites euh que je peux consulter"
+
+### Segment 2 : Perception de l'outil vis-à-vis de la compétence et réussite académique
+
+- **Thème : Avantages académiques de l'outil**
+ - Code 1 : Gain de temps
+ - Verbatim : "ça va m'éviter de de perdre trop de temps à lire des passages qui ne seraient pas pertinents"
+ - Code 2 : Sélection d'informations pertinentes
+ - Verbatim : "demander à chat GPT de sélectionner des passages ou de me conseiller lesquelles pages de documents sont les plus intéressantes pour mon sujet"
+ - Code 3 : Dimension synthétique
+ - Verbatim : "la dimension synthétique et le gain de temps comme je l'avais dit avant sur la lecture de de gros documents"
+ - Code 4 : Utilisation pour la recherche
+ - Verbatim : "pour mes recherches pour aller plus vite"
+ - Code 5 : Assistance à la lecture
+ - Verbatim : "ça va m'éviter de lire des passages qui ne seraient pas pertinents pour traiter de de de sujet"
+
+### Segment 3 : Dépendance à l'outil
+
+- **Thème : Autonomie dans l'utilisation de l'outil**
+ - Code 1 : Non-dépendance académique
+ - Verbatim : "non, je n’ai pas de problème de dépendance vis-à-vis de l'outil sur certaines tâches académiques"
+ - Code 2 : Utilisation pratique
+ - Verbatim : "je l’utilise surtout à des fins pratiques"
+ - Code 3 : Alternative à l'outil
+ - Verbatim : "si jamais je n’avais pas ChatGPT, je ferais mes recherches sur Google par moi-même"
+ - Code 4 : Flexibilité d'utilisation
+ - Verbatim : "je ne serais pas dépendant, car je l’utilise surtout à des fins pratiques"
+ - Code 5 : Préférence pour l'outil dans certaines situations
+ - Verbatim : "quand on veut avoir une réponse rapide sur un sujet lambda"
+
+### Segment 4 : Légitimité de l'utilisation de l'outil dans les travaux universitaires
+
+- **Thème : Perception de la légitimité de l'outil dans le contexte académique**
+ - Code 1 : Légitimité conditionnelle
+ - Verbatim : "je pense que son utilisation est légitime pour des recherches à bonne étion"
+ - Code 2 : Restrictions d'usage
+ - Verbatim : "après à mauvaise étion non"
+ - Code 3 : Limitations de l'outil
+ - Verbatim : "je pense qu'il est bloqué euh si jamais on lui demande des choses qui sont malhonnêtes"
+ - Code 4 : Conscience des limites
+ - Verbatim : "il y a des cas il y a des exceptions"
+ - Code 5 : Usage approprié
+ - Verbatim : "pour des recherches"
+
+### Segment 5 : Réactions des profs et positionnement éthique
+
+- **Thème : Conscience et enjeux éthiques liés à l'utilisation de l'outil**
+ - Code 1 : Conscience des profs
+ - Verbatim : "la plupart sont au courant que nous l'utilisons"
+ - Code 2 : Recommandations des profs
+ - Verbatim : "je n'ai jamais eu un professeur qui m'a encouragé à utiliser ChatGPT"
+ - Code 3 : Préoccupations éthiques
+ - Verbatim : "je sais que par exemple ça consomme énormément de d'eau, enfin d'énergie déjà GPT"
+ - Code 4 : Impact environnemental
+ - Verbatim : "ça consomme énormément de d'eau, enfin d'énergie déjà GPT"
+ - Code 5 : Responsabilité de l'utilisateur
+ - Verbatim : "est-ce que tu ne devrais pas réduire ton utilisation de ChatGPT ?"
+
+Cette analyse permet d'identifier et d'explorer les différents thèmes et codes issus de l'entretien, offrant ainsi une compréhension plus nuancée de la perception et de l'utilisation de l'outil par l'interviewé.

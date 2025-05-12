@@ -1,0 +1,116 @@
+Voici l'analyse du texte en utilisant une méthode de codage qualitatif :
+
+**Thème 1 : Perception de l'IA et de ChatGPT**
+
+* Code 1 : Perception subjective
+ Verbatim : "C'est un sentiment personnel, un sentiment subjectif."
+* Code 2 : Révolution technique
+ Verbatim : "C'est la révolution du siècle, d'un point de vue technique et invention."
+* Code 3 : Discussion autour de l'IA
+ Verbatim : "l'impact de l'IA en général sur la vie des gens est tellement discuté actuellement"
+* Code 4 : Perception négative de l'utilisation de l'IA
+ Verbatim : "C'est mal vu, mais parce que c'est l'affaire chaude du moment."
+* Code 5 : Inquiétude quant à l'autonomie
+ Verbatim : "Est-ce qu'on n'est pas en train de perdre notre autonomie face aux robots, etc."
+* Code 6 : Utilisation de l'IA dans l'éducation
+ Verbatim : "quand ça touche directement à, potentiellement, l'avenir des élèves"
+* Code 7 : Réserve quant à l'utilisation de l'IA
+ Verbatim : "même pour moi, c'est bof."
+* Code 8 : Problème éthique
+ Verbatim : "D'un point de vue éthique."
+* Code 9 : Préoccupation quant à la notation des élèves
+ Verbatim : "faire noter des élèves sur des exercices qui ont été créés par des IA, ça me pose un problème."
+* Code 10 : Limite personnelle
+ Verbatim : "ça dépasse une limite que je veux pas dépasser."
+
+**Thème 2 : Utilisation de ChatGPT dans l'enseignement**
+
+* Code 1 : Interdiction d'utiliser ChatGPT pour les examens
+ Verbatim : "Je sais même plus si j'ai entendu ça de la bouche d'un de mes profs."
+* Code 2 : Réserve quant à l'utilisation de l'IA pour les tests
+ Verbatim : "ça me perturberait d'utiliser l'IA pour faire des tests par exemple."
+* Code 3 : Critique de l'utilisation de l'IA
+ Verbatim : "je critiquerais pas ceux qui le feraient."
+* Code 4 : Refus personnel d'utiliser ChatGPT
+ Verbatim : "je refuse catégoriquement."
+* Code 5 : Préparation de tests sans ChatGPT
+ Verbatim : "j'ai créé un test sur ce sujet avec les élèves, mais ce test je n'ai pas du tout utilisé Tchatchépeté."
+* Code 6 : Explication de la non-utilisation de ChatGPT
+ Verbatim : "Parce que je refuse catégoriquement."
+* Code 7 : Limite personnelle dans l'utilisation de l'IA
+ Verbatim : "ça dépasse une limite que je veux pas dépasser."
+* Code 8 : Responsabilité de l'enseignant
+ Verbatim : "on pourrait me retomber dessus parce que j'ai utilisé le chat GPT"
+* Code 9 : Assurance contre les problèmes potentiels
+ Verbatim : "s'il y a un problème dans le test, on pourrait me retomber dessus"
+* Code 10 : Honnêteté quant à l'utilisation de l'IA
+ Verbatim : "t'as utilisé le chat GPT, il y a des erreurs dans ton test, t'as pas honte ?"
+
+**Thème 3 : Préoccupations éthiques et responsabilités**
+
+* Code 1 : Problème éthique dans l'utilisation de l'IA
+ Verbatim : "D'un point de vue éthique."
+* Code 2 : Préoccupation quant à la notation des élèves
+ Verbatim : "faire noter des élèves sur des exercices qui ont été créés par des IA, ça me pose un problème."
+* Code 3 : Responsabilité de l'enseignant
+ Verbatim : "on pourrait me retomber dessus parce que j'ai utilisé le chat GPT"
+* Code 4 : Assurance contre les problèmes potentiels
+ Verbatim : "s'il y a un problème dans le test, on pourrait me retomber dessus"
+* Code 5 : Honnêteté quant à l'utilisation de l'IA
+ Verbatim : "t'as utilisé le chat GPT, il y a des erreurs dans ton test, t'as pas honte ?"
+* Code 6 : Limite personnelle dans l'utilisation de l'IA
+ Verbatim : "ça dépasse une limite que je veux pas dépasser."
+* Code 7 : Préoccupation quant à l'autonomie des élèves
+ Verbatim : "Est-ce qu'on n'est pas en train de perdre notre autonomie face aux robots, etc."
+* Code 8 : Discussion autour de l'IA
+ Verbatim : "l'impact de l'IA en général sur la vie des gens est tellement discuté actuellement"
+* Code 9 : Perception négative de l'utilisation de l'IA
+ Verbatim : "C'est mal vu, mais parce que c'est l'affaire chaude du moment."
+* Code 10 : Révolution technique
+ Verbatim : "C'est la révolution du siècle, d'un point de vue technique et invention."
+
+**Thème 4 : Enseignement et évaluation**
+
+* Code 1 : Préparation de tests sans ChatGPT
+ Verbatim : "j'ai créé un test sur ce sujet avec les élèves, mais ce test je n'ai pas du tout utilisé Tchatchépeté."
+* Code 2 : Explication de la non-utilisation de ChatGPT
+ Verbatim : "Parce que je refuse catégoriquement."
+* Code 3 : Limite personnelle dans l'utilisation de l'IA
+ Verbatim : "ça dépasse une limite que je veux pas dépasser."
+* Code 4 : Réserve quant à l'utilisation de l'IA pour les tests
+ Verbatim : "ça me perturberait d'utiliser l'IA pour faire des tests par exemple."
+* Code 5 : Critique de l'utilisation de l'IA
+ Verbatim : "je critiquerais pas ceux qui le feraient."
+* Code 6 : Refus personnel d'utiliser ChatGPT
+ Verbatim : "je refuse catégoriquement."
+* Code 7 : Interdiction d'utiliser ChatGPT pour les examens
+ Verbatim : "Je sais même plus si j'ai entendu ça de la bouche d'un de mes profs."
+* Code 8 : Préoccupation quant à la notation des élèves
+ Verbatim : "faire noter des élèves sur des exercices qui ont été créés par des IA, ça me pose un problème."
+* Code 9 : Responsabilité de l'enseignant
+ Verbatim : "on pourrait me retomber dessus parce que j'ai utilisé le chat GPT"
+* Code 10 : Honnêteté quant à l'utilisation de l'IA
+ Verbatim : "t'as utilisé le chat GPT, il y a des erreurs dans ton test, t'as pas honte ?"
+
+**Thème 5 : Interactions et ambiance de l'entretien**
+
+* Code 1 : Demande de changement de position
+ Verbatim : "Dis-moi si tu veux changer de place au fait, puisque t'as le soleil."
+* Code 2 : Réponse à la demande
+ Verbatim : "Tu peux juste te déplacer là et moi j'avance comme ça si ça te va."
+* Code 3 : Interaction avec l'intervieweur
+ Verbatim : "Pourquoi pas ?"
+* Code 4 : Réponse à une question
+ Verbatim : "Ah ouais."
+* Code 5 : Explication supplémentaire
+ Verbatim : "Je sais même plus si j'ai entendu ça de la bouche d'un de mes profs."
+* Code 6 : Détente dans l'entretien
+ Verbatim : "Je suis en train de cramer, ouais."
+* Code 7 : Interaction avec l'intervieweur
+ Verbatim : "Ouais, ça pourrait être un élément, ça pourrait être se dire, s'il y a un problème dans le test, on pourrait me retomber dessus"
+* Code 8 : Réponse à une question
+ Verbatim : "Pour moi."
+* Code 9 : Explication de la non-utilisation de ChatGPT
+ Verbatim : "Parce que je refuse catégoriquement."
+* Code 10 : Interaction avec l'intervieweur
+ Verbatim : "Est-ce que tu annonces quand tu utilises ce tirage de PT, quand genre tu prépares des classes, quand tu travailles avec ?"

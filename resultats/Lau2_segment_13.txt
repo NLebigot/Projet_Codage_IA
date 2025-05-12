@@ -1,0 +1,90 @@
+Voici les résultats de l'analyse qualitative de l'entretien :
+
+**Segment 1 : Compréhension des tâches et rôle de ChatGPT**
+
+- Thème : Perception de la clarté des consignes 
+ - Code 1 : Compréhension autonome
+ - Verbatim : "je trouvais que c'était assez clair pour que je puisse comprendre ça par moi-même"
+ - Code 2 : Pas besoin de ChatGPT
+ - Verbatim : "honnêtement non"
+ - Code 3 : Clarté des consignes
+ - Verbatim : "quand on recevait des consignes pour un projet ou pour un travail, de manière générale"
+ - ...
+ - Code 10 : Autonomie dans la compréhension
+- Thème : Rôle de ChatGPT dans la clarification 
+ - Code 1 : Utilisation non nécessaire
+ - Verbatim : "je ne suis pas sûre d'avoir compris la question"
+ - Code 2 : Répétition de la question
+ - Verbatim : "Est-ce que tu pourrais reformuler ? ou juste répéter la question."
+ - Code 3 : Pas d'utilisation de ChatGPT pour clarifier
+ - Verbatim : "honnêtement non"
+ - ...
+ - Code 10 : Limite de la compréhension avec ChatGPT
+- Thème : Attentes liées à un projet 
+ - Code 1 : Attentes claires
+ - Verbatim : "je trouvais que c'était assez clair"
+ - Code 2 : Compréhension des tâches
+ - Verbatim : "pour que je puisse comprendre ça par moi-même"
+ - Code 3 : Pas de problème de compréhension
+ - Verbatim : "sans devoir recourir à ChatGPT"
+ - ...
+ - Code 10 : Tâches académiques
+- Thème : Légitimité de l'utilisation de ChatGPT 
+ - Code 1 : Réflexion et formulation de questions
+ - Verbatim : "poser la bonne question à ChatGPT, vraiment la formuler d'une manière assez claire"
+ - Code 2 : Objectifs d'apprentissage
+ - Verbatim : "si l'objectif d'apprentissage est basé dans le fait de bien formuler une question"
+ - Code 3 : Légitimité dans certains contextes
+ - Verbatim : "je pourrais imaginer des cas où l'utilisation de ChatGPT est peut-être plus légitime que dans d'autres cas"
+ - ...
+ - Code 10 : Proportion entre IA et travail étudiant
+- Thème : Proportionnalité dans l'utilisation 
+ - Code 1 : Définition de la proportion
+ - Verbatim : "il faut définir la bonne proportion entre ce qui peut être généré par l'IA et ce qui doit être fait par l'étudiant"
+ - Code 2 : Arbitraire dans la fixation des limites
+ - Verbatim : "il y a un peu d'arbitraire là-dedans"
+ - Code 3 : Nécessité de définir les limites
+ - Verbatim : "il faut vraiment que chaque section se pose la question pour quel genre de travaux on va placer quelles limites"
+ - ...
+ - Code 10 : Limites de l'utilisation de ChatGPT
+
+**Segment 2 : Dilemmes moraux et contextes d'utilisation**
+
+- Thème : Dilemmes moraux liés à l'utilisation de ChatGPT 
+ - Code 1 : Scrupules personnels
+ - Verbatim : "moi je me sens trop mal en fait à le faire"
+ - Code 2 : Opinion du professeur
+ - Verbatim : "si je sais qu'un ou une prof est catholiquement opposée à ChatGPT"
+ - Code 3 : Questionnement moral
+ - Verbatim : "est-ce que c'est vraiment juste que moi je sois payé alors que en gros les exercices là ils sont générés par une IA"
+ - ...
+ - Code 10 : Relativisation du problème
+- Thème : Contextes professionnels et utilisation de ChatGPT 
+ - Code 1 : Utilisation dans le travail professionnel
+ - Verbatim : "dans le cadre de mon travail professionnel, des fois je me suis un peu posé la question"
+ - Code 2 : Génération d'exercices
+ - Verbatim : "les exercices là ils sont générés par une IA"
+ - Code 3 : Valeur du travail effectué
+ - Verbatim : "j'aurais juste dû trouver des exercices beaucoup moins adaptés dans des vieux livres de grammaire"
+ - ...
+ - Code 10 : Justification de l'utilisation
+- Thème : Interdictions et tentations 
+ - Code 1 : Interdiction explicite
+ - Verbatim : "si le ou la prof a vraiment explicitement dit que c'est pas possible"
+ - Code 2 : Tentation d'utiliser ChatGPT
+ - Verbatim : "on est toujours tenté"
+ - Code 3 : Question d'honneur
+ - Verbatim : "pour moi c'est vraiment une question d'honneur"
+ - ...
+ - Code 10 : Résistance à la tentation
+- Thème : Autres formes d'IA 
+ - Code 1 : Utilisation d'autres IA
+ - Verbatim : "est-ce que tu utilises d'autres formes de IA à part chat GPT?"
+ - Code 2 : Exploration de possibilités
+ - Verbatim : non disponible dans ce segment
+ - Code 3 : Diversification des outils
+ - Verbatim : non disponible dans ce segment
+ - ...
+ - Code 10 : Nouveaux outils et méthodes
+
+Seuls les verbatims issus des réponses de l'enquêté sont utilisés, et une variété d'angles d'analyse sociologique est proposée à travers les différents thèmes et codes.

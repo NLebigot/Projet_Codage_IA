@@ -1,0 +1,107 @@
+Pour analyser l'entretien, je vais d'abord segmenter le texte en thèmes distincts en appliquant une méthode de codage qualitatif rigoureuse.
+
+**Segment 1 : Utilisation de ChatGPT dans le processus de recherche**
+
+- Thème 1 : Rôle de ChatGPT dans la recherche documentaire et la rédaction
+  - Code 1 : Utilisation pour les résumés
+  - Verbatim : "je vais demander à ChatGPT de me formuler des petits résumés sortis de mes notes en fait."
+  - Code 2 : Sélection d'informations importantes
+  - Verbatim : "Je vais surligner les informations importantes que je ressors du texte et les mettre sur un document"
+  - Code 3 : Prévention du plagiat
+  - Verbatim : "pour éviter le plagiat notamment, j'essaie de passer par la case où c'est moi qui lui donne les informations"
+  - Code 4 : Gestion des références
+  - Verbatim : "je vais l'utiliser pour les références pour que je puisse justement me dire que là ce qu'il a reformulé ça vient de cette partie puis j'ai la référence"
+  - Code 5 : Limite de ChatGPT
+  - Verbatim : "une des limites de ChatGPT c'est qu'en fait il n'y a pas de référence"
+  - Code 6 : Contrôle sur les informations fournies
+  - Verbatim : "j'aime bien le nourrir avec les informations que je veux utiliser de base"
+  - Code 7 : Utilisation ciblée
+  - Verbatim : "je ne lui donne pas le texte et lui demande de me résumer mais de faire un résumé à partir des éléments que j'ai ressortis"
+  - Code 8 : Fiabilité
+  - Verbatim : "il faut vérifier les informations importantes"
+  - Code 9 : Appropriation du contenu
+  - Verbatim : "je peux remettre la référence après"
+  - Code 10 : Interaction avec l'outil
+  - Verbatim : "je parle avec l'IA pour avoir des idées"
+
+- Thème 2 : ChatGPT comme outil d'aide à la recherche et à la formulation de questions de recherche
+  - Code 1 : Générateur d'idées
+  - Verbatim : "je l'utilise comme...générateur d'idées un peu"
+  - Code 2 : Brainstorming
+  - Verbatim : "exactement comme brainstorming typiquement pour les grossesses précoces"
+  - Code 3 : Exploration des concepts
+  - Verbatim : "pour m'aider à avoir des pistes possibles, je lui ai demandé de me formuler...quels sont les facteurs socio-économiques sous-jacents aux grossesses précoces"
+  - Code 4 : Guidance dans la recherche
+  - Verbatim : "ça aide à guider un peu la réflexion, de voir sur quels différents domaines je peux partir"
+  - Code 5 : Développement des concepts
+  - Verbatim : "une fois que j'ai l'ordre d'idées, je peux développer les concepts qui vont être utiles pour ma recherche"
+  - Code 6 : Utilisation pour les questions de recherche
+  - Verbatim : "pour les questions de recherche, pas que je les prenne d'office comme elles sont données"
+  - Code 7 : Interaction avec l'IA
+  - Verbatim : "je parle avec l'IA comme si je suis en train de parler avec quelqu'un"
+  - Code 8 : Utilité dans le processus de recherche
+  - Verbatim : "c'est vraiment pour brainstormer"
+  - Code 9 : Gain de temps
+  - Verbatim : "au lieu de passer beaucoup de temps à réfléchir à des possibles concepts, ben en fait là il me les sort directement"
+  - Code 10 : Conscience des limites
+  - Verbatim : "c'est toujours à prendre avec des pincettes"
+
+**Segment 2 : Impact de ChatGPT sur le travail et la réflexivité**
+
+- Thème 3 : Impact de ChatGPT sur la gestion du temps et la productivité
+  - Code 1 : Gain de temps
+  - Verbatim : "c'est un gain de temps à ce niveau là"
+  - Code 2 : Automatisation de certaines tâches
+  - Verbatim : "il me les sort directement"
+  - Code 3 : Utilisation efficace
+  - Verbatim : "je trouve que des fois, quand on demande quelque chose de trop large à ChatGPT, c'est pas assez précis"
+  - Code 4 : Concentration sur les aspects importants
+  - Verbatim : "je peux développer les concepts qui vont être utiles pour ma recherche"
+  - Code 5 : Productivité améliorée
+  - Verbatim : "ça aide à guider un peu la réflexion"
+
+- Thème 4 : Perception de la collaboration avec ChatGPT et son impact sur la réflexivité
+  - Code 1 : Stimulation de la réflexivité
+  - Verbatim : "tu te sens stimulé dans ta capacité réflexive, auto-réflexive ?"
+  - Code 2 : Partage de la tâche
+  - Verbatim : "le travail que vous produisez ensemble est satisfaisant ou pas ?"
+  - Code 3 : Perception de la propriété du travail
+  - Verbatim : "est-ce que tu sens que c'est un travail à vous ? Juste à toi ? Ou juste à l’IA ?"
+  - Code 4 : Dépendance de la tâche
+  - Verbatim : "je crois que ça dépend énormément de ce que je lui demande en fait"
+  - Code 5 : Interaction avec l'IA
+  - Verbatim : "je parle avec l'IA pour avoir des idées"
+  - Code 6 : Conscience de la limite
+  - Verbatim : "c'est toujours à prendre avec des pincettes"
+  - Code 7 : Utilisation nuancée
+  - Verbatim : "typiquement si c'est une question vague"
+  - Code 8 : Réflexivité
+  - Verbatim : "pour m'aider à avoir des pistes possibles"
+  - Code 9 : Collaboration
+  - Verbatim : "comme si je suis en train de parler avec quelqu'un"
+  - Code 10 : Satisfaction
+  - Verbatim : "c'est vraiment pour brainstormer"
+
+- Thème 5 : Perception de l'outil et de son impact sur le travail académique
+  - Code 1 : Utilité
+  - Verbatim : "c'est vraiment un outil pour moi"
+  - Code 2 : Complémentarité
+  - Verbatim : "comme si je suis en train de parler avec quelqu'un"
+  - Code 3 : Appréciation
+  - Verbatim : "j'aime bien le nourrir avec les informations que je veux utiliser de base"
+  - Code 4 : Conscience des limites
+  - Verbatim : "une des limites de ChatGPT c'est qu'en fait il n'y a pas de référence"
+  - Code 5 : Adaptation
+  - Verbatim : "j'essaie de passer par la case où c'est moi qui lui donne les informations"
+  - Code 6 : Impact sur le travail
+  - Verbatim : "ça change comment ton rapport au temps"
+  - Code 7 : Évaluation
+  - Verbatim : "c'est un gain de temps à ce niveau là"
+  - Code 8 : Perception positive
+  - Verbatim : "je l'utilise comme...générateur d'idées un peu"
+  - Code 9 : Flexibilité
+  - Verbatim : "je peux développer les concepts qui vont être utiles pour ma recherche"
+  - Code 10 : Intégration dans le workflow
+  - Verbatim : "c'est comme ça que je fonctionne"
+
+Ces thèmes et codes offrent une analyse détaillée de l'utilisation de ChatGPT par l'enquêté dans son processus de recherche et de rédaction, ainsi que de l'impact de cet outil sur sa productivité, sa réflexivité et son travail académique en général.

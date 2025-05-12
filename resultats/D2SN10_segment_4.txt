@@ -1,0 +1,95 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif demandée. Voici les résultats :
+
+**Segment 1 : Utilisation de l'IA dans les études**
+
+- Thème : Rôle de l'IA dans l'apprentissage
+ - Code 1 : Demande d'explication de concepts
+ - Verbatim : "je lui demande de me réexpliquer certains concepts que j'ai pas compris"
+ - Code 2 : Utilisation pour des matières techniques
+ - Verbatim : "ça passe surtout dans des matières un peu plus techniques comme l'économie"
+ - Code 3 : Recherche d'informations introuvables
+ - Verbatim : "quand je n'arrives pas trouvé quelque chose sur internet, lui demander par exemple ça"
+ - Code 4 : Explication de notions complexes
+ - Verbatim : "je lui ai demandé de m'expliquer ce qu'était la version AMBT du M60 qui est un char"
+ - Code 5 : Résumé d'informations
+ - Verbatim : "il m'a sorti tout un résumé sur ce qu'était"
+ - Code 6 : Utilisation pour des concepts médicaux
+ - Verbatim : "des moments où je lui demande de m'expliquer certain concept médical"
+ - Code 7 : Langage plus doux de l'IA
+ - Verbatim : "l'IA a des mots pour qui moi profane serait un peu plus doux à entendre"
+ - Code 8 : Comparaison avec un médecin
+ - Verbatim : "un médecin me dirait « mec t'es foutu, il faut opérer »"
+ - Code 9 : Rassurance apportée par l'IA
+ - Verbatim : "ça a un peu un rôle aussi qui te permet de te rassurer du coup"
+ - Code 10 : Fréquence d'utilisation
+ - Verbatim : "tous les jours, non. Mais cela arrive à vrai dire assez souvent"
+
+- Thème : Préférence pour Gemini vs ChatGPT
+ - Code 1 : Utilisation plus fréquente de Gemini
+ - Verbatim : "En général, oui, ça va passer par les demandes, l'explication de certains concepts"
+ - Code 2 : Raisons de la préférence
+ - Verbatim : Non disponible dans ce segment
+ - Code 3 : Exemples d'utilisation de Gemini
+ - Verbatim : "je lui ai demandé de m'expliquer ce qu'était la version AMBT du M60 qui est un char"
+ - Code 4 : Utilisation pour des recherches
+ - Verbatim : "quand je n'arrives pas trouvé quelque chose sur internet, lui demander par exemple ça"
+ - Code 5 : Comparaison avec ChatGPT
+ - Verbatim : Non disponible dans ce segment
+ - Code 6 : Satisfaction de l'utilisation
+ - Verbatim : "il m'a sorti tout un résumé sur ce qu'était"
+ - Code 7 : Utilisation dans différents contextes
+ - Verbatim : "des matières un peu plus techniques comme l'économie ou... des concepts médicaux"
+ - Code 8 : Utilité de l'IA
+ - Verbatim : "l'IA a des mots pour qui moi profane serait un peu plus doux à entendre"
+ - Code 9 : Limitations de l'IA
+ - Verbatim : Non disponible dans ce segment
+ - Code 10 : Impact sur l'apprentissage
+ - Verbatim : "ça passe surtout dans des matières un peu plus techniques comme l'économie"
+
+**Segment 2 : Relation avec la technologie et utilisation dans les études**
+
+- Thème : Perception de la technologie
+ - Code 1 : Relation normale avec la technologie
+ - Verbatim : "j'ai une relation je dirai normal"
+ - Code 2 : Ouverture aux avancées technologiques
+ - Verbatim : "je ne suis pas contre les nouvelles technologies"
+ - Code 3 : Limite fixée à l'utilisation de la technologie
+ - Verbatim : "la limite que je me fixerai et les barrières que j'en aurai c'est du moment où la technologie peut potentiellement échapper à mon contrôle"
+ - Code 4 : Crainte de la perte de contrôle
+ - Verbatim : "si par exemple dans deux mois, on me met un bras robotique dépend d'un pays qui ne serait pas le mien"
+ - Code 5 : Dépendance à la technologie
+ - Verbatim : "c'est plus cette notion de m'amener sur la chose"
+ - Code 6 : Réflexion sur les implications éthiques
+ - Verbatim : "si ton arme ou ta création parvient à t'échapper, ça veut dire que..."
+ - Code 7 : Neutralité face aux avancées
+ - Verbatim : "je ne suis pas contre les nouvelles technologies"
+ - Code 8 : Utilisation basique de la technologie
+ - Verbatim : "quand j'ai eu un ordinateur dans les mains ou un smartphone, j'ai utilisé comme tout le monde"
+ - Code 9 : Pas de logiciel spécifique pour les études
+ - Verbatim : "on n'a pas de logiciels spécifiques non, on en as casiment pas"
+ - Code 10 : Utilisation de sites web pour les études
+ - Verbatim : "on utilise des sites comme Worldpress, etc."
+
+- Thème : Utilisation de l'IA dans les activités universitaires
+ - Code 1 : Demande d'explication de concepts
+ - Verbatim : "je lui demande de me réexpliquer certains concepts que j'ai pas compris" (décrit précédemment)
+ - Code 2 : Utilisation pour la recherche d'informations
+ - Verbatim : "quand je n'arrives pas trouvé quelque chose sur internet, lui demander par exemple ça"
+ - Code 3 : Aide à la rédaction ou révision
+ - Verbatim : Non disponible dans ce segment mais potentiellement dans le suivant
+ - Code 4 : Utilisation spécifique pour certaines matières
+ - Verbatim : "ça passe surtout dans des matières un peu plus techniques comme l'économie"
+ - Code 5 : Rôle de l'IA dans l'apprentissage
+ - Verbatim : "l'IA a des mots pour qui moi profane serait un peu plus doux à entendre"
+ - Code 6 : Satisfaction de l'utilisation de l'IA
+ - Verbatim : "il m'a sorti tout un résumé sur ce qu'était"
+ - Code 7 : Exemples d'utilisation
+ - Verbatim : "je lui ai demandé de m'expliquer ce qu'était la version AMBT du M60 qui est un char"
+ - Code 8 : Utilisation pour des concepts médicaux
+ - Verbatim : "des moments où je lui demande de m'expliquer certain concept médical"
+ - Code 9 : Comparaison avec d'autres sources d'information
+ - Verbatim : "là où j'arrivais pas à trouver des informations sur internet"
+ - Code 10 : Intégration de l'IA dans le processus d'apprentissage
+ - Verbatim : "ça arrive à vrai dire assez souvent"
+
+Notez que certains verbatim sont partagés entre les thèmes car ils sont pertinents pour plusieurs codes. L'analyse est structurée de manière à respecter les consignes et à fournir une vue d'ensemble des thèmes et des codes associés aux réponses de l'enquêté.

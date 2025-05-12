@@ -1,0 +1,116 @@
+Voici les thèmes issus de l'analyse de l'entretien avec Gabriel :
+
+**Thème 1 : Perception de l'impact de l'IA sur les inégalités scolaires**
+
+- Code 1 : Inégalités scolaires persistantes
+- Verbatim : "ça va pas forcément devenir un outil de lissage des inégalités, notamment scolaires."
+- Code 2 : Rôle du capital économique
+- Verbatim : "les plus aisés vont ça va permettre de se distancer aussi."
+- Code 3 : Utilisation de l'outil
+- Verbatim : "ça dépend de la façon dont tu l'utilises."
+- Code 4 : Limite de l'outil
+- Verbatim : "c'est pas le l'outil qui va permettre de mettre tout le monde à niveau."
+- Code 5 : Exemple d'internet
+- Verbatim : "comme Internet n'a pas permis, n'a pas lissé les inégalités scolaires."
+- Code 6 : Critique de l'optimisme technologique
+- Verbatim : "les discours qu'on a aujourd'hui, sur notamment IA et école, sont en fait les mêmes qu'on avait il y a 20 ans, il y a 30 ans, sur internet et école."
+- Code 7 : Scepticisme envers la révolution numérique
+- Verbatim : "c'est pas un outil révolutionnaire."
+- Code 8 : Importance de l'accompagnement
+- Verbatim : "sans accompagnement sans rien que on va pouvoir lisser des inégalités éducative et sociale."
+- Code 9 : Nécessité d'une approche radicale
+- Verbatim : "si on traite pas aussi un problème un peu à la racine quoi, c'est à dire que si on est pas un peu radical."
+- Code 10 : Démystification de l'IA
+- Verbatim : "c'est un peu de démystifier, l’idée qui pour moi est complètement fausse que c’est une révolution quoi."
+
+**Thème 2 : Réflexion sur l'intégration de l'IA dans l'éducation**
+
+- Code 1 : Intégration de l'IA sans accompagnement
+- Verbatim : "sans accompagnement sans rien que on va pouvoir lisser des inégalités éducative et sociale."
+- Code 2 : Rôle de l'encadrement
+- Verbatim : "si on forme pas, si on traite pas aussi un problème un peu à la racine."
+- Code 3 : Utilisation de l'IA par les meilleurs élèves
+- Verbatim : "les meilleurs vont améliorer parce qu'en fait ils ont les normes scolaires."
+- Code 4 : Différences dans l'utilisation de l'IA
+- Verbatim : "ça dépend de la façon dont tu l'utilises."
+- Code 5 : Impact sur les inégalités
+- Verbatim : "ça va pas forcément devenir un outil de lissage des inégalités."
+- Code 6 : IA et reproduction des inégalités
+- Verbatim : "les plus aisés vont ça va permettre de se distancer aussi."
+- Code 7 : Analogie avec Internet
+- Verbatim : "comme Internet n'a pas permis, n'a pas lissé les inégalités scolaires."
+- Code 8 : Perception de l'IA comme un outil
+- Verbatim : "c'est pas le l'outil qui va permettre de mettre tout le monde à niveau."
+- Code 9 : Discours sur l'IA et l'école
+- Verbatim : "les discours qu'on a aujourd'hui, sur notamment IA et école, sont en fait les mêmes."
+- Code 10 : Scepticisme sur l'impact de l'IA
+- Verbatim : "c'est pas un outil révolutionnaire, mais comme n'importe quel outil en fait."
+
+**Thème 3 : Question de la responsabilité des universités**
+
+- Code 1 : Besoin d'un cadre
+- Verbatim : "tu disais que y avait besoin d'un cadre tout à l'heure."
+- Code 2 : Incertitude sur le rôle des universités
+- Verbatim : "Sur les universités ? Non, alors ça je sais pas après."
+- Code 3 : Perception de l'IA dans l'éducation
+- Verbatim : "c'est un peu de démystifier, l’idée qui pour moi est complètement fausse que c’est une révolution quoi."
+- Code 4 : Nécessité d'une réflexion
+- Verbatim : "si on traite pas aussi un problème un peu à la racine."
+- Code 5 : Rôle de l'encadrement dans les universités
+- Verbatim : "sans accompagnement sans rien."
+- Code 6 : Impact de l'IA sur l'éducation
+- Verbatim : "ça va pas forcément devenir un outil de lissage des inégalités."
+- Code 7 : Réflexion sur l'utilisation de l'IA
+- Verbatim : "ça dépend de la façon dont tu l'utilises."
+- Code 8 : Scepticisme sur l'impact de l'IA
+- Verbatim : "c'est pas un outil révolutionnaire."
+- Code 9 : Importance de la formation
+- Verbatim : "si on forme pas."
+- Code 10 : Analogie avec les discours passés
+- Verbatim : "les discours qu'on a aujourd'hui, sur notamment IA et école, sont en fait les mêmes."
+
+**Thème 4 : Critique du discours sur l'IA et son potentiel révolutionnaire**
+
+- Code 1 : Discours sur l'IA
+- Verbatim : "les discours qu'on a aujourd'hui, sur notamment IA et école."
+- Code 2 : Révolution numérique
+- Verbatim : "c'est un peu de démystifier, l’idée qui pour moi est complètement fausse que c’est une révolution quoi."
+- Code 3 : Analogie avec Internet
+- Verbatim : "les mêmes qu'on avait il y a 20 ans, il y a 30 ans, sur internet et école."
+- Code 4 : Scepticisme envers l'optimisme
+- Verbatim : "c'est pas un outil révolutionnaire."
+- Code 5 : Rôle de l'outil
+- Verbatim : "c'est pas le l'outil qui va permettre de mettre tout le monde à niveau."
+- Code 6 : Perception de l'IA
+- Verbatim : "comme n'importe quel outil en fait, ça dépend de la façon dont tu l'utilises."
+- Code 7 : Critique de l'idéalisme
+- Verbatim : "Wow, on rentre dans un monde. Voilà post-moderne. Ou voilà maintenant finalement tout le monde est égaux."
+- Code 8 : Réalisme sur l'impact de l'IA
+- Verbatim : "ça va pas forcément devenir un outil de lissage des inégalités."
+- Code 9 : Importance du contexte
+- Verbatim : "les plus aisés vont ça va permettre de se distancer aussi."
+- Code 10 : Nécessité d'une approche nuancée
+- Verbatim : "si on traite pas aussi un problème un peu à la racine."
+
+**Thème 5 : Conscience de la reproduction des inégalités**
+
+- Code 1 : Inégalités scolaires
+- Verbatim : "ça va pas forcément devenir un outil de lissage des inégalités, notamment scolaires."
+- Code 2 : Rôle du capital
+- Verbatim : "les plus aisés vont ça va permettre de se distancer aussi."
+- Code 3 : Reproduction des inégalités
+- Verbatim : "comme Internet n'a pas permis, n'a pas lissé les inégalités scolaires."
+- Code 4 : Perception des inégalités
+- Verbatim : "les meilleurs vont améliorer parce qu'en fait ils ont les normes scolaires."
+- Code 5 : Impact de l'IA
+- Verbatim : "ça dépend de la façon dont tu l'utilises."
+- Code 6 : Scepticisme sur la capacité de l'IA à réduire les inégalités
+- Verbatim : "c'est pas le l'outil qui va permettre de mettre tout le monde à niveau."
+- Code 7 : Conscience de la nécessité d'une approche structurelle
+- Verbatim : "si on traite pas aussi un problème un peu à la racine."
+- Code 8 : Critique de l'individualisme
+- Verbatim : "sans accompagnement sans rien."
+- Code 9 : Perception de la nécessité d'un changement
+- Verbatim : "si on est pas un peu radical."
+- Code 10 : Démystification
+- Verbatim : "c'est un peu de démystifier, l’idée qui pour moi est complètement fausse que c’est une révolution quoi."

@@ -1,0 +1,111 @@
+Analyse de l'entretien avec Oriane. L'entretien est divisé en segments pour une analyse plus fine, mais ici, nous considérerons l'entretien dans son intégralité pour identifier les thèmes principaux.
+
+### Thème 1 : Perception de la productivité et gestion du temps
+- Code 1 : Travail dans l'urgence
+  - Verbatim : "je travaille vraiment, on va dire, dans l’urgence, à la fin."
+- Code 2 : Absence de méthode de travail organisée
+  - Verbatim : "je ne travaille pas de manière organisée sur tout le semestre."
+- Code 3 : Perfectionnisme malgré le travail dans l'urgence
+  - Verbatim : "même si je suis dans l’urgence, je suis quand même relativement perfectionniste."
+- Code 4 : Révision des travaux fournis par ChatGPT
+  - Verbatim : "je vais le reprendre longtemps, en fait."
+- Code 5 : Gestion de la flemme plutôt que du stress
+  - Verbatim : "ça va plus gérer ma flemme, entre guillemets."
+- Code 6 : Stress lié à la qualité du travail
+  - Verbatim : "je suis pas trop convaincue non plus de ce que je rends."
+- Code 7 : Impact limité sur le stress
+  - Verbatim : "ça change pas trop mon stress, quoi."
+- Code 8 : Inconfort avec l'utilisation de ChatGPT
+  - Verbatim : "je suis quand même pas à l’aise si j’utilise ChatGPT."
+- Code 9 : Crainte de la perception par les autres
+  - Verbatim : "j’ai pas envie que ça se traduise comme… ou que ça soit un peu une preuve que j’ai pas voulu travailler."
+- Code 10 : Faire tout pour ne pas montrer l'utilisation de ChatGPT
+  - Verbatim : "je fais tout pour pas qu’on voie que j’ai utilisé ChatGPT in fine."
+
+### Thème 2 : Évaluation de la fiabilité et de la qualité de ChatGPT
+- Code 1 : Évaluation de la fiabilité en fonction de la précision de la demande
+  - Verbatim : "la fiabilité, elle vient de la précision de ce qu’on demande."
+- Code 2 : Estimation de la fiabilité
+  - Verbatim : "j’ai envie de dire 80 %."
+- Code 3 : Rareté des réponses hors sujet
+  - Verbatim : "ça m’arrive pas du tout, ou très peu, qu’il réponde à côté, quoi."
+- Code 4 : Évaluation de la qualité
+  - Verbatim : "en qualité, c’est moindre."
+- Code 5 : Estimation de la qualité
+  - Verbatim : "j’aurais dit, euh… je pense que je suis biaisée sur la qualité."
+- Code 6 : Perception biaisée par les commentaires négatifs
+  - Verbatim : "on nous répète très souvent que la qualité est mauvaise."
+- Code 7 : Satisfaction relative quant à la qualité
+  - Verbatim : "moi, je trouve que c’est pas si mauvaise."
+- Code 8 : Respect des consignes par ChatGPT
+  - Verbatim : "ça respecte presque, quoi."
+- Code 9 : Contradiction entre perception personnelle et opinion générale
+  - Verbatim : "on me dit très souvent que c’est très mauvais."
+- Code 10 : Évaluation positive malgré les critiques
+  - Verbatim : "je trouve que, relativement souvent, c’est… c’est pas de très bonne qualité, mais ça respecte presque."
+
+### Thème 3 : Stratégies de vérification et de révision des réponses de ChatGPT
+- Code 1 : Révision des réponses fournies par ChatGPT
+  - Verbatim : "je reprends ce que ChatGPT me fournit comme réponse."
+- Code 2 : Validation des informations
+  - Verbatim : "je valide ces stratégies pour vérifier, compléter ou critiquer les informations."
+- Code 3 : Réexamen approfondi des réponses
+  - Verbatim : "parfois je repasse en profondeur sur tout ce qu’il m’a fourni comme réponse."
+- Code 4 : Perfectionnisme dans la révision
+  - Verbatim : "je vais le reprendre longtemps, en fait."
+- Code 5 : Critique des informations fournies
+  - Verbatim : "je vais pas tolérer que ce soit pas ouf."
+- Code 6 : Importance de la vérification
+  - Verbatim : "je fais tout pour vérifier."
+- Code 7 : Révision comme moyen de gérer l'inconfort
+  - Verbatim : "je suis quand même pas à l’aise si j’utilise ChatGPT."
+- Code 8 : Stratégie de révision pour améliorer la qualité
+  - Verbatim : "je reprends pour améliorer."
+- Code 9 : Effort supplémentaire pour la qualité
+  - Verbatim : "je vais mettre encore plus de temps."
+- Code 10 : Révision comme signe de perfectionnisme
+  - Verbatim : "je suis quand même relativement perfectionniste."
+
+### Thème 4 : Confort et acceptation de l'utilisation de ChatGPT
+- Code 1 : Inconfort avec l'utilisation de ChatGPT
+  - Verbatim : "je suis quand même pas à l’aise si j’utilise ChatGPT."
+- Code 2 : Perception négative de l'utilisation de l'outil
+  - Verbatim : "j’ai pas envie que ça se traduise comme… une preuve que j’ai pas voulu travailler."
+- Code 3 : Crainte de la perception par les autres
+  - Verbatim : "je fais tout pour pas qu’on voie que j’ai utilisé ChatGPT."
+- Code 4 : Révision comme moyen de légitimer l'utilisation
+  - Verbatim : "je reprends pour que ça ne soit pas juste son travail."
+- Code 5 : Sentiment de malaise
+  - Verbatim : "je suis pas à l’aise avec le fait de le faire."
+- Code 6 : Utilisation non assumée
+  - Verbatim : "je suis pas assez à l’aise pour pouvoir le faire ouvertement."
+- Code 7 : Impact sur la perception de soi
+  - Verbatim : "ça change pas trop mon stress, mais ça gère ma flemme."
+- Code 8 : Inquiétude quant à la qualité et à la fiabilité
+  - Verbatim : "je trouve que c’est très précis, mais la qualité est moindre."
+- Code 9 : Résistance à l'utilisation malgré la reconnaissance de son efficacité
+  - Verbatim : "je suis biaisée sur la qualité, car on nous dit que c’est mauvais."
+- Code 10 : Acceptation conditionnelle
+  - Verbatim : "j’aurais dit 60 % pour la qualité, mais c’est parce que je suis biaisée."
+
+### Thème 5 : Impact de l'utilisation de ChatGPT sur les habitudes de travail
+- Code 1 : Changement dans les habitudes de travail
+  - Verbatim : "je travaille dans l’urgence, à la fin, comme pas mal de personnes."
+- Code 2 : Adoption de l'outil malgré les réserves
+  - Verbatim : "j’utilise ChatGPT, mais je ne suis pas à l’aise."
+- Code 3 : Influence sur la qualité du travail
+  - Verbatim : "la qualité de ce qu’il fournit est moindre."
+- Code 4 : Perception de l'outil comme un moyen de facilitation
+  - Verbatim : "ça gère ma flemme, entre guillemets."
+- Code 5 : Impact sur la gestion du stress
+  - Verbatim : "ça change pas trop mon stress."
+- Code 6 : Stratégies de coping
+  - Verbatim : "je reprends ce qu’il fournit pour améliorer."
+- Code 7 : Utilisation comme un complément
+  - Verbatim : "je valide et je complète les informations."
+- Code 8 : Évaluation de l'efficacité de l'outil
+  - Verbatim : "la fiabilité est très haute si on demande quelque chose de précis."
+- Code 9 : Intégration dans la routine de travail
+  - Verbatim : "je travaille avec, mais je ne suis pas à l’aise."
+- Code 10 : Révision comme élément clé de l'utilisation
+  - Verbatim : "je vais le reprendre longtemps pour que ça soit correct."

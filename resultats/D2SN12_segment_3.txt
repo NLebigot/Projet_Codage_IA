@@ -1,0 +1,99 @@
+Voici l'analyse de l'entretien en respectant la méthode de codage qualitatif :
+
+**Segment 1 : Utilisation de l'outil pour le mémoire**
+
+- Thème : Définition et clarification des concepts
+ - Code 1 : Concept flou
+ - Verbatim : "parfois il y a des concepts qui sont un peu flous"
+ - Code 2 : Ensemble de concepts
+ - Verbatim : "la liberté de la presse euh ça englobe à la fois le droit à l'information et à la fois le pluralisme médiatique"
+ - Code 3 : Demande de clarification
+ - Verbatim : "j'ai pu lui demander tous les concepts un peu qui découlaient de de la liberté de la presse pour voir si j'avais pensé à tout"
+ - Code 4 : Recherche de définitions
+ - Verbatim : "je vais me renseigner sur les définitions juridiques et littéraires qui sont données de ces concepts"
+ - Code 5 : Utilité de l'outil
+ - Verbatim : "ça va me prendre beaucoup moins de temps et je vais ensuite pouvoir affiner mes recherches"
+
+- Thème : Gain de temps et efficacité
+ - Code 1 : Gain de temps
+ - Verbatim : "ça va me prendre beaucoup moins de temps"
+ - Code 2 : Efficacité accrue
+ - Verbatim : "je vais ensuite pouvoir affiner mes recherches"
+ - Code 3 : Comparaison avec la recherche manuelle
+ - Verbatim : "en cherchant sur internet, je vais moins avoir la globalité euh et tous les dessous de cette définition que en demandant au chat GPTF"
+ - Code 4 : Utilité pour les recherches complexes
+ - Verbatim : "ça me permet de... avoir tous les dessous de cette définition"
+ - Code 5 : Complémentarité avec d'autres méthodes
+ - Verbatim : "je vais me renseigner sur les définitions juridiques et littéraires"
+
+**Segment 2 : Stress et attentes à l'égard de l'outil**
+
+- Thème : Stress lié à l'utilisation de l'outil
+ - Code 1 : Stress en cas de manque de temps
+ - Verbatim : "j'ai pu avoir des situations de stress dans le sens où par exemple j'avais un texte à lire et je n’ai pas eu je n’ai pas eu le temps de le lire"
+ - Code 2 : Utilisation de l'outil pour réduire le stress
+ - Verbatim : "j'ai demandé à chat de me faire un résumé des grandes idées"
+ - Code 3 : Risque de manque de détail
+ - Verbatim : "j'ai pu être en stress si jamais mon professeur me demandait plus de détails pour les sur le texte"
+ - Code 4 : Dépendance à l'outil
+ - Verbatim : "j'avais juste les grandes idées en tête grâce à un résumé fait par"
+ - Code 5 : Contrôle de l'utilisation
+
+- Thème : Attentes et satisfaction à l'égard de l'outil
+ - Code 1 : Satisfaction générale
+ - Verbatim : "je trouve que ça répond plutôt bien"
+ - Code 2 : Limites de l'outil
+ - Verbatim : "si jamais je voulais pousser cette utilisation, je pense que ce ne serait pas suffisant"
+ - Code 3 : Utilisation basique
+ - Verbatim : "mon usage basique ? Oui, je trouve que ça répond plutôt bien"
+ - Code 4 : Limite pour les tâches complexes
+ - Verbatim : "pour des devoirs plus complets, je n’utiliserai pas de ChatGPT parce que je trouve que ce serait trop restreint"
+ - Code 5 : Adéquation avec les besoins
+
+**Segment 3 : Impact de l'outil sur le travail et l'apprentissage**
+
+- Thème : Changement dans les méthodes de travail
+ - Code 1 : Fichage numérique
+ - Verbatim : "ça me permet de ficher plus rapidement euh Et donc je vais ficher déjà numériquement"
+ - Code 2 : Gain de temps
+ - Verbatim : "j'ai juste à apprendre la fiche résumée que Chat GPT m'a fait de mon cours"
+ - Code 3 : Changement dans la méthode de fichage
+ - Verbatim : "alors qu'avant je fichais à la main et ça me prenait beaucoup plus de temps"
+ - Code 4 : Impact sur l'apprentissage
+ - Verbatim : "la manière dont j'apprends mes cours, ça a un peu modifié"
+ - Code 5 : Nouvelle méthode de travail
+
+- Thème : Impact sur la qualité du travail
+ - Code 1 : Perception de la qualité
+ - Verbatim : "plutôt un gain de temps, je dirais"
+ - Code 2 : Valeur accordée au travail personnel
+ - Verbatim : "la qualité du travail, tu considères qu'elle sera toujours meilleure si on l'a fait par nous-même"
+ - Code 3 : Limite de l'outil pour la qualité
+ - Verbatim : "je n’utiliserai pas de ChatGPT pour des devoirs plus complets"
+ - Code 4 : Utilité de l'outil pour les tâches simples
+ - Verbatim : "pour des fiches synthétiques de cours"
+ - Code 5 : Perception de l'impact sur la qualité
+
+**Segment 4 : Impact sur le rapport au temps de travail**
+
+- Thème : Économie de temps
+ - Code 1 : Gain de temps pour les lectures
+ - Verbatim : "pour lire des gros documents"
+ - Code 2 : Gain de temps pour les fiches
+ - Verbatim : "pour des fiches synthétiques de cours"
+ - Code 3 : Réduction du stress
+ - Verbatim : "je peux avoir tendance à être moins stressée si jamais si jamais j'ai pris du retard"
+ - Code 4 : Meilleure gestion du temps
+ - Verbatim : "je sais que je vais pouvoir gagner du temps et je vais pouvoir euh être plus rapide pour faire certaines tâches"
+ - Code 5 : Impact sur la planification
+
+- Thème : Organisation personnelle et planification
+ - Code 1 : Influence sur l'organisation
+ - Verbatim : "ça peut influencer ton organisation personnelle de ton agenda pour planifier tes sessions de travail"
+ - Code 2 : Meilleure planification
+ - Verbatim : "je peux avoir tendance à être moins stressée"
+ - Code 3 : Gain de flexibilité
+ - Verbatim : "je sais que je vais pouvoir gagner du temps"
+ - Code 4 : Équilibre entre vie personnelle et études
+ - Verbatim : "de bien jauger entre vie perso et étude"
+ - Code 5 : Impact sur le stress et la planification

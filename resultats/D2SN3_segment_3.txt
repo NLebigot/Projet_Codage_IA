@@ -1,0 +1,81 @@
+Voici le résultat de l'analyse de l'entretien en respectant une méthode rigoureuse de codage qualitatif.
+
+**Segment 1 : Perception de l'utilisation de ChatGPT**
+
+- Thème : Perception de l'utilisation de ChatGPT
+ - Code 1 : Perception subjective
+ - Verbatim : "Je pense que chaque étudiant a, euh, une perception subjective"
+ - Code 2 : Comportement individuel
+ - Verbatim : "chacun a son comportement"
+ - Code 3 : Crainte de détection
+ - Verbatim : "chacun a son niveau de crainte à ce qu'il soit révélé"
+ - Code 4 : Abus d'utilisation
+ - Verbatim : "il y avait certains étudiants qui ont abusé de son usage"
+ - Code 5 : Absence de conséquences
+ - Verbatim : "j'ai su qu'il n'y avait pas de conséquence pour l'utilisation"
+ - Code 6 : Type d'examens
+ - Verbatim : "dans la plupart des cas, euh, pour nos examens, c'était des QCM"
+ - Code 7 : Résultats quantitatifs
+ - Verbatim : "des résultats, euh, quantitatifs"
+ - Code 8 : Équivalence des réponses
+ - Verbatim : "les deux [cerveau humain et ChatGPT] donnaient en final, euh, les mêmes réponses"
+ - Code 9 : Supervision
+ - Verbatim : "est-ce qu'on était vraiment très supervisé"
+ - Code 10 : Facteurs influençants
+ - Verbatim : "ça dépend de plusieurs facteurs"
+
+- Thème : Facilitation par la technologie
+ - Code 1 : Attachement à la technologie
+ - Verbatim : "ils étaient de plus en plus attachés à la technologie"
+ - Code 2 : Facilité d'usage
+ - Verbatim : "tellement elle nous facilitait la tâche"
+ - Code 3 : Paresse naturelle
+ - Verbatim : "le cerveau humain est paresseux"
+ - Code 4 : Solution de facilité
+ - Verbatim : "il fait souvent recours à des solutions qui vont lui consommer moins d'énergie"
+ - Code 5 : ChatGPT comme solution
+ - Verbatim : "ChatGPT était la solution"
+
+**Segment 2 : Utilisation de logiciels et de ChatGPT dans la filière**
+
+- Thème : Utilisation de logiciels dans la filière
+ - Code 1 : Utilisation de R Studio
+ - Verbatim : "on devait travailler avec R Studio"
+ - Code 2 : Logiciel de programmation
+ - Verbatim : "c'était un programme, c'était aussi un logiciel de programmation qui requiert des algorithmes"
+ - Code 3 : Manque de formation
+ - Verbatim : "on n'a pas vraiment eu une formation très approfondie en algorithmes"
+ - Code 4 : Utilisation de ChatGPT pour les projets
+ - Verbatim : "on a vraiment fait usage de ChatGPT pour nous aider"
+ - Code 5 : Capacité de ChatGPT
+ - Verbatim : "ChatGPT est fort en langage informatique"
+
+- Thème : Activités universitaires utilisant ChatGPT
+ - Code 1 : Projets et devoirs maisons
+ - Verbatim : "c'est pour les projets qui sont livrables, c'est des devoirs maisons"
+ - Code 2 : Brainstorming
+ - Verbatim : "on prenait notre temps avec ChatGPT pour faire, euh, dans un premier temps, un brainstorming"
+ - Code 3 : Assistance pour la rédaction
+ - Verbatim : "ChatGPT nous assistait dès le début jusqu'à la fin"
+ - Code 4 : Correction et reformulation
+ - Verbatim : "il peut corriger les fautes d'orthographe, il peut reformuler les réponses dans un style très académique"
+ - Code 5 : Limite de ChatGPT
+ - Verbatim : "vers la fin, les professeurs, à force de voir le même style répétitif dans chaque copie, ils finissent par savoir que ça a été généré par ChatGPT"
+
+**Segment 3 : Types de rendus et utilisation de ChatGPT**
+
+- Thème : Types de rendus universitaires
+ - Code 1 : Quiz non notés
+ - Verbatim : "des quiz qui n'étaient pas notés sur Classroom"
+ - Code 2 : Rédactions dans les examens
+ - Verbatim : "pour les quiz, c'était pas des quiz qui étaient notés"
+ - Code 3 : Synthèse de recherches
+ - Verbatim : "c'était pour synthétiser, euh, des recherches pour les insérer sur des slides pour des présentations"
+ - Code 4 : Rédaction de speech
+ - Verbatim : "c'était pour écrire un speech aussi pour une présentation"
+ - Code 5 : Calculs de finance
+ - Verbatim : "c'est pour des calculs aussi"
+ - Code 6 : Algorithmes pour langages de programmation
+ - Verbatim : "les algorithmes pour les langages de programmation"
+
+Ces thèmes et codes donnent une vue d'ensemble de la perception et de l'utilisation de ChatGPT par les étudiants dans leur parcours universitaire, mettant en lumière les raisons de son utilisation, les activités pour lesquelles il est utilisé, ainsi que les limites et les préoccupations liées à son usage.

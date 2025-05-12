@@ -1,0 +1,63 @@
+Je vais procéder à l'analyse de l'entretien en suivant la méthode de codage qualitatif demandée.
+
+### Segment 1 : Interaction avec ChatGPT
+
+- **Thème 1 : Formulation des questions**
+  - Code 1 : Formulation indirecte
+  - Verbatim : "je lui pose des questions pas vraiment sous forme de questions"
+  - Code 2 : Présentation du contexte
+  - Verbatim : "voici mes idées, est-ce que tu peux en faire une partie de dissertation"
+  - Code 3 : Utilisation de formules de politesse
+  - Verbatim : "je dis toujours s’il te plait à la fin"
+  - Code 4 : Interaction avec l'outil
+  - Verbatim : "je lui demande direct, je lui dis peux-tu"
+  - Code 5 : Adaptation en fonction de la réponse
+  - Verbatim : "parfois je lui explique"
+  - Code 6 : Partage d'informations contextuelles
+  - Verbatim : "je lui ai dit pour mon mémoire sur le boycott"
+  - Code 7 : Utilisation de documents joints
+  - Verbatim : "j'ai joint un document PDF"
+  - Code 8 : Clarification des consignes
+  - Verbatim : "je lui décris assez bien ce qu’il doit faire"
+  - Code 9 : Ajustement des instructions
+  - Verbatim : "je lui dis ‘pour t'aider j'ai résumé chaque entretien dans le document en pièce jointe’"
+  - Code 10 : Réponse à la première réponse de ChatGPT
+  - Verbatim : "souvent il fait une première réponse et je suis obligée de lui dire ‘ah ben t’as pas compris’"
+
+- **Thème 2 : Perception de ChatGPT**
+  - Code 1 : Compréhension des consignes
+  - Verbatim : "il me répond quoi mais je trouve qu'il respecte pas les consignes"
+  - Code 2 : Réajustement des réponses
+  - Verbatim : "je lui dis ‘ah non t’as pas compris, c’est vraiment ça qu’on me demande’"
+  - Code 3 : Exigence de précision
+  - Verbatim : "je lui dis ‘cite les entretiens’ et en fait il les avaient cités mais il disait ‘ah ben un tel t’as dit que ça’"
+  - Code 4 : Réponse à la critique
+  - Verbatim : "il a refait sa réponse par rapport à ça"
+  
+- **Thème 3 : Impact de ChatGPT sur le travail**
+  - Code 1 : Modification du sujet ou de la méthodologie
+  - Verbatim : "est-ce que tu modifies un peu ton sujet ou ta manière de formuler tes questions en fonction de sa réponse ?"
+  - Code 2 : Réponse négative à la modification
+  - Verbatim : "non je pense pas non franchement je pense pas"
+  - Code 3 : Influence potentielle
+  - Verbatim : "peut-être au tout début quand j'avais juste l'idée d'écrire un mémoire sur le boycott mais je savais pas du tout quel angle d'attaque prendre"
+  - Code 4 : Utilisation de ChatGPT pour la problématisation
+  - Verbatim : "j'ai dû lui demander de me faire plein de sujet de mémoire"
+
+- **Thème 4 : Utilisation de ChatGPT dans la recherche**
+  - Code 1 : Aide à la formulation du sujet
+  - Verbatim : "je lui ai dit je veux faire un mémoire sur le boycott, cherche une manière pour que je puisse le faire dans ce Master là"
+  - Code 2 : Description du contexte académique
+  - Verbatim : "je lui avais décrit vite fait mon Master"
+  - Code 3 : Discipline académique
+  - Verbatim : "je suis à l’ENS Paris-Saclay en Master de recherche économie organisation et société"
+  - Code 4 : Utilisation non concluante
+  - Verbatim : "finalement j'ai pas utilisé ce qu'il m'avait dit"
+
+- **Thème 5 : Autonomie dans la recherche**
+  - Code 1 : Décision de ne pas utiliser les suggestions
+  - Verbatim : "pourquoi ? C'était pas pertinent ?"
+  - Code 2 : Raisons de non-utilisation
+  - (Verbatim manquant en raison de la coupure du texte)
+
+Ces thèmes et codes permettent d'explorer la manière dont l'enquêtée interagit avec ChatGPT, sa perception de l'outil, et comment il influence (ou non) son travail de recherche.

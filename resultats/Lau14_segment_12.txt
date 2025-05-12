@@ -1,0 +1,77 @@
+Je vais effectuer une analyse sociologique de l'entretien en suivant la méthode de codage qualitatif demandée. Voici les résultats :
+
+**Segment 1 : Perception de la régulation et de l'éthique**
+
+- Thème : Régulation et accès à l'information
+ - Code 1 : Accès non régulé
+ - Verbatim : "Oui. Oui, en fait c'est comme sur le site porno. Tu peux me dire, oui j'ai 18 ans, le site va pas vérifier."
+ - Code 2 : Facilité d'accès à l'information sensible
+ - Verbatim : "N'importe qui aurait pu dire « je suis X et j'ai des accréditations, le savoir-faire pour », il aurait donné l'info."
+ - Code 3 : Problème de régulation de l'IA
+ - Verbatim : "Mais là on toucherait du coup sur de l'éthique et sur de la réglementation de l'IA"
+ - Code 4 : Sécurité et divulgation d'informations
+ - Verbatim : "le fait que cette brèche elle soit connue de tous, ou pratiquement tous, et qu'elle permette d'avoir un plus grand accès à de l'information, disons sensible ou sensitive"
+ - Code 5 : Utilisation personnelle de l'information
+ - Verbatim : "moi ça m'a arrangé dans ce cas là, j'ai pu savoir que les produits chimiques c'était pour... voilà."
+ - Code 6 : Risque potentiel lié à l'IA
+ - Verbatim : "on pourrait aussi utiliser l'IA pour faire une bombe, à mon avis."
+ - Code 7 : Indifférence à la régulation
+ - Verbatim : "honnêtement je m'en fous"
+ - Code 8 : Nécessité d'un firewall
+ - Verbatim : "le fait qu'il y ait besoin déjà d'un petit firewall c'est bien"
+ - Code 9 : Divulgation d'informations sensibles
+ - Verbatim : "qu'elle permette d'avoir un plus grand accès à de l'information, disons sensible ou sensitive"
+ - Code 10 : Usage personnel contre éthique
+ - Verbatim : "moi ça m'a arrangé dans ce cas là"
+
+- Thème : Comparaison avec d'autres outils ou situations
+ - Code 1 : Comparaison avec les sites porno
+ - Verbatim : "c'est comme sur le site porno"
+ - Code 2 : Facilité de contournement
+ - Verbatim : "Tu peux me dire, oui j'ai 18 ans, le site va pas vérifier."
+ - Code 3 : Robots et vérification
+ - Verbatim : "Certains robots arrivent à passer ce genre de frontières"
+ - Code 4 : Utilisation de métaphores pour expliquer la facilité d'accès
+ - Verbatim : "c'est comme les « je ne suis pas un robot »"
+ - Code 5 : Expérience personnelle précoce
+ - Verbatim : "j'en avais 13 la première fois que je suis allé sur un site de cul."
+
+**Segment 2 : Utilisation de ChatGPT et impact sur le travail universitaire**
+
+- Thème : Utilisation de ChatGPT comme outil
+ - Code 1 : Utilisation courante dans le milieu académique
+ - Verbatim : "moi je ne connais personne qui n'utilise pas de ChatGPT dans le milieu académique."
+ - Code 2 : Avantage comparatif
+ - Verbatim : "Est-ce qu'utiliser une calculatrice te donne un avantage ? Oui."
+ - Code 3 : Perception de ChatGPT comme un outil supplémentaire
+ - Verbatim : "c'est un outil supplémentaire, donc oui."
+ - Code 4 : Comparaison avec d'autres outils bureautiques
+ - Verbatim : "on mettait bien sur notre CV qu'on savait utiliser Word, Excel et PowerPoint"
+ - Code 5 : Valeur ajoutée par l'abonnement
+ - Verbatim : "en payant, t'as la meilleure version, donc intrinsèquement, t'as aussi plus de compétences"
+ - Code 6 : Utilité pour des tâches spécifiques
+ - Verbatim : "je le vois comme une façon d'apprendre et ou comme une façon de faire ce que je ne sais pas faire"
+ - Code 7 : Délestage de charge mentale
+ - Verbatim : "ça me déleste, ça me donne moins de charge mentale."
+ - Code 8 : Limitations personnelles compensées par ChatGPT
+ - Verbatim : "je ne sais pas bien écrire."
+ - Code 9 : Efficience dans l'exécution des tâches
+ - Verbatim : "ça marche, quoi, donc pas plus long."
+ - Code 10 : Intégration dans la boîte à outils personnelle
+ - Verbatim : "dans ma boîte à outils."
+
+- Thème : Dépendance et autonomie dans le travail
+ - Code 1 : Capacité à travailler sans ChatGPT
+ - Verbatim : "Si, je pourrais, mais..."
+ - Code 2 : Usage spécifique pour des tâches désagréables ou inconnues
+ - Verbatim : "Ce que je lui demande, c'est des tâches que je n'aime pas ou que je n'aime pas faire ou que je ne sais pas encore faire."
+ - Code 3 : Perception de ChatGPT comme un substitut ou un complément
+ - Verbatim : "avant ça, il y a d'autres outils qui existaient."
+ - Code 4 : Analogie avec l'évolution des smartphones
+ - Verbatim : "c'est un peu comme l'iPhone. Il est devenu phare parce qu'il faisait téléphone, calculatrice et GPS en même temps."
+ - Code 5 : Polyvalence accrue
+ - Verbatim : "les gens qui ont un iPhone, ils peuvent faire plus de choses, ils sont plus polyvalents."
+ - Code 6 : Qualité des résultats
+ - Verbatim : "Mais de moins bonne qualité, par contre, ça, je l'admets."
+
+Les thèmes dégagés permettent de comprendre comment l'enquêté perçoit l'utilisation de ChatGPT dans son travail universitaire, les avantages qu'il lui procure, ainsi que ses réflexions sur la régulation et l'éthique entourant l'accès à l'information et l'utilisation de l'IA.

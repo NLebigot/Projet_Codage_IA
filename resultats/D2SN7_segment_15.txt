@@ -1,0 +1,93 @@
+Voici mon analyse du texte en respectant la méthode de codage qualitatif demandée :
+
+**Segment 1 : L'utilisation de l'IA et ses avantages**
+
+- Thème : Perception des outils d'IA
+ - Code 1 : Découverte et recommandation
+ - Verbatim : "je leur ai dit « mais utiliser le quoi ! » Et certains s'y sont mis"
+ - Code 2 : Gain de temps
+ - Verbatim : "j'ai gagné tellement de temps grâce à NotebookLM"
+ - Code 3 : Changement d'outil en fonction des besoins
+ - Verbatim : "j'utilise bah l'outil de au début, pour les retranscriptions j'utilisais Note book et maintenant j'use OpenAI enfin whisper"
+ - Code 4 : Influence sur les pairs
+ - Verbatim : "je lui ai fait découvrir et il était complètement …"
+ - Code 5 : Adoption progressive
+ - Verbatim : "j'ai une pote du coup cette mes amis là qui elle était voilà très, tu vois viscéralement anti-IA un peu tu vois et pour le coup elle avait galéré"
+ - Code 6 : Utilisation bénéfique
+ - Verbatim : "elle m'envoie un message pour me dire après « mais c’est fou »"
+ - Code 7 : Incitation à l'usage
+ - Verbatim : "j'incite tout le monde à , je sais pas tout le monde , parce que enfin, si tout le monde utiliser avec comme avec précaution"
+ - Code 8 : Réaction positive
+ - Verbatim : "c'est fou, ça, j’ai un peu envie de lui dire, mais pourquoi je me bute à ça , tu vois"
+ - Code 9 : Avantages comparatifs
+ - Verbatim : "c'est pas j'ai un avantage par rapport à d'autres mais c'est juste que j'en tire des avantages plus que d'autres"
+ - Code 10 : Perception de l'utilité
+ - Verbatim : "tu t'en tire des avantages qui sont fous"
+
+- Thème : Interaction sociale autour de l'IA
+ - Code 1 : Partage d'expérience
+ - Verbatim : "je leur ai dit « mais utiliser le quoi ! »"
+ - Code 2 : Influence positive
+ - Verbatim : "j'ai un pote qui m'a dit « Ah oui, j'ai fait un truc à rendre, je l'ai fait en vraiment, j'ai gagné tellement de temps grâce à NotebookLM »"
+ - Code 3 : Résistance initiale
+ - Verbatim : "j'ai une pote du coup cette mes amis là qui elle était voilà très, tu vois viscéralement anti-IA"
+ - Code 4 : Changement d'avis
+ - Verbatim : "elle m'envoie un message pour me dire après « mais c’est fou »"
+ - Code 5 : Rôle de facilitateur
+ - Verbatim : "je lui ai fait découvrir"
+ - Code 6 : Adoption de nouveaux outils
+ - Verbatim : "j'utilise bah l'outil de au début, pour les retranscriptions j'utilisais Note book et maintenant j'use OpenAI enfin whisper"
+ - Code 7 : Réactions positives
+ - Verbatim : "c'est fou, ça, j’ai un peu envie de lui dire"
+ - Code 8 : Effet de réseau
+ - Verbatim : "j'incite tout le monde à , je sais pas tout le monde"
+ - Code 9 : Utilisation responsable
+ - Verbatim : "si tout le monde utiliser avec comme avec précaution"
+ - Code 10 : Perception de l'impact
+ - Verbatim : "tu t'en tire des avantages qui sont fous"
+
+**Segment 2 : Conscience des impacts et dépendance**
+
+- Thème : Conscience écologique et impacts de l'IA
+ - Code 1 : Connaissance des impacts environnementaux
+ - Verbatim : "je me suis plus quand même renseigné, notamment grâce au cours là donc je te parlais et en en général sur les effets écologiques qui sont faut le dire hein complètement désastreux"
+ - Code 2 : Perception personnelle de la responsabilité
+ - Verbatim : "c'est pas parce que moi j'utilise sur mon petit ordi ChatGPT , c'est pas à cause de moi qu'il y a le que l'humanité est en danger"
+ - Code 3 : Utilisation réfléchie
+ - Verbatim : "j'essaye de réfléchir « Bon là tu vois, j e me dis bon là c'est juste, c'est con tu vois si je te demande juste ç a à ChatGPT »"
+ - Code 4 : Évaluation des besoins
+ - Verbatim : "j'essaye de dire bon là, vraiment j'en ai besoin. Voilà, et si j'en ai besoin, j'en ai besoin."
+ - Code 5 : Gestion de l'usage
+ - Verbatim : "j'essaye de faire d'autres trucs"
+ - Code 6 : Conscience des limites
+ - Verbatim : "c'est pas le sujet de l'entretien donc voilà"
+ - Code 7 : Responsabilité individuelle
+ - Verbatim : "c'est pas à cause de moi qu'il y a le que l'humanité est en danger tu vois"
+ - Code 8 : Rôle de l'éducation
+ - Verbatim : "notamment grâce au cours là donc je te parlais"
+ - Code 9 : Auto-régulation
+ - Verbatim : "j'essaye de réfléchir"
+ - Code 10 : Usage conscient
+ - Verbatim : "j'en ai besoin, j'en ai besoin"
+
+- Thème : Dépendance aux outils d'IA
+ - Code 1 : Définition de la dépendance
+ - Verbatim : "une dépendance ça serait genre ? Comment dire ? C'est à dire que pour toi et une dépendance c'est quoi"
+ - Code 2 : Perception personnelle de la dépendance
+ - Verbatim : "Moi je pense pas , bon en fait une dépendance ça serait en fait je me dis une dépendance ça serait genre"
+ - Code 3 : Évaluation de l'incapacité
+ - Verbatim : "sans ChatGPT, je serai incapable de m'en sortir tout ça"
+ - Code 4 : Usage contrôlé
+ - Verbatim : "j'essaye de dire bon là, vraiment j'en ai besoin. Voilà, et si j'en ai besoin, j'en ai besoin."
+ - Code 5 : Auto-évaluation
+ - Verbatim : "Moi je pense pas"
+ - Code 6 : Questionnement sur la dépendance
+ - Verbatim : "une dépendance ? Moi je pense pas , bon en fait une dépendance ça serait en fait je me dis une dépendance ça serait genre ?"
+ - Code 7 : Réflexion sur l'usage
+ - Verbatim : "j'essaye de réfléchir « Bon là tu vois, j e me dis bon là c'est juste, c'est con tu vois si je te demande juste ç a à ChatGPT »"
+ - Code 8 : Dépendance comme incapacité
+ - Verbatim : "sans ChatGPT, je serai incapable de m'en sortir tout ça"
+ - Code 9 : Distanciation
+ - Verbatim : "je pense pas"
+ - Code 10 : Perception nuancée
+ - Verbatim : "j'en ai besoin, j'en ai besoin"

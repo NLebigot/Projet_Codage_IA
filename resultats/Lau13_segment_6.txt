@@ -1,0 +1,57 @@
+Analyse de l'entretien avec un étudiant sur son utilisation de Chat GPT dans le cadre de ses études.
+
+### Thème 1 : Nuances linguistiques et compréhension
+- Code 1 : Compréhension contextuelle
+ - Verbatim : "il y a certains mots tu saisis mieux la nuance par rapport à certaines choses."
+- Code 2 : Expression de la nuance en langue étrangère
+ - Verbatim : "En anglais il y a des mots, je connais le mot, mais tu peux pas donner une définition, mais je sais plus ou moins ce que ça veut dire."
+- Code 3 : Stratégie pour surmonter les barrières linguistiques
+ - Verbatim : "je faisais un effort conscient pour l'écrire en français."
+- Code 4 : Dépendance au contexte pour la formulation des questions
+ - Verbatim : "ça dépend énormément de... Du contexte duquel émerge ma question, la question que je vais lui poser."
+- Code 5 : Perception de la différence dans les réponses en fonction de la langue
+ - Verbatim : "Non pas tellement." (en réponse à la question sur la différence de réponses entre le français et l'anglais)
+
+### Thème 2 : Utilisation de Chat GPT et efficacité dans les études
+- Code 1 : Gain de temps avec Chat GPT
+ - Verbatim : "demander une fois quatre définitions à chat GPT que de demander quatre fois, je sais pas genre, à un moteur de recherche, quatre définitions différentes."
+- Code 2 : Changement dans le rapport au temps
+ - Verbatim : "Ça m'a peut-être amené à avoir moins de... C'est plus compliqué de prendre le temps de lire et comprendre quelque chose."
+- Code 3 : Utilisation par facilité
+ - Verbatim : "il y a un peu cette solution de facilité."
+- Code 4 : Reconnaissance de l'impact négatif
+ - Verbatim : "Ce qui est vraiment pas terrible, je trouve."
+- Code 5 : Effort pour limiter l'usage excessif
+ - Verbatim : "du coup j'essaie quand même de limiter."
+
+### Thème 3 : Impact de Chat GPT sur les habitudes d'apprentissage
+- Code 1 : Utilisation de Chat GPT comme solution de facilité en cas de fatigue
+ - Verbatim : "T'es un peu dans un état mental où la solution de facilité c'est Chat GPT tu m'expliques, limite tu le fais à ma place et c'est fait."
+- Code 2 : Habitude de sauter les bases
+ - Verbatim : "tu as tendance à vouloir aller trop vite et à sauter les bases."
+- Code 3 : Dépendance à Chat GPT pour les bases
+ - Verbatim : "Si tu n'as pas les bases, sans Chat GPT, tu ne vas rien faire."
+- Code 4 : Reconnaissance du problème
+ - Verbatim : "j'ai remarqué qu'il y a des fois où je suis tombé dans ce cas là, c'était ma fondation."
+- Code 5 : Sentiment négatif associé à la dépendance
+ - Verbatim : "T'es bien parce que tu fais moins d'efforts mais quand tu te rends compte de ça, c'est pas un sentiment agréable."
+
+### Thème 4 : Conséquences sur la compréhension et les compétences
+- Code 1 : Manque de compréhension sans les bases
+ - Verbatim : "Je ne pouvais rien t'expliquer en C++. J'avais pas suivi les bases."
+- Code 2 : Utilisation de Chat GPT comme substitut aux connaissances
+ - Verbatim : "Tout mon examen se basait sur le fait que Chat GPT, il les avait."
+- Code 3 : Sentiment de fraude
+ - Verbatim : "t'es un peu une énorme fraude."
+- Code 4 : Conscience de l'impact sur l'apprentissage
+ - Verbatim : "ce ressenti je l'ai eu, mais pas trop."
+- Code 5 : Évaluation de la gravité de la situation
+ - Verbatim : "C'est pas très grave, mais si ça commence à être ça, mais beaucoup de... à prendre plus de place, là ça pourrait être ouais..."
+
+### Thème 5 : Contexte et conditions d'utilisation de Chat GPT
+- Code 1 : Accès à Chat GPT lors de l'examen
+ - Verbatim : "Comment ça se fait que vous aviez accès à Chat GPT ?" (question de l'enquêteur)
+- Code 2 : Explication de l'utilisation de Chat GPT lors de l'examen
+ - (La réponse à cette question n'est pas fournie dans le texte donné)
+
+Ces thèmes et codes illustrent les différentes dimensions de l'utilisation de Chat GPT par l'étudiant, notamment en termes de compréhension linguistique, d'efficacité et d'impact sur les habitudes d'apprentissage et les compétences.

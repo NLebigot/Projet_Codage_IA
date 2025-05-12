@@ -1,0 +1,111 @@
+Pour analyser l'entretien donné en suivant une méthode rigoureuse de codage qualitatif, nous allons dégager plusieurs thèmes avec leurs codes associés et verbatim. Nous veillerons à ce que chaque thème soit riche et structurant avec environ 10 codes.
+
+### Thème 1 : Utilisation de ChatGPT pour l'apprentissage
+- **Code 1 : Gain de temps**
+  - Verbatim : "ça m'aide à optimiser mon temps"
+- **Code 2 : Structuration du travail**
+  - Verbatim : "je peux lui demander un coup de main pour structurer mon travail"
+- **Code 3 : Amélioration de la compréhension**
+  - Verbatim : "ça m'aide à éclaircir mes pensées"
+- **Code 4 : Formulation précise des questions**
+  - Verbatim : "il faut être le plus précis pour être le plus optimisé"
+- **Code 5 : Aide à la révision**
+  - Verbatim : "je lui demande de me poser des questions par rapport au cours"
+- **Code 6 : Résumé des points clés**
+  - Verbatim : "je lui demande de résumer le cours, les points clés à apprendre"
+- **Code 7 : Entraînement**
+  - Verbatim : "pour m'aider à m'entraîner pour réviser"
+- **Code 8 : Équilibre entre utilisation de ChatGPT et apprentissage personnel**
+  - Verbatim : "faut faire gaffe à pas tomber dans le piège de la facilité et oublier de vraiment réfléchir et apprendre par soi-même"
+- **Code 9 : Motivation et paresse**
+  - Verbatim : "ça dépend de moi aussi, parce qu'il y a des fois où je suis motivé et d'autres fois je suis un peu paresseux"
+- **Code 10 : Précision dans l'utilisation de ChatGPT**
+  - Verbatim : "j'essaye d'être précis avec ChatGPT"
+
+### Thème 2 : Impact de ChatGPT sur le stress et l'organisation
+- **Code 1 : Réduction du stress**
+  - Verbatim : "avec ChatGPT, ouais, t'as ce facteur où si tu ne trouves pas, bah lui peut t'aider à trouver"
+- **Code 2 : Changement dans l'organisation du travail**
+  - Verbatim : "j'aurai un contrôle en statistique, la semaine prochaine... je vais demander à ChatGPT de me poser des questions"
+- **Code 3 : Utilisation comme un soutien**
+  - Verbatim : "quand je suis motivé, j'essaye d'apprendre de moi-même et dès que je ne comprends pas une notion, je vais demander à ChatGPT"
+- **Code 4 : Comparaison avec l'absence de ChatGPT**
+  - Verbatim : "je me souviens qu'il n'y avait pas de ChatGPT, quand je ne connaissais pas la réponse, je savais pas quoi faire"
+- **Code 5 : Perception de ChatGPT comme une aide**
+  - Verbatim : "c’est exactement ça, tu vois, quand t’arrivais pas à faire un devoir à la maison, tu demandes à tes parents, bah moi je l’utilise de cette manière comme une aide"
+- **Code 6 : Influence sur la planification**
+  - Verbatim : "non, pas forcément, j'essaye d'abord d'apprendre de moi-même"
+- **Code 7 : Effet sur la motivation**
+  - Verbatim : "quand je suis motivé, j'essaye d'apprendre de moi-même"
+- **Code 8 : Stress lié aux études**
+  - Verbatim : "avec ChatGPT, ouais, t'as ce facteur où si tu ne trouves pas, bah lui peut t'aider à trouver"
+- **Code 9 : Changement de comportement**
+  - Verbatim : "plus je l'utilise, plus j'affine mes questions"
+- **Code 10 : Adaptation**
+  - Verbatim : "j’ai compris que si tu veux une réponse vraiment utile, faut être précis dans la manière dont tu formules ta question"
+
+### Thème 3 : Fiabilité et vérification des réponses de ChatGPT
+- **Code 1 : Limite de la fiabilité**
+  - Verbatim : "ce n'est pas du 100% de réussite"
+- **Code 2 : Nécessité de précision**
+  - Verbatim : "si tu n'es pas précis dans tes réponses, il peut faire n'importe quoi"
+- **Code 3 : Vérification des sources**
+  - Verbatim : "personnellement j'essaye derrière de vérifier les sources derrière"
+- **Code 4 : Facteur chance**
+  - Verbatim : "il y a un peu un facteur chance"
+- **Code 5 : Importance de la formulation de la question**
+  - Verbatim : "je pense que si tu détailles ta question et que tu sais où il faut trouver la réponse, bah je pense qu'il peut te donner la réponse"
+- **Code 6 : Réinterprétation des réponses**
+  - Verbatim : "t'es obligé de réinterpréter"
+- **Code 7 : Risque de tricherie**
+  - Verbatim : "les professeurs, ils savent quand tu triches avec ChatGPT"
+- **Code 8 : Stratégie d'utilisation**
+  - Verbatim : "j'essaie de lui donner un contexte, j'essaie de lui donner des données"
+- **Code 9 : Contexte de la question**
+  - Verbatim : "surtout le contexte en vrai, c'est le contexte de ma question"
+- **Code 10 : Évaluation critique**
+  - Verbatim : "je pense que j'ai aidé, peut t'aiguiller pour la réponse"
+
+### Thème 4 : Évolution de l'utilisation de ChatGPT
+- **Code 1 : Amélioration de la formulation des questions**
+  - Verbatim : "plus je l'utilise, plus j'affine mes questions"
+- **Code 2 : Apprentissage par l'expérience**
+  - Verbatim : "au début, je balançais des questions un peu vagues et parfois, il me donnait des réponses trop générales"
+- **Code 3 : Adaptation à ChatGPT**
+  - Verbatim : "j’ai compris que si tu veux une réponse vraiment utile, faut être précis"
+- **Code 4 : Évolution positive**
+  - Verbatim : "plus je l'utilise, plus je vois comment l'utiliser efficacement"
+- **Code 5 : Conscientisation des limites**
+  - Verbatim : "j'ai compris les limites de ChatGPT"
+- **Code 6 : Changement dans la manière de poser les questions**
+  - Verbatim : "avant, si j’avais un devoir en sociologie, je lui demandais juste"
+- **Code 7 : Précision croissante**
+  - Verbatim : "plus je l'utilise, plus je suis précis"
+- **Code 8 : Meilleure compréhension de l'outil**
+  - Verbatim : "j'ai compris comment l'utiliser pour qu'il soit vraiment utile"
+- **Code 9 : Utilisation plus efficace**
+  - Verbatim : "je pense que je l'utilise mieux maintenant"
+- **Code 10 : Développement de stratégies**
+  - Verbatim : "j'essaie de développer des stratégies pour l'utiliser au mieux"
+
+### Thème 5 : Perception et intégration de ChatGPT dans les études
+- **Code 1 : Perception positive**
+  - Verbatim : "je suis d'accord, ça m'aide à éclaircir mes pensées"
+- **Code 2 : Intégration dans la routine d'étude**
+  - Verbatim : "je vais demander à ChatGPT de me poser des questions par rapport au cours"
+- **Code 3 : Utilisation complémentaire**
+  - Verbatim : "j'essaye d'abord d'apprendre de moi-même et dès que je ne comprends pas, je vais demander à ChatGPT"
+- **Code 4 : Reconnaissance de l'utilité**
+  - Verbatim : "ça m'aide énormément pour le gain de temps"
+- **Code 5 : Acceptation**
+  - Verbatim : "ouais, c’est exactement ça, tu vois, quand t’arrivais pas à faire un devoir à la maison, tu demandes à tes parents, bah moi je l’utilise de cette manière comme une aide"
+- **Code 6 : Comparaison avec d'autres méthodes d'aide**
+  - Verbatim : "quand je ne connaissais pas la réponse, je savais pas quoi faire, après tu pouvais demander au professeur"
+- **Code 7 : Effet sur la motivation**
+  - Verbatim : "ça dépend de moi aussi, parce qu'il y a des fois où je suis motivé"
+- **Code 8 : Satisfaction**
+  - Verbatim : "je suis d'accord avec ça, oui je pense que ChatGPT m'aide énormément"
+- **Code 9 : Régulation de l'utilisation**
+  - Verbatim : "faut faire gaffe à pas tomber dans le piège de la facilité"
+- **Code 10 : Intégration dans les pratiques d'apprentissage**
+  - Verbatim : "j'essaye de l'utiliser pour structurer mon travail et aller à l'essentiel"

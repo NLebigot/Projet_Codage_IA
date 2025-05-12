@@ -1,0 +1,111 @@
+Suite à l'analyse de l'entretien, j'ai identifié plusieurs thèmes avec leurs codes associés. Voici les résultats :
+
+### Thème 1 : Utilisation de ChatGPT pour les tâches académiques
+- Code 1 : Demande de résumés
+  - Verbatim : "lundi j'ai résumé un cours du coup je lui ai donné mes notes et il a pu me résumer le cours."
+- Code 2 : Correction de textes
+  - Verbatim : "j'utilise aussi pour corriger des textes que j'ai faits, et je lui demande de mettre en gras ce qu'il a corrigé."
+- Code 3 : Réécriture de contenu
+  - Verbatim : "j'ai copié-collé et j'ai modifié la mise en forme mais pas le contenu."
+- Code 4 : Structuration des idées
+  - Verbatim : "ça m'a aidé à structurer mes idées un peu plus clairement."
+- Code 5 : Réponse à des questions précises
+  - Verbatim : "je lui ai demandé des informations générales, sur des thématiques précises."
+- Code 6 : Demande d'informations
+  - Verbatim : "demander des informations sur la structure des cours."
+- Code 7 : Utilisation pour les mails
+  - Verbatim : "je lui ai demandé à ChatGpt d'écrire des mails."
+- Code 8 : Révision de notes
+  - Verbatim : "je lui ai donné mes notes et il a pu me résumer le cours."
+- Code 9 : Évaluation des réponses
+  - Verbatim : "je dois lui demander plusieurs fois, reformuler plusieurs fois pour avoir la réponse que je veux."
+- Code 10 : Validation des résultats
+  - Verbatim : "je regarde un peu les articles à propos de ça."
+
+### Thème 2 : Satisfaction et limites de ChatGPT
+- Code 1 : Satisfaction variable
+  - Verbatim : "ça dépend beaucoup. Parfois, je suis vraiment pas satisfaite avec ses réponses."
+- Code 2 : Nécessité de reformuler les questions
+  - Verbatim : "je dois lui demander plusieurs fois, reformuler plusieurs fois pour avoir la réponse que je veux."
+- Code 3 : Cas de satisfaction
+  - Verbatim : "typiquement pour résumer mes notes de cours, je lui demande une fois et ça suffit."
+- Code 4 : Évaluation des réponses
+  - Verbatim : "je prends ce qu'il me donne et après, je regarde."
+- Code 5 : Utilisation des connaissances personnelles
+  - Verbatim : "sur les connaissances que je développe moi-même en allant me renseigner davantage sur ce qu'il me propose."
+- Code 6 : Vérification des informations
+  - Verbatim : "j'ai été jeter un coup d'œil. Et après, celles que je trouvais bien et pertinentes, j'ai gardé."
+- Code 7 : Critères de validation
+  - Verbatim : "je me base sur mes propres connaissances."
+- Code 8 : Limites de ChatGPT
+  - Verbatim : "parfois, je suis vraiment pas satisfaite avec ses réponses."
+- Code 9 : Importance de la vérification
+  - Verbatim : "je regarde un peu les articles à propos de ça."
+- Code 10 : Validation active
+  - Verbatim : "je vais me renseigner davantage sur ce qu'il me propose."
+
+### Thème 3 : Impact de ChatGPT sur les habitudes de travail
+- Code 1 : Changement dans la façon de travailler
+  - Verbatim : "ça a changé toute ma vie."
+- Code 2 : Gain de temps
+  - Verbatim : "ça me fait gagner du temps, mine de rien."
+- Code 3 : Changement dans la quantité de travail
+  - Verbatim : "j'ai moins de cours ce semestre que les fois où je résumais tout ça à la main."
+- Code 4 : Développement d'une attitude de flémardise
+  - Verbatim : "ça m'a un peu rendue parfois un peu plus flémarde."
+- Code 5 : Changement dans la méthode de résumé
+  - Verbatim : "avant j'avais presque uniquement des cours ex cathedra que je résumais tous entièrement à la main."
+- Code 6 : Utilisation de ChatGPT pour les résumés
+  - Verbatim : "même là, je le fais résumer par ChatGpt."
+- Code 7 : Aide à la reformulation
+  - Verbatim : "ça m'a aidé à structurer mes idées un peu plus clairement, reformuler les choses de façon à ce que ce soit plus adapté."
+- Code 8 : Impact sur la productivité
+  - Verbatim : "je pense sincèrement, qu'au final, ça me fait gagner du temps."
+- Code 9 : Modification des habitudes de travail
+  - Verbatim : "ça a modifié ta façon de travailler."
+- Code 10 : Perception de l'aide apportée
+  - Verbatim : "je trouve que c'est pas mal."
+
+### Thème 4 : Évaluation de la qualité des réponses de ChatGPT
+- Code 1 : Qualité variable
+  - Verbatim : "ça dépend beaucoup."
+- Code 2 : Cas où les réponses sont satisfaisantes
+  - Verbatim : "typiquement pour résumer mes notes de cours, je lui demande une fois et ça suffit."
+- Code 3 : Cas où les réponses ne sont pas satisfaisantes
+  - Verbatim : "parfois, je suis vraiment pas satisfaite avec ses réponses."
+- Code 4 : Nécessité de vérifier les informations
+  - Verbatim : "je regarde un peu les articles à propos de ça."
+- Code 5 : Utilisation des connaissances personnelles pour valider
+  - Verbatim : "sur les connaissances que je développe moi-même."
+- Code 6 : Vérification active
+  - Verbatim : "j'ai été jeter un coup d'œil."
+- Code 7 : Critères de validation
+  - Verbatim : "je me base sur mes propres connaissances."
+- Code 8 : Importance de la validation
+  - Verbatim : "je vais me renseigner davantage sur ce qu'il me propose."
+- Code 9 : Limitations perçues
+  - Verbatim : "je dois lui demander plusieurs fois."
+- Code 10 : Capacité à répondre à des questions complexes
+  - Verbatim : "pour Roaccutane je lui ai posé plus qu'une question pour vraiment avoir la réponse que je voulais."
+
+### Thème 5 : Perception de l'assistance apportée par ChatGPT
+- Code 1 : Assistance globale
+  - Verbatim : "ça a changé toute ma vie."
+- Code 2 : Gain de temps
+  - Verbatim : "ça me fait gagner du temps."
+- Code 3 : Aide à la structuration
+  - Verbatim : "ça m'a aidé à structurer mes idées."
+- Code 4 : Appui pour la reformulation
+  - Verbatim : "reformuler les choses de façon à ce que ce soit plus adapté."
+- Code 5 : Utilité générale
+  - Verbatim : "je trouve que c'est pas mal."
+- Code 6 : Amélioration de la productivité
+  - Verbatim : "je pense sincèrement, qu'au final, ça me fait gagner du temps."
+- Code 7 : Impact sur la paresse
+  - Verbatim : "ça m'a un peu rendue parfois un peu plus flémarde."
+- Code 8 : Utilisation pour les résumés
+  - Verbatim : "je le fais résumer par ChatGpt."
+- Code 9 : Utilité pour la vérification
+  - Verbatim : "je regarde un peu les articles à propos de ça."
+- Code 10 : Perception positive de l'outil
+  - Verbatim : "je trouve que c'est pas mal."

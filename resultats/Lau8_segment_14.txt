@@ -1,0 +1,111 @@
+Voici l'analyse du texte en respectant la méthode de codage qualitatif demandée :
+
+**Thème 1 : Perception de l'utilisation de Chat GPT**
+- Code 1 : Perception négative de l'utilisation de Chat GPT
+- Verbatim : "Je l’associe à ma flemme."
+- Code 2 : Utilisation limitée à des tâches spécifiques
+- Verbatim : "Pour l'informatique, là oui, c’était nécessaire."
+- Code 3 : Distinction entre les utilisations acceptables et inacceptables
+- Verbatim : "Pour des résumés ou des trucs pratiques, oui, mais déjà, je me détacherais de ça."
+- Code 4 : Réflexivité dans l'utilisation de Chat GPT
+- Verbatim : "J’ai utilisé ça parce que je voulais explorer une idée ou voir ce qui existait."
+- Code 5 : Volonté de transparence
+- Verbatim : "Si je devais dire que ça vient de ChatGPT, ce serait parce que j’aurais une raison de le faire."
+- Code 6 : Sentiment de culpabilité
+- Verbatim : "Je n'oserais pas justement."
+- Code 7 : Stratégie pour éviter de mentionner Chat GPT
+- Verbatim : "Je me serais renseignée autre part."
+- Code 8 : Importance de la justification
+- Verbatim : "Tant que tu arrives à argumenter."
+- Code 9 : Perception de l'outil comme un moyen
+- Verbatim : "J'utilise ChatGPT quand je veux éviter de faire l’effort moi-même."
+- Code 10 : Auto-évaluation de son utilisation
+- Verbatim : "Je pense que je pourrais m’en passer."
+
+**Thème 2 : Impact de la perception des profs sur l'utilisation de Chat GPT**
+- Code 1 : Sentiment de jugement par les profs
+- Verbatim : "Le regard qu'ils ont."
+- Code 2 : Désir de projeter une image positive
+- Verbatim : "T'as quand même envie de donner une bonne image."
+- Code 3 : Proximité avec les profs en master
+- Verbatim : "Les profs sont plus proches de toi, commencent à te connaître."
+- Code 4 : Attentes des profs en termes de réflexivité
+- Verbatim : "Ils sont contents si on utilise des outils, mais on nous rabâche tout le temps ce truc de réflexivité."
+- Code 5 : Conformité aux attentes des profs
+- Verbatim : "Je pense que c'est ça et pis... Je pense que les profs ils sont contents si on utilise des outils."
+- Code 6 : Anticipation de la réaction des profs
+- Verbatim : "Je pense que certains profs ou enseignantes que j’ai pourraient comprendre pourquoi je l’ai utilisé."
+- Code 7 : Volonté de démontrer sa capacité réflexive
+- Verbatim : "J'ai envie de montrer que t'as quand même une capacité réflexive dans ton utilisation."
+- Code 8 : Influence de la perception des profs sur la transparence
+- Verbatim : "Si je devais dire que ça vient de ChatGPT, ce serait parce que j’aurais une raison de le faire."
+- Code 9 : Compréhension de l'usage acceptable par les profs
+- Verbatim : "Tant que tu arrives à argumenter, à dire : 'J’ai utilisé ça parce que je voulais explorer une idée ou voir ce qui existait'."
+- Code 10 : Sensibilité à l'opinion des profs
+- Verbatim : "Je pense que plusieurs étudiants, on sent aussi le regard des profs."
+
+**Thème 3 : Dilemme moral et utilisation de Chat GPT**
+- Code 1 : Absence de dilemme moral
+- Verbatim : "Je pense pas."
+- Code 2 : Rationalisation de l'utilisation
+- Verbatim : "J'essaye toujours de... de rendre moral le truc."
+- Code 3 : Utilisation de Chat GPT pour des tâches pratiques
+- Verbatim : "À part pour des résumés ou des trucs pratiques."
+- Code 4 : Distinction entre utilisation acceptable et non acceptable
+- Verbatim : "Je me détacherais de ça."
+- Code 5 : Honnêteté dans l'utilisation
+- Verbatim : "Je n’aime pas mentir."
+- Code 6 : Justification de l'utilisation
+- Verbatim : "Tant que tu arrives à argumenter."
+- Code 7 : Perception de l'outil comme un moyen d'exploration
+- Verbatim : "J’ai utilisé ça parce que je voulais explorer une idée ou voir ce qui existait."
+- Code 8 : Responsabilité de l'utilisateur
+- Verbatim : "Je pense que je pourrais m’en passer."
+- Code 9 : Utilisation limitée
+- Verbatim : "Pas tout le temps, mais surtout pour des trucs techniques."
+- Code 10 : Évaluation personnelle de l'utilisation
+- Verbatim : "Je pense que je réfléchis un peu trop peut-être."
+
+**Thème 4 : Réglementation et connaissance des règles universitaires sur Chat GPT**
+- Code 1 : Connaissance de l'existence d'une réglementation
+- Verbatim : "Je crois que oui, j'ai vite fait regarder un truc."
+- Code 2 : Manque de détails sur la réglementation
+- Verbatim : "Je ne suis pas entré dans les détails."
+- Code 3 : Information reçue via un mail
+- Verbatim : "J'avais lu un mail par rapport à ça."
+- Code 4 : Manque de clarté sur les règles spécifiques
+- Verbatim : "Je sais plus ce qu'ils disaient."
+- Code 5 : Disponibilité de l'information sur le site de l'université
+- Verbatim : "Sur l'uni, il y a beaucoup de choses."
+- Code 6 : Pas de discussion en classe sur la réglementation
+- Verbatim : "On t'en n’a pas parlé en classe."
+- Code 7 : Besoin de vérifier les informations
+- Verbatim : "Si jamais je pourrai aller voir sur le site de l'uni."
+- Code 8 : Perception de l'existence d'une réglementation
+- Verbatim : "Il y avait des réglementations."
+- Code 9 : Incertitude sur les détails de la réglementation
+- Verbatim : "Je suis vite fait aller voir, mais je n'en souviens plus."
+- Code 10 : Disponibilité à se renseigner
+- Verbatim : "Je pourrai aller voir."
+
+**Thème 5 : Stratégies d'utilisation et d'intégration de Chat GPT dans le travail académique**
+- Code 1 : Utilisation de Chat GPT comme complément
+- Verbatim : "Je me serais renseignée autre part."
+- Code 2 : Stratégie de validation des informations
+- Verbatim : "J'aurais essayé de trouver d'autres logiques, d'autres argumentations."
+- Code 3 : Intégration de Chat GPT dans la recherche
+- Verbatim : "J’ai utilisé ça parce que je voulais explorer une idée ou voir ce qui existait."
+- Code 4 : Volonté de démontrer une capacité réflexive
+- Verbatim : "J'ai envie de montrer que t'as quand même une capacité réflexive dans ton utilisation."
+- Code 5 : Utilisation limitée à des aspects spécifiques
+- Verbatim : "Pour l'informatique, là oui, c’était nécessaire."
+- Code 6 : Distinction entre l'utilisation pour des tâches techniques et non techniques
+- Verbatim : "Surtout pour des trucs techniques."
+- Code 7 : Stratégie d'appropriation de l'outil
+- Verbatim : "J'essaye toujours de... de rendre moral le truc."
+- Code 8 : Référence à d'autres sources pour valider les informations
+- Verbatim : "Je me serais renseignée autre part."
+- Code 9 : Évaluation de l'utilité de Chat GPT
+- Verbatim : "Je pense que je pourrais m’en passer."
+- Code 10 : Adoption d'une attitude réflexive
+- Verbatim : "Je pense que c'est ça et pis... Je pense que les profs ils sont contents si on utilise des outils, mais on nous rabâche tout le temps ce truc de réflexivité."

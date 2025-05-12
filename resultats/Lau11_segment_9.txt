@@ -1,0 +1,95 @@
+Voici l'analyse de l'entretien en suivant une méthode rigoureuse de codage qualitatif :
+
+**Segment 1 : L'utilisation de l'outil et le sentiment d'authenticité**
+
+- Thème : L'authenticité et la légitimité dans l'utilisation de l'outil
+ - Code 1 : Sentiment d'inauthenticité
+ - Verbatim : "ça te détache de ce que t'as produit, en fait."
+ - Code 2 : Questionnement sur la légitimité
+ - Verbatim : "est-ce que c'est légitime que j'accepte le crédit, on va dire, d'avoir écrit ça ?"
+ - Code 3 : Perception de non-appartenance
+ - Verbatim : "c'est mes mots, mais c'est pas exactement mes mots"
+ - Code 4 : Dilemme moral personnel
+ - Verbatim : "je pense que ça peut créer un dilemme moral aussi en groupe"
+ - Code 5 : Dépendance au contexte social
+ - Verbatim : "ça dépend vraiment du public avec qui tu es"
+ - Code 6 : Flou autour de l'utilisation acceptable
+ - Verbatim : "il y a un énorme flou autour de l'utilisation"
+ - Code 7 : Perception négative de l'outil
+ - Verbatim : "ça peut paraître fainéant et puis pas de bonne qualité"
+ - Code 8 : Acceptabilité variable
+ - Verbatim : "ça peut être super bien vu"
+ - Code 9 : Besoin de clarification
+ - Verbatim : "tant qu'on n'a pas défini clairement qu'est-ce qui est acceptable et qu'est-ce qui n'est pas acceptable"
+ - Code 10 : Questionnement sur l'appropriation du travail
+ - Verbatim : "Est-ce que c'est 100% moi qui les produis ?"
+
+**Segment 2 : L'acceptable et le non-acceptable dans l'utilisation de l'outil**
+
+- Thème : Les frontières de l'acceptabilité dans l'utilisation de l'outil
+ - Code 1 : Rejet du copier-coller intégral
+ - Verbatim : "le copier-coller 100%, c'est pas trop acceptable"
+ - Code 2 : Contexte d'utilisation
+ - Verbatim : "ça dépend du contexte"
+ - Code 3 : Référence et construction personnelle
+ - Verbatim : "tu prends toujours que des bouts et tu construis ton propre truc"
+ - Code 4 : Importance de la citation
+ - Verbatim : "il faut pouvoir le citer"
+ - Code 5 : Logique d'apprentissage
+ - Verbatim : "c'est important pour Chatty que ce soit dans la même logique"
+ - Code 6 : Utilisation modérée de l'outil
+ - Verbatim : "on puisse utiliser des petits bouts de reformulation mais pas que ce soit à 100% du contenu"
+ - Code 7 : Légitimité de l'apprentissage
+ - Verbatim : "ça aussi, ça lève la question de légitimité"
+ - Code 8 : Objectif de l'université
+ - Verbatim : "on est quand même à l'université pour apprendre à faire des choses"
+ - Code 9 : Valeur du travail personnel
+ - Verbatim : "si on ne le fait pas, on ne peut pas vraiment apprendre"
+ - Code 10 : Nécessité de l'effort personnel
+ - Verbatim : "t'as rien fait non plus"
+
+**Segment 3 : L'outil comme aide à l'apprentissage**
+
+- Thème : L'apport de l'outil dans le processus d'apprentissage
+ - Code 1 : Utilisation de l'outil comme aide
+ - Verbatim : "je l'utilise comme un outil en plus de ce que je fais"
+ - Code 2 : Utilisation non systématique
+ - Verbatim : "je ne l'utilise jamais comme valeur ou comme mesure sûre"
+ - Code 3 : Sélection et adaptation
+ - Verbatim : "je vais vraiment prendre des petits bouts, des petits paragraphes à chaque fois et puis je vais faire un collage"
+ - Code 4 : Apport positif
+ - Verbatim : "il m'aide parce que je l'utilise comme un outil"
+ - Code 5 : Nécessité de discernement
+ - Verbatim : "je vais vraiment prendre des petits bouts"
+ 
+Pour continuer l'analyse avec un nouveau thème :
+
+**Segment 4 : La dynamique sociale autour de l'utilisation de l'outil**
+
+- Thème : L'influence du contexte social sur l'utilisation de l'outil
+ - Code 1 : Influence du groupe
+ - Verbatim : "ça dépend vraiment du public avec qui tu es"
+ - Code 2 : Utilisation collective
+ - Verbatim : "si tes collègues utilisent aussi, forcément ça aide plus"
+ - Code 3 : Isolement par l'utilisation
+ - Verbatim : "si t'es le seul qui l'utilise"
+ - Code 4 : Perception par les pairs
+ - Verbatim : "ça peut paraître fainéant et puis pas de bonne qualité"
+ - Code 5 : Normalisation par l'usage collectif
+ - Verbatim : "si tes collègues utilisent aussi"
+ 
+Et enfin, pour conclure avec un dernier thème :
+
+**Segment 5 : Réflexion sur l'intégration de l'outil dans les pratiques académiques**
+
+- Thème : Réflexions sur l'intégration de l'outil dans l'enseignement supérieur
+ - Code 1 : Adaptation nécessaire
+ - Verbatim : "tant qu'on n'a pas défini clairement qu'est-ce qui est acceptable"
+ - Code 2 : Évolution des pratiques
+ - Verbatim : "je pense que ce dilemme il va continuer à exister"
+ - Code 3 : Responsabilité institutionnelle
+ - Verbatim : "on n'a pas défini clairement qu'est-ce qui est acceptable et qu'est-ce qui n'est pas acceptable"
+ - Code 4 : Intégration pour l'apprentissage
+ - Verbatim : "c'est important pour Chatty que ce soit dans la même logique"
+ - Code 5 : Valeur accordée au travail
+ - Verbatim : "on est quand même à l'université pour apprendre à faire des choses"

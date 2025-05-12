@@ -1,0 +1,121 @@
+Je vais analyser l'entretien en suivant la méthode de codage qualitatif que vous avez indiquée. Voici les résultats :
+
+**Segment 1 : Utilisation de l'IA pour la compréhension**
+
+- Thème : Limites de l'IA dans la compréhension
+ - Code 1 : Réponses insatisfaisantes
+ - Verbatim : "J’avais l’impression qu’elle ouvrait 5 pages wikipédia et qu’elle me recrachait un contenu prédestiné ou qui n’avait aucun but."
+ - Code 2 : Manque de spécificité
+ - Verbatim : "Quand je demande à Gemini des termes un peu plus techniques, qui répondent un peu à côté..."
+ - Code 3 : Compréhension limitée
+ - Verbatim : "C'est plus sa compréhension à mon sens extrêmement limitée qui moi me frustrait."
+ - Code 4 : Réponses inappropriées
+ - Verbatim : "Je t’ai précisé d’équitation et tu me sors une marque de bagnole."
+ - Code 5 : Besoin de précision
+ - Verbatim : "Il faut préciser je pense qu'il y a vraiment de la spécificisation à faire aussi je pense."
+ - Code 6 : Utilité pour certaines notions
+ - Verbatim : "L'usage de l'IA me permet de me comprendre le cours, parce qu'il m'explique certaines notions ou certains points que je n'aurais pas compris."
+ - Code 7 : Limite dans la compréhension globale
+ - Verbatim : "Après, de là à me faire comprendre le cours en entier, non."
+ - Code 8 : Préférence pour les explications humaines
+ - Verbatim : "Quand j'ai besoin de précision, je demande à mon professeur qui lui, est plus à même de m’expliquer la chose."
+ - Code 9 : Utilité dans certains domaines
+ - Verbatim : "L’IA est performante pour le coup car est capable, en certains points, de m'expliquer certaines notions, certains éléments, telles ou telles notions que ce soit économique ou autre."
+ - Code 10 : Complémentarité avec d'autres sources
+ - Verbatim : "Ou alors je demande à un ami qui aurait mieux compris ou autre..."
+
+**Segment 2 : Impact de l'IA sur le stress académique**
+
+- Thème : Impact limité de l'IA sur le stress académique
+ - Code 1 : Non-utilisation pour la préparation d'entretiens
+ - Verbatim : "Alors non pas du tout. J’y avais même jamais songé."
+ - Code 2 : Perception de l'IA comme non-humaine
+ - Verbatim : "Elle n'aura pas, je dirais, la flamme, encore l’âme, que possède un humain."
+ - Code 3 : Préférence pour les interactions humaines
+ - Verbatim : "Quand je veux, m’entrainer à préparer un truc. Je vais demander à des gens, à des professeurs ou des éducatrices ou autres qui sont plus à même..."
+ - Code 4 : Utilisation très spécifique
+ - Verbatim : "A la rigueur le seul usage que j’en avais fait à ce propos. C’est quand j’avais préparé le concours pour SciencePo l’an dernier."
+ - Code 5 : Génération de questions
+ - Verbatim : "Génère moi cinq questions qu'on pourrait me poser sur le thème je sais pas moi… sur l’IA, du football ou autre."
+ - Code 6 : Pas d'impact sur le niveau de stress
+ - Verbatim : "Honnêtement, dans la mesure où je l’utilise sans vrai... Je pense que... Dans une moindre mesure, ça pourrait mais avec un usage extrêmement raisonné et extrêmement précis."
+ - Code 7 : Utilité potentielle pour les personnes autistes
+ - Verbatim : "Aider justement des personnes autistes, qui sont pas forcément à l'aise avec les conversations et autres."
+ - Code 8 : Limite de l'IA dans la préparation
+ - Verbatim : "Mais moi, honnêtement, pour le coup encore une fois l’IA ça ne sera pas … elle aura beau dire qu'elle pense comme un humain, elle ne le jamais comme un humain."
+ - Code 9 : Futur usage peu probable
+ - Verbatim : "A long terme je l'utiliserai pour préparer les entretiens ou autre."
+ - Code 10 : Usage actuel limité
+ - Verbatim : "Je ne pense pas que à court, à moyen ou à long terme je l'utiliserai pour préparer les entretiens ou autre."
+
+**Segment 3 : Perception de l'IA**
+
+- Thème : Perception négative de l'IA
+ - Code 1 : Frustration face aux réponses
+ - Verbatim : "C'est plus sa compréhension à mon sens extrêmement limitée qui moi me frustrait."
+ - Code 2 : Manque d'âme
+ - Verbatim : "Elle n'aura pas, je dirais, la flamme, encore l’âme, que possède un humain."
+ - Code 3 : Perception d'insuffisance
+ - Verbatim : "Elle ne le jamais comme un humain."
+ - Code 4 : Limite dans la spécificité
+ - Verbatim : "Quand je demande à Gemini des termes un peu plus techniques, qui répondent un peu à côté..."
+ - Code 5 : Utilité relative
+ - Verbatim : "L’IA est performante pour le coup car est capable, en certains points, de m'expliquer certaines notions."
+ - Code 6 : Préférence pour les interactions humaines
+ - Verbatim : "Je vais demander à des gens, à des professeurs ou des éducatrices ou autres qui sont plus à même..."
+ - Code 7 : Usage limité
+ - Verbatim : "Je ne pense pas que à court, à moyen ou à long terme je l'utiliserai pour préparer les entretiens ou autre."
+ - Code 8 : Perception de différence
+ - Verbatim : "Ce qui fait qu'un humain est un humain, en un sens."
+ - Code 9 : Limite dans la compréhension
+ - Verbatim : "J’avais l’impression qu’elle ouvrait 5 pages wikipédia et qu’elle me recrachait un contenu prédestiné ou qui n’avait aucun but."
+ - Code 10 : Futur usage incertain
+ - Verbatim : "Dans une moindre mesure, ça pourrait mais avec un usage extrêmement raisonné et extrêmement précis."
+
+**Segment 4 : Utilisation de l'IA dans le contexte académique**
+
+- Thème : Utilisation complémentaire de l'IA
+ - Code 1 : Utilisation pour la compréhension de notions
+ - Verbatim : "L'usage de l'IA me permet de me comprendre le cours, parce qu'il m'explique certaines notions ou certains points que je n'aurais pas compris."
+ - Code 2 : Complémentarité avec d'autres sources
+ - Verbatim : "Ou alors je demande à un ami qui aurait mieux compris ou autre..."
+ - Code 3 : Utilité dans certains domaines
+ - Verbatim : "L’IA est performante pour le coup car est capable, en certains points, de m'expliquer certaines notions, certains éléments, telles ou telles notions que ce soit économique ou autre."
+ - Code 4 : Limite dans la compréhension globale
+ - Verbatim : "Après, de là à me faire comprendre le cours en entier, non."
+ - Code 5 : Préférence pour les explications humaines
+ - Verbatim : "Quand j'ai besoin de précision, je demande à mon professeur qui lui, est plus à même de m’expliquer la chose."
+ - Code 6 : Usage spécifique
+ - Verbatim : "A la rigueur le seul usage que j’en avais fait à ce propos. C’est quand j’avais préparé le concours pour SciencePo l’an dernier."
+ - Code 7 : Génération de questions
+ - Verbatim : "Génère moi cinq questions qu'on pourrait me poser sur le thème je sais pas moi… sur l’IA, du football ou autre."
+ - Code 8 : Utilité potentielle pour les personnes autistes
+ - Verbatim : "Aider justement des personnes autistes, qui sont pas forcément à l'aise avec les conversations et autres."
+ - Code 9 : Limite de l'IA dans la préparation
+ - Verbatim : "Mais moi, honnêtement, pour le coup encore une fois l’IA ça ne sera pas … elle aura beau dire qu'elle pense comme un humain, elle ne le jamais comme un humain."
+ - Code 10 : Perception de l'IA comme outil
+ - Verbatim : "L’IA est performante pour le coup car est capable, en certains points, de m'expliquer certaines notions."
+
+**Segment 5 : Évolution de l'utilisation de l'IA**
+
+- Thème : Évolution de la perception de l'IA
+ - Code 1 : Changement dans la perception
+ - Verbatim : "En ce moment, j’ai l’impression que c’est moins le cas parce qu’elle évolue."
+ - Code 2 : Évolution de l'IA
+ - Verbatim : "Je me souviens que quand je lui demandais de m'expliquer quelque chose, surtout de sa à ChatGPT… Il y a de ça 1 ou 2 ans."
+ - Code 3 : Adaptation à l'IA
+ - Verbatim : "Il faut préciser je pense qu'il y a vraiment de la spécificisation à faire aussi je pense."
+ - Code 4 : Perception actuelle
+ - Verbatim : "J’avais l’impression qu’elle ouvrait 5 pages wikipédia et qu’elle me recrachait un contenu prédestiné ou qui n’avait aucun but."
+ - Code 5 : Utilisation actuelle
+ - Verbatim : "L'usage de l'IA me permet de me comprendre le cours, parce qu'il m'explique certaines notions ou certains points que je n'aurais pas compris."
+ - Code 6 : Futur usage
+ - Verbatim : "Je ne pense pas que à court, à moyen ou à long terme je l'utiliserai pour préparer les entretiens ou autre."
+ - Code 7 : Limite actuelle
+ - Verbatim : "C'est plus sa compréhension à mon sens extrêmement limitée qui moi me frustrait."
+ - Code 8 : Potentiel de l'IA
+ - Verbatim : "L’IA est performante pour le coup car est capable, en certains points, de m'expliquer certaines notions."
+ - Code 9 : Usage raisonné
+ - Verbatim : "Dans une moindre mesure, ça pourrait mais avec un usage extrêmement raisonné et extrêmement précis."
+ - Code 10 : Interaction avec l'IA
+ - Verbatim : "Quand je demande à Gemini des termes un peu plus techniques, qui répondent un peu à côté..."

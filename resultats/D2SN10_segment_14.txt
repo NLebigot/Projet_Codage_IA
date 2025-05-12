@@ -1,0 +1,118 @@
+Après analyse de l'entretien, j'ai identifié plusieurs thèmes et codes pertinents. Voici les résultats :
+
+**Thème 1 : Perception de l'utilisation de l'IA dans le contexte académique**
+
+- Code 1 : Perception négative de l'utilisation de l'IA pour les tâches académiques complexes
+  - Verbatim : "les élites de demain seront les élites qui pensent par eux-même et pas les élites qui seront assistées ou qui ne devront leur ascension qu'à ce qu'un programme leur a dit quoi faire"
+- Code 2 : Distinction entre les établissements d'enseignement supérieur
+  - Verbatim : "Science po, que SciencePo Paris, les limites sont les mêmes"
+- Code 3 : Rôle de l'IA dans la formation des élites
+  - Verbatim : "former les élites de la nation"
+- Code 4 : Préoccupation quant à l'impact de l'IA sur l'autonomie de pensée
+  - Verbatim : "les élites qui pensent par eux-même"
+- Code 5 : Utilisation de l'IA considérée comme une forme de triche
+  - Verbatim : "c’était certes tricher"
+- Code 6 : Perception de l'IA comme un outil d'aide
+  - Verbatim : "j'ai le choix entre avoir une réponse qui sera claire, qui sera concise"
+- Code 7 : Limitations de l'IA dans la compréhension des tâches académiques
+  - Verbatim : "je me limite à l’explication de concept ou de terme"
+- Code 8 : Utilisation de l'IA pour des tâches spécifiques
+  - Verbatim : "pour les tâches un peu plus ingrates"
+- Code 9 : Conscience des implications de l'utilisation de l'IA
+  - Verbatim : "je me suis posé la question parce que le devoir était dur"
+- Code 10 : Valeurs personnelles contre l'utilisation abusive de l'IA
+  - Verbatim : "ça m’aurait déshonoré et m’abaisser à des valeurs qui moi me conviennent pas"
+
+**Thème 2 : Tensions et dilemmes liés à l'utilisation de ChatGPT**
+
+- Code 1 : Conflit entre gain de temps et apprentissage personnel
+  - Verbatim : "les tensions… Quand j’utilise l’IA j’ai le choix entre avoir une réponse qui sera claire"
+- Code 2 : Arbitrage entre la commodité et la fiabilité
+  - Verbatim : "ou alors prendre plus de temps, y passer éventuellement quelques heures"
+- Code 3 : Utilisation de l'IA pour des tâches répétitives ou ingrates
+  - Verbatim : "pour les tâches un peu plus ingrates"
+- Code 4 : Perception de l'IA comme un outil de soutien
+  - Verbatim : "j'en demandé à Gemini"
+- Code 5 : Réflexion sur l'usage légitime de l'IA
+  - Verbatim : "est-ce que tu penses que l’utilisation de ChatGPT soit légitime pour certains travaux académiques"
+- Code 6 : Conscience des implications morales de l'utilisation de l'IA
+  - Verbatim : "j’ai hésité à l’utiliser"
+- Code 7 : Différenciation entre les contextes d'utilisation de l'IA
+  - Verbatim : "certains travaux académiques mais non pour d’autres"
+- Code 8 : Impact de l'IA sur la motivation pour accomplir des tâches
+  - Verbatim : "j'avais pas forcément la motivation de me farcir 5 pages à lire et à résumer"
+- Code 9 : Perception de la valeur des tâches accomplies avec ou sans l'IA
+  - Verbatim : "qu’est-ce que ça m’apportera ? Bah, pas grand-chose au final"
+- Code 10 : Remords liés à l'utilisation de l'IA
+  - Verbatim : "je m’enlever des remords vis-à-vis de l’utilisation des IA"
+
+**Thème 3 : Rôle de l'IA dans la compréhension et l'accomplissement des tâches académiques**
+
+- Code 1 : Utilisation de l'IA pour clarifier les attentes des projets académiques
+  - Verbatim : "non, je me limite à l’explication de concept ou de terme"
+- Code 2 : Perception de l'IA comme un outil d'aide à la compréhension
+  - Verbatim : "j'ai le choix entre avoir une réponse qui sera claire, qui sera concise"
+- Code 3 : Limitations de l'IA dans la compréhension des tâches académiques complexes
+  - Verbatim : "pourquoi j’aurais utilisé l’IA pour des tâches complexes"
+- Code 4 : Rôle de l'IA dans l'accomplissement des tâches répétitives
+  - Verbatim : "pour les tâches un peu plus ingrates, j’aurai plus tendance à m’enlever des remords"
+- Code 5 : Utilisation de l'IA comme un complément à l'apprentissage
+  - Verbatim : "des pavés et des pavés à lire, qui là en complément, m’apporteront plus de réponse"
+- Code 6 : Préférence pour l'utilisation de l'IA dans certaines situations
+  - Verbatim : "j'avais pas forcément la motivation de me farcir 5 pages à lire et à résumer"
+- Code 7 : Perception de l'utilité de l'IA dans des contextes spécifiques
+  - Verbatim : "là oui, pour le coup, j'en demandé à Gemini"
+- Code 8 : Conscience des limites de l'IA
+  - Verbatim : "je me limite à l’explication de concept ou de terme"
+- Code 9 : Impact de l'IA sur la charge de travail
+  - Verbatim : "gagner du temps"
+- Code 10 : Adaptation de l'utilisation de l'IA en fonction des tâches
+  - Verbatim : "selon les cas, je vais utiliser ou non l’IA"
+
+**Thème 4 : Réflexion sur les usages légitimes de ChatGPT**
+
+- Code 1 : Légitimité de l'utilisation de l'IA selon le type de tâche
+  - Verbatim : "certains travaux académiques mais non pour d’autres"
+- Code 2 : Réflexion sur les critères de légitimité
+  - Verbatim : "qu’est-ce qui fait que c’est légitime ou pas"
+- Code 3 : Perception de la frontière entre utilisation légitime et abusive
+  - Verbatim : "ça m’aurait déshonoré"
+- Code 4 : Conscience des implications morales
+  - Verbatim : "j’ai hésité à l’utiliser"
+- Code 5 : Différenciation entre les contextes d'utilisation
+  - Verbatim : "selon les cas"
+- Code 6 : Rôle de l'IA dans l'évaluation de la légitimité
+  - Verbatim : "la façon dont toi tu l'aborde"
+- Code 7 : Importance de l'autonomie dans l'apprentissage
+  - Verbatim : "les élites qui pensent par eux-même"
+- Code 8 : Perception de l'IA comme un outil neutre
+  - Verbatim : "c’est à toi de voir comment tu l’utilises"
+- Code 9 : Responsabilité de l'utilisateur
+  - Verbatim : "c’est à toi de voir"
+- Code 10 : Conscience de la nécessité d'une utilisation responsable
+  - Verbatim : "je me suis posé la question"
+
+**Thème 5 : Impact de l'IA sur l'expérience académique**
+
+- Code 1 : Impact sur la motivation
+  - Verbatim : "j'avais pas forcément la motivation"
+- Code 2 : Changement dans la façon d'aborder les tâches
+  - Verbatim : "je vais utiliser ou non l’IA"
+- Code 3 : Perception de l'IA comme un soutien
+  - Verbatim : "j'en demandé à Gemini"
+- Code 4 : Effet sur la perception de la charge de travail
+  - Verbatim : "gagner du temps"
+- Code 5 : Influence sur la compréhension des concepts
+  - Verbatim : "m’apporteront plus de réponse"
+- Code 6 : Impact sur l'autonomie
+  - Verbatim : "les élites qui pensent par eux-même"
+- Code 7 : Rôle dans l'adaptation aux exigences académiques
+  - Verbatim : "selon les cas, je vais utiliser ou non l’IA"
+- Code 8 : Effet sur la perception de la difficulté des tâches
+  - Verbatim : "le devoir était dur"
+- Code 9 : Changement dans les stratégies d'apprentissage
+  - Verbatim : "je me limite à l’explication de concept ou de terme"
+- Code 10 : Influence sur les résultats académiques
+  - Verbatim : "qu’est-ce que ça m’apportera ?"
+
+Ces thèmes et codes illustrent la complexité des réflexions de l'enquêté sur l'utilisation de l'IA dans le contexte académique, mettant en lumière les tensions, les dilemmes et les considérations autour de l'usage de ChatGPT.

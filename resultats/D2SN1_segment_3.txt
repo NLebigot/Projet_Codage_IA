@@ -1,0 +1,111 @@
+Pour analyser l'entretien avec Hassan, je vais suivre la méthode de codage qualitatif demandée. L'entretien concerne l'utilisation de Chat GPT par Hassan dans le cadre de ses études, notamment pour la programmation et l'apprentissage en général. Voici l'analyse en suivant la structure demandée :
+
+### Thème 1 : Utilisation de Chat GPT comme Outil d'Apprentissage
+- Code 1 : Gain de temps
+  - Verbatim : "c'est un gain de temps."
+- Code 2 : Disponibilité
+  - Verbatim : "disponible 24h/24, 7 jours sur 7"
+- Code 3 : Assistance personnalisée
+  - Verbatim : "comme un professeur particulier disponible 24h sur 24"
+- Code 4 : Réduction du stress
+  - Verbatim : "ça soulage plutôt le stress lié aux échéances académiques"
+- Code 5 : Complémentarité avec l'enseignement formel
+  - Verbatim : "on a un professeur qui présente son module en une semaine, mais ce n’est pas en une semaine qu'on apprend."
+- Code 6 : Risque de procrastination
+  - Verbatim : "ça peut être un couteau double tranchant."
+- Code 7 : Organisation personnelle
+  - Verbatim : "je suis quelqu'un d'assez organisé dans le sens où je fais les choses en avance"
+- Code 8 : Utilisation complémentaire d'autres IA
+  - Verbatim : "je fais en sorte aussi de travailler avec les autres IA, d'autres sociétés"
+- Code 9 : Validation des réponses
+  - Verbatim : "je fais des recherches sur internet pour les réponses qui me semblent un peu orientées ou un peu biaisées."
+- Code 10 : Formulation des questions
+  - Verbatim : "j'essaie vraiment de donner un maximum de contexte pour permettre à chat GPT de répondre de manière efficace"
+
+### Thème 2 : Évaluation de la Qualité et de la Fiabilité de Chat GPT
+- Code 1 : Comparaison avec d'autres sources
+  - Verbatim : "je fais des recherches sur internet pour vérifier les réponses"
+- Code 2 : Utilisation de plusieurs IA
+  - Verbatim : "je travaille avec les autres IA, d'autres sociétés notamment Mistral"
+- Code 3 : Critère de fiabilité
+  - Verbatim : "les réponses qui me semblent un peu orientées ou un peu biaisées"
+- Code 4 : Appréciation générale
+  - Verbatim : "franchement sur les explications que donne Chat GPT sur certains sujets, on peut difficilement trouver mieux"
+- Code 5 : Capacité de vulgarisation
+  - Verbatim : "Chat GPT arrive à donner une réponse ou bien une explication qui est beaucoup plus vulgarisée que certains profs"
+- Code 6 : Utilité pour les explications complexes
+  - Verbatim : "explique-moi ce sujet comme si j'étais un enfant de 5 ans"
+- Code 7 : Art de l'explication
+  - Verbatim : "c'est vraiment un art en fait que certains profs n'ont pas naturellement"
+- Code 8 : Limitations perçues
+  - Verbatim : "pas spécialement [pas de cas où GPT l'a incité à être plus critique]"
+- Code 9 : Impact sur la pensée critique
+  - Verbatim : "Non, pas spécialement. J'ai pas d'exemple en tête"
+- Code 10 : Valeur ajoutée
+  - Verbatim : "je dirais que ouais, c'est un accompagnement qu'on peut solliciter à tout moment"
+
+### Thème 3 : Impact de Chat GPT sur les Habitudes de Travail
+- Code 1 : Changement dans l'approche
+  - Verbatim : "Modifiez-vous parfois votre approche d'un sujet ou votre méthode de travail ?"
+- Code 2 : Interaction avec Chat GPT
+  - Verbatim : "j'essaie de donner un maximum de contexte pour permettre à chat GPT de répondre"
+- Code 3 : Effet sur la procrastination
+  - Verbatim : "ça peut être un couteau double tranchant"
+- Code 4 : Organisation et planification
+  - Verbatim : "je fais les choses en avance"
+- Code 5 : Flexibilité
+  - Verbatim : "disponible 24h/24, 7 jours sur 7"
+- Code 6 : Personnalisation de l'apprentissage
+  - Verbatim : "comme un professeur particulier"
+- Code 7 : Évolution de l'utilisation
+  - Verbatim : "Comment j'évoluerai cela ? Bah, j'essaie vraiment de donner un maximum de contexte"
+- Code 8 : Complémentarité avec d'autres outils
+  - Verbatim : "je fais des recherches sur internet pour vérifier"
+- Code 9 : Satisfaction globale
+  - Verbatim : "totalement, je dirais que ouais"
+- Code 10 : Perception de l'utilité
+  - Verbatim : "c'est un gain de temps"
+
+### Thème 4 : Rôle de Chat GPT dans l'Accompagnement Académique
+- Code 1 : Remplacement d'un professeur particulier
+  - Verbatim : "comme un professeur particulier disponible 24h sur 24"
+- Code 2 : Disponibilité et accessibilité
+  - Verbatim : "disponible 24h/24, 7 jours sur 7"
+- Code 3 : Qualité de l'explication
+  - Verbatim : "Chat GPT arrive à donner une réponse ou bien une explication qui est beaucoup plus vulgarisée"
+- Code 4 : Utilité pour les recherches
+  - Verbatim : "pour des recherches qui sont poussées"
+- Code 5 : Complémentarité avec l'enseignement
+  - Verbatim : "on a un professeur qui présente son module en une semaine"
+- Code 6 : Perception de l'interviewé
+  - Verbatim : "totalement, Totalement"
+- Code 7 : Impact sur le stress
+  - Verbatim : "ça soulage plutôt le stress lié aux échéances académiques"
+- Code 8 : Rôle dans la méthode de travail
+  - Verbatim : "ça m'aide plutôt"
+- Code 9 : Limitations et risques
+  - Verbatim : "ça peut être un couteau double tranchant"
+- Code 10 : Bénéfice global
+  - Verbatim : "je dirais que ouais, c'est un accompagnement qu'on peut solliciter à tout moment"
+
+### Thème 5 : Perception et Utilisation de l'IA dans l'Éducation
+- Code 1 : Adoption de l'IA
+  - Verbatim : "il y a beaucoup d'IA mis à part Chat GPT"
+- Code 2 : Comparaison entre différentes IA
+  - Verbatim : "je travaille avec les autres IA, d'autres sociétés"
+- Code 3 : Perception de l'IA comme outil
+  - Verbatim : "un robot qu'on a à la maison"
+- Code 4 : Potentiel de l'IA dans l'éducation
+  - Verbatim : "c'est vraiment un art en fait que certains profs n'ont pas naturellement"
+- Code 5 : Limites de l'IA
+  - Verbatim : "pas spécialement [pas de cas où GPT l'a incité à être plus critique]"
+- Code 6 : Intégration dans les pratiques académiques
+  - Verbatim : "je fais en sorte aussi de travailler avec les autres IA"
+- Code 7 : Effet sur l'enseignement traditionnel
+  - Verbatim : "on a un professeur qui présente son module en une semaine"
+- Code 8 : Évolution future
+  - Verbatim : "beaucoup de sociétés ont lancé leur LLM"
+- Code 9 : Impact sur la relation à l'apprentissage
+  - Verbatim : "ça soulage plutôt le stress lié aux échéances académiques"
+- Code 10 : Satisfaction avec l'IA
+  - Verbatim : "totalement, je dirais que ouais"

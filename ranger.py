@@ -32,3 +32,4 @@ if _name_ == "_main_":
     nom_entretien = input("Nom de l'entretien (ex: entretien_4) : ").strip()
     df = charger_et_parser_fichiers(nom_entretien, "resultats")
     nettoyer_et_exporter(df, nom_entretien)
+

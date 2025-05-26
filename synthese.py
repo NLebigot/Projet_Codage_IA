@@ -5,7 +5,7 @@ from groq import Groq
 
 # --- CONFIGURATION ---
 load_dotenv()
-api_key = "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"
+api_key = 
 if not api_key:
     raise ValueError("Clé API GROQ non trouvée")
 

@@ -1,0 +1,68 @@
+Après analyse des grilles thématiques fournies, j'ai identifié cinq thèmes principaux qui ressortent des entretiens. Ces thèmes sont cohérents et regroupent les codes les plus pertinents. Voici la grille de synthèse :
+
+### Thème 1 : Intégration des Outils Numériques dans l'Enseignement
+
+- **Code 1 : Utilisation de ChatGPT pour la préparation de cours**
+  - Verbatim : "Je vais lui demander, OK, fais-moi des exercices que pourraient faire les élèves."
+- **Code 2 : Contrôle et adaptation des contenus générés**
+  - Verbatim : "Après je contrôle tout."
+- **Code 3 : Utilisation ciblée de l'outil pour des tâches spécifiques**
+  - Verbatim : "Je parle pas tout sur la même conversation."
+- **Code 4 : Intégration de l'outil dans la pratique enseignante**
+  - Verbatim : "C'est en lien avec mon stage en première année à l'HEP."
+- **Code 5 : Évaluation de l'utilité de l'outil pour les tâches d'enseignement**
+  - Verbatim : "Je lui demande de faire des exercices en tirant en bas pour laisser la place pour les réponses."
+
+### Thème 2 : Perception et Utilisation de l'IA dans le Milieu Éducatif
+
+- **Code 1 : Perception de l'utilité de l'IA**
+  - Verbatim : "C'est un outil qui est vraiment intéressant quand tu as besoin d'avoir de l'aide sur un sujet."
+- **Code 2 : Liberté dans l'utilisation de l'IA**
+  - Verbatim : "Je prends un peu des libertés."
+- **Code 3 : Aide à la clarification**
+  - Verbatim : "Ça m'aide à juste revoir les choses au clair."
+- **Code 4 : Utilisation pour la création d'exercices**
+  - Verbatim : "C'est un outil extrêmement intéressant pour la création d'exercices."
+- **Code 5 : Danger potentiel de l'IA**
+  - Verbatim : "Peut devenir un outil très dangereux."
+
+### Thème 3 : Interaction avec les Collègues et Expertise Personnelle
+
+- **Code 1 : Préférence pour une approche personnelle dans les problèmes relationnels**
+  - Verbatim : "Moi, je connais la personne. Je vais chercher moi-même comment résoudre ce problème."
+- **Code 2 : Limites de l'outil numérique pour les conseils pratiques spécifiques**
+  - Verbatim : "Jamais, jamais, jamais [demander à ChatGPT pour la gestion d'un cas d'élève]."
+- **Code 3 : Valeur de l'expérience et de la connaissance personnelle**
+  - Verbatim : "Je connais la personne."
+- **Code 4 : Collaboration avec les collègues**
+  - Verbatim : "S'aider des autres enseignants, des collègues et tout, qui eux peuvent te donner des pistes."
+- **Code 5 : Importance de la relation humaine dans l'enseignement**
+  - Verbatim : "Les gens sont tellement différents."
+
+### Thème 4 : Évolution Personnelle et Adaptation dans l'Utilisation des Outils Numériques
+
+- **Code 1 : Développement de compétences avec l'expérience**
+  - Verbatim : "Maintenant je suis drillé. J'ai l'habitude de faire, il n'y a plus de soucis."
+- **Code 2 : Utilisation de l'outil pour faciliter la planification**
+  - Verbatim : "Les plans, ils se font tout seuls, pratiquement."
+- **Code 3 : Changement dans les habitudes de travail**
+  - Verbatim : "Maintenant j'utilise moins de chat-chat-péter."
+- **Code 4 : Adaptation face aux défis**
+  - Verbatim : "Au tout début, quand je devais faire mes premières planifications, j'étais un peu en panique."
+- **Code 5 : Évolution vers une autonomie**
+  - Verbatim : "Je suis drillé."
+
+### Thème 5 : Risques et Limites de l'Utilisation de l'IA
+
+- **Code 1 : Information non fiable**
+  - Verbatim : "Ce qu'il te dit n'est pas la stricte vérité."
+- **Code 2 : Manipulation**
+  - Verbatim : "Peut souvent être manipulé."
+- **Code 3 : Risque de désinformation**
+  - Verbatim : "Peut mener à des dérives très graves."
+- **Code 4 : Impact sur les jeunes**
+  - Verbatim : "Et souvent des jeunes, à avoir des fausses informations en fait."
+- **Code 5 : Danger sur le long terme**
+  - Verbatim : "Sur le long terme ou sur des informations plus délicates, peut devenir un outil très dangereux."
+
+Cette grille de synthèse organise les thèmes de manière logique et cohérente, offrant une vue d'ensemble sur les perceptions, utilisations et défis liés à l'intégration des outils numériques et de l'intelligence artificielle dans le milieu éducatif.

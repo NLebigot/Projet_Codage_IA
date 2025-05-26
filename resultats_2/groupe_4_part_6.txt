@@ -1,0 +1,66 @@
+Après analyse des grilles thématiques fournies, j'ai identifié 5 thèmes principaux qui regroupent les codes et les verbatims pertinents. Voici la grille de synthèse :
+
+**Thème 1 : Interaction avec ChatGPT**
+
+* Code 1 : Compréhension du fonctionnement de ChatGPT
+ + Verbatim : "Et ça je sais parce qu'on m'a appris par des vidéos ou des forums de recherche que ChatGPR fonctionne comme ça."
+* Code 2 : Apport de sources pour une meilleure interprétation
+ + Verbatim : "J'ai supposé du coup qu'en lui fournissant l'information, il pourrait l'interpréter mieux."
+* Code 3 : Limitations de ChatGPT
+ + Verbatim : "Dans ses phrases, on lisait des choses qui n'avaient pas de sens."
+* Code 4 : Stratégie d'interaction
+ + Verbatim : "Faudrait réessayer maintenant le prompt. Par curiosité, il faudrait réessayer d'avoir le même genre de discussion avec lui, mais avec un apport et un angle d'attaque différent."
+* Code 5 : Personnalisation de l'interaction
+ + Verbatim : "Tu aurais pu lui dire, genre « Tu es un chercheur de l'histoire de la bio-indication »."
+
+**Thème 2 : Vérification et Validation**
+
+* Code 1 : Fact-checking
+ + Verbatim : "Faire du fact-checking, c'est-à-dire vérifier l'information."
+* Code 2 : Utilisation de sources externes
+ + Verbatim : "Soit tu prends l'information qu'ils te donnent et tu vas regarder sur internet ce que le monde scientifique en dit."
+* Code 3 : Consultation de bases de données académiques
+ + Verbatim : "Sur Google Scholar ou sur n'importe quelle base de données, tu mets une info."
+* Code 4 : Contre-vérification
+ + Verbatim : "Tu vérifies qu'il a bien compris la source."
+* Code 5 : Importance de la vérification
+ + Verbatim : "C'est du fact-checking, on n'est pas sur Twitter non plus."
+
+**Thème 3 : Utilisation de ChatGPT comme outil**
+
+* Code 1 : Utilisation courante dans le milieu académique
+ + Verbatim : "moi je ne connais personne qui n'utilise pas de ChatGPT dans le milieu académique."
+* Code 2 : Avantage comparatif
+ + Verbatim : "Est-ce qu'utiliser une calculatrice te donne un avantage ? Oui."
+* Code 3 : Perception de ChatGPT comme un outil supplémentaire
+ + Verbatim : "c'est un outil supplémentaire, donc oui."
+* Code 4 : Utilité pour des tâches spécifiques
+ + Verbatim : "je le vois comme une façon d'apprendre et ou comme une façon de faire ce que je ne sais pas faire"
+* Code 5 : Délestage de charge mentale
+ + Verbatim : "ça me déleste, ça me donne moins de charge mentale."
+
+**Thème 4 : Limitations et Biais de ChatGPT**
+
+* Code 1 : Risques d'interprétation erronée
+ + Verbatim : "Il va te dire n'importe quoi, mais pas parce qu'il a envie de te dire n'importe quoi, mais parce qu'il sait pas."
+* Code 2 : Nécessité de corriger ChatGPT
+ + Verbatim : "Le fait de lui redonner les sources, c'est voilà, mets tes pendules à l'heure."
+* Code 3 : Biais dans les réponses
+ + Verbatim : "Il mélangeait les sources."
+* Code 4 : Limite dans la fiabilité
+ + Verbatim : "On lisait des choses qui n'avaient pas de sens."
+
+**Thème 5 : Impact de l'IA sur l'apprentissage et la recherche**
+
+* Code 1 : Changement de paradigme dans l'apprentissage
+ + Verbatim : "Ça me fait apprendre différemment."
+* Code 2 : Réduction du temps consacré à la mémorisation
+ + Verbatim : "Je passe moins de temps à purement apprendre et à mémoriser le concept."
+* Code 3 : Utilisation de l'IA pour optimiser le temps
+ + Verbatim : "Le temps que je le mets à profit, j'apprends d'autres choses, ou des choses différemment."
+* Code 4 : Valeur accordée à la capacité de retrouver l'information
+ + Verbatim : "Savoir la retrouver [l'information] plutôt que la savoir."
+* Code 5 : Perception positive de l'utilisation de l'IA
+ + Verbatim : "Pour moi, c'est clairement une plus-value."
+
+Cette grille de synthèse regroupe les codes et les verbatims en 5 thèmes cohérents, permettant de visualiser les résultats de l'analyse des entretiens.

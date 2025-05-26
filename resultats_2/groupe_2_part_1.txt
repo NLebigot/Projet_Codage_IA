@@ -1,0 +1,55 @@
+Après avoir analysé les grilles thématiques fournies, j'ai identifié quatre thèmes principaux qui regroupent les préoccupations et les expériences des utilisateurs concernant l'utilisation de l'intelligence artificielle (IA) dans leur vie quotidienne et leurs études. Ces thèmes sont cohérents avec les verbatims fournis et permettent de couvrir les aspects clés de la perception et de l'utilisation de l'IA.
+
+### Thème 1 : **Limites et Fiabilité de l'IA**
+
+- **Code 1 : Limitations des données**
+  - Verbatim : "ma base de données s'arrête, je crois, le 31 décembre 2021 donc je ne peux pas te donner d’information qui dépasse cette chronologie."
+- **Code 2 : Erreur d'information**
+  - Verbatim : "quand j'ai demandé quand il était mort en mars, quelques mois après, le truc m'a dit, bah écoute, pour moi il est vivant."
+- **Code 3 : Nécessité de vérification**
+  - Verbatim : "tu vérifies les informations que te fournit Lya parce que on ne sait jamais."
+- **Code 4 : Dépendance aux données**
+  - Verbatim : "les informations que les IA vont te donner... ma base de données s'arrête,"
+- **Code 5 : Limite de la chronologie**
+  - Verbatim : "je ne peux pas te donner d’information qui dépasse cette chronologie."
+
+### Thème 2 : **Utilisation de l'IA pour l'Apprentissage et le Gain de Temps**
+
+- **Code 1 : Utilisation pratique**
+  - Verbatim : "je pose une question simple comme explique moi ceci ou cela et c'est tout."
+- **Code 2 : Gain de temps**
+  - Verbatim : "l’IA dans l’usage que j'en fais, c'est un gain de temps"
+- **Code 3 : Facilité d'utilisation**
+  - Verbatim : "je demande directement à elle"
+- **Code 4 : Utilisation ciblée**
+  - Verbatim : "pour la traduction ou la compréhension de langue"
+- **Code 5 : Simplification**
+  - Verbatim : "explique moi ceci ou cela simplement"
+
+### Thème 3 : **Biais, Neutralité et Impact Sociétal**
+
+- **Code 1 : Biais des développeurs**
+  - Verbatim : "il y a un côté de qui a fait l’IA et quel but ?"
+- **Code 2 : Influence des créateurs**
+  - Verbatim : "les développeurs peuvent avoir mis certains point de vue, de volonté dedans."
+- **Code 3 : Impact sur la société**
+  - Verbatim : "une sorte de restructuration de la société comme on a fait un peu les téléphones"
+- **Code 4 : Perception du biais**
+  - Verbatim : "je pense que Deepseek sera beaucoup moins encline à me dire que Taiwan est un pays."
+- **Code 5 : Conscience du biais**
+  - Verbatim : "je suis conscient que les développeurs peuvent avoir des points de vue"
+
+### Thème 4 : **Éthique et Perception de l'IA**
+
+- **Code 1 : Perception de l'honneur et de la légitimité**
+  - Verbatim : "j'ai une certaine vision, dirons-nous, de l'honneur, oui, surtout de l’honneur de manière général."
+- **Code 2 : Légitimité de demander de l'aide**
+  - Verbatim : "je considère que de mon point de vue, il n'y a aucun mal à demander un gain de temps, pour plusieurs raisons, mais si ce gain de temps est légitime et est raisonnable."
+- **Code 3 : Distinction entre être aidé et faire quelque chose à sa place**
+  - Verbatim : "il y a une différence entre être aidé et faire quelque chose à sa place."
+- **Code 4 : Perception de l'utilisation de l'IA comme déshonorant**
+  - Verbatim : "l'utilisation de l’IA pour réfléchir, ça ne me viendrait pas à l'esprit. Dans le sens où je considère la chose comme déshonorant"
+- **Code 5 : Importance de la réflexion personnelle**
+  - Verbatim : "ce qui compte, c'est comment est-ce que toi tu traites le problème qu'on te pose."
+
+Cette grille de synthèse permet de visualiser les thèmes principaux qui ressortent de l'analyse : les limites et la fiabilité de l'IA, son utilisation pour l'apprentissage et le gain de temps, les questions de biais, neutralité, et impact sociétal, ainsi que les considérations éthiques et la perception de l'IA.

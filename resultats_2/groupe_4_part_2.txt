@@ -1,0 +1,47 @@
+Après analyse des grilles thématiques fournies, j'ai identifié quatre thèmes principaux qui regroupent les codes et les verbatims associés. Voici la grille de synthèse :
+
+### Thème 1 : Parcours Universitaire et Professionnel
+
+- **Code 1** : Formation Académique
+  - Verbatim : "J'ai obtenu un baccalauréat économique et social en 2019."
+- **Code 2** : Expérience en Alternance
+  - Verbatim : "J'ai effectué un bachelor en 3 ans, une année en initial et les deux dernières années en tant que business développeur dans une start-up."
+- **Code 3** : Spécialisation en Marketing Digital
+  - Verbatim : "J'ai effectué un master spécialisé en marketing digital à l'Institut supérieur du commerce."
+- **Code 4** : Évolution de Carrière
+  - Verbatim : "J'ai gravi les échelons dans mon domaine, passant de chargé de marketing à customer success manager."
+
+### Thème 2 : Perception et Utilisation de l'Intelligence Artificielle (IA)
+
+- **Code 1** : Définition de l'IA
+  - Verbatim : "Je définirai l'IA comme un algorithme, un large language model qui regroupe une grande base de connaissance."
+- **Code 2** : Utilité de l'IA
+  - Verbatim : "Grâce à cette base de connaissance, on peut faire des requêtes directement et obtenir des réponses qui peuvent correspondre à de l'intelligence humaine."
+- **Code 3** : Impact de l'IA
+  - Verbatim : "L'effet waouh, c'est quelque chose qui a surpris tout le monde."
+- **Code 4** : Adoption par les Pairs
+  - Verbatim : "Tous mes collègues étaient également partis voir ce que c'était."
+
+### Thème 3 : Utilisation de Chat GPT dans les Études et le Travail
+
+- **Code 1** : Utilisation pour la Recherche et la Rédaction
+  - Verbatim : "pour de la recherche notamment sur nos projets de mémoire recherche"
+- **Code 2** : Gain de Temps
+  - Verbatim : "un gain de temps et beaucoup d'efficacité"
+- **Code 3** : Amélioration de la Productivité
+  - Verbatim : "beaucoup de temps de temps gagner de regagner"
+- **Code 4** : Intégration dans le Quotidien
+  - Verbatim : "C'est devenu un outil indispensable dans mon quotidien."
+
+### Thème 4 : Limitations et Impact de Chat GPT
+
+- **Code 1** : Limitations de Chat GPT
+  - Verbatim : "pour des questions euh des sujets mathématiques, ce n’est pas c'est pas la solution la plus adaptée"
+- **Code 2** : Nécessité de Travail Humain
+  - Verbatim : "on est obligé de faire de notre côté des recherches"
+- **Code 3** : Impact sur les Habitudes de Travail
+  - Verbatim : "ça m'aide plutôt"
+- **Code 4** : Acceptabilité de Chat GPT
+  - Verbatim : "dans tous les contextes, mis à part des contextes d'examen"
+
+Cette grille de synthèse regroupe les thèmes de manière cohérente et permet une vue d'ensemble sur les perceptions, utilisations et impacts de Chat GPT et de l'intelligence artificielle dans le parcours universitaire et professionnel des participants.

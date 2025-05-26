@@ -1,0 +1,55 @@
+Après analyse des grilles thématiques fournies, j'ai identifié quatre thèmes cohérents qui regroupent les préoccupations et les expériences des utilisateurs de ChatGPT dans le contexte académique. Ces thèmes sont suivis des codes les plus pertinents, avec un verbatim représentatif pour chacun.
+
+### Thème 1 : **Identité et Parcours Académique**
+
+- **Code 1** : Origine géographique
+  - Verbatim : "J'ai grandi à Paris."
+- **Code 2** : Niveau d'étude
+  - Verbatim : "J'ai intégré Sciences Po directement après l'obtention de mon baccalauréat."
+- **Code 3** : Milieu socio-économique
+  - Verbatim : "Je viens d'un milieu plutôt aisé."
+- **Code 4** : Situation familiale
+  - Verbatim : "Je suis fils unique également."
+- **Code 5** : Âge
+  - Verbatim : "Je suis né en 2002."
+
+### Thème 2 : **Utilisation de ChatGPT dans les Études**
+
+- **Code 1** : Utilité dans la vie quotidienne
+  - Verbatim : "Ça m'aide beaucoup pour lire pour rédiger, faire des bullets points."
+- **Code 2** : Utilisation pour les tâches universitaires
+  - Verbatim : "Principalement je formule mes prompts sous formes de bullets points, ca peut toucher n’importe quel tâche."
+- **Code 3** : Stratégies d'interaction avec ChatGPT
+  - Verbatim : "Je lui demande les tâches où j'ai du mal."
+- **Code 4** : Impact sur la qualité et l'efficacité du travail
+  - Verbatim : "Ça me permet de gagner du temps et de me concentrer sur des tâches moins répétitives."
+- **Code 5** : Perception de ChatGPT
+  - Verbatim : "Je pense que ça doit être encadré."
+
+### Thème 3 : **Rôle de ChatGPT dans le Travail Académique et son Impact**
+
+- **Code 1** : Rôle de ChatGPT
+  - Verbatim : "C'est vraiment juste un assistant."
+- **Code 2** : Limites de ChatGPT
+  - Verbatim : "Je ne vais pas lui demander de faire tout le travail à ma place."
+- **Code 3** : Intégrité académique
+  - Verbatim : "Moi ça ne me dérange pas de citer GPT, c'est une source."
+- **Code 4** : Gain de temps et efficacité
+  - Verbatim : "C'est un assistant. Il sert à l’apprentissage bien utilisé et permet de gagner du temps."
+- **Code 5** : Évolution de l'outil
+  - Verbatim : "C'est sûr qu'il y aura tout le temps de nouvelles choses."
+
+### Thème 4 : **Contrôle, Autonomie, et Perspectives Futures**
+
+- **Code 1** : Contrôle et autonomie
+  - Verbatim : "Il faut en garder le contrôle et ne pas le subir."
+- **Code 2** : Futur de l'éducation avec l'IA
+  - Verbatim : "Un cours entier serait fait par Chat GPT en fonction des élèves."
+- **Code 3** : Adaptation de l'université
+  - Verbatim : "La France est toujours un peu en retard."
+- **Code 4** : Responsabilités
+  - Verbatim : "Il y aurait une utilisation à vérifier de la part des universités à croître mais aussi des parents."
+- **Code 5** : Choix et utilisation des outils d'IA
+  - Verbatim : "Je vais prendre le plus efficace."
+
+Cette grille de synthèse met en lumière les principaux thèmes qui ressortent de l'utilisation de ChatGPT dans le contexte académique, notamment en termes d'identité et de parcours académique, d'utilisation de l'outil, de son rôle et de son impact sur le travail académique, ainsi que des perspectives futures concernant son intégration dans l'éducation.

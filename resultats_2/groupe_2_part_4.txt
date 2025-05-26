@@ -1,0 +1,51 @@
+Après avoir analysé les grilles thématiques fournies, j'ai identifié quatre thèmes principaux cohérents à partir des données. Ces thèmes sont suivis des codes les plus pertinents, avec un verbatim représentatif pour chaque code.
+
+### Thème 1 : Parcours universitaire et expériences
+
+1. **Choix de la sociologie comme domaine d'études** : 
+   - Code 1 : "C'est par curiosité, j’pense. [...] La socio c'est ce qui me parlait le plus."
+   - Verbatim : "C'est par curiosité, j’pense. [...] La socio c'est ce qui me parlait le plus."
+
+2. **Intérêt pour comprendre la société** :
+   - Code 4 : "Je me suis dit, la société c'est tellement vaste. Il y a beaucoup de choses, et euh… J'avais l'impression de rien connaître en fait finalement de la société"
+   - Verbatim : "Je me suis dit, la société c'est tellement vaste. Il y a beaucoup de choses, et euh… J'avais l'impression de rien connaître en fait finalement de la société"
+
+3. **Poursuite d'un master en sociologie** :
+   - Code 6 : "Je suis en master en sociétés plurielles avec option sociologie"
+   - Verbatim : "Je suis en master en sociétés plurielles avec option sociologie"
+
+### Thème 2 : Utilisation de ChatGPT et Impact sur l'apprentissage
+
+4. **Utilité de ChatGPT pour la compréhension du cours** :
+   - Code 1 : "j’étais contente que ChatGPT m’explique un peu les bases"
+   - Verbatim : "j’étais contente que ChatGPT m’explique un peu les bases"
+
+5. **Perception de l'utilité générale de ChatGPT** :
+   - Code 3 : "Je pense que c'est utile, franchement c'est plutôt utile."
+   - Verbatim : "Je pense que c'est utile, franchement c'est plutôt utile."
+
+6. **Impact sur les habitudes de travail** :
+   - Code 2 : "je me disais, Clara, tu deviens trop paresseuse"
+   - Verbatim : "je me disais, Clara, tu deviens trop paresseuse"
+
+### Thème 3 : Interactions et expériences sociales dans le contexte universitaire
+
+7. **Interactions avec les étudiants en tant que tutrice** :
+   - Code 1 : "Si j'ai des mails d'étudiants qui me posent des questions, c'est ma priorité je leur réponds."
+   - Verbatim : "Si j'ai des mails d'étudiants qui me posent des questions, c'est ma priorité je leur réponds."
+
+8. **Satisfaction personnelle à travers l'aide aux autres** :
+   - Code 3 : "J'étais contente qu'elle me contacte"
+   - Verbatim : "J'étais contente qu'elle me contacte"
+
+### Thème 4 : Équilibre entre responsabilités universitaires et autres aspects de la vie
+
+9. **Gestion du temps entre différentes tâches** :
+   - Code 1 : "Des fois y’a des périodes, c'est un peu chaud"
+   - Verbatim : "Des fois y’a des périodes, c'est un peu chaud"
+
+10. **Équilibre entre travail universitaire et vie personnelle** :
+    - Code 7 : "Il faut encore que je travaille mon organisation"
+    - Verbatim : "Il faut encore que je travaille mon organisation"
+
+Ces thèmes et codes mis en évidence offrent une vue d'ensemble sur les préoccupations, les expériences et les perceptions des étudiants concernant leur parcours universitaire, l'utilisation d'outils comme ChatGPT, les interactions sociales, et l'équilibre entre vie universitaire et personnelle.

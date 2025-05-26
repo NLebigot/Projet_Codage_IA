@@ -1,0 +1,68 @@
+Après avoir analysé les données fournies, j'ai regroupé les thèmes en 5 catégories cohérentes et sélectionné les codes les plus pertinents pour chaque thème. Voici la grille de synthèse :
+
+**Thème 1 : Perception et utilisation de ChatGPT**
+
+* Code 1 : Utilisation réfléchie
+* Verbatim : "ça me fait aussi réfléchir à ma propre utilisation"
+* Code 2 : Prise de conscience de la dépendance
+* Verbatim : "surtout quand tu as parlé de dépendance je pense que c'est pas... je le percevais pas forcément comme ça"
+* Code 3 : Impact sur la rédaction et la réflexion académique
+* Verbatim : "comme une manière de présenter ChatGPT comme un outil, savoir ce qui peut être utile pour accompagner un processus de rédaction ou de réflexion académique"
+* Code 4 : Réflexion sur l'approche personnelle
+* Verbatim : "Je pense que ça m'amène aussi un peu à préciser mon approche et à mieux définir ce que j'en fais"
+* Code 5 : Sentiment de gain de temps
+* Verbatim : "j'ai l'impression, en le faisant, et donc ça me fait avancer"
+
+**Thème 2 : Légitimité et éthique de l'utilisation de ChatGPT**
+
+* Code 1 : Perception de la légitimité
+* Verbatim : "Pas toujours."
+* Code 2 : Légitimité dans certaines tâches
+* Verbatim : "Là, dans le cas de relecture et de reformulation, je trouve que c'est légitime."
+* Code 3 : Condition d'usage légitime
+* Verbatim : "Sinon je ne l'utiliserai pas."
+* Code 4 : Risques d'usage illégitime
+* Verbatim : "Mais après dans le cadre d'une thèse, je pense que c'est un peu difficile, ou même dans un mémoire, c'est peut-être difficile de vraiment l'utiliser d'une manière illégitime."
+* Code 5 : Importance de la réflexion personnelle
+* Verbatim : "Il y a de toute façon une réflexion personnelle et on ne peut pas demander à ChatGPT de..."
+
+**Thème 3 : Impact de ChatGPT sur les habitudes de travail**
+
+* Code 1 : Impact sur l'autonomie
+* Verbatim : "Je sais que le travail a été... que c'est mon travail de A à Z, mais c'est vraiment la forme qui a bénéficié de cette liberté."
+* Code 2 : Changement dans la façon d'aborder les difficultés
+* Verbatim : "dès que je suis bloquée à ce niveau-là."
+* Code 3 : Modification de l'expérience utilisateur
+* Verbatim : "ça me rassure."
+* Code 4 : Utilisation pour la reformulation
+* Verbatim : "Notamment, disons, les reformulations."
+* Code 5 : Impact sur la qualité du travail
+* Verbatim : "mais c'est vraiment la forme qui a bénéficié de cette liberté."
+
+**Thème 4 : Évaluation de ChatGPT et limites**
+
+* Code 1 : Fiabilité des sources
+* Verbatim : "on peut quand même avoir la trace, même si c'est anonyme, des personnes qui ont contribué à la production de la page."
+* Code 2 : Limite de ChatGPT
+* Verbatim : "c'est vraiment une synthèse de tout ce qui est disponible sur Internet."
+* Code 3 : Utilisation académique
+* Verbatim : "j'utiliserai pas [ChatGPT] s'il n'y a pas de référence"
+* Code 4 : Recherche de sources
+* Verbatim : "Après si c'est facile de retrouver sur internet, je le ferais sans doute, d'aller chercher la source."
+* Code 5 : Confiance dans les sources
+* Verbatim : "déjà je ne serais pas tellement en confiance"
+
+**Thème 5 : Intégration de ChatGPT dans le milieu académique**
+
+* Code 1 : Nécessité de formation
+* Verbatim : "Peut-être que des formations ou des..."
+* Code 2 : Discussions dans les cours
+* Verbatim : "tout simplement d'en parler dans les cours dispensés à l'université par les enseignants eux-mêmes"
+* Code 3 : Positionnement des enseignants
+* Verbatim : "si chaque enseignant ou enseignante donne sa position vis-à-vis de ChatGPT"
+* Code 4 : Utilité pour les étudiants
+* Verbatim : "Ça peut être utile, je pense, pour les étudiantes et les étudiants"
+* Code 5 : Perception des enseignants sur l'utilisation de ChatGPT
+* Verbatim : "des enseignants qui ont aussi eux une idée un peu... de ce que peuvent en faire leurs étudiantes et étudiants"
+
+Cette grille de synthèse regroupe les thèmes et les codes les plus pertinents pour décrire la perception et l'utilisation de ChatGPT dans le milieu académique. Elle met en évidence les avantages et les limites de l'utilisation de cet outil, ainsi que les défis liés à son intégration dans les pratiques académiques.

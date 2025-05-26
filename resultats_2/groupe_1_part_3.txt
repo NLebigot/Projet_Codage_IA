@@ -1,0 +1,116 @@
+Après analyse des grilles thématiques fournies, j'ai identifié 5 thèmes cohérents qui regroupent les préoccupations et les comportements des individus concernant l'utilisation de Chat GPT et les stratégies de vérification des informations. Voici la grille de synthèse :
+
+**Thème 1 : Stratégies de vérification des informations**
+
+* Code 1 : Recherche de sources multiples
+* Verbatim : "Tu vas faire tes recherches de ton côté, ou tu vas comparer avec ton cours, ou tu cherches d'autres sources."
+* Code 2 : Utilisation de Google pour vérifier les informations
+* Verbatim : "En soi, Google c'est déjà une bonne source... pour chercher dans le même thème que le thème de la question qui a été posée à Chat GPT."
+* Code 3 : Consultation d'experts ou de professeurs
+* Verbatim : "Même le prof ou un expert, quelqu'un qui connaît le sujet."
+* Code 4 : Évaluation de la fiabilité en fonction du contexte
+* Verbatim : "Ça dépend de l'importance de la véracité de la réponse."
+* Code 5 : Utilité des rapports académiques
+* Verbatim : "Tu trouves un peu rien à part des rapports académiques de 500 pages."
+* Code 6 : Prise en compte de la spécificité du sujet
+* Verbatim : "Quand c'est des sujets très spécifiques."
+* Code 7 : Nécessité de vérifier les informations en fonction de l'importance de la réponse
+* Verbatim : "Si je demande... À Chat GPT et que, en fonction de la réponse, je vais faire un choix décisif sur un projet, je vais prendre du temps à chercher."
+* Code 8 : Limites de YouTube comme source d'information
+* Verbatim : "Sur YouTube, il y a certaines personnes qui expliquent ces choses dans des vidéos, mais de nouveau, c'est pas... C'est toujours à prendre avec des pincettes."
+* Code 9 : Utilité de Wikipédia pour trouver des sources supplémentaires
+* Verbatim : "Il y a toujours Wikipédia qui te donne aussi beaucoup de sources différentes que tu peux aller voir par toi-même."
+* Code 10 : Différence de traitement selon les domaines
+* Verbatim : "En fonction du domaine, c'est pas la même réflexion."
+
+**Thème 2 : Fiabilité des sources et utilisation de Chat GPT**
+
+* Code 1 : Limites de Google comme source d'information
+* Verbatim : "C'est pas une source en soi."
+* Code 2 : Importance de diversifier les sources
+* Verbatim : "Tu peux chercher, voir ce qu'il se dit un peu."
+* Code 3 : Rôle des experts dans la vérification des informations
+* Verbatim : "Quelqu'un qui connaît le sujet."
+* Code 4 : Problème de la spécificité et de la complexité des sujets
+* Verbatim : "Sujets très spécifiques."
+* Code 5 : Utilité des rapports académiques
+* Verbatim : "Rapports académiques de 500 pages."
+* Code 6 : Influence de la facilité d'utilisation
+* Verbatim : "Des fois, il y a de la flemme aussi."
+* Code 7 : Évaluation de la fiabilité en fonction du contexte
+* Verbatim : "Contexte aussi, parce que comme je l'ai dit avant."
+* Code 8 : Rôle de l'expérience personnelle
+* Verbatim : "Je sais en moi que c'est un choix décisif."
+* Code 9 : Impact sur l'organisation du travail
+* Verbatim : "Ton organisation, ta productivité, etc."
+* Code 10 : Différence de confiance selon les domaines
+* Verbatim : "Si c'est pour... Je sais pas... Si je lui demande de faire une analyse de l'actualité d'un pays, ça va être beaucoup moins... C'est plus flou."
+
+**Thème 3 : Gain de temps et productivité**
+
+* Code 1 : Utilisation de Chat GPT pour gagner du temps
+* Verbatim : "Ça t'aide à gagner du temps quand tu travailles."
+* Code 2 : Amélioration de la qualité du travail
+* Verbatim : "Améliore la qualité du travail."
+* Code 3 : Utilisation de Chat GPT pour des tâches spécifiques
+* Verbatim : "Pour des questions de prog, je fais plus confiance à l'IA."
+* Code 4 : Perception positive de l'impact de Chat GPT sur le travail
+* Verbatim : "Est-ce qu'il y a des améliorations, puis si oui, où est-ce que tu les observes un peu ?"
+* Code 5 : Limites de Chat GPT dans certains domaines
+* Verbatim : "C'est moins... moins structuré."
+* Code 6 : Attitude envers la technologie
+* Verbatim : "On est d'accord, c'est... centré sur Chat GPT."
+* Code 7 : Intérêt pour l'utilisation de Chat GPT dans des contextes spécifiques
+* Verbatim : "Pour des questions de prog."
+* Code 8 : Impact sur l'organisation du travail
+* Verbatim : "Ton organisation, ta productivité, etc."
+* Code 9 : Utilisation de Chat GPT comme aide à la décision
+* Verbatim : "En fonction de la réponse, je vais faire un choix décisif sur un projet."
+* Code 10 : Différence de confiance selon les domaines
+* Verbatim : "Si c'est pour... Je sais pas... Si je lui demande de faire une analyse de l'actualité d'un pays, ça va être beaucoup moins... C'est plus flou."
+
+**Thème 4 : Facteurs influençant l'utilisation de Chat GPT**
+
+* Code 1 : Confiance dans les capacités de Chat GPT
+* Verbatim : "Je fais plus confiance à l'IA pour des questions de prog."
+* Code 2 : Nature de la tâche
+* Verbatim : "Prog, c'est quatre lignes de code."
+* Code 3 : Perception de la complexité de la tâche
+* Verbatim : "L'actualité c'est un truc... Il y a beaucoup de causes, il y a beaucoup de conséquences, c'est libre d’interprétation."
+* Code 4 : Attitude envers la technologie
+* Verbatim : "Faut une analyse, comme on dit, et que t'appliques ton point de vue et que tu as le point de vue des autres."
+* Code 5 : Influence de la facilité d'utilisation
+* Verbatim : "Des fois, il y a de la flemme aussi."
+* Code 6 : Évaluation de la fiabilité en fonction du contexte
+* Verbatim : "Contexte aussi, parce que comme je l'ai dit avant."
+* Code 7 : Rôle de l'expérience personnelle
+* Verbatim : "Je sais en moi que c'est un choix décisif."
+* Code 8 : Impact sur l'apprentissage
+* Verbatim : "ce ressenti je l'ai eu, mais pas trop."
+* Code 9 : Sentiment négatif associé à la dépendance
+* Verbatim : "T'es bien parce que tu fais moins d'efforts mais quand tu te rends compte de ça, c'est pas un sentiment agréable."
+* Code 10 : Conscience de l'impact sur l'apprentissage
+* Verbatim : "C'est pas très grave, mais si ça commence à être ça, mais beaucoup de... à prendre plus de place, là ça pourrait être ouais..."
+
+**Thème 5 : Nuances linguistiques et compréhension**
+
+* Code 1 : Compréhension contextuelle
+* Verbatim : "il y a certains mots tu saisis mieux la nuance par rapport à certaines choses."
+* Code 2 : Expression de la nuance en langue étrangère
+* Verbatim : "En anglais il y a des mots, je connais le mot, mais tu peux pas donner une définition, mais je sais plus ou moins ce que ça veut dire."
+* Code 3 : Stratégie pour surmonter les barrières linguistiques
+* Verbatim : "je faisais un effort conscient pour l'écrire en français."
+* Code 4 : Dépendance au contexte pour la formulation des questions
+* Verbatim : "ça dépend énormément de... Du contexte du lequel émerge ma question, la question que je vais lui poser."
+* Code 5 : Perception de la différence dans les réponses en fonction de la langue
+* Verbatim : "Non pas tellement."
+* Code 6 : Utilisation de Chat GPT pour des tâches spécifiques
+* Verbatim : "Pour des questions de prog."
+* Code 7 : Impact sur la compréhension
+* Verbatim : "Je ne pouvais rien t'expliquer en C++. J'avais pas suivi les bases."
+* Code 8 : Sentiment de fraude
+* Verbatim : "t'es un peu une énorme fraude."
+* Code 9 : Évaluation de la gravité de la situation
+* Verbatim : "C'est pas très grave, mais si ça commence à être ça, mais beaucoup de... à prendre plus de place, là ça pourrait être ouais..."
+* Code 10 : Reconnaissance du problème
+* Verbatim : "j'ai remarqué qu'il y a des fois où je suis tombé dans ce cas là, c'était ma fondation."

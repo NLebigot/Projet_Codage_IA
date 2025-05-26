@@ -1,0 +1,68 @@
+Après analyse des grilles thématiques, j'ai regroupé les thèmes en 5 catégories cohérentes et sélectionné les codes les plus pertinents pour chaque thème. Voici la grille de synthèse :
+
+**Thème 1 : Utilisation et perception de ChatGPT**
+
+* Code 1 : Utilisation efficace
+ + Verbatim : "je l'utilise pour des tâches quand même assez précises"
+* Code 2 : Interaction avec ChatGPT
+ + Verbatim : "je vais un petit peu le parler comme un enfant"
+* Code 3 : Perception de ChatGPT
+ + Verbatim : "tu sens que c'est pas humain, tu sens qu'il n'y a pas une réflexion originale"
+* Code 4 : Utilité de ChatGPT
+ + Verbatim : "ça va beaucoup plus vite avec ChatGPT"
+* Code 5 : Satisfaction
+ + Verbatim : "la qualité des réponses la plupart du temps t’es assez contente"
+
+**Thème 2 : Impact sur les pratiques académiques**
+
+* Code 1 : Adaptation aux nouvelles technologies
+ + Verbatim : "Je pense que c'est comme quand Internet s'est développé"
+* Code 2 : Impact sur la qualité du travail
+ + Verbatim : "Finalement peut-être que la qualité du travail est meilleure après"
+* Code 3 : Utilisation pour les tâches administratives
+ + Verbatim : "on utilise toutes et tous ChatGPT pour la même raison, pour gagner du temps"
+* Code 4 : Concentration sur l'analyse
+ + Verbatim : "tu gagnes du temps à peut-être te concentrer, à réfléchir, à approfondir ton analyse"
+* Code 5 : Amélioration potentielle de la qualité du travail
+ + Verbatim : "ça te permet aussi de faire un meilleur travail"
+
+**Thème 3 : Intégrité et éthique**
+
+* Code 1 : Sentiment d'intégrité
+ + Verbatim : "inconsciemment dans ma tête c'est un peu de la triche"
+* Code 2 : Perception du travail
+ + Verbatim : "C'est comme une aide un peu folle, tu vois"
+* Code 3 : Comparaison avec l'aide humaine
+ + Verbatim : "quand ma mère me reformulait tous mes paragraphes et qu'elle me réalisait tout"
+* Code 4 : Différence de perception entre l'aide humaine et ChatGPT
+ + Verbatim : "Alors que techniquement, c'est le même type d'aide dont j'ai bénéficié, quoi"
+* Code 5 : Légitimité des diplômes universitaires
+ + Verbatim : "Si on le rend visible à l'oeil du public, est-ce que tu crois que les diplômes universitaires perdraient de légitimité ?"
+
+**Thème 4 : Réglementation et légitimité**
+
+* Code 1 : Visibilité de l'utilisation de ChatGPT
+ + Verbatim : "si on réglemente plus l'utilisation ou qu'on la rend visible, je pense que ça cassera cette vision que ce n'est pas 100% notre travail"
+* Code 2 : Perception actuelle de l'utilisation de ChatGPT
+ + Verbatim : "J'ai l'impression que c'est encore un peu un truc d'étudiant"
+* Code 3 : Adaptation des critères d'évaluation
+ + Verbatim : "les enseignants vont juste adapter leurs critères d'évaluation"
+* Code 4 : Futur de l'évaluation académique
+ + Verbatim : "Faire plus d'examens, par exemple"
+* Code 5 : Uniformisation de l'usage
+ + Verbatim : "on utilise toutes et tous ChatGPT pour la même raison"
+
+**Thème 5 : Expérience et émotions**
+
+* Code 1 : Gêne et confort avec ChatGPT
+ + Verbatim : "j'ai moins de gêne de demander à ChatGPT"
+* Code 2 : Interaction avec ChatGPT et formulation des requêtes
+ + Verbatim : "je dis en fonction de la donnée, « est-ce que tu peux faire ci, ça, ça ? »"
+* Code 3 : Procrastination et stress
+ + Verbatim : "je pense que la procrastination elle reste parce que du coup je vais procrastiner sur d'autres choses aussi à côté"
+* Code 4 : Sentiment d'isolement
+ + Verbatim : "je ne suis pas toute seule dans mon travail"
+* Code 5 : Réconfort
+ + Verbatim : "ça m'a fait du bien au premier degré alors que c'est une technologie quoi"
+
+Cette grille de synthèse regroupe les thèmes et les codes les plus pertinents pour chaque thème, en conservant un seul verbatim représentatif pour chaque code. Elle permet de visualiser les résultats de l'analyse et de comprendre les perceptions et les expériences des participants concernant l'utilisation de ChatGPT.

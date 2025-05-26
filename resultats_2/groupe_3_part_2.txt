@@ -1,0 +1,95 @@
+Après avoir analysé les grilles thématiques fournies, j'ai identifié quatre thèmes cohérents qui regroupent les codes et les verbatims pertinents. Voici la grille de synthèse :
+
+**Thème 1 : Utilisation de ChatGPT pour la productivité académique**
+
+* Code 1 : Utilité de ChatGPT pour organiser les notes de cours
+* Verbatim : "j’ai demandé à ChatGPT de me faire un tableau où je lui demande de quoi mettre à l’intérieur"
+* Code 2 : Gain de temps grâce à ChatGPT
+* Verbatim : "ça me fait vraiment gagner du temps, quoi"
+* Code 3 : Simplification du travail académique
+* Verbatim : "ça m’amène à ne faire que l’essentiel et à ne faire que ce qui me sert vraiment"
+* Code 4 : Préférence pour la création de tableaux
+* Verbatim : "Moi, j’aime bien les tableaux"
+* Code 5 : Limitations de la création autonome de tableaux
+* Verbatim : "si je fais le tableau moi-même, ça ne va pas être énorme"
+* Code 6 : Utilisation de ChatGPT pour une vision globale
+* Verbatim : "avoir une vision un peu globale de mon cours"
+* Code 7 : Facilité de travail après utilisation de ChatGPT
+* Verbatim : "une fois que j’ai tout dans un tableau, à le travailler plus vite"
+* Code 8 : Réduction du temps passé sur la formalisation
+* Verbatim : "on prend du temps avec tout ce qui est la formalisation et tout ça"
+* Code 9 : Efficacité après la mise en place
+* Verbatim : "une fois que c’est fait, je peux juste travailler"
+* Code 10 : Satisfaction globale avec l'usage de ChatGPT
+* Verbatim : "Donc, ça me fait vraiment gagner du temps, quoi"
+
+**Thème 2 : Perception de la légitimité de ChatGPT dans les travaux académiques**
+
+* Code 1 : Utilité conditionnelle de ChatGPT
+* Verbatim : "c’est que, juste, en fait, elle est pas utile"
+* Code 2 : Accès universel à ChatGPT
+* Verbatim : "tout le monde y a accès, et le professeur également"
+* Code 3 : Utilisation pertinente pour les tâches standardisées
+* Verbatim : "si on demande aux élèves de faire un travail hyper standardisé"
+* Code 4 : Manque de légitimité pour les tâches personnalisées
+* Verbatim : "si on nous demande vraiment d’avoir notre avis à nous et de faire un peu ce qu’on veut"
+* Code 5 : Dépendance à la manière dont le professeur utilise ChatGPT
+* Verbatim : "ça dépend aussi de comment le prof l’amène et ce qu’attend le prof"
+* Code 6 : Critique de l'enseignement standardisé
+* Verbatim : "ça veut dire aussi que c’est pas le bon enseignement"
+* Code 7 : Valeur accordée à la liberté académique
+* Verbatim : "on est hyper libres dans la manière de travailler"
+* Code 8 : Travail personnalisé
+* Verbatim : "c’est ce qu’on va rendre, et souvent, c’est très personnalisé"
+* Code 9 : Inadéquation de ChatGPT pour les tâches personnalisées
+* Verbatim : "ChatGPT est vraiment peu pertinent là-dedans et peu légitime"
+* Code 10 : Privilège de travailler de manière autonome
+* Verbatim : "c’est un peu le privilège que j’ai dans cette école-là"
+
+**Thème 3 : Conditions d'une utilisation légitime de ChatGPT**
+
+* Code 1 : Utilisation acceptable pour certaines tâches
+* Verbatim : "si on nous pose une question du genre : « Qu’est-ce que tu penses de ça ? »"
+* Code 2 : Importance de la personnalisation dans les devoirs
+* Verbatim : "on nous demande vraiment d’avoir notre avis à nous"
+* Code 3 : Limitations de ChatGPT pour les tâches nécessitant une réflexion personnelle
+* Verbatim : "grosso modo, ce que va dire ChatGPT, tout le monde y a accès"
+* Code 4 : Inadéquation pour les tâches où la réflexion personnelle est attendue
+* Verbatim : "si on attend vraiment une réponse de ce qu’eux pensent"
+* Code 5 : Adéquation pour les tâches standardisées
+* Verbatim : "faire un travail hyper standardisé, bah là, euh… faire ChatGPT, quoi"
+* Code 6 : Condition de légitimité liée à la nature de la tâche
+* Verbatim : "ça dépend aussi de comment le prof l’amène"
+* Code 7 : Valeur accordée à la réflexion personnelle
+* Verbatim : "qu’importe si c’est bien rédigé, qu’importe si c’est assez long"
+* Code 8 : Utilisation de ChatGPT pour les tâches répétitives ou de synthèse
+* Verbatim : "j’ai demandé à ChatGPT de me faire un tableau"
+* Code 9 : Nécessité de surmonter les réticences
+* Verbatim : "pas avoir cette réticence aussi forte, et juste le prendre, le prendre aussi"
+* Code 10 : Exploration des possibilités
+* Verbatim : "voir comment ça…"
+
+**Thème 4 : Impact de ChatGPT sur les pratiques académiques et identité disciplinaire**
+
+* Code 1 : Changement dans la manière d'aborder les tâches académiques
+* Verbatim : "ça m’amène à ne faire que l’essentiel"
+* Code 2 : Gain de productivité
+* Verbatim : "ça me fait vraiment gagner du temps"
+* Code 3 : Impact sur la qualité du travail
+* Verbatim : "ça ne va pas être énorme"
+* Code 4 : Modification de l'approche pédagogique
+* Verbatim : "ça veut dire aussi que c’est pas le bon enseignement"
+* Code 5 : Adaptation à la liberté académique
+* Verbatim : "on travaille vraiment sur ce qu’on veut"
+* Code 6 : Changement dans la formalisation du travail
+* Verbatim : "on prend du temps avec tout ce qui est la formalisation"
+* Code 7 : Crise d'identité des sciences sociales
+* Verbatim : "on a beaucoup de mal, en sciences sociales, à se définir comme science"
+* Code 8 : Perception de l'IA comme une menace
+* Verbatim : "amener une IA, ça peut mettre en danger ça"
+* Code 9 : Légitimité de la peur
+* Verbatim : "qui peut être légitime"
+* Code 10 : Nécessité de dépasser cette peur
+* Verbatim : "mais c’est justement prendre le dessus là-dessus"
+
+Cette grille de synthèse regroupe 40 codes et verbatims, offrant une vue d'ensemble sur les thèmes principaux abordés par les participants concernant l'utilisation de ChatGPT dans les travaux académiques.

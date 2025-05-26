@@ -1,0 +1,68 @@
+Après analyse des grilles thématiques fournies, j'ai identifié 5 thèmes cohérents qui regroupent les préoccupations et les réflexions des participants concernant l'utilisation des outils d'intelligence artificielle (IA) comme ChatGPT dans leur apprentissage et leur travail. Voici la grille de synthèse :
+
+### Thème 1 : Intégration des Outils d'IA dans l'Apprentissage
+
+- **Code 1 : Utilité de l'outil pour l'apprentissage**
+  - Verbatim : "je l'utilise comme un outil en plus de ce que je fais"
+- **Code 2 : Adaptation à l'outil**
+  - Verbatim : "je vais vraiment prendre des petits bouts, des petits paragraphes à chaque fois et puis je vais faire un collage"
+- **Code 3 : Limites de l'outil**
+  - Verbatim : "une des limites de ChatGPT c'est qu'en fait il n'y a pas de référence"
+- **Code 4 : Impact sur l'apprentissage**
+  - Verbatim : "il m'aide parce que je l'utilise comme un outil"
+- **Code 5 : Nécessité de discernement**
+  - Verbatim : "je vais vraiment prendre des petits bouts"
+
+### Thème 2 : Perception et Utilisation de ChatGPT
+
+- **Code 6 : Perception positive de ChatGPT**
+  - Verbatim : "c'est vraiment bien pour ça"
+- **Code 7 : Utilisation pour la rédaction et la recherche**
+  - Verbatim : "je vais demander à ChatGPT de me formuler des petits résumés sortis de mes notes en fait"
+- **Code 8 : Interaction avec ChatGPT**
+  - Verbatim : "je parle avec l'IA comme si je suis en train de parler avec quelqu'un"
+- **Code 9 : Gain de temps**
+  - Verbatim : "c'est un gain de temps à ce niveau là"
+- **Code 10 : Risques d'une dépendance à ChatGPT**
+  - Verbatim : "si on se dit : « gain de temps, gain de temps » et puis qu'on ne prend pas le temps de relire par après"
+
+### Thème 3 : Sécurité, Confidentialité et Éthique
+
+- **Code 11 : Préoccupation pour la confidentialité**
+  - Verbatim : "il faut vraiment faire hyper attention ou dans les sites de retranscription, aussi, il faut faire hyper gaffe"
+- **Code 12 : Risques liés à l'utilisation de l'IA**
+  - Verbatim : "des dangers potentiels de cette IA"
+- **Code 13 : Nécessité d'éducation et de sensibilisation**
+  - Verbatim : "il faut faire des cours de prévention nécessaires aussi"
+- **Code 14 : Impact sur la société**
+  - Verbatim : "les robots, la robotisation, ça se fait de plus en plus"
+- **Code 15 : Éthique de l'utilisation**
+  - Verbatim : "il y a beaucoup de bien, mais il y a aussi du mal potentiel"
+
+### Thème 4 : Collaboration avec ChatGPT et Réflexivité
+
+- **Code 16 : Perception de la collaboration avec ChatGPT**
+  - Verbatim : "comme si je suis en train de parler avec quelqu'un"
+- **Code 17 : Impact sur la réflexivité**
+  - Verbatim : "pour m'aider à avoir des pistes possibles"
+- **Code 18 : Partage de la tâche**
+  - Verbatim : "le travail que vous produisez ensemble est satisfaisant ou pas ?"
+- **Code 19 : Dépendance de la tâche**
+  - Verbatim : "je crois que ça ça dépend énormément de ce que je lui demande en fait"
+- **Code 20 : Utilisation nuancée**
+  - Verbatim : "typiquement si c'est une question vague"
+
+### Thème 5 : Authenticité, Légitimité et Acceptabilité
+
+- **Code 21 : Sentiment d'inauthenticité**
+  - Verbatim : "ça te détache de ce que t'as produit, en fait"
+- **Code 22 : Questionnement sur la légitimité**
+  - Verbatim : "est-ce que c'est légitime que j'accepte le crédit, on va dire, d'avoir écrit ça ?"
+- **Code 23 : Frontières de l'acceptabilité**
+  - Verbatim : "le copier-coller 100%, c'est pas trop acceptable"
+- **Code 24 : Importance de l'effort personnel**
+  - Verbatim : "t'as rien fait non plus"
+- **Code 25 : Nécessité de clarification**
+  - Verbatim : "tant qu'on n'a pas défini clairement qu'est-ce qui est acceptable et qu'est-ce qui n'est pas acceptable"
+
+Cette grille de synthèse permet de voir les différents thèmes qui ressortent des discussions concernant l'utilisation de ChatGPT et d'autres outils d'IA dans le cadre de l'apprentissage et du travail. Elle met en lumière les préoccupations éthiques, la perception de l'utilité de ces outils, ainsi que les défis liés à leur intégration dans les pratiques.

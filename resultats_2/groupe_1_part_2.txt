@@ -1,0 +1,39 @@
+Après analyse des grilles thématiques fournies, j'ai identifié quatre thèmes cohérents qui regroupent les codes et les verbatims. Voici la grille de synthèse :
+
+**Thème 1 : Parcours scolaire et universitaire**
+
+* Code 1 : Étudiant en sociologie
+* Verbatim : "je suis à l'ENS Paris Saclay en M1 de sociologie contemporaine"
+* Code 2 : Parcours scolaire varié
+* Verbatim : "j'étais au lycée à Noisy-le-Grand... j'ai fait 2 ans de Prépa à Paris"
+* Code 3 : Élite scolaire
+* Verbatim : "Janson de Sailly dans le 16e Arrondissement"
+
+**Thème 2 : Utilisation et perception de ChatGPT**
+
+* Code 4 : Utilisation de ChatGPT pour la programmation
+* Verbatim : "je l'utilise même c'est parce que parfois fois ça te ça te sauve"
+* Code 5 : Limites de ChatGPT
+* Verbatim : "il reste encore complètement à côté de la plaque"
+* Code 6 : Perception de l'utilité de ChatGPT
+* Verbatim : "c'est vraiment très puissant et pour ce que je fais en tout cas"
+
+**Thème 3 : Intégration de ChatGPT dans les pratiques**
+
+* Code 7 : Intégration dans les habitudes de travail
+* Verbatim : "je l'utilise proche des échéances"
+* Code 8 : Utilisation pour la rédaction de mails
+* Verbatim : "je vais me servir de Deepl et tout même si c'est pas de chat GPT, mais c'est quand même de un peu de l’IA"
+* Code 9 : Changement dans la manière de travailler
+* Verbatim : "ça me fait gagner du temps parce qu'en fait bah y a une phrase que j'arrive pas à formuler"
+
+**Thème 4 : Questions éthiques et responsabilité**
+
+* Code 10 : Conscience écologique et impacts de l'IA
+* Verbatim : "je me suis plus quand même renseigné, notamment grâce au cours là donc je te parlais et en en général sur les effets écologiques qui sont faut le dire hein complètement désastreux"
+* Code 11 : Perception de l'usage responsable de ChatGPT
+* Verbatim : "je pense qu'il y a beaucoup qui savent pas comment ça fonctionne, comment ce raisonnement probabiliste dont on parlait tout à l'heure en fait …"
+* Code 12 : Impact de ChatGPT sur la confiance et le stress
+* Verbatim : "j'avais pas trop révisé mais j’étais en mode pour être tranquille"
+
+Cette grille regroupe 10 codes représentatifs pour chaque thème, avec un verbatim associé. Les thèmes sont cohérents et permettent de dégager des tendances dans les données.

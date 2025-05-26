@@ -1,0 +1,95 @@
+Après analyse des grilles thématiques fournies, j'ai identifié quatre thèmes principaux qui regroupent les préoccupations et les expériences des utilisateurs concernant l'outil chatGPT et son intégration dans leurs études, particulièrement en programmation et dans l'utilisation des outils numériques. 
+
+### Thème 1 : Perception et Utilisation de chatGPT
+
+- **Code 1 : Utilité pour éviter la page blanche**
+  - Verbatim : "Je crois qu'il y a aussi un truc de chatGPT, c'est éviter la page blanche."
+- **Code 2 : Génération de contenu initial**
+  - Verbatim : "Tu génères un truc, t'as un peu une phrase, et du coup tu peux recopier ça, écrire, commencer à écrire ta conclusion, et là ça aide."
+- **Code 3 : Limite de la reformulation**
+  - Verbatim : "Je pense tu perds trop de temps à le faire reformuler parfaitement comme tu voudrais au lieu de juste l'écrire comme tu voudrais en fait."
+- **Code 4 : Dépendance à l'outil**
+  - Verbatim : "J'ai l'impression que sur chatGPT, on a une meilleure tente de juste... Prendre l'original et nous rajouter des parts dessus."
+- **Code 5 : Satisfaction variable**
+  - Verbatim : "Juste si génère mon truc et que ça me satisfait, ça me va."
+- **Code 6 : Utilisation occasionnelle**
+  - Verbatim : "Je pense que j'utilise trop rarement, peu souvent plutôt, chatGPT pour vraiment m'intéresser sur ce que c'est la différence, etc."
+- **Code 7 : Intérêt pour les fonctionnalités avancées**
+  - Verbatim : "Mais là par contre ils ont cette feature, je sais pas si elle existe vraiment ou ils l'ont tease, mais là ils ont l'air d'avoir les voix qui répondent assez vite et avec des intonations et des trucs comme ça."
+- **Code 8 : Manque de connaissance sur les avantages de la version payante**
+  - Verbatim : "Si il y en a, je ne les connais pas."
+- **Code 9 : Réticence à payer pour des services**
+  - Verbatim : "Je sais pas s'il y a un truc étudiants pauvres du coup je paye pas d'abonnement"
+- **Code 10 : Évaluation de la valeur ajoutée**
+  - Verbatim : "Je trouve ça... Pas intéressant."
+
+### Thème 2 : Expérience avec la Programmation et les Outils Numériques
+
+- **Code 1 : Difficultés avec Python**
+  - Verbatim : "C'est une langue... Donc ce cours, je le répète en plus (rires). Et du coup, l'année passée, j'étais un peu trop fier."
+- **Code 2 : Comparaison avec MATLAB**
+  - Verbatim : "Team MATLAB, c'est... Tu m’interromps si, si c'est pas important. Team MATLAB, en gros, c'est payer cher pour avoir un logiciel qui est tout intégré, fonctionne bien"
+- **Code 3 : Problèmes de documentation**
+  - Verbatim : "Le problème c'est que la doc est sur internet et du coup c'est une aventure à chaque fois pour comprendre ce que c'est ce X dans l'appel de fonction."
+- **Code 4 : Utilité de chatGPT pour la programmation**
+  - Verbatim : "Et chatGPT, ça devient... Enfin, chatGPT ou l'ami GitHub copilote, qui du coup... Enfin bref, c'est à peu près la même chose, on va dire."
+- **Code 5 : Évolution de l'enseignement de la programmation**
+  - Verbatim : "Big Up à mon école, parce qu'en fait, ils sont en train de retourner la tendance."
+- **Code 6 : Changement dans les compétences requises**
+  - Verbatim : "Il semblerait que la tendance elle va être inversée parce qu'il reste plus qu'un cours qui a besoin de MATLAB"
+- **Code 7 : Sentiment d'être dépassé**
+  - Verbatim : "Je comprends le but de ces labos sur papier en théorie mais en fait les fonctions elles ont déjà été optimisées par un informaticien fou"
+- **Code 8 : Frustration face aux tâches de programmation**
+  - Verbatim : "On réécrit ses fonctions mais c'est pas très utile j'ai l'impression"
+- **Code 9 : Appréciation de la documentation MATLAB**
+  - Verbatim : "C'est pas forcément plus simple, mais... Et surtout, j'ai l'impression que les cours de Python en général, les profs nous orientent vers les fonctions à utiliser."
+- **Code 10 : Perception de la complexité**
+  - Verbatim : "Mélanger ce truc des transformateurs fouriers, des machins et des trucs à Python, que moi en tout cas en première année j'avais jamais touché à Python de ma vie, du coup c'est un gros problème."
+
+### Thème 3 : Stratégies d'Apprentissage et Utilisation des Ressources
+
+- **Code 1 : Dépendance aux ressources externes**
+  - Verbatim : "Et du coup, en fonction du traitement de signal, donc il y a des filtres, il y a des... Tout ce qui est de la corrélation"
+- **Code 2 : Recherche d'aide**
+  - Verbatim : "Un ami à moi qui lui a fini son bachelor a fini ce cours sans chatGPT. Mais on parle quand même d'une charge de travail de7 à8 heures par semaine"
+- **Code 3 : Changement de stratégie**
+  - Verbatim : "J'étais là, non, je veux pas utiliser ChatGPT, gna gna gna, c'est bon. Je vais juste travailler, ça va marcher. Ça à pas marché"
+- **Code 4 : Évaluation des outils**
+  - Verbatim : "Copilote, c'est mieux. Dans ce cas-là. C'est quand même salvateur pour ça."
+- **Code 5 : Adaptation aux nouvelles technologies**
+  - Verbatim : "Mais là par contre ils ont cette feature, je sais pas si elle existe vraiment ou ils l'ont tease, mais là ils ont l'air d'avoir les voix qui répondent assez vite et avec des intonations"
+- **Code 6 : Perception de la charge de travail**
+  - Verbatim : "7 à8 heures sont... surdosé. C'est beaucoup trop pour ce que le cours devrait être."
+- **Code 7 : Comparaison entre différentes approches**
+  - Verbatim : "Il y a Team MATLAB et Team Python."
+- **Code 8 : Influence de l'environnement d'apprentissage**
+  - Verbatim : "Je pense que c'est plus simple de chercher de la doc MATLAB que de la doc Python."
+- **Code 9 : Réflexion sur les méthodes d'enseignement**
+  - Verbatim : "Je comprends tout à fait cette pensée quand on fait des maths sans calculatrice, mais Dans le principe du cours, j'ai un peu de la peine."
+- **Code 10 : Limites de la documentation**
+  - Verbatim : "La doc est sur internet et du coup c'est une aventure à chaque fois pour comprendre"
+
+### Thème 4 : Attitudes envers la Technologie et l'Innovation
+
+- **Code 1 : Ouverture aux nouvelles fonctionnalités**
+  - Verbatim : "Et ça, je crois que j'ai envie d'essayer, mais juste pour le fun et pas pour du travail."
+- **Code 2 : Perception de l'évolution technologique**
+  - Verbatim : "Ce que j'essaye de dire c'est qu'il avait la payante mais de l'ancienne version et là maintenant ça s'est amélioré, ça s'améliore toujours plus."
+- **Code 3 : Réticence à payer pour des services**
+  - Verbatim : "Je sais pas s'il y a un truc étudiants pauvres du coup je paye pas d'abonnement"
+- **Code 4 : Intérêt pour les innovations**
+  - Verbatim : "Ils ont l'air d'avoir les voix qui répondent assez vite et avec des intonations et des trucs comme ça."
+- **Code 5 : Évaluation de la valeur ajoutée**
+  - Verbatim : "Je trouve ça... Pas intéressant."
+- **Code 6 : Considération de la gratuité pour les étudiants**
+  - Verbatim : "Si OpenAI c'est un truc genre gratuit pour les étudiants. Un truc du genre. Ce serait pas impossible que j'essaye."
+- **Code 7 : Réflexion sur l'adoption des technologies**
+  - Verbatim : "Early Adopter qui, je suppose, c'est lui qui m'a fait découvrir chatGPT."
+- **Code 8 : Perception des avantages et des limites**
+  - Verbatim : "Je ne les connais pas."
+- **Code 9 : Comparaison entre les versions**
+  - Verbatim : "C'était chat GPT3 encore, et là on doit être à4, un truc du genre."
+- **Code 10 : Impact sur les habitudes de travail**
+  - Verbatim : "Tu génères un truc, t'as un peu une phrase, et du coup tu peux recopier ça, écrire, commencer à écrire ta conclusion"
+
+Cette grille de synthèse permet de mettre en lumière les thèmes clés qui ressortent des entretiens, notamment la perception de chatGPT, l'expérience avec la programmation et les outils numériques, les stratégies d'apprentissage, et les attitudes envers la technologie et l'innovation.

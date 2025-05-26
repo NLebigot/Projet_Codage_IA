@@ -1,0 +1,47 @@
+Après analyse des grilles thématiques fournies, j'ai identifié quatre thèmes principaux cohérents à partir des données. Ces thèmes sont ensuite subdivisés en codes spécifiques avec des verbatims représentatifs.
+
+### Thème 1 : Parcours académique et utilisation de la technologie
+
+- **Code 1 : Formation universitaire** 
+  - Verbatim : "Je suis en dernière année de master en sciences sociales à Lausanne."
+- **Code 2 : Niveau d'étude** 
+  - Verbatim : "Je suis en dernière année de master."
+- **Code 3 : Usage de la technologie au quotidien** 
+  - Verbatim : "J'utilise mon ordi presque tous les jours, j'utilise ma tablette aussi, enfin oui en gros j'utilise beaucoup la technologie."
+- **Code 4 : Dépendance aux appareils numériques** 
+  - Verbatim : "j'ai toujours mon natel sur moi ça c’est sur (rire)."
+
+### Thème 2 : Intégration de ChatGPT dans les activités universitaires
+
+- **Code 1 : Utilisation pour l'organisation et la planification** 
+  - Verbatim : "j'utilise déjà pour m'aider à m'organiser, faire des plans de révision, ce genre de choses."
+- **Code 2 : Résumé de textes et de cours** 
+  - Verbatim : "j'utilise aussi beaucoup pour résumer des textes que j'ai lus ou que j'avoue, j'ai la flemme de lire."
+- **Code 3 : Assistance à la rédaction** 
+  - Verbatim : "j'utilise très peu pour la rédaction en elle-même, mais il y a parfois certaines phrases, j'ai une idée bien claire dans la tête, mais je n'arrive pas à la formuler."
+- **Code 4 : Gain de temps dans les tâches universitaires** 
+  - Verbatim : "c'est un méga gain de temps."
+
+### Thème 3 : Perception et évolution de la perception de ChatGPT
+
+- **Code 1 : Perception positive de ChatGPT** 
+  - Verbatim : "C'est un outil de support pour plein de domaines de la vie."
+- **Code 2 : Changement d'avis** 
+  - Verbatim : "Maintenant, je dirais... ce que j'ai dit avant, aide, support."
+- **Code 3 : Limitations de ChatGPT** 
+  - Verbatim : "Il s'y connaît sur plein de sujets, même s'il ne s'y connaît pas non plus très bien sur tout."
+- **Code 4 : Impact sur la perception** 
+  - Verbatim : "J'ai plus le même avis."
+
+### Thème 4 : Défis et limites de ChatGPT dans l'éducation
+
+- **Code 1 : Fiabilité des sources** 
+  - Verbatim : "ChatGPT pourrait être plus fiable en question de source, déjà"
+- **Code 2 : Limitations actuelles** 
+  - Verbatim : "je ne sais pas"
+- **Code 3 : Risques associés** 
+  - Verbatim : "ça peut clairement être moins fun que ça"
+- **Code 4 : Nécessité d'amélioration** 
+  - Verbatim : "pour améliorer l'intégration de ChatGPT"
+
+Cette grille de synthèse organise les données en thèmes cohérents, codes pertinents, et verbatims représentatifs, répondant ainsi aux exigences demandées.

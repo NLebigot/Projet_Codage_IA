@@ -1,0 +1,95 @@
+Après analyse des grilles thématiques fournies, j'ai identifié quatre thèmes cohérents qui regroupent les préoccupations, les expériences et les réflexions des participants concernant l'utilisation de ChatGPT dans leur travail académique. Ces thèmes sont suivis des codes les plus pertinents, avec un verbatim représentatif pour chacun.
+
+### Thème 1 : Perception et expérience de ChatGPT dans l'apprentissage
+
+- **Code 1 : Utilité perçue de ChatGPT**
+  - Verbatim : "franchement, ça m’aide"
+- **Code 2 : Impact sur l'apprentissage**
+  - Verbatim : "ça change la manière dont on voit l’apprentissage"
+- **Code 3 : Gain de temps**
+  - Verbatim : "ça me fait gagner du temps"
+- **Code 4 : Risque de dépendance**
+  - Verbatim : "y’a aussi le risque que je devienne trop dépendant"
+- **Code 5 : Utilisation responsable**
+  - Verbatim : "faut trouver un équilibre, entre se faciliter la vie et pas perdre l’habitude de réfléchir par soi-même"
+- **Code 6 : Aide à la structuration des idées**
+  - Verbatim : "Si je m’en sers pour m’aider à structurer mes idées, à reformuler ou à mieux comprendre un sujet"
+- **Code 7 : Perception positive**
+  - Verbatim : "c’est hyper efficace"
+- **Code 8 : Réflexion sur la compréhension réelle**
+  - Verbatim : "est-ce que j’ai vraiment capté ce que j’ai lu ?"
+- **Code 9 : Préoccupation sur la méthode d'apprentissage**
+  - Verbatim : "est-ce que j’ai pris le temps de vraiment comprendre ?"
+- **Code 10 : Fluidité dans l'apprentissage**
+   - Verbatim : "avec un outil comme ChatGPT, c’est plus fluide"
+
+### Thème 2 : Impact de ChatGPT sur les pratiques d'apprentissage et le travail académique
+
+- **Code 1 : Changement dans les habitudes de travail**
+  - Verbatim : "j’ai tendance à procrastiner de ouf"
+- **Code 2 : Adoption de nouvelles stratégies**
+  - Verbatim : "j’ai un réflexe de plus"
+- **Code 3 : Modification des habitudes**
+  - Verbatim : "Avant, j’étais dans un mode où la technologie, c’était juste un outil pour aller plus vite"
+- **Code 4 : Impact sur la qualité du travail**
+  - Verbatim : "produire un travail de meilleure qualité"
+- **Code 5 : Utilisation pour les pistes de travail**
+  - Verbatim : "l'utilisation du travail pour les pistes"
+- **Code 6 : Changement dans la manière d'apprendre**
+  - Verbatim : "ça change la manière dont on apprend"
+- **Code 7 : Équilibre dans l'utilisation**
+  - Verbatim : "quitte ou double"
+- **Code 8 : Transformation des pratiques**
+  - Verbatim : "l'usage de l'IA peut être quitte ou double"
+- **Code 9 : Aide à l'optimisation du travail**
+  - Verbatim : "aider l'humanité à mieux optimiser son travail"
+- **Code 10 : Futur incertain**
+    - Verbatim : "soit ça va aider l'humanité, soit ça va rendre l'humanité de plus en plus en trucs bêtes"
+
+### Thème 3 : Dépendance, autonomie et réflexion personnelle dans l'utilisation de ChatGPT
+
+- **Code 1 : Risque de dépendance à ChatGPT**
+  - Verbatim : "Ouais, ça dépend des matières, mais oui, il y a des matières je comprends pas vraiment, si j'ai pas ChatGPT"
+- **Code 2 : Manque d'initiative**
+  - Verbatim : "au lieu de chercher moi-même une info, je vais direct lui poser la question"
+- **Code 3 : Perte d'autonomie**
+  - Verbatim : "si je me repose trop dessus, bah j’entraîne pas mon cerveau à faire le taf par lui-même"
+- **Code 4 : Réflexion critique**
+  - Verbatim : "je me dis : 'Mec, t’aurais pu faire l’effort de chercher un peu avant d’aller sur ChatGPT'"
+- **Code 5 : Équilibre**
+  - Verbatim : "faut trouver un équilibre, entre se faciliter la vie et pas perdre l’habitude de réfléchir par soi-même"
+- **Code 6 : Conscience de la dépendance**
+  - Verbatim : "je vais pas te mentir, y’a aussi le risque que je devienne trop dépendant"
+- **Code 7 : Importance de l'effort personnel**
+  - Verbatim : "t’aurais pu faire l’effort de chercher un peu"
+- **Code 8 : Développement de l'autonomie**
+  - Verbatim : "pas perdre l’habitude de réfléchir par soi-même"
+- **Code 9 : Utilisation responsable**
+  - Verbatim : "trouver un équilibre"
+- **Code 10 : Auto-évaluation**
+    - Verbatim : "je me dis : 'Mec, t’aurais pu faire l’effort'"
+
+### Thème 4 : Légitimité et intégration de ChatGPT dans les études
+
+- **Code 1 : Légitimité de l'utilisation**
+  - Verbatim : "si c’est un outil qui nous aide à mieux organiser notre travail et à mieux comprendre les choses, alors oui, ça peut avoir une vraie place dans l’apprentissage"
+- **Code 2 : Condition d'utilisation**
+  - Verbatim : "ça dépend de l'utilisation... si tu as ChatGPT quand t’es paresseux"
+- **Code 3 : Utilisation appropriée**
+  - Verbatim : "si tu prends le temps de tout comprendre derrière les réponses de ChatGPT, je vois pas trop le problème"
+- **Code 4 : Impact sur la construction de l'identité académique**
+  - Verbatim : "Je risque de perdre l’habitude de vraiment creuser les sujets moi-même"
+- **Code 5 : Rôle dans la socialisation académique**
+  - Verbatim : "Il m’aide à mieux comprendre ce qu’on attend de moi dans un projet"
+- **Code 6 : Négociation entre technologie et tradition académique**
+  - Verbatim : "Je vais relire, reformuler à ma façon"
+- **Code 7 : Questionnement sur la légitimité**
+  - Verbatim : "est-ce qu'on devrait tous apprendre à l'utiliser de la même manière, ou est-ce qu'on devrait le bannir complètement"
+- **Code 8 : Nuance dans l'appréciation**
+  - Verbatim : "ça peut être un bon outil pour aider, mais ça peut aussi détruire toute la réflexion des élèves"
+- **Code 9 : Contexte d'utilisation**
+  - Verbatim : "ça dépend vraiment de comment tu l'utilises"
+- **Code 10 : Différenciation dans l'usage**
+    - Verbatim : "celui qui sait bien s'en servir... il va forcément être plus efficace"
+
+Cette grille de synthèse met en lumière les thématiques clés liées à l'utilisation de ChatGPT dans le contexte universitaire, soulignant à la fois les avantages, les risques et les réflexions éthiques qui accompagnent son intégration dans les pratiques d'apprentissage.

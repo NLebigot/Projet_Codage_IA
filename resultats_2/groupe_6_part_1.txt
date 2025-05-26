@@ -1,0 +1,48 @@
+Après analyse des grilles thématiques fournies, j'ai identifié 5 thèmes cohérents qui regroupent les codes et les verbatims pertinents. Voici la grille de synthèse :
+
+**Thème 1 : Contexte et Perception de ChatGPT**
+
+* Code 1 : Définition de l'intelligence artificielle
+* Verbatim : "l'intelligence artificielle c'est un outil qui a pu se développer lui-même et imiter l'intelligence humaine"
+* Code 2 : Perception de ChatGPT
+* Verbatim : "on était tout fasciné"
+* Code 3 : Contexte d'utilisation
+* Verbatim : "j'ai étudié dans un contexte international au Maroc et en France"
+
+**Thème 2 : Utilisation de ChatGPT dans le Travail Académique**
+
+* Code 4 : Utilisation de ChatGPT pour les tâches académiques
+* Verbatim : "on faisait recours à ChatGPT pour nous aider à reformuler et adopter un style plus académique"
+* Code 5 : Impact sur les résultats
+* Verbatim : "toute la classe a délivré le même résultat"
+* Code 6 : Fréquence d'utilisation
+* Verbatim : "je dirais qu'on ne faisait pas souvent recours à ChatGPT"
+
+**Thème 3 : Intégrité Académique et Risques**
+
+* Code 7 : Intégrité académique
+* Verbatim : "On doit adopter toute l'intégrité académique lors de la réalisation de n'importe quel travail académique"
+* Code 8 : Risque de plagiat
+* Verbatim : "ChatGPT peut facilement nous faire tomber dans le plagiat"
+* Code 9 : Nécessité de réglementation
+* Verbatim : "il faut cadrer l'usage de ChatGPT académiquement parlant"
+
+**Thème 4 : Impact sur l'Apprentissage et la Productivité**
+
+* Code 10 : Gain de productivité
+* Verbatim : "ses capacités qui dépassent celles d'un être humain en termes de rapidité de traitement de l'information"
+* Code 11 : Impact sur l'apprentissage
+* Verbatim : "Le but de l'apprentissage, c'est de faire des fautes"
+* Code 12 : Simplification des concepts
+* Verbatim : "il a cette capacité de simplifier les concepts, d'expliquer et d'aborder des sujets d'une manière humaine, très simplifiée"
+
+**Thème 5 : Réflexion et Débat sur l'Utilisation de ChatGPT**
+
+* Code 13 : Réflexion sur l'utilisation de ChatGPT
+* Verbatim : "quand est-ce qu'on va faire notre propre travail nous-mêmes, en utilisant notre propre cerveau ?"
+* Code 14 : Débat sur la légitimité
+* Verbatim : "Tout dépend, euh, quand il s'agit d'un travail de réflexion pure, ce n'est pas légitime"
+* Code 15 : Nécessité d'une analyse continue
+* Verbatim : "on doit vraiment le saisir, saisir son impact d’une manière constante"
+
+Cette grille de synthèse regroupe 15 codes pertinents avec des verbatims représentatifs, offrant une vision globale de la perception et de l'utilisation de ChatGPT dans le contexte académique.

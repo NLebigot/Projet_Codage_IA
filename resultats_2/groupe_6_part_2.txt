@@ -1,0 +1,116 @@
+Après avoir analysé les grilles thématiques fournies, j'ai identifié 5 thèmes cohérents qui regroupent les codes et les verbatims pertinents. Voici la grille de synthèse :
+
+**Thème 1 : Confiance et perception de ChatGPT**
+
+* Code 1 : Sentiment de compétence
+* Verbatim : "je saurai m’y retrouver"
+* Code 2 : Perception de l'outil
+* Verbatim : "c'est un peu comme un outil de plus"
+* Code 3 : Utilisation comme habitude
+* Verbatim : "je me tourne directement vers l’outil"
+* Code 4 : Facilité et gain de temps
+* Verbatim : "c'est un peu comme une habitude maintenant — dès que j’ai un doute ou que je dois rédiger quelque chose, je me tourne directement vers l’outil parce que ça va plus vite et c’est plus facile"
+* Code 5 : Différenciation dans l'usage
+* Verbatim : "j'essaie de m'adapter selon le prof et le contexte"
+* Code 6 : Perception de la nécessité
+* Verbatim : "je pense que parfois c’est un peu par flemme ou par confort plus qu’une nécessité réelle"
+* Code 7 : Impact sur la charge de travail
+* Verbatim : "ça me fait gagner du temps et de l’énergie"
+* Code 8 : Rôle de ChatGPT dans la rédaction
+* Verbatim : "derrière c’est toujours moi qui réfléchit et qui dirige mon devoir"
+* Code 9 : Équilibre entre usage et originalité
+* Verbatim : "c'est jamais purement et bêtement du copié-collé"
+* Code 10 : Autonomie dans l'usage
+* Verbatim : "j'avoue, j'essaie de m'adapter"
+
+**Thème 2 : Usage de ChatGPT pour l'apprentissage et la rédaction**
+
+* Code 1 : Structuration des idées
+* Verbatim : "Je l’utilise principalement pour structurer mes idées"
+* Code 2 : Reformulation de passages
+* Verbatim : "reformuler certains passages de mes écrits"
+* Code 3 : Vérification de la compréhension
+* Verbatim : "vérifier ma compréhension d’un auteur ou d’une théorie"
+* Code 4 : Rédaction de mails professionnels
+* Verbatim : "Je l’utilise aussi pour m’aider à rédiger des mails pro"
+* Code 5 : Limite de l'utilisation de ChatGPT
+* Verbatim : "je l’utilise rarement pour rédiger directement mes travaux"
+* Code 6 : Utilisation pour clarification
+* Verbatim : "pour clarifier certains passages hyper théoriques"
+* Code 7 : Ouverture à d'autres perspectives
+* Verbatim : "pour avoir un autre point de vue quand je me sentais bloquée dans une seule manière de penser"
+* Code 8 : Effet sur la créativité
+* Verbatim : "pour avoir une sorte d’avis extérieur et avoir d’autres pistes qui pourraient me débloquer"
+* Code 9 : Équilibre entre usage et développement personnel
+* Verbatim : "j'essaie de m'adapter"
+* Code 10 : Réflexion sur l'usage optimal
+* Verbatim : "est-ce que ce gain de temps justement n'est pas parfois un obstacle à ton apprentissage ?"
+
+**Thème 3 : Questions éthiques et dilemmes moraux**
+
+* Code 1 : Problématique de la citation
+* Verbatim : "est-ce qu’il faudrait penser à le citer quand on utilise l’IA"
+* Code 2 : Perception de la propriété intellectuelle
+* Verbatim : "quand tu rends un travail fait avec, c’est pas toi qui l’a fait"
+* Code 3 : Différenciation dans l'usage éthique
+* Verbatim : "si tu l’utilises juste pour reformuler tes idées ou pour te débloquer, c’est juste un outil comme un autre"
+* Code 4 : Perception de la nécessité de citation
+* Verbatim : "je ne verrai pas vraiment l’intérêt de le citer"
+* Code 5 : Usage et intention
+* Verbatim : "si tu commences à intégrer directement des parties de texte généré par l’IA dans ton travail sans rien toucher, bon c’est un peu différent"
+* Code 6 : Responsabilité de l'utilisateur
+* Verbatim : "en tant qu’étudiante, c’est pas à moi de trancher la question"
+* Code 7 : Perception de la règle
+* Verbatim : "du temps qu’on me dise pas explicitement que je dois le faire, je vais pas chercher à me tirer une balle dans le pied"
+* Code 8 : Éthique et autonomie
+* Verbatim : "c’est intéressant"
+* Code 9 : Équilibre entre utilisation et principes
+* Verbatim : "Après là j’en fais des caisses, je suis pas là à me morfondre après l’avoir utilisé mais y’a un peu de ça en vrai"
+* Code 10 : Honnêteté intellectuelle
+* Verbatim : "Y’a un premier dilemme qui est celui de l’honnêteté intellectuelle de présenter un travail qui n’est pas vraiment le tiens"
+
+**Thème 4 : Impact sur l'apprentissage et le développement des compétences**
+
+* Code 1 : Perception de l'impact sur l'apprentissage
+* Verbatim : "je sens que c’est choisir la solution de facilité"
+* Code 2 : Risque de dépendance
+* Verbatim : "c’est vraiment pas se faire un cadeau de dépendre autant de ChatGPT"
+* Code 3 : Évolution technologique et norme
+* Verbatim : "quoi qu’on en pense et qu’on le veuille ou non, ça va devenir la norme d’utiliser ChatGPT"
+* Code 4 : Impact sur la compétence
+* Verbatim : "demain, il disparaît, comment tu fais ?"
+* Code 5 : Perception de l'usage dans le futur
+* Verbatim : "même au taf"
+* Code 6 : Valeur de l'expérience d'apprentissage
+* Verbatim : "le fait de passer du temps sur un exercice, de chercher à comprendre, à rater, à réessayer, etc, c’est ce qui permet de faire apprendre quelque chose"
+* Code 7 : Perception de la facilité
+* Verbatim : "c'est la solution de facilité"
+* Code 8 : Équilibre entre usage et développement personnel
+* Verbatim : "j'essaie de m'adapter"
+* Code 9 : Réflexion sur l'usage optimal
+* Verbatim : "est-ce que ce gain de temps justement n'est pas parfois un obstacle à ton apprentissage ?"
+* Code 10 : Impact sur la dynamique de classe
+* Verbatim : "ça crée une sorte de dilemme entre ceux qui se disent « vas-y, profite, c'est l'ère du digital » et ceux qui restent sur du travail à l'ancienne"
+
+**Thème 5 : Intégration de ChatGPT dans le milieu académique**
+
+* Code 1 : Formation à l'utilisation critique
+* Verbatim : "Il faudrait que les universités organisent des ateliers ou des formations pour nous montrer comment utiliser ChatGPT de manière critique"
+* Code 2 : Utilisation responsable
+* Verbatim : "On pourrait apprendre à recouper ses réponses, à vérifier les sources"
+* Code 3 : Changement de paradigme
+* Verbatim : "Et surtout à l’utiliser comme un outil d’aide plutôt que comme une béquille qui fait tout le taf à notre place"
+* Code 4 : Cadrage de l'utilisation
+* Verbatim : "Je pense que ça donnerait un cadre plus clair sur l’utilisation de l’IA, sur ce qui est toléré, ce qui ne l’est pas"
+* Code 5 : Acceptation de l'IA dans l'apprentissage
+* Verbatim : "Ça serait tellement dommage de juste nous interdire de l’utiliser"
+* Code 6 : Liberté de choix
+* Verbatim : "Et à l’inverse ça serait aussi super mauvais de laisser les élèves livrés à eux-mêmes avec les IA"
+* Code 7 : Éducation à l'usage de l'IA
+* Verbatim : "Quitte à ce que vous l'utilisez, on va vous dire comment faire"
+* Code 8 : Préparation à l'avenir
+* Verbatim : "Ça va prendre une énorme place dans l’apprentissage"
+* Code 9 : Responsabilité des institutions
+* Verbatim : "Les universités doivent prendre en compte cette nouvelle réalité"
+* Code 10 : Collaboration entre étudiants et institutions
+* Verbatim : "On va vous dire comment faire"

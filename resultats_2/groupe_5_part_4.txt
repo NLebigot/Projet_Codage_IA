@@ -1,0 +1,131 @@
+Après avoir analysé les grilles thématiques fournies, j'ai identifié quatre thèmes principaux qui regroupent les codes et les verbatims pertinents. Voici la grille de synthèse :
+
+### Thème 1 : Perception et utilisation de ChatGPT
+
+- **Code 1 : Définition de l'IA**
+  - Verbatim : "L'intelligence artificielle englobe bien plus que ChatGPT. Elle peut être utilisée dans des domaines comme les robots ou les voitures autonomes."
+  
+- **Code 2 : Rôle de ChatGPT dans l'IA**
+  - Verbatim : "ChatGPT est juste une petite partie de l'IA."
+
+- **Code 3 : Utilité pour générer des idées**
+  - Verbatim : "Il propose plusieurs solutions et pistes que je n’aurais peut-être même pas envisagées seule."
+
+- **Code 4 : Limite de ChatGPT**
+  - Verbatim : "ChatGPT ne peut pas encore lire ces documents [PDF]."
+
+- **Code 5 : Confiance dans ChatGPT**
+  - Verbatim : "On nous a tellement répété qu’il fallait faire attention aux sources de ChatGPT que je n’osais pas lui demander de trouver des informations par lui-même."
+
+- **Code 6 : Utilisation pour la rédaction**
+  - Verbatim : "Je l’utilise pour formuler les questions."
+
+- **Code 7 : Aide à la structuration**
+  - Verbatim : "Je pense que cette fois, j’utiliserai ChatGPT pour m’aider à structurer la présentation."
+
+- **Code 8 : Génération d'idées**
+  - Verbatim : "C’est cet aspect qui est particulièrement intéressant."
+
+- **Code 9 : Assistance dans le travail**
+  - Verbatim : "C’est un outil génial, et je suis complètement à l’aise avec ça aujourd’hui."
+
+- **Code 10 : Adaptation à l'outil**
+  - Verbatim : "Il faut un certain temps d’adaptation."
+
+### Thème 2 : Intégration de ChatGPT dans les études
+
+- **Code 1 : Utilisation pour la correction en français**
+  - Verbatim : "Principalement pour la correction en français : grammaire, orthographe, syntaxe."
+
+- **Code 2 : Résumé de textes**
+  - Verbatim : "Je l’utilise aussi pour résumer des textes."
+
+- **Code 3 : Explication de concepts**
+  - Verbatim : "J’ai demandé à ChatGPT de m’expliquer 'l’invention de l’homosexualité' selon l’auteur."
+
+- **Code 4 : Utilisation comme un moteur de recherche puissant**
+  - Verbatim : "Pour moi, ChatGPT est un moteur de recherche hyper puissant."
+
+- **Code 5 : Rapidité d'obtention des informations**
+  - Verbatim : "C’était plus rapide de demander à ChatGPT."
+
+- **Code 6 : Alternative à la recherche dans les notes de cours**
+  - Verbatim : "Ça prendrait beaucoup de temps de retrouver dans quel module ce cours se trouvait, et en quelle année."
+
+- **Code 7 : Limites dans l'utilisation pour la révision**
+  - Verbatim : "Non, parce que ça fait longtemps que je n’ai plus eu d’examen sur table."
+
+- **Code 8 : Utilisation potentielle pour les examens oraux**
+  - Verbatim : "Mais je pense que c’est parce que notre écrit n’était pas totalement terminé."
+
+- **Code 9 : Rôle de l'humain dans l'utilisation de ChatGPT**
+  - Verbatim : "L’humain reste responsable de la machine et du savoir qu’elle produit ?"
+
+- **Code 10 : Utilisation pour éviter de réciter un texte mot pour mot**
+  - Verbatim : "Je ne voulais pas qu’il me donne un texte à réciter mot pour mot."
+
+### Thème 3 : Interaction avec ChatGPT et formulation des requêtes
+
+- **Code 1 : Importance de la formulation des requêtes**
+  - Verbatim : "Si tu n’as pas la réponse que tu veux, c’est que tu as mal formulé ta question."
+
+- **Code 2 : Utilisation de ChatGPT pour obtenir des informations précises**
+  - Verbatim : "J’avais besoin d’une réponse plus détaillée et précise pour expliquer dans mon rapport pourquoi il est préférable de faire autrement."
+
+- **Code 3 : Satisfaction des réponses fournies par ChatGPT**
+  - Verbatim : "Oui, elles étaient efficaces. J’ai obtenu les informations dont j’avais besoin."
+
+- **Code 4 : Fermeture du chat après obtention des résultats**
+  - Verbatim : "Quand j’obtiens une réponse satisfaisante, je termine le chat immédiatement."
+
+- **Code 5 : Réouverture d'un nouveau chat pour clarifier les idées**
+  - Verbatim : "C’est arrivé récemment quand je travaillais sur une question de recherche."
+
+- **Code 6 : Limite dans la conservation des informations par ChatGPT**
+  - Verbatim : "Je ne vois pas ChatGPT comme un outil qui pourrait garder en mémoire ce que tu lui demandes pour une utilisation future."
+
+- **Code 7 : Utilisation de ChatGPT pour la clarification**
+  - Verbatim : "Parfois, quand je sens que ma propre pensée est confuse, je préfère recommencer pour clarifier mes idées."
+
+- **Code 8 : Demande de développement sur des points spécifiques**
+  - Verbatim : "Parfois, ses réponses sont trop courtes. J’avais besoin qu’il m’apporte plus de détails."
+
+- **Code 9 : Utilisation des listes à puces pour structurer le discours**
+  - Verbatim : "Les listes à puces m’aident à structurer mon discours."
+
+- **Code 10 : Collaboration avec ChatGPT pour la recherche**
+  - Verbatim : "Je co-construisais cette question avec ChatGPT, en ajustant au fur et à mesure."
+
+### Thème 4 : Défis et adaptations nécessaires
+
+- **Code 1 : Défis pour les nouvelles méthodes**
+  - Verbatim : "Il pourrait y avoir une perte de confiance envers les étudiants."
+
+- **Code 2 : Intégration de ChatGPT dans l'académie**
+  - Verbatim : "L'académie doit faire face à la réalité."
+
+- **Code 3 : Politique d'intégration**
+  - Verbatim : "Il ne faut pas ignorer l'existence de cet outil ni penser qu'il doit être banni."
+
+- **Code 4 : Adaptation nécessaire**
+  - Verbatim : "Essayer de s’adapter ici à la HES."
+
+- **Code 5 : Menace de sanction**
+  - Verbatim : "Ce qui me dérange, c'est qu'on me menace si je l'utilise, au risque d'avoir une mauvaise note ou que mon travail ne soit pas validé."
+
+- **Code 6 : Nécessité d'une politique claire**
+  - Verbatim : "J'ai l'impression que c'est un peu la politique de l'autruche."
+
+- **Code 7 : Impact sur l'évaluation**
+  - Verbatim : "Cela ne me dérange pas que l'on fasse comme s'il n'existait pas."
+
+- **Code 8 : Changement dans les modalités d'évaluation**
+  - Verbatim : "On nous demande moins de définitions et de par cœur, mais davantage de réflexion."
+
+- **Code 9 : Développement de la pensée critique**
+  - Verbatim : "On va moins nous demander de mémoriser des choses et plus de faire des recherches approfondies."
+
+- **Code 10 : Équilibre de la charge de travail**
+  - Verbatim : "La charge de travail pourrait s’équilibrer différemment."
+
+Cette grille de synthèse organise les thèmes et les codes en quatre catégories cohérentes, offrant une vue d'ensemble sur la perception, l'utilisation, l'intégration et les défis liés à ChatGPT dans le contexte universitaire.

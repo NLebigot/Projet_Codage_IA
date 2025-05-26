@@ -1,0 +1,48 @@
+Après avoir analysé les grilles thématiques issues des entretiens, j'ai identifié 5 thèmes cohérents qui regroupent les codes et les verbatims pertinents. Voici la grille de synthèse :
+
+**Thème 1 : L'expérience initiale avec ChatGPT**
+
+* Code 1 : Enthousiasme initial
+* Verbatim : "c'est une technologie presque miraculeuse et qu'elle a réponse à tout"
+* Code 2 : Découverte des limites
+* Verbatim : "je me suis déjà retrouvé à perdre presque une demi-journée à chercher un truc"
+* Code 3 : Révision de l'utilisation
+* Verbatim : "c'est à partir de ce moment-là que j'ai revu ma façon de l'utiliser"
+
+**Thème 2 : L'aide à la compréhension des sujets**
+
+* Code 1 : Vulgarisation
+* Verbatim : "quand on lui demande de vulgariser un principe... il arrive à simplifier le concept"
+* Code 2 : Meilleure compréhension
+* Verbatim : "ça me permet de mieux comprendre mon cours par la suite"
+* Code 3 : Utilisation efficace
+* Verbatim : "je suis passé maître dans l'art du prompt"
+
+**Thème 3 : Les erreurs et les hallucinations de ChatGPT**
+
+* Code 1 : Exemple d'absurdité
+* Verbatim : "l'exemple populaire de la question 'qui est le plus grand entre un œuf de vache et un œuf de poule ?'"
+* Code 2 : Réponse erronée
+* Verbatim : "il a répondu que c'était l'œuf de vache… avec des arguments en plus !"
+* Code 3 : Hallucinations
+* Verbatim : "il m'a fait perdre presque deux jours, en me sortant des hallucinations sur l'intelligence artificielle"
+
+**Thème 4 : La fiabilité et la vérification**
+
+* Code 1 : Vérification des sources
+* Verbatim : "je lui demande toujours de citer ses sources et je clique sur le lien pour vérifier"
+* Code 2 : Critique des informations
+* Verbatim : "je n'inclus pas son contenu dans mon travail sans avoir vérifié si l’information est fiable ou non"
+* Code 3 : Évaluation de la qualité des réponses
+* Verbatim : "il y a deux cas de figure. Quand c'est moi qui lui fournis un premier résultat, il arrive à l'améliorer"
+
+**Thème 5 : L'impact de ChatGPT sur les pratiques d'apprentissage futures**
+
+* Code 1 : Révolution dans l'apprentissage
+* Verbatim : "je pense que l’apprentissage va être révolutionné"
+* Code 2 : Applications dans l'apprentissage des langues
+* Verbatim : "des applications d’apprentissage de langues se servir de ChatGPT"
+* Code 3 : Assistance personnalisée
+* Verbatim : "un assistant IA pourra aider des élèves de primaire ou de collège à faire leurs devoirs"
+
+Cette grille de synthèse regroupe les codes et les verbatims les plus pertinents issus des entretiens, et permet de mettre en évidence les thèmes et les préoccupations des utilisateurs de ChatGPT dans le contexte académique.

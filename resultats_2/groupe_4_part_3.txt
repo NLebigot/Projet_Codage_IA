@@ -1,0 +1,85 @@
+Après analyse des grilles thématiques fournies, j'ai identifié quatre thèmes principaux qui regroupent les préoccupations et les expériences des utilisateurs de Chat GPT. Voici la grille de synthèse :
+
+### Thème 1 : Perception et Utilisation de Chat GPT
+
+- **Code 1 : Utilisation dans le cadre académique**
+  - Verbatim : "J'ai plein de copains qui utilisent pas du tout Chat GPT."
+- **Code 2 : Gain de temps**
+  - Verbatim : "oui parce que forcément quand je lui demande ça va plus vite"
+- **Code 3 : Limites de Chat GPT**
+  - Verbatim : "Il peut pas, par exemple, il faut pas lui demander de faire une bibliographie, il sait pas faire."
+- **Code 4 : Interaction avec Chat GPT**
+  - Verbatim : "Je lui ai demandé de faire des liens entre les articles."
+- **Code 5 : Utilité pour comprendre**
+  - Verbatim : "pour tout ce qui est comprendre vraiment, je lui demande de m'expliquer tous les concepts"
+- **Code 6 : Vérification des résultats**
+  - Verbatim : "je fais toujours attention à vérifier que j'ai bien compris"
+- **Code 7 : Réécriture**
+  - Verbatim : "c'est quand même moi qui ensuite les réécrit, les apprend etc."
+- **Code 8 : Potentiel d'apprentissage**
+  - Verbatim : "j'ai une copine qui lui a fait lire plein plein d'articles de socio"
+- **Code 9 : Domaine d'efficacité**
+  - Verbatim : "sur R, je lui mets 9/10, il est top"
+- **Code 10 : Préoccupation éthique**
+  - Verbatim : "Bah moi le premier problème c'est l'écologie. Parce que ça pollue énormément."
+
+### Thème 2 : Impact de Chat GPT sur le Travail Académique
+
+- **Code 1 : Changement dans la façon de travailler**
+  - Verbatim : "Chat GPT a changé ma façon de travailler."
+- **Code 2 : Apport de Chat GPT**
+  - Verbatim : "Il m'a dit plein de choses et j'ai fait 'Ah bah tiens, ça c'est intéressant'."
+- **Code 3 : Utilisation complémentaire**
+  - Verbatim : "J'ai déjà mon texte et juste je rajoute des éléments qu'il a dit."
+- **Code 4 : Modification des résultats**
+  - Verbatim : "Je modifie toujours les réponses qu'il donne."
+- **Code 5 : Satisfaction**
+  - Verbatim : "Ouais, c'est bien parfois."
+
+### Thème 3 : Qualité et Limitations de Chat GPT
+
+- **Code 1 : Évaluation positive de Chat GPT**
+  - Verbatim : "il est super bon en fait"
+- **Code 2 : Dépendance du domaine**
+  - Verbatim : "ça dépend vraiment des domaines"
+- **Code 3 : Limites de Chat GPT**
+  - Verbatim : "Il voit pas forcément ce qui est important et ce qui est pertinent"
+- **Code 4 : Nécessité d'intervention humaine**
+  - Verbatim : "c'est quand même moi qui ensuite les réécrit"
+- **Code 5 : Variabilité de la qualité**
+  - Verbatim : "ça dépend, il est super bon en fait"
+- **Code 6 : Utilisation pour les résumés**
+  - Verbatim : "je l'utilise pour me faire des résumés d'articles parfois"
+- **Code 7 : Limitations dans certaines disciplines**
+  - Verbatim : "en sociologie ou pour m'écrire, je l'utilise pas trop"
+- **Code 8 : Importance de la formulation**
+  - Verbatim : "Faut savoir quel vocabulaire, un vocabulaire neutre et précis pour qu'il te réponde"
+- **Code 9 : Impact des données d'entraînement**
+  - Verbatim : "il a été créé sur des corpus. Qui ont été créés par des blancs."
+- **Code 10 : Risque de dépendance**
+  - Verbatim : "quand tu fais tout avec GPT, je pense qu'on va perdre certains apprentissages"
+
+### Thème 4 : Enjeux Éthiques et Environnementaux
+
+- **Code 1 : Préoccupation environnementale**
+  - Verbatim : "le truc négatif c'est l'environnement"
+- **Code 2 : Utilisation responsable**
+  - Verbatim : "Je me dis en vrai c'est con parce que je pourrais le faire moi-même peut-être parfois et ça polluerait moins."
+- **Code 3 : Différenciation entre utilisation et triche**
+  - Verbatim : "Non parce que je ne l'utilise pas en mode triche en fait."
+- **Code 4 : Nécessité d'éducation**
+  - Verbatim : "tout le monde a accès à des cours de profs qui savent comment ça marche"
+- **Code 5 : Impact sur les apprentissages**
+  - Verbatim : "ils vont acquérir d'autres compétences, ça c'est très certain"
+- **Code 6 : Changement inévitable**
+  - Verbatim : "C'est pas quelque chose de giga négatif ou de positif. C'est juste que ça va se modifier"
+- **Code 7 : Risque d'exclusion**
+  - Verbatim : "les sujets sur lesquels il n'a pas du tout les corpus"
+- **Code 8 : Suggestions pour une meilleure intégration**
+  - Verbatim : "des cours aussi sur les biais de chat GPT"
+- **Code 9 : Importance de la diversité dans l'entraînement**
+  - Verbatim : "les corpus sur lesquels il est basé, ils sont socialement situés"
+- **Code 10 : Conscience de l'impact environnemental**
+  - Verbatim : "Donc ça c'est mon plus gros problème avec chat GPT . C'est pour ça que ça fait quelques temps je me dis faut que j'arrête de l'utiliser un peu pour la planète"
+
+Cette grille de synthèse organise les thèmes et les verbatims issus des entretiens, permettant une analyse structurée des perceptions, utilisations, impacts et enjeux liés à Chat GPT dans le contexte académique.

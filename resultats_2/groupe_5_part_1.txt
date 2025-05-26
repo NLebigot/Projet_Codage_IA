@@ -1,0 +1,48 @@
+Après analyse des grilles thématiques fournies, j'ai identifié 5 thèmes cohérents qui regroupent les codes et les verbatims pertinents. Voici la grille de synthèse :
+
+**Thème 1 : Perception et utilisation de ChatGPT**
+
+* Code 1 : Définition de ChatGPT
+* Verbatim : "c'est un outil qui permet de communiquer avec Internet avant2021, c'est d’une certaine manière Google mais de façon beaucoup plus proche de l'humain"
+* Code 2 : Utilisation de ChatGPT
+* Verbatim : "j'utilise chatGPT très régulièrement, on peut même dire quotidiennement"
+* Code 3 : Perception de l'IA
+* Verbatim : "c'est un formidable outil et ça va probablement être une énorme révolution dans les années à venir"
+
+**Thème 2 : Impact de ChatGPT sur l'apprentissage et la performance académique**
+
+* Code 1 : Impact sur l'apprentissage
+* Verbatim : "va avoir un énorme impact sur la manière dont on va apprendre dans le futur"
+* Code 2 : Gain de temps
+* Verbatim : "je pourrais emmagasiner plus d'informations plus vite"
+* Code 3 : Avantage compétitif
+* Verbatim : "j'aurais un énorme avantage parce que j'aurais un accès plus rapide aux informations"
+
+**Thème 3 : Limites et frustrations liées à ChatGPT**
+
+* Code 1 : Limites de fonctionnalité
+* Verbatim : "il y a des choses que chatGPT ne peut plus dire"
+* Code 2 : Références imprécises
+* Verbatim : "c'est assez frustrant de demander de la littérature et de tomber sur des choses qui ne sont pas nécessairement claires ou précises"
+* Code 3 : Dépendance à ChatGPT
+* Verbatim : "Une dépendance c'est un mot un peu fort"
+
+**Thème 4 : Stratégies d'utilisation et interaction avec ChatGPT**
+
+* Code 1 : Formulation des questions
+* Verbatim : "je suis ni bon ni mauvais je demande simplement la question parfois juste un mot"
+* Code 2 : Vérification des informations
+* Verbatim : "je vais aller recouper les sources"
+* Code 3 : Adaptation aux réponses de ChatGPT
+* Verbatim : "j'adapte en fonction"
+
+**Thème 5 : Éthique et préoccupations liées à ChatGPT**
+
+* Code 1 : Préoccupation éthique
+* Verbatim : "les problèmes d'éthique, les problèmes de plagiat, les problèmes de pas citer les sources"
+* Code 2 : Collecte de données
+* Verbatim : "le proﬁlage c'est quelque chose qui est assez discret mais chatGPT n'a pas un business plan qui est clair et pourtant c'est gratuit et ça reste quand même des gens qui collectent des informations extrêmement précises sur tout"
+* Code 3 : Nécessité d'un modèle dédié pour l'académie
+* Verbatim : "il faut des outils encore plus dédiés... un 'chatGPT académique'"
+
+Cette grille de synthèse regroupe les codes et les verbatims les plus pertinents issus des entretiens, en 5 thèmes cohérents qui reflètent les principaux thèmes et préoccupations liés à ChatGPT.

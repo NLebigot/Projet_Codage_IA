@@ -1,0 +1,360 @@
+Entretien,Thème,Code,Verbatim,Fichier
+D2SN10,**Limites de l'IA**,1: Limitations des données,"ma base de données s'arrête, je crois, le 31 décembre 2021 donc je ne peux pas te donner d’information qui dépasse cette chronologie.",D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,2: Erreur d'information,"quand j'ai demandé quand il était mort en mars, quelques mois après, le truc m'a dit, bah écoute, pour moi il est vivant.",D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,3: Nécessité de vérification,tu vérifies les informations que te fournit Lya parce que on ne sait jamais.,D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,4: Dépendance aux données,les informations que les IA vont te donner... ma base de données s'arrête,D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,5: Limite de la chronologie,je ne peux pas te donner d’information qui dépasse cette chronologie.,D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,6: Actualisation nécessaire,il faut que derrière les devs mettent à jours la base de données.,D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,7: Risque d'inexactitude,"on ne sait jamais les choses, c'est pas toutes les choses",D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,8: Importance du regard critique,tu as quand même un regard critique et tu vérifies les informations,D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,9: Limite de la connaissance,je ne sais pas si c'est juste ou pas,D2SN10_segment_10.txt
+D2SN10,**Limites de l'IA**,10: Mise à jour nécessaire,les devs mettent à jours la base de données,D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,1: Demande de détail,je lui demande de plus me détailler sa démarche.,D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,2: Recherche d'information,je demandais qui était au pouvoir en France et en Angleterre lors de la crise des Sudètes,D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,3: Information complémentaire,"donne moi par exemple qui était, enfin... aux USA et ainsi de suite.",D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,4: Réponse insatisfaisante,"si jamais la réponse me convient pas, je lui demande de détailler",D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,5: Demande de clarification,"je reforume de sorte, à ce que ce soit plus clair.",D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,6: Utilisation de l'IA,j'en fais moi le moins possible.,D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,7: Alternative à l'IA,"je vais voir sur d’autres sources, d’autres sites.",D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,8: Gain de temps,"l’IA dans l’usage que j'en fais, c'est un gain de temps",D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,9: Facilité d'utilisation,je pose une question simple comme explique moi ceci ou cela et c'est tout.,D2SN10_segment_10.txt
+D2SN10,**Demande d'information**,10: Satisfaction de la réponse,"si c'est sa réponse qui me convient, bah tant mieux",D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,1: Biais des développeurs,il y a un côté de qui a fait l’IA et quel but ?,D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,2: Influence des créateurs,"les développeurs peuvent avoir mis certains point de vue, de volonté dedans.",D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,3: Neutralité de l'IA,je pense pas qu’il y ait une notion de neutralité,D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,4: Comparaison avec Wikipédia,un peu comme wikipédia dans un sens,D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,5: Exemple de biais,Taiwan est un pays ou pas.,D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,6: Différence entre les IA,Deepseek sera beaucoup moins encline à me dire que Taiwan est un pays.,D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,7: Objectivité,pas de notion de neutralité,D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,8: Perception du biais,je pense que Deepseek sera beaucoup moins encline,D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,9: Impact du biais,les développeurs peuvent avoir mis certains point de vue,D2SN10_segment_10.txt
+D2SN10,**Biais et Neutralité**,10: Conscience du biais,je suis conscient que les développeurs peuvent avoir des points de vue,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,2: Utilisation pratique,je pose une question simple comme explique moi ceci ou cela,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,3: Traduction et compréhension,pour la traduction ou la compréhension de langue est très utile.,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,4: Demande de simplification,explique moi la théorie marginaliste simplement,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,5: Utilisation complémentaire,je vais lui demander au pire de me réexpliquer,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,6: Alternative à d'autres outils,au lieu d'ouvrir un Google Trad ou un reverso,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,7: Facilité d'utilisation,je demande directement à elle,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,8: Utilisation ciblée,pour la traduction ou la compréhension de langue,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,9: Gain de productivité,c'est un gain de temps,D2SN10_segment_10.txt
+D2SN10,**Utilisation de l'IA**,10: Simplification,explique moi ceci ou cela simplement,D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,1: Pas de changement,"honnêtement non, dans le sens où je prends l'IA pour ce qu'elle est",D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,2: Utilisation limitée,je prends ce qu'elle me dira pour [?],D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,3: Complémentarité,je vais demander de m'expliquer un truc rapidement.,D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,4: Pas d'impact sur la méthode,"je prends l'IA pour ce qu'elle est, à savoir un gain de temps",D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,5: Utilisation ponctuelle,"si je veux détailler, je le regarde dans mon cours, ou alors sur Internet",D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,7: Pas de modification,honnêtement non,D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,8: Utilisation comme outil,"l’IA, c'est un gain de temps",D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,9: Limite de l'IA,je ne vais pas compter sur elle pour tout,D2SN10_segment_10.txt
+D2SN10,**Changement de méthode de travail**,10: Autonomie,je vais voir sur d’autres sources,D2SN10_segment_10.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,1: Utilisation de l'IA pour conforter ses connaissances,Je lui ai demandé « est-ce que ce repère d’une scoliose est systématique ».,D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,2: Reconnaissance des limites de l'IA,"Je ne suis pas médecin donc va voir ailleurs, va voir un médecin qui sera plus à même de te dire.",D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,3: Conseil de l'IA sans prise de décision,"Il va juste me conseiller et après à la fin, je te dis ce qu’il y est, augmente tes sources, va voir ailleurs…",D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,4: Démocratisation de l'IA,Ça s’est tellement démocratisé qu’aujourd’hui ça n'est plus une bombe atomique.,D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,5: Égalité dans l'utilisation de l'IA parmi les étudiants,"Dans la mesure où tous les étudiants les utilisent. Je suis sûr, aller à 90% que dans ma promo l’utilise.",D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,6: Gain de temps grâce à l'IA,"Ça me donne pas d’avantage, dans le sens où ça va me gagner du temps.",D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,7: Perception de l'IA comme un outil,Moi je m’en sers comme une sorte... c'est un peu méprisant mais comme une sorte d'outil...,D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,8: Non-dépendance à l'IA,Je ne suis pas dépendant à l’IA.,D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,9: Utilisation de l'IA pour des tâches spécifiques,"Pour moi, l’IA est un gain de temps... Enfin voilà...",D2SN10_segment_11.txt
+D2SN10,1: Perception de l'IA dans le contexte académique,10: Critique des réponses de l'IA,Une réponse que je serai ensuite libre de critiquer ou pas.,D2SN10_segment_11.txt
+D2SN10,2: Impact de l'IA sur la pensée critique et la perspective,1: Incitation à la pensée critique,Est-ce que tu as remarqué des situations justement où l’IA t'a incité à être un peu plus critique ?,D2SN10_segment_11.txt
+D2SN10,2: Impact de l'IA sur la pensée critique et la perspective,2: Adoption d'une autre perspective,Il m'a dit qu'il y avait des cas où il fallait faire ceci ou cela.,D2SN10_segment_11.txt
+D2SN10,2: Impact de l'IA sur la pensée critique et la perspective,3: Exploration de différentes possibilités,Je lui ai demandé « est-ce que ce repère d’une scoliose est systématique ». Il m'a dit qu'il y avait des cas où il fallait faire ceci ou cela.,D2SN10_segment_11.txt
+D2SN10,2: Impact de l'IA sur la pensée critique et la perspective,4: Limite de l'expertise de l'IA,Cela n'est pas à moi de le juger parce qu’un médecin sera plus à même de vous dire ce qu’il doit faire.,D2SN10_segment_11.txt
+D2SN10,2: Impact de l'IA sur la pensée critique et la perspective,5: Nécessité de vérifier les informations,"Va voir ailleurs, va voir un médecin.",D2SN10_segment_11.txt
+D2SN10,3: Dépendance et autonomie dans l'utilisation de l'IA,1: Perception de la dépendance,Euh... euh Dépendance ça... non.,D2SN10_segment_11.txt
+D2SN10,3: Dépendance et autonomie dans l'utilisation de l'IA,2: Utilisation de l'IA comme un gain de temps,"Pour moi, l’IA est un gain de temps.",D2SN10_segment_11.txt
+D2SN10,3: Dépendance et autonomie dans l'utilisation de l'IA,3: Sentiment d'autonomie,Je ne suis pas dépendant à l’IA pour c’est avant tout une sorte de bouffon.,D2SN10_segment_11.txt
+D2SN10,3: Dépendance et autonomie dans l'utilisation de l'IA,4: Capacité à se détacher de l'IA,"Si par exemple du jour au lendemain, on disait 'non tu n'utilises plus l’IA', oui ça m’embêterait.",D2SN10_segment_11.txt
+D2SN10,3: Dépendance et autonomie dans l'utilisation de l'IA,5: Perception de l'IA comme non vitale,"Mais après, voilà, sans plus...",D2SN10_segment_11.txt
+D2SN10,4: Effet de l'IA sur le stress et la performance académique,1: Impact sur le stress,"Honnêtement, je m’y sens totalement indifférent, ça change absolument rien du tout.",D2SN10_segment_11.txt
+D2SN10,4: Effet de l'IA sur le stress et la performance académique,2: Neutralité face à l'IA,"Sur l’échelle de la neutralité, je suis au maximum.",D2SN10_segment_11.txt
+D2SN10,4: Effet de l'IA sur le stress et la performance académique,3: Perception de l'IA et performance,Ça change rien du tout qui soit là ou pas en général c'est la même chose.,D2SN10_segment_11.txt
+D2SN10,4: Effet de l'IA sur le stress et la performance académique,4: Absence de dépendance à l'IA pour les tâches académiques,"Pas de besoin de développer plus, je crois que c’est clair.",D2SN10_segment_11.txt
+D2SN10,5: Légitimité et perception de l'utilisation de l'IA dans les travaux universitaires,1: Perception de la légitimité,Intéressant c'est comment est-ce que tu perçois le fait d'utiliser ChatGPT dans le cadre de travaux universitaires.,D2SN10_segment_11.txt
+D2SN10,5: Légitimité et perception de l'utilisation de l'IA dans les travaux universitaires,2: Utilisation de l'IA dans les travaux,Et est-ce que tu estimes que son niveau de et toujours légitime ?,D2SN10_segment_11.txt
+D2SN10,5: Légitimité et perception de l'utilisation de l'IA dans les travaux universitaires,3: Réflexion sur l'usage de l'IA,Je me suis posé des questions pour lesquelles je sais que tu n'auras pas la réponse ou que tu ne pourras pas penser comme moi.,D2SN10_segment_11.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,1: Définition personnelle de l'honneur,"j'ai une certaine vision, dirons-nous, de l'honneur, oui, surtout de l’honneur de manière général.",D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,2: Légitimité de demander de l'aide,"je considère que de mon point de vue, il n'y a aucun mal à demander un gain de temps, pour plusieurs raisons, mais si ce gain de temps est légitime et est raisonnable.",D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,3: Différence entre être aidé et faire quelque chose à sa place,il y a une différence entre être aidé et faire quelque chose à sa place.,D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,4: Perception de l'utilisation de l'IA comme déshonorant,"l'utilisation de l’IA pour réfléchir, ça ne me viendrait pas à l'esprit. Dans le sens où je considère la chose comme déshonorant",D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,5: Importance de la réflexion personnelle,"ce qui compte, c'est comment est-ce que toi tu traites le problème qu'on te pose.",D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,6: Valeur de l'effort personnel,"l’intérêt n'aurait pas été là. Ca aurait voulu dire que ça aurait été une entité abstraite dont la légitimité est extrêmement moindre, qui l'aurait fait à ma place.",D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,7: Réflexion vs. utilisation de l'IA,"pour moi c’est de m’amener, moi profane, à m'élever au travers de la réflexion, de la pensée, etc.",D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,8: Perception de la triche,quelqu'un d'autre a fait ton travail. Quelqu’un d’autre à penser à ta place et ça n'est pas toi,D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,9: Valeur accordée à la pensée personnelle,"ce qui compte c'est vraiment ce que toi tu peux avoir, ce que toi tu peux me dire.",D2SN10_segment_12.txt
+D2SN10,1: Perception de l'honneur et de la légitimité dans l'utilisation des outils d'aide,10: Honnêteté intellectuelle,il y a aucun honneur et aucun mérite à avoir une note aussi mauvaise soit elle la dedans que celle-là dedans.,D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,1: Exemple d'utilisation légitime de l'IA,j'ai aussi utilisé l’IA pour m'aider parce que je ne comprenais pas.,D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,2: Condition d'utilisation acceptable,"si j'avais un camarade qui me dit 'oui je l’ai utilisé', je lui ai dit, il m'a expliqué ces courbes là.",D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,3: Frontière entre aide et plagiat,"mais si par exemple mon camarade me dit 'Ecoute, j’ai utilisé que l’IA, tout ce que je vais te dire durant l’exposé, ça sera l'IA qui me l'a dit et y compris ma réflexion' mais là... Je ne pourrais pas",D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,4: Rôle de l'IA dans l'apprentissage,j'ai utilisé l’IA pour m'aider parce que je ne comprenais pas.,D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,5: Inquiétude face à une dépendance excessive à l'IA,"l’IA dans mon sens… Par exemple, si j'avais fait le concours commun avec l’IA mais non, pour moi l’intérêt n'aurait pas été là.",D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,7: Impact de l'IA sur la valeur du travail,"ça aurait voulu dire que ça aurait été une entité abstraite dont la légitimité est extrêmement moindre, qui l'aurait fait à ma place.",D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,8: Distinction entre utilisation et dépendance,"l'utilisation de l’IA pour réfléchir, ça ne me viendrait pas à l'esprit.",D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,9: Préoccupation éthique,"je considère la chose comme déshonorant, à savoir que peu importe la nature de la chose, quelqu'un d'autre a fait ton travail.",D2SN10_segment_12.txt
+D2SN10,2: Utilisation de l'IA dans les travaux académiques,10: Débat interne sur l'usage de l'IA,je n’en voudrais pas à mon camarade s’il me dit 'oui je l’ai utilisé'.,D2SN10_segment_12.txt
+D2SN10,3: Réactions des enseignants face à l'utilisation de ChatGPT,1: Interrogation sur la connaissance des enseignants,Est-ce que tu sais si les enseignants sont au courant de vos usages de tout le monde de ChatGPT,D2SN10_segment_12.txt
+D2SN10,3: Réactions des enseignants face à l'utilisation de ChatGPT,2: Attente de réaction des enseignants,comment ils réagissent à ce sujet,D2SN10_segment_12.txt
+D2SN10,3: Réactions des enseignants face à l'utilisation de ChatGPT,3: Expérience personnelle de mise en garde,est-ce que tu as déjà eu des profs qui vous ont fait une sorte de... Euh... Comment est-ce que je pourrais appeler ça ? ou de mise en garde ouais quelque chose dans le genre par rapport à ChatGPT ou non ?,D2SN10_segment_12.txt
+D2SN10,3: Réactions des enseignants face à l'utilisation de ChatGPT,4: Perception de l'attitude des enseignants,non disponible dans le segment fourni.,D2SN10_segment_12.txt
+D2SN10,4: Valeur accordée aux notes et à la performance académique,1: Préférence pour une mauvaise note sans aide,Tu préfères avoir une mauvaise note sans ChatGPT qu'avoir une bonne note avec...,D2SN10_segment_12.txt
+D2SN10,4: Valeur accordée aux notes et à la performance académique,2: Raisonnement derrière la préférence,Parce que cette note là ensuite m ’apprendra bon... t'as une mauvaise note parce que tu as je sais pas moi... tu as pensé de façon trop restreinte ou autre...,D2SN10_segment_12.txt
+D2SN10,4: Valeur accordée aux notes et à la performance académique,3: Valeur de l'apprentissage par l'échec,t'as une mauvaise note parce que tu as... tu as pensé de façon trop restreinte ou autre...,D2SN10_segment_12.txt
+D2SN10,4: Valeur accordée aux notes et à la performance académique,4: Perception de la note comme retour d'expérience,cette note là ensuite m ’apprendra,D2SN10_segment_12.txt
+D2SN10,4: Valeur accordée aux notes et à la performance académique,5: Priorité à l'apprentissage sur la note,ce qui compte c'est que tu penses. Peu importe si ta pensée soit cohérente ou pas.,D2SN10_segment_12.txt
+D2SN10,5: Philosophie personnelle d'apprentissage et de réflexion,1: Valeur accordée à la réflexion personnelle,ce qui compte c'est comment est-ce que toi tu traites le problème qu'on te pose.,D2SN10_segment_12.txt
+D2SN10,5: Philosophie personnelle d'apprentissage et de réflexion,5: Distinction entre connaissances et réflexion,"tu ne peux pas faire une dissert de droit constit ou alors de sociopo sans connaissance, mais ce qu'il va joué, et c'est ça qui par ailleurs qu'il va valoriser pour le concours commun",D2SN10_segment_12.txt
+D2SN10,5: Philosophie personnelle d'apprentissage et de réflexion,6: Priorité à la capacité de réflexion,"ce qui va compter, c'est comment est-ce que toi tu traites le problème qu'on te pose.",D2SN10_segment_12.txt
+D2SN10,5: Philosophie personnelle d'apprentissage et de réflexion,9: Réflexion sur la nature de l'intelligence et de la compétence,peu importe si ta pensée soit cohérente ou pas. Ce qui compte c'est vraiment ce que toi tu peux avoir,D2SN10_segment_12.txt
+D2SN10,1 : L'adoption de l'IA dans le système éducatif,1: Arrivée fulgurante de l'IA,tous les profs s'accordent à mon sens de dire que c'est un outil qui est arrivé de façon fulgurante,D2SN10_segment_13.txt
+D2SN10,1 : L'adoption de l'IA dans le système éducatif,2: Récente prise de conscience,Depuis quasiment 2 ans... il y a eu une prise de conscience extrêmement rapide sur les dangers que ça pourrait avoir,D2SN10_segment_13.txt
+D2SN10,1 : L'adoption de l'IA dans le système éducatif,3: Utilisation par les étudiants,"L'humain est humain et du moment où il y a un gain de temps et l'énergie qui est possible, peu importe l'honneur ou autre",D2SN10_segment_13.txt
+D2SN10,1 : L'adoption de l'IA dans le système éducatif,4: Absence de cas avérés de plagiat,il n'y a pas encore eu de cas avérés de plagiat dans les exams,D2SN10_segment_13.txt
+D2SN10,1 : L'adoption de l'IA dans le système éducatif,5: Avertissement des professeurs,"j'ai eu un prof... qui a dit qu'il utilisait un logiciel pour détecter le plagiat et l’IA, et que si vous le utilisez, je vous tuerai",D2SN10_segment_13.txt
+D2SN10,2 : Les enjeux éthiques liés à l'IA,1: L'honneur et la triche,"l'humain est humain et du moment où il y a un gain de temps et l'énergie qui est possible, peu importe l'honneur ou autre",D2SN10_segment_13.txt
+D2SN10,2 : Les enjeux éthiques liés à l'IA,2: L'IA comme outil de triche,tu vas l'utiliser... pour faire le travail à ta place,D2SN10_segment_13.txt
+D2SN10,2 : Les enjeux éthiques liés à l'IA,3: La responsabilité des étudiants,le travail que tu as à rendre c’est le tiens et pas celui d’une IA,D2SN10_segment_13.txt
+D2SN10,2 : Les enjeux éthiques liés à l'IA,4: L'absurdité de remplacer les étudiants par des IA,autant faire cours à des IA pour le coup qui a des élèves,D2SN10_segment_13.txt
+D2SN10,2 : Les enjeux éthiques liés à l'IA,5: La nécessité de détecter le plagiat,j'utilise un logiciel pour détecter le plagiat et l’IA,D2SN10_segment_13.txt
+D2SN10,3 : La vision de l'IA,"1: L'IA comme un outil, pas un messie","pour moi, j'ai littéralement l'impression d'assister... au retour du Jésus, du prophète ou autre... mais à mon sens, c'est conçu comme une sorte d'aide",D2SN10_segment_13.txt
+D2SN10,3 : La vision de l'IA,2: L'IA ne doit pas être prééminente,"l'idée qu'elle soit première dans notre vie, c'est pas quelque chose que je pourrais accepter",D2SN10_segment_13.txt
+D2SN10,3 : La vision de l'IA,3: L'imperfection humaine,ce qui fait le charme de l’être humain c’est qu’il est imparfait,D2SN10_segment_13.txt
+D2SN10,3 : La vision de l'IA,4: La singularité de l'esprit humain,l’esprit humain est unique,D2SN10_segment_13.txt
+D2SN10,3 : La vision de l'IA,5: L'IA comme une simple imitation,"éventuellement, une sorte d'imitation, mais l’esprit humain... est unique",D2SN10_segment_13.txt
+D2SN10,4 : Les inquiétudes face à un monde régi par l'IA,1: La perte de l'humanité,remettre en question la nature même de l'homme,D2SN10_segment_13.txt
+D2SN10,4 : Les inquiétudes face à un monde régi par l'IA,2: La dépendance à l'IA,"un monde où toutes tes idées, tout ce qui est fait, tout ce qui est construit, viendrait de l'esprit, viendrait de 1 et 0",D2SN10_segment_13.txt
+D2SN10,4 : Les inquiétudes face à un monde régi par l'IA,3: La perte de créativité,"l’IA serait proéminente, où nous inspirerait nos idées, pour moi, ça reviendrait à remettre en question la nature même de l'homme",D2SN10_segment_13.txt
+D2SN10,4 : Les inquiétudes face à un monde régi par l'IA,4: L'unicité de la création humaine,"l'architecture, tu n'as pas... un bâtiment qui se ressemblera parce qu’il y a... que l’esprit humain pour designer des choses loufoques ou étranges",D2SN10_segment_13.txt
+D2SN10,4 : Les inquiétudes face à un monde régi par l'IA,5: La limite de l'IA,pour reproduire un cerveau humain via… J’ai oublié les trucs.. A mon sens non…,D2SN10_segment_13.txt
+D2SN10,5 : La légitimité des inquiétudes face à l'IA,1: La crainte d'un monde régi par l'IA,ne pas vouloir vivre dans un monde où tout est régi par une machine dont on ne comprend pas,D2SN10_segment_13.txt
+D2SN10,5 : La légitimité des inquiétudes face à l'IA,2: La nécessité de comprendre l'IA,dont on ne comprend pas,D2SN10_segment_13.txt
+D2SN10,5 : La légitimité des inquiétudes face à l'IA,3: La légitimité des inquiétudes,c'est quelque chose de légitime,D2SN10_segment_13.txt
+D2SN10,5 : La légitimité des inquiétudes face à l'IA,4: Le partage des inquiétudes,je pense que plein de monde serait aussi sur cet avis-là,D2SN10_segment_13.txt
+D2SN10,5 : La légitimité des inquiétudes face à l'IA,5: La nécessité de considérer les implications,je comprends…,D2SN10_segment_13.txt
+D2SN10,1: Perception de l'entretien,1: Satisfaction globale,super intéressant,D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,2: Exhaustivité de l'entretien,On a fait toutes les questions du guide d'entretien,D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,3: Durée appropriée,"une heure quinze d'entretien, c'est parfait",D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,4: Richesse des informations collectées,"Je vais avoir beaucoup, beaucoup de choses à analyser",D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,5: Reconnaissance de l'enquêté,"Merci à toi, merci pour ta réflexion",D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,6: Intérêt pour la singularité de l'expérience,ton utilisation qui est pour moi singulière,D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,7: Valeur de la diversité des perspectives,c’est super intéressant de pouvoir voire ton point de vue,D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,8: Surprise positive face aux résultats,je m’attendais pas du tout à ça,D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,9: Appréciation de la contribution,Je te remercie énormément,D2SN10_segment_16.txt
+D2SN10,1: Perception de l'entretien,10: Clôture de l'entretien,je vais arrêter l’enregistrement maintenant,D2SN10_segment_16.txt
+D2SN10,2: Attentes et Résultats,3: Valeur ajoutée de la recherche,c’est super intéressant de pouvoir voire ton point de vue et ta manière d’utiliser,D2SN10_segment_16.txt
+D2SN10,2: Attentes et Résultats,4: Analyse des écarts entre attentes et réalité,je m’attendais pas du tout à ça et c’est super intéressant,D2SN10_segment_16.txt
+D2SN10,2: Attentes et Résultats,7: Intérêt pour la singularité,ton utilisation qui est pour moi singulière et c’est super intéressant,D2SN10_segment_16.txt
+D2SN10,3: Interaction et Communication,3: Expression de gratitude,"Merci à toi, merci pour ta réflexion, merci pour ton utilisation",D2SN10_segment_16.txt
+D2SN10,3: Interaction et Communication,8: Qualité de la relation établie,Merci à toi,D2SN10_segment_16.txt
+D2SN10,4: Analyse et Utilisation des Données,3: Utilité des données pour la recherche,proposer à tout le monde,D2SN10_segment_16.txt
+D2SN10,5: Réflexivité et Évaluation,9: Intention d'utiliser les données,"Je vais avoir beaucoup, beaucoup de choses à analyser et proposer à tout le monde",D2SN10_segment_16.txt
+D2SN10,5: Réflexivité et Évaluation,10: Clôture satisfaisante,"Je te remercie énormément, je vais arrêter l’enregistrement maintenant",D2SN10_segment_16.txt
+D2SN10,1: Parcours éducatif à SciencePo,1: Tronc commun,"les deux premières années sont générales, à savoir que tu as un socle commun",D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,2: Diversité des matières,"5 matières d'économie, droit, sociologie politique, sociologie",D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,3: Spécialisation progressive,"à la troisième année, il y a une année qui est à l'étranger",D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,4: Choix de spécialisation,"en quatrième année, c'est là où tu vas te spécialiser dans un secteur",D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,5: Orientation vers une carrière,"en quatrième année tu commences à t’orienter vers la carrière, le domaine qui t'intéresse le plus",D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,6: Système de classement,"ton classement, même si bon en général, par rapport à ton classement, tu as ce que tu veux au final",D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,7: Flexibilité du système,les trois premières années sont vraiment générales,D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,8: Large éventail de matières,"tu fais de l’histoire, du droit etc.",D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,9: Évolution des intérêts,tu commences à t’orienter vers la carrière,D2SN10_segment_2.txt
+D2SN10,1: Parcours éducatif à SciencePo,10: Diversité des options,"les finances, la politique, la gouvernance et j’en passe",D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,1: Définition de l'IA,"l'IA, c'est un terme qui est vieux comme le monde",D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,2: Types d'IA,"l'IA des jeux vidéo"" et ""l’IA générative",D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,3: Caractéristiques de l'IA générative,"un programme pas forcément intelligent, mais qui apprendra selon les interactions",D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,4: Évolution de l'IA,elles ont pris une place qui est assez conséquente,D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,5: Impact de l'IA,elles sont passé de rien à tout,D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,6: Premières impressions sur ChatGPT,"c'était juste une sorte... de tu lui poses une question, elle te répond de façon plus ou moins intelligente",D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,7: Utilisation initiale de ChatGPT,j’avais commencé à m'en servir pour la blague,D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,8: Perception de la nouveauté,je n'avais jamais entendu parler avant,D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,9: Progrès de l'IA,elles ont... on prie une place plus ou moins proéminente,D2SN10_segment_2.txt
+D2SN10,2: Perception de l'IA et de ChatGPT,10: Rôle de l'utilisateur,"plus tu vas discuter avec l’IA générative, plus elle apprendra",D2SN10_segment_2.txt
+D2SN10,3: Émergence et impact des IA génératives,3: Impact sur les entreprises,maintenant même dans les entreprises c'est quelque chose qui est devenu... c'est quelque chose qu’il faut faire attention,D2SN10_segment_2.txt
+D2SN10,3: Émergence et impact des IA génératives,4: Évolution récente,c'est vraiment depuis deux trois ans qu'elles ont... on prie une place plus ou moins proéminente,D2SN10_segment_2.txt
+D2SN10,3: Émergence et impact des IA génératives,5: Perception générale,elles ont passé de rien à tout,D2SN10_segment_2.txt
+D2SN10,3: Émergence et impact des IA génératives,6: Rôle dans la société,elles ont pris une place assez conséquente,D2SN10_segment_2.txt
+D2SN10,3: Émergence et impact des IA génératives,7: Futur des IA génératives,elles vont continuer à... évoluer,D2SN10_segment_2.txt
+D2SN10,3: Émergence et impact des IA génératives,8: Intégration dans la vie quotidienne,maintenant... c'est quelque chose qu’il faut faire attention,D2SN10_segment_2.txt
+D2SN10,3: Émergence et impact des IA génératives,9: Progrès technologiques,elles apprendront selon les interactions qu'il aura avec... son programme mais aussi avec les autres utilisateurs,D2SN10_segment_2.txt
+D2SN10,3: Émergence et impact des IA génératives,10: Reconnaissance,on en parlera après,D2SN10_segment_2.txt
+D2SN10,4: Interaction avec les technologies émergentes,1: Découverte de ChatGPT,"un des amis a parlé au modeste, c'est un truc qui est complètement nouveau",D2SN10_segment_2.txt
+D2SN10,4: Interaction avec les technologies émergentes,3: Perception de l'interaction,"tu lui poses une question, elle te répond de façon plus ou moins intelligente",D2SN10_segment_2.txt
+D2SN10,4: Interaction avec les technologies émergentes,4: Utilité potentielle,tu peux faire des choses etc.,D2SN10_segment_2.txt
+D2SN10,4: Interaction avec les technologies émergentes,5: Réactions initiales,c’était drôle,D2SN10_segment_2.txt
+D2SN10,4: Interaction avec les technologies émergentes,6: Évolution de l'utilisation,j'ai continué à l'utiliser,D2SN10_segment_2.txt
+D2SN10,4: Interaction avec les technologies émergentes,8: Rôle de la technologie,"un programme pas forcément intelligent, mais qui apprendra",D2SN10_segment_2.txt
+D2SN10,5: Regards croisés sur l'évolution technologique,1: Accord sur l'impact,Je suis totalement d'accord avec toi sur le fait que ça a pris énormément de place,D2SN10_segment_2.txt
+D2SN10,5: Regards croisés sur l'évolution technologique,2: Perception partagée,on va dire que maintenant même dans les entreprises c'est quelque chose qui est devenu... c'est quelque chose qu’il faut faire attention,D2SN10_segment_2.txt
+D2SN10,5: Regards croisés sur l'évolution technologique,3: Reconnaissance de l'évolution,ça a pris énormément de place sur vraiment beaucoup beaucoup de choses,D2SN10_segment_2.txt
+D2SN10,5: Regards croisés sur l'évolution technologique,4: Conscience de l'importance,c'est quelque chose qu’il faut faire attention,D2SN10_segment_2.txt
+D2SN10,5: Regards croisés sur l'évolution technologique,5: Partage d'expérience,tu es surement mieux que moi pour en parler mais les IAs génératives à mon sens ont pris une place qui est assez conséquente,D2SN10_segment_2.txt
+D2SN10,5: Regards croisés sur l'évolution technologique,6: Validation de l'analyse,Je suis totalement d'accord avec toi,D2SN10_segment_2.txt
+D2SN10,5: Regards croisés sur l'évolution technologique,8: Échange d'opinions,on va dire que maintenant même dans les entreprises,D2SN10_segment_2.txt
+D2SN10,5: Regards croisés sur l'évolution technologique,9: Convergence des points de vue,Je suis totalement d'accord,D2SN10_segment_2.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,1: Investissement dans l'IA pour la défense,"il y a un réel effort qui est en train d'être investi, d'être fait par le ministère des armées pour justement investir sur des IA",D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,2: Modernisation des armées grâce à l'IA,"moderniser les armées grâce à l'IA, pour avoir des programmes plus intelligents notamment vis-à-vis de la détection des cibles et autres",D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,3: Utilisation de drones et IA dans la défense,"dans la mesure où les drones font passer leur place, je pense à mon avis que l'IA dans le domaine de la défense des armées, surtout du côté des drones, prendra",D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,4: Risques liés à l'utilisation de l'IA dans la défense,je n'espère pas un scénario à la Skynet,D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,5: Préoccupations éthiques,"Éthiquement, ça peut être très compliqué, il y a pas mal de choses qui peuvent être mises en place",D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,6: Dilemme du pilote de chasse,"j'avais le choix entre tirer ou ne pas tirer, parce que je n'étais pas très sûr que le mec était armé",D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,7: Conscience de l'IA,est-ce qu’elle aurait eu la conscience de se dire « cette personne c’est potentiellement pas un taliban mais juste un paysan qui fait sa vie »,D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,8: Programmation de l'IA,"certes, elles sont programmées pour faire X ou Y chose",D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,9: Dommages collatéraux,je largue ma bombe et je fais des dommages collatéraux,D2SN10_segment_3.txt
+D2SN10,1: L'impact de l'IA sur la défense et la sécurité,10: Réflexion sur l'utilisation de l'IA dans la guerre,"qu’est-ce que ça aurait été si à la place du pilote, il y aurait eu une IA",D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,1: Définition de l'IA générative,je vois le concept d’IA générative je dis ChatGPT mais moi dans mon esprit c'est tout ce qui est Gemini IA etc.,D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,2: L'IA comme assistant,je vois ça comme une sorte d'assistant... ou d'aide un peu comme a été les smartphones pendant leur temps,D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,3: L'IA comme outil,"une sorte d’outil, on va s'inquiéter, mais plus sur une sorte d'outil ou d'assistant, en un sens dans les tâches dans lesquelles on seraient limité",D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,4: Utilisation actuelle de l'IA générative,l'usage que l'on a actuellement de l'IA génératif c'est de nous aider à résoudre des problèmes sur lesquels on n'arrive pas à plancher,D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,5: Pas un sauveur,"Je ne veux pas la chose comme sortes de messi, salvateur ou quelque chose de ce type",D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,6: Aide à la résolution de problèmes,"une sorte de... pas de Messie, mais un peu quand même de... ouais..",D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,7: Restructuration de la société,quelque chose qui va permettre une sorte de restructuration de la société comme on a fait un peu les téléphones,D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,8: Impact sur les tâches quotidiennes,dans les tâches dans lesquelles on serait limité sur des points,D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,9: Perception positive de l'IA générative,je vois ça comme une sorte d'extension,D2SN10_segment_3.txt
+D2SN10,2: Perception de l'IA générative et de ChatGPT,10: Utilisation future de l'IA générative,"l’usage que je vois… une sorte de... pas de Messie, mais un peu quand même",D2SN10_segment_3.txt
+D2SN10,3: Préoccupations éthiques liées à l'IA,1: Préoccupations éthiques dans la défense,"Éthiquement, ça peut être très compliqué",D2SN10_segment_3.txt
+D2SN10,3: Préoccupations éthiques liées à l'IA,3: Dilemmes moraux,j'avais le choix entre tirer ou ne pas tirer,D2SN10_segment_3.txt
+D2SN10,3: Préoccupations éthiques liées à l'IA,4: Responsabilité,qui peut faire vraiment peur. Parce qu'on sait pas comment...,D2SN10_segment_3.txt
+D2SN10,3: Préoccupations éthiques liées à l'IA,6: Impact sur la société,"ça va arriver j'ai l'impression ça va vite ça va vite en fait, l'intelligence artificielle ça va super vite",D2SN10_segment_3.txt
+D2SN10,3: Préoccupations éthiques liées à l'IA,8: Réflexion éthique nécessaire,il y a pas mal de choses qui peuvent être mises en place,D2SN10_segment_3.txt
+D2SN10,3: Préoccupations éthiques liées à l'IA,9: Complexité des décisions,C'est très compliqué,D2SN10_segment_3.txt
+D2SN10,3: Préoccupations éthiques liées à l'IA,10: Incertitudes,on sait pas comment...,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,1: Fréquence d'utilisation,à quelle fréquence est-ce que tu utilises ChatGPT dans le cadre de tes études ou au quotidien ?,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,2: Utilisation dans les études,dans le cadre de tes études,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,3: Utilisation quotidienne,ou au quotidien,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,4: Attentes vis-à-vis de ChatGPT,quelles sont les premières choses qui vous viennent à l’esprit quand tu penses à ChatGPT ?,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,5: Perception de l'utilité,une sorte d’outil ou d'assistant,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,6: Résolution de problèmes,l'usage que l'on a actuellement de l'IA génératif c'est de nous aider à résoudre des problèmes,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,7: Limitations,sur lesquels on n'arrive pas à plancher,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,8: Amélioration de la productivité,dans les tâches dans lesquelles on serait limité,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,9: Adoption de l'IA,l'intelligence artificielle ça va super vite,D2SN10_segment_3.txt
+D2SN10,4: Utilisation et fréquence d'utilisation de ChatGPT,10: Intégration dans la vie quotidienne,une sorte de restructuration de la société,D2SN10_segment_3.txt
+D2SN10,5: Impact sociétal de l'IA,1: Changements sociétaux,une sorte de restructuration de la société comme on a fait un peu les téléphones,D2SN10_segment_3.txt
+D2SN10,5: Impact sociétal de l'IA,3: Impact sur les comportements,"on va s'inquiéter, mais plus sur une sorte d'outil ou d'assistant",D2SN10_segment_3.txt
+D2SN10,5: Impact sociétal de l'IA,4: Nouvelles formes d'interaction,une sorte d'extension,D2SN10_segment_3.txt
+D2SN10,5: Impact sociétal de l'IA,5: Évolution des besoins,l’usage que l'on a actuellement de l'IA génératif,D2SN10_segment_3.txt
+D2SN10,5: Impact sociétal de l'IA,6: Simplification des tâches,nous aider à résoudre des problèmes sur lesquels on n'arrive pas à plancher,D2SN10_segment_3.txt
+D2SN10,5: Impact sociétal de l'IA,7: Nouveaux outils pour la société,"une sorte d’outil ou d'assistant, en un sens dans les tâches dans lesquelles on serait limité",D2SN10_segment_3.txt
+D2SN10,5: Impact sociétal de l'IA,8: Répercussions sur la vie quotidienne,au quotidien,D2SN10_segment_3.txt
+D2SN10,5: Impact sociétal de l'IA,9: Transformation de la société,restructuration de la société,D2SN10_segment_3.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,1: Demande d'explication de concepts,je lui demande de me réexpliquer certains concepts que j'ai pas compris,D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,2: Utilisation pour des matières techniques,ça passe surtout dans des matières un peu plus techniques comme l'économie,D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,3: Recherche d'informations introuvables,"quand je n'arrives pas trouvé quelque chose sur internet, lui demander par exemple ça",D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,4: Explication de notions complexes,je lui ai demandé de m'expliquer ce qu'était la version AMBT du M60 qui est un char,D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,5: Résumé d'informations,il m'a sorti tout un résumé sur ce qu'était,D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,6: Utilisation pour des concepts médicaux,des moments où je lui demande de m'expliquer certain concept médical,D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,7: Langage plus doux de l'IA,l'IA a des mots pour qui moi profane serait un peu plus doux à entendre,D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,8: Comparaison avec un médecin,"un médecin me dirait « mec t'es foutu, il faut opérer »",D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,9: Rassurance apportée par l'IA,ça a un peu un rôle aussi qui te permet de te rassurer du coup,D2SN10_segment_4.txt
+D2SN10,Rôle de l'IA dans l'apprentissage,10: Fréquence d'utilisation,"tous les jours, non. Mais cela arrive à vrai dire assez souvent",D2SN10_segment_4.txt
+D2SN10,Préférence pour Gemini vs ChatGPT,1: Utilisation plus fréquente de Gemini,"En général, oui, ça va passer par les demandes, l'explication de certains concepts",D2SN10_segment_4.txt
+D2SN10,Préférence pour Gemini vs ChatGPT,2: Raisons de la préférence,Non disponible dans ce segment,D2SN10_segment_4.txt
+D2SN10,Préférence pour Gemini vs ChatGPT,7: Utilisation dans différents contextes,des matières un peu plus techniques comme l'économie ou... des concepts médicaux,D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,1: Relation normale avec la technologie,j'ai une relation je dirai normal,D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,2: Ouverture aux avancées technologiques,je ne suis pas contre les nouvelles technologies,D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,3: Limite fixée à l'utilisation de la technologie,la limite que je me fixerai et les barrières que j'en aurai c'est du moment où la technologie peut potentiellement échapper à mon contrôle,D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,4: Crainte de la perte de contrôle,"si par exemple dans deux mois, on me met un bras robotique dépend d'un pays qui ne serait pas le mien",D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,5: Dépendance à la technologie,c'est plus cette notion de m'amener sur la chose,D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,6: Réflexion sur les implications éthiques,"si ton arme ou ta création parvient à t'échapper, ça veut dire que...",D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,8: Utilisation basique de la technologie,"quand j'ai eu un ordinateur dans les mains ou un smartphone, j'ai utilisé comme tout le monde",D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,9: Pas de logiciel spécifique pour les études,"on n'a pas de logiciels spécifiques non, on en as casiment pas",D2SN10_segment_4.txt
+D2SN10,Perception de la technologie,10: Utilisation de sites web pour les études,"on utilise des sites comme Worldpress, etc.",D2SN10_segment_4.txt
+D2SN10,Utilisation de l'IA dans les activités universitaires,1: Demande d'explication de concepts,"je lui demande de me réexpliquer certains concepts que j'ai pas compris"" (décrit précédemment)",D2SN10_segment_4.txt
+D2SN10,Utilisation de l'IA dans les activités universitaires,3: Aide à la rédaction ou révision,Non disponible dans ce segment mais potentiellement dans le suivant,D2SN10_segment_4.txt
+D2SN10,Utilisation de l'IA dans les activités universitaires,9: Comparaison avec d'autres sources d'information,là où j'arrivais pas à trouver des informations sur internet,D2SN10_segment_4.txt
+D2SN10,Utilisation de l'IA dans les activités universitaires,10: Intégration de l'IA dans le processus d'apprentissage,ça arrive à vrai dire assez souvent,D2SN10_segment_4.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,1: Utilisation limitée de l'IA,"Dans mes études à moi, je dirais que, en tant que rédaction, non.",D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,2: Manque de confiance dans l'IA pour les tâches académiques,Peut-être que c'est moi qui ne sais pas l'utiliser.,D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,3: Dilemme moral concernant l'utilisation de l'IA,"Il y a aussi, je veux dire, un dilemme moral.",D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,4: Utilisation de l'IA pour la recherche d'informations,"J'ai la flemme de regarder dans un livre ou sur internet, bah je vais demander à lui.",D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,5: Responsabilité de vérifier les sources,"Après, bon faudra vérifier la véracité des sources, ce qui reste mon travail.",D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,6: Opposition à l'idée que l'IA fasse le travail à sa place,Je suis fermement opposé à l'idée qu'une IA ou que quelqu'un d'autre puisse faire un travail que moi j'aurais l'affaire.,D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,7: Importance de l'honneur et du mérite dans le travail académique,Je trouve ça sans honneur.,D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,8: Distinction entre utiliser l'IA pour des informations et pour des tâches intellectuelles,Je me limite à la recherche d'info.,D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,9: Valeur accordée à la réflexion personnelle,Le travail qui doit être rendu... doit être le fruit de ma réflexion et pas celle d'une intelligence autre.,D2SN10_segment_5.txt
+D2SN10,Utilisation de l'IA dans le cadre académique,10: Inquiétude quant à la capacité de l'IA à remplacer la réflexion humaine,Une IA ne pourra jamais penser comme un humain.,D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,1: Utilisation pour la recherche,Je l'utilise beaucoup dans le cadre de la recherche pure et dure.,D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,2: Demande de problématiques spécifiques,J'ai pu lui demander 'hey trouve moi des problématiques sur tel ou tel truc'.,D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,3: Arrêt de l'utilisation pour certaines tâches,J'ai arrêté la chose parce que je trouve ça sans honneur.,D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,4: Gain de temps grâce à l'IA,"Le... de l'IA générative, c'est qu'elle te fait gagner un temps absolument monstre.",D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,5: Critique de la facilité offerte par l'IA,C'est un culte de la feignantise.,D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,6: Débat sur l'efficacité de l'IA,Je regardais une émission justement où est-ce que tu peux pas sacrifier ce temps pour une efficacité qui serait mieux.,D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,7: Utilisation de l'ordinateur pour les examens,"Quand je passe mes partiels, j'utilise un ordinateur pour les faire.",D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,8: Distinction entre utiliser l'IA et faire le travail soi-même,Mais j'aurai pas cet assistant-là ou cette aide avec moi.,D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,9: Possibilité d'utiliser l'IA pour gagner du temps,Même si moi j'en aurai la possibilité une fois à défaut de gain de temps.,D2SN10_segment_5.txt
+D2SN10,Utilisation concrète de ChatGPT pour les études,10: Réflexion sur la valeur de l'effort personnel,Mais je pense à mon avis que quand tu entreras... dans le ministère des armées... ce n'est pas l'IA qui m'aidera.,D2SN10_segment_5.txt
+D2SN10,Interactions récentes avec les outils d'IA,1: Utilisation de ChatGPT pour des questions non académiques,J'avais demandé quel est le truc autour du rêve du chien dans Lost ?,D2SN10_segment_5.txt
+D2SN10,Interactions récentes avec les outils d'IA,2: Amusement dans l'utilisation de l'IA pour des questions légères,[Rire] après la question.,D2SN10_segment_5.txt
+D2SN10,Interactions récentes avec les outils d'IA,3: Limites de l'IA dans certaines réponses,"Je vais demander le coût d'un porte-avion, il n'a pas su me répondre.",D2SN10_segment_5.txt
+D2SN10,Interactions récentes avec les outils d'IA,4: Test des capacités de l'IA,Je voulais juste voir si vous pouvez me donner un chiffre concret.,D2SN10_segment_5.txt
+D2SN10,Interactions récentes avec les outils d'IA,5: Perception de la complexité de certaines informations,Je pense que c'est un peu compliqué de savoir c'est combien le coût d'un porte-avion.,D2SN10_segment_5.txt
+D2SN10,Interactions récentes avec les outils d'IA,7: Réflexion sur la capacité de l'IA à fournir des réponses satisfaisantes,"Est-ce qu’en général ce qu’ils te répondent, ça répond à tes attentes oui ou non ?",D2SN10_segment_5.txt
+D2SN10,Satisfaction des réponses de l'IA,1: Évaluation des réponses,(Non disponible dans l'extrait fourni.),D2SN10_segment_5.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,1: Gain de temps significatif,le temps qu’il te fait gagner est important,D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,2: Utilisation efficace pour les recherches,en quelques secondes tu peux obtenir un résultat satisfaisant pour une recherche,D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,3: Productivité améliorée,c'est plus ce côté avec bien de productivité qui est intéressant je dirais,D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,4: Liberté de compléter les tâches,"qui te rend libre de compléter, par ci par là",D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,5: Rapidité dans l'obtention des résultats,là j'ai fait en 3 minutes je crois max,D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,6: Importance de la vérification,"l’IA ce n’est pas une sainte, elle peut te sortir des faits qui peuvent être erronées",D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,7: Limites de la confiance en l'IA,ou alors moins détaillées ou éventuellement orientées,D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,8: Utilisation mesurée,j’en fais un usage certes ce qu’il est mais je ne me suis pas converti à la chose,D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,9: Utilité dans certaines situations,il m'a été utile,D2SN10_segment_7.txt
+D2SN10,Perception de l'IA comme outil de gain de temps,10: Impact modéré,il n’empêche qu’il a eu un impact jusqu'à certains points,D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,1: Pas de changement significatif dans le temps de travail,"Honnêtement, c'est quasiment le même",D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,2: Choix personnel d'utilisation,je dirais par choix,D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,3: Perception de l'IA comme outil,"Pour moi c'est un gain de temps, mais qui doit être à mon sens … vu avec recul",D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,4: Potentiel futur,"Ca se trouve dans deux ans, je ne jurerai que par la chose",D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,5: Organisation inchangée,Oh c’est resté absolument inchangé,D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,6: Maintien de la méthode de travail,j’aurai gardé ma méthode,D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,7: Non-dépendance à l'IA,L’IA n’a pas du tout si ce n’est modifié ma façon de faire,D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,8: Utilisation non systématique,sauf sur des trucs qui te sont étrangers et que tu as du mal à comprendre,D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,9: Impact non significatif sur l'organisation,Quand bien même j’avais une organisation qui était ce qu’elle était,D2SN10_segment_7.txt
+D2SN10,Influence de l'IA sur le temps de travail,10: Stabilité dans les habitudes de travail,"Quand bien même, je sais qu’il y a du potentiel là-dessus",D2SN10_segment_7.txt
+D2SN10,Défis rencontrés lors de l'utilisation de l'IA,1: Attente de réponses précises,(en attente de la réponse de l'enquêté),D2SN10_segment_7.txt
+D2SN10,Limites de l'IA dans la compréhension,1: Réponses insatisfaisantes,J’avais l’impression qu’elle ouvrait 5 pages wikipédia et qu’elle me recrachait un contenu prédestiné ou qui n’avait aucun but.,D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,2: Manque de spécificité,"Quand je demande à Gemini des termes un peu plus techniques, qui répondent un peu à côté...",D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,3: Compréhension limitée,C'est plus sa compréhension à mon sens extrêmement limitée qui moi me frustrait.,D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,4: Réponses inappropriées,Je t’ai précisé d’équitation et tu me sors une marque de bagnole.,D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,5: Besoin de précision,Il faut préciser je pense qu'il y a vraiment de la spécificisation à faire aussi je pense.,D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,6: Utilité pour certaines notions,"L'usage de l'IA me permet de me comprendre le cours, parce qu'il m'explique certaines notions ou certains points que je n'aurais pas compris.",D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,7: Limite dans la compréhension globale,"Après, de là à me faire comprendre le cours en entier, non.",D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,8: Préférence pour les explications humaines,"Quand j'ai besoin de précision, je demande à mon professeur qui lui, est plus à même de m’expliquer la chose.",D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,9: Utilité dans certains domaines,"L’IA est performante pour le coup car est capable, en certains points, de m'expliquer certaines notions, certains éléments, telles ou telles notions que ce soit économique ou autre.",D2SN10_segment_8.txt
+D2SN10,Limites de l'IA dans la compréhension,10: Complémentarité avec d'autres sources,Ou alors je demande à un ami qui aurait mieux compris ou autre...,D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,1: Non-utilisation pour la préparation d'entretiens,Alors non pas du tout. J’y avais même jamais songé.,D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,2: Perception de l'IA comme non-humaine,"Elle n'aura pas, je dirais, la flamme, encore l’âme, que possède un humain.",D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,3: Préférence pour les interactions humaines,"Quand je veux, m’entrainer à préparer un truc. Je vais demander à des gens, à des professeurs ou des éducatrices ou autres qui sont plus à même...",D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,4: Utilisation très spécifique,A la rigueur le seul usage que j’en avais fait à ce propos. C’est quand j’avais préparé le concours pour SciencePo l’an dernier.,D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,5: Génération de questions,"Génère moi cinq questions qu'on pourrait me poser sur le thème je sais pas moi… sur l’IA, du football ou autre.",D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,6: Pas d'impact sur le niveau de stress,"Honnêtement, dans la mesure où je l’utilise sans vrai... Je pense que... Dans une moindre mesure, ça pourrait mais avec un usage extrêmement raisonné et extrêmement précis.",D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,7: Utilité potentielle pour les personnes autistes,"Aider justement des personnes autistes, qui sont pas forcément à l'aise avec les conversations et autres.",D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,8: Limite de l'IA dans la préparation,"Mais moi, honnêtement, pour le coup encore une fois l’IA ça ne sera pas … elle aura beau dire qu'elle pense comme un humain, elle ne le jamais comme un humain.",D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,9: Futur usage peu probable,A long terme je l'utiliserai pour préparer les entretiens ou autre.,D2SN10_segment_8.txt
+D2SN10,Impact limité de l'IA sur le stress académique,10: Usage actuel limité,"Je ne pense pas que à court, à moyen ou à long terme je l'utiliserai pour préparer les entretiens ou autre.",D2SN10_segment_8.txt
+D2SN10,Perception négative de l'IA,3: Perception d'insuffisance,Elle ne le jamais comme un humain.,D2SN10_segment_8.txt
+D2SN10,Perception négative de l'IA,5: Utilité relative,"L’IA est performante pour le coup car est capable, en certains points, de m'expliquer certaines notions.",D2SN10_segment_8.txt
+D2SN10,Perception négative de l'IA,6: Préférence pour les interactions humaines,"Je vais demander à des gens, à des professeurs ou des éducatrices ou autres qui sont plus à même...",D2SN10_segment_8.txt
+D2SN10,Perception négative de l'IA,8: Perception de différence,"Ce qui fait qu'un humain est un humain, en un sens.",D2SN10_segment_8.txt
+D2SN10,Perception négative de l'IA,10: Futur usage incertain,"Dans une moindre mesure, ça pourrait mais avec un usage extrêmement raisonné et extrêmement précis.",D2SN10_segment_8.txt
+D2SN10,Évolution de la perception de l'IA,1: Changement dans la perception,"En ce moment, j’ai l’impression que c’est moins le cas parce qu’elle évolue.",D2SN10_segment_8.txt
+D2SN10,Évolution de la perception de l'IA,2: Évolution de l'IA,"Je me souviens que quand je lui demandais de m'expliquer quelque chose, surtout de sa à ChatGPT… Il y a de ça 1 ou 2 ans.",D2SN10_segment_8.txt
+D2SN10,Critères d'évaluation des réponses,1: Détails fournis par l'IA,je dirai notamment les détails qu'ils me donnent,D2SN10_segment_9.txt
+D2SN10,Critères d'évaluation des réponses,2: Pertinence de la réponse,La pertinence… j’ai oublié les termes mais je dirai voir si ce qui me dit est vérifiable et est vrai ou non,D2SN10_segment_9.txt
+D2SN10,Critères d'évaluation des réponses,3: Satisfaction de l'utilisateur,est-ce que je me sens satisfait par la réponse qui me donne,D2SN10_segment_9.txt
+D2SN10,Critères d'évaluation des réponses,4: Vérifiabilité de la réponse,voir si ce qui me dit est vérifiable et est vrai ou non,D2SN10_segment_9.txt
+D2SN10,Critères d'évaluation des réponses,5: Évolution de la qualité des réponses,"La réponse que les deux me sortes m'apparaissent de plus en plus développées, de plus en plus, je dirais, fines en un sens",D2SN10_segment_9.txt
+D2SN10,Progrès de l'IA dans le temps,1: Amélioration de la qualité des réponses,c'est vraiment une amélioration de la qualité des réponses,D2SN10_segment_9.txt
+D2SN10,Progrès de l'IA dans le temps,2: Augmentation de la précision,je trouve que ça devien de plus en plus précis du coup,D2SN10_segment_9.txt
+D2SN10,Progrès de l'IA dans le temps,3: Développement des capacités de l'IA,La réponse que les deux me sortes m'apparaissent de plus en plus développées,D2SN10_segment_9.txt
+D2SN10,Progrès de l'IA dans le temps,4: Évolution des usages de l'IA,"j'ai utilisé non-stop, mais de façon assez récente depuis quelques années, depuis que le concept s'est démocratisé",D2SN10_segment_9.txt
+D2SN10,Progrès de l'IA dans le temps,5: Limitations initiales de l'IA,"il me répondait, il me balançait deux ou trois phrases et c'est tout",D2SN10_segment_9.txt
+D2SN10,Vérification et validation des informations,1: Vérification systématique,"quand je demande un truc pour un devoir à rendre par exemple systématiquement, après je vais vérifier",D2SN10_segment_9.txt
+D2SN10,Vérification et validation des informations,2: Utilisation de sources plus crédibles,je vais vérifier sur des sites plus crédibles,D2SN10_segment_9.txt
+D2SN10,Vérification et validation des informations,3: Critique des informations fournies par l'IA,Je ne prendrai jamais l’IA pour seul et vrai mot,D2SN10_segment_9.txt
+D2SN10,Vérification et validation des informations,4: Complémentarité des informations,je prendrai du coup la version que me dit le site en question qui sera en le sens plus crédible et plus sur,D2SN10_segment_9.txt
+D2SN10,Vérification et validation des informations,5: Dépendance au contexte,Ca dépend des enjeux,D2SN10_segment_9.txt
+D2SN10,Usages personnels et limites de l'IA,1: Usage limité de l'IA,"l'usage que j'en ai, c'est vraiment un usage qui a été limité",D2SN10_segment_9.txt
+D2SN10,Usages personnels et limites de l'IA,2: Génération d'images,"pour générer des images, sur mon téléphone… une fonction qui me permet de générer des images de façon plus ou moins crédible",D2SN10_segment_9.txt
+D2SN10,Usages personnels et limites de l'IA,3: Exemples d'usages créatifs,Génère moi un capybara sur un rafale,D2SN10_segment_9.txt
+D2SN10,Usages personnels et limites de l'IA,4: Perception de l'IA par l'utilisateur,il y a un truc de fou à mon sens,D2SN10_segment_9.txt
+D2SN10,Usages personnels et limites de l'IA,5: Humilité dans l'usage de l'IA,de l'usage du rendu modeste et humble que j'en ai,D2SN10_segment_9.txt
+D2SN10,Perception de l'évolution et de la fiabilité de l'IA,2: Confiance dans les réponses de l'IA,"une réponse qui, pour ce que je lui ai demandé, me convenait",D2SN10_segment_9.txt

@@ -4,7 +4,7 @@ from groq import Groq
 
 # Initialisation
 load_dotenv()
-api_key = 
+api_key = os.getenv("GROQ_API_KEY")
 if not api_key:
     raise ValueError("Clé API GROQ non trouvée")
 
